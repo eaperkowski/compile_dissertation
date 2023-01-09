@@ -1,0 +1,843 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Ainsworth and Long}{Ainsworth and
+  Long}{2005}]{Ainsworth2005}
+Ainsworth, E.~A. and S.~P. Long (2005).
+\newblock {What have we learned from 15 years of free-air CO2 enrichment
+  (FACE)? A meta-analytic review of the responses of photosynthesis, canopy
+  properties and plant production to rising CO2}.
+\newblock {\em New Phytologist\/}~{\em 165\/}(2), 351--372.
+
+\bibitem[\protect\citeauthoryear{Allen, Fisher, Phillips, Powers, and
+  Brzostek}{Allen et~al.}{2020}]{Allen2020}
+Allen, K., J.~B. Fisher, R.~P. Phillips, J.~S. Powers, and E.~R. Brzostek
+  (2020).
+\newblock {Modeling the carbon cost of plant nitrogen and phosphorus uptake
+  across temperate and tropical forests}.
+\newblock {\em Frontiers in Forests and Global Change\/}~{\em 3\/}(May), 1--12.
+
+\bibitem[\protect\citeauthoryear{Andersen, Hauggaard-Nielsen, Ambus, and
+  Jensen}{Andersen et~al.}{2005}]{Andersen2005}
+Andersen, M.~K., H.~Hauggaard-Nielsen, P.~Ambus, and E.~S. Jensen (2005, jan).
+\newblock {Biomass production, symbiotic nitrogen fixation and inorganic N use
+  in dual and tri-component annual intercrops}.
+\newblock {\em Plant and Soil\/}~{\em 266\/}(1-2), 273--287.
+
+\bibitem[\protect\citeauthoryear{Arndal, Tolver, Larsen, Beier, and
+  Schmidt}{Arndal et~al.}{2018}]{Arndal2018}
+Arndal, M.~F., A.~Tolver, K.~S. Larsen, C.~Beier, and I.~K. Schmidt (2018).
+\newblock {Fine root growth and vertical distribution in eesponse to elevated
+  CO2, warming and drought in a mixed heathland–grassland}.
+\newblock {\em Ecosystems\/}~{\em 21\/}(1), 15--30.
+
+\bibitem[\protect\citeauthoryear{Bates, M{\"{a}}chler, Bolker, and
+  Walker}{Bates et~al.}{2015}]{Bates2015}
+Bates, D., M.~M{\"{a}}chler, B.~Bolker, and S.~Walker (2015).
+\newblock {Fitting linear mixed-effects models using lme4}.
+\newblock {\em Journal of Statistical Software\/}~{\em 67\/}(1), 1--48.
+
+\bibitem[\protect\citeauthoryear{Bengtson, Barker, and Grayston}{Bengtson
+  et~al.}{2012}]{Bengtson2012}
+Bengtson, P., J.~Barker, and S.~J. Grayston (2012, aug).
+\newblock {Evidence of a strong coupling between root exudation, C and N
+  availability, and stimulated SOM decomposition caused by rhizosphere priming
+  effects}.
+\newblock {\em Ecology and Evolution\/}~{\em 2\/}(8), 1843--1852.
+
+\bibitem[\protect\citeauthoryear{Bloom, Chapin, and Mooney}{Bloom
+  et~al.}{1985}]{Bloom1985}
+Bloom, A.~J., F.~S. Chapin, and H.~A. Mooney (1985, nov).
+\newblock {Resource Limitation in Plants-An Economic Analogy}.
+\newblock {\em Annual Review of Ecology and Systematics\/}~{\em 16\/}(1),
+  363--392.
+
+\bibitem[\protect\citeauthoryear{Bonan, Hartman, Parton, and Wieder}{Bonan
+  et~al.}{2013}]{Bonan2013}
+Bonan, G.~B., M.~D. Hartman, W.~J. Parton, and W.~R. Wieder (2013, mar).
+\newblock {Evaluating litter decomposition in earth system models with
+  long-term litterbag experiments: an example using the Community Land Model
+  version 4 (CLM4)}.
+\newblock {\em Global Change Biology\/}~{\em 19\/}(3), 957--974.
+
+\bibitem[\protect\citeauthoryear{Bonan, Lawrence, Oleson, Levis, Jung,
+  Reichstein, Lawrence, and Swenson}{Bonan et~al.}{2011}]{Bonan2011}
+Bonan, G.~B., P.~J. Lawrence, K.~W. Oleson, S.~Levis, M.~Jung, M.~Reichstein,
+  D.~M. Lawrence, and S.~C. Swenson (2011, may).
+\newblock {Improving canopy processes in the Community Land Model version 4
+  (CLM4) using global flux fields empirically inferred from FLUXNET data}.
+\newblock {\em Journal of Geophysical Research\/}~{\em 116\/}(G2), G02014.
+
+\bibitem[\protect\citeauthoryear{Booth, Jones, Collins, Totterdell, Cox, Sitch,
+  Huntingford, Betts, Harris, and Lloyd}{Booth et~al.}{2012}]{Booth2012}
+Booth, B. B.~B., C.~D. Jones, M.~Collins, I.~J. Totterdell, P.~M. Cox,
+  S.~Sitch, C.~Huntingford, R.~A. Betts, G.~R. Harris, and J.~Lloyd (2012,
+  jun).
+\newblock {High sensitivity of future global warming to land carbon cycle
+  processes}.
+\newblock {\em Environmental Research Letters\/}~{\em 7\/}(2), 024002.
+
+\bibitem[\protect\citeauthoryear{Brix}{Brix}{1971}]{Brix1971}
+Brix, H. (1971).
+\newblock {Effects of nitrogen fertilization on photosynthesis and respiration
+  in Douglas fir}.
+\newblock {\em Forest Science\/}~{\em 17\/}(4), 407--414.
+
+\bibitem[\protect\citeauthoryear{Brzostek, Fisher, and Phillips}{Brzostek
+  et~al.}{2014}]{Brzostek2014}
+Brzostek, E.~R., J.~B. Fisher, and R.~P. Phillips (2014).
+\newblock {Modeling the carbon cost of plant nitrogen acquisition: Mycorrhizal
+  trade-offs and multipath resistance uptake improve predictions of
+  retranslocation}.
+\newblock {\em Journal of Geophysical Research: Biogeosciences\/}~{\em 119},
+  1684--1697.
+
+\bibitem[\protect\citeauthoryear{Clark, Mercado, Sitch, Jones, Gedney, Best,
+  Pryor, Rooney, Essery, Blyth, Boucher, Harding, Huntingford, and Cox}{Clark
+  et~al.}{2011}]{Clark2011}
+Clark, D.~B., L.~M. Mercado, S.~Sitch, C.~D. Jones, N.~Gedney, M.~J. Best,
+  M.~Pryor, G.~G. Rooney, R.~L.~H. Essery, E.~Blyth, O.~Boucher, R.~J. Harding,
+  C.~Huntingford, and P.~M. Cox (2011, sep).
+\newblock {The Joint UK Land Environment Simulator (JULES), model description
+  – Part 2: Carbon fluxes and vegetation dynamics}.
+\newblock {\em Geoscientific Model Development\/}~{\em 4\/}(3), 701--722.
+
+\bibitem[\protect\citeauthoryear{Cornwell, Cornelissen, Amatangelo, Dorrepaal,
+  Eviner, Godoy, Hobbie, Hoorens, Kurokawa, P{\'{e}}rez-Harguindeguy, Quested,
+  Santiago, Wardle, Wright, Aerts, Allison, van Bodegom, Brovkin, Chatain,
+  Callaghan, D{\'{i}}az, Garnier, Gurvich, Kazakou, Klein, Read, Reich,
+  Soudzilovskaia, Vaieretti, and Westoby}{Cornwell et~al.}{2008}]{Cornwell2008}
+Cornwell, W.~K., J.~H.~C. Cornelissen, K.~Amatangelo, E.~Dorrepaal, V.~T.
+  Eviner, O.~Godoy, S.~E. Hobbie, B.~Hoorens, H.~Kurokawa,
+  N.~P{\'{e}}rez-Harguindeguy, H.~M. Quested, L.~S. Santiago, D.~A. Wardle,
+  I.~J. Wright, R.~Aerts, S.~D. Allison, P.~van Bodegom, V.~Brovkin,
+  A.~Chatain, T.~V. Callaghan, S.~D{\'{i}}az, E.~Garnier, D.~E. Gurvich,
+  E.~Kazakou, J.~A. Klein, J.~Read, P.~B. Reich, N.~A. Soudzilovskaia, M.~V.
+  Vaieretti, and M.~Westoby (2008, oct).
+\newblock {Plant species traits are the predominant control on litter
+  decomposition rates within biomes worldwide}.
+\newblock {\em Ecology Letters\/}~{\em 11\/}(10), 1065--1071.
+
+\bibitem[\protect\citeauthoryear{Davies-Barnard, Meyerholt, Zaehle,
+  Friedlingstein, Brovkin, Fan, Fisher, Jones, Lee, Peano, Smith, W{\aa}rlind,
+  and Wiltshire}{Davies-Barnard et~al.}{2020}]{Davies-Barnard2020}
+Davies-Barnard, T., J.~Meyerholt, S.~Zaehle, P.~Friedlingstein, V.~Brovkin,
+  Y.~Fan, R.~A. Fisher, C.~D. Jones, H.~Lee, D.~Peano, B.~Smith,
+  D.~W{\aa}rlind, and A.~J. Wiltshire (2020, oct).
+\newblock {Nitrogen cycling in CMIP6 land surface models: progress and
+  limitations}.
+\newblock {\em Biogeosciences\/}~{\em 17\/}(20), 5129--5148.
+
+\bibitem[\protect\citeauthoryear{Delaire, Frak, Sigogne, Adam, Beaujard, and
+  {Le Roux}}{Delaire et~al.}{2005}]{Delaire2005}
+Delaire, M., E.~Frak, M.~Sigogne, B.~Adam, F.~Beaujard, and X.~{Le Roux} (2005,
+  feb).
+\newblock {Sudden increase in atmospheric CO2 concentration reveals strong
+  coupling between shoot carbon uptake and root nutrient uptake in young walnut
+  trees}.
+\newblock {\em Tree Physiology\/}~{\em 25\/}(2), 229--235.
+
+\bibitem[\protect\citeauthoryear{Dovrat, Bakhshian, Masci, and Sheffer}{Dovrat
+  et~al.}{2020}]{Dovrat2020}
+Dovrat, G., H.~Bakhshian, T.~Masci, and E.~Sheffer (2020, jul).
+\newblock {The nitrogen economic spectrum of legume stoichiometry and fixation
+  strategy}.
+\newblock {\em New Phytologist\/}~{\em 227\/}(2), 365--375.
+
+\bibitem[\protect\citeauthoryear{Dovrat, Masci, Bakhshian, {Mayzlish Gati},
+  Golan, and Sheffer}{Dovrat et~al.}{2018}]{Dovrat2018}
+Dovrat, G., T.~Masci, H.~Bakhshian, E.~{Mayzlish Gati}, S.~Golan, and
+  E.~Sheffer (2018, jul).
+\newblock {Drought-adapted plants dramatically downregulate dinitrogen
+  fixation: Evidences from Mediterranean legume shrubs}.
+\newblock {\em Journal of Ecology\/}~{\em 106\/}(4), 1534--1544.
+
+\bibitem[\protect\citeauthoryear{Evans and Seemann}{Evans and
+  Seemann}{1989}]{Evans1989}
+Evans, J.~R. and J.~R. Seemann (1989).
+\newblock {The allocation of protein nitrogen in the photosynthetic apparatus:
+  costs, consequences, and control}.
+\newblock {\em Photosynthesis\/}~{\em 8}, 183--205.
+
+\bibitem[\protect\citeauthoryear{Exbrayat, Bloom, Falloon, Ito, Smallman, and
+  Williams}{Exbrayat et~al.}{2018}]{Exbrayat2018}
+Exbrayat, J.-F., A.~A. Bloom, P.~Falloon, A.~Ito, T.~L. Smallman, and
+  M.~Williams (2018).
+\newblock {Reliability ensemble averaging of 21st century projections of
+  terrestrial net primary productivity reduces global and regional
+  uncertainties}.
+\newblock {\em Earth System Dynamics\/}~{\em 9\/}(1), 153--165.
+
+\bibitem[\protect\citeauthoryear{Farquhar, von Caemmerer, and Berry}{Farquhar
+  et~al.}{1980}]{Farquhar1980}
+Farquhar, G.~D., S.~von Caemmerer, and J.~A. Berry (1980, jun).
+\newblock {A biochemical model of photosynthetic CO<i>2</i> assimilation in
+  leaves of C3 species}.
+\newblock {\em Planta\/}~{\em 149\/}(1), 78--90.
+
+\bibitem[\protect\citeauthoryear{Firn, McGree, Harvey, Flores-Moreno,
+  Sch{\"{u}}tz, Buckley, Borer, Seabloom, {La Pierre}, MacDougall, Prober,
+  Stevens, Sullivan, Porter, Ladouceur, Allen, Moromizato, Morgan, Harpole,
+  Hautier, Eisenhauer, Wright, Adler, Arnillas, Bakker, Biederman, Broadbent,
+  Brown, Bugalho, Caldeira, Cleland, Ebeling, Fay, Hagenah, Kleinhesselink,
+  Mitchell, Moore, Nogueira, Peri, Roscher, Smith, Wragg, and Risch}{Firn
+  et~al.}{2019}]{Firn2019}
+Firn, J., J.~M. McGree, E.~Harvey, H.~Flores-Moreno, M.~Sch{\"{u}}tz, Y.~M.
+  Buckley, E.~T. Borer, E.~W. Seabloom, K.~J. {La Pierre}, A.~M. MacDougall,
+  S.~M. Prober, C.~J. Stevens, L.~L. Sullivan, E.~Porter, E.~Ladouceur,
+  C.~Allen, K.~H. Moromizato, J.~W. Morgan, W.~S. Harpole, Y.~Hautier,
+  N.~Eisenhauer, J.~P. Wright, P.~B. Adler, C.~A. Arnillas, J.~D. Bakker,
+  L.~Biederman, A.~A.~D. Broadbent, C.~S. Brown, M.~N. Bugalho, M.~C. Caldeira,
+  E.~E. Cleland, A.~Ebeling, P.~A. Fay, N.~Hagenah, A.~R. Kleinhesselink,
+  R.~Mitchell, J.~L. Moore, C.~Nogueira, P.~L. Peri, C.~Roscher, M.~D. Smith,
+  P.~D. Wragg, and A.~C. Risch (2019, feb).
+\newblock {Leaf nutrients, not specific leaf area, are consistent indicators of
+  elevated nutrient inputs}.
+\newblock {\em Nature Ecology & Evolution\/}~{\em 3\/}(3), 400--406.
+
+\bibitem[\protect\citeauthoryear{Fisher, Sitch, Malhi, Fisher, Huntingford, and
+  Tan}{Fisher et~al.}{2010}]{Fisher2010}
+Fisher, J.~B., S.~Sitch, Y.~Malhi, R.~A. Fisher, C.~Huntingford, and S.-Y. Tan
+  (2010).
+\newblock {Carbon cost of plant nitrogen acquisition: A mechanistic, globally
+  applicable model of plant nitrogen uptake, retranslocation, and fixation}.
+\newblock {\em Global Biogeochemical Cycles\/}~{\em 24\/}(1), 1--17.
+
+\bibitem[\protect\citeauthoryear{Fox and Weisberg}{Fox and
+  Weisberg}{2019}]{Fox2019}
+Fox, J. and S.~Weisberg (2019).
+\newblock {\em {An R companion to applied regression}\/} (Third edit ed.).
+\newblock Thousand Oaks, California: Sage.
+
+\bibitem[\protect\citeauthoryear{Franklin, McMurtrie, Iversen, Crous, Finzi,
+  Tissue, Ellsworth, Oren, and Norby}{Franklin et~al.}{2009}]{Franklin2009}
+Franklin, O., R.~E. McMurtrie, C.~M. Iversen, K.~Y. Crous, A.~C. Finzi,
+  D.~Tissue, D.~S. Ellsworth, R.~Oren, and R.~J. Norby (2009, jan).
+\newblock {Forest fine-root production and nitrogen use under elevated
+  CO<sub>2</sub>: contrasting responses in evergreen and deciduous trees
+  explained by a common principle}.
+\newblock {\em Global Change Biology\/}~{\em 15\/}(1), 132--144.
+
+\bibitem[\protect\citeauthoryear{Friedlingstein, Meinshausen, Arora, Jones,
+  Anav, Liddicoat, and Knutti}{Friedlingstein
+  et~al.}{2014}]{Friedlingstein2014}
+Friedlingstein, P., M.~Meinshausen, V.~K. Arora, C.~D. Jones, A.~Anav, S.~K.
+  Liddicoat, and R.~Knutti (2014).
+\newblock {Uncertainties in CMIP5 climate projections due to carbon cycle
+  feedbacks}.
+\newblock {\em Journal of Climate\/}~{\em 27\/}(2), 511--526.
+
+\bibitem[\protect\citeauthoryear{Friel and Friesen}{Friel and
+  Friesen}{2019}]{Friel2019}
+Friel, C.~A. and M.~L. Friesen (2019, nov).
+\newblock {Legumes modulate allocation to rhizobial nitrogen fixation in
+  response to factorial light and nitrogen manipulation}.
+\newblock {\em Frontiers in Plant Science\/}~{\em 10}, 1316.
+
+\bibitem[\protect\citeauthoryear{Fujikake, Yamazaki, Ohtake, Sueoshi,
+  Matsuhashi, Ito, Mizuniwa, Kume, Hoshimoto, Ishioka, Watanabe, Osa, Sekine,
+  Uchida, Tsuji, and Ohyama}{Fujikake et~al.}{2003}]{Fujikake2003}
+Fujikake, H., A.~Yamazaki, N.~Ohtake, K.~Sueoshi, S.~Matsuhashi, T.~Ito,
+  C.~Mizuniwa, T.~Kume, S.~Hoshimoto, N.-S. Ishioka, S.~Watanabe, A.~Osa,
+  T.~Sekine, H.~Uchida, A.~Tsuji, and T.~Ohyama (2003, may).
+\newblock {Quick and reversible inhibition of soybean root nodule growth by
+  nitrate involves a decrease in sucrose supply to nodules}.
+\newblock {\em Journal of Experimental Botany\/}~{\em 54\/}(386), 1379--1388.
+
+\bibitem[\protect\citeauthoryear{Giardina, Coleman, Hancock, King, Lilleskov,
+  Loya, Pregitzer, Ryan, and Trettin}{Giardina et~al.}{2005}]{Giardina2005}
+Giardina, C.~P., M.~D. Coleman, J.~E. Hancock, J.~S. King, E.~A. Lilleskov,
+  W.~M. Loya, K.~S. Pregitzer, M.~G. Ryan, and C.~C. Trettin (2005).
+\newblock {The response of belowground carbon allocation in forests to global
+  change}.
+\newblock In D.~Binkley and O.~Manyailo (Eds.), {\em Tree Species Effects on
+  Soils: Implications for Global Change\/} (Volume 55 ed.)., Chapter Chapter 7,
+  pp.\  119--154. Berlin/Heidelberg: Springer-Verlag.
+
+\bibitem[\protect\citeauthoryear{Gibson and Harper}{Gibson and
+  Harper}{1985}]{Gibson1985}
+Gibson, A.~H. and J.~E. Harper (1985, may).
+\newblock {Nitrate effect on nodulation of soybean by <i>Bradyrhizobium
+  japonicum</i>}.
+\newblock {\em Crop Science\/}~{\em 25\/}(3), 497--501.
+
+\bibitem[\protect\citeauthoryear{Gill and Finzi}{Gill and
+  Finzi}{2016}]{Gill2016}
+Gill, A.~L. and A.~C. Finzi (2016).
+\newblock {Belowground carbon flux links biogeochemical cycles and resource-use
+  efficiency at the global scale}.
+\newblock {\em Ecology Letters\/}~{\em 19\/}(12), 1419--1428.
+
+\bibitem[\protect\citeauthoryear{Goll, Brovkin, Parida, Reick, Kattge, Reich,
+  van Bodegom, and Niinemets}{Goll et~al.}{2012}]{Goll2012}
+Goll, D.~S., V.~Brovkin, B.~R. Parida, C.~H. Reick, J.~Kattge, P.~B. Reich,
+  P.~M. van Bodegom, and {\"{U}}.~Niinemets (2012, mar).
+\newblock {Nutrient limitation reduces land carbon uptake in simulations with a
+  model of combined carbon, nitrogen and phosphorus cycling}.
+\newblock {\em Biogeosciences Discussions\/}~{\em 9\/}(3), 3173--3232.
+
+\bibitem[\protect\citeauthoryear{Gulmon and Chu}{Gulmon and
+  Chu}{1981}]{Gulmon1981}
+Gulmon, S.~L. and C.~C. Chu (1981, may).
+\newblock {The effects of light and nitrogen on photosynthesis, leaf
+  characteristics, and dry matter allocation in the chaparral shrub,
+  <i>Diplacus aurantiacus</i>}.
+\newblock {\em Oecologia\/}~{\em 49\/}(2), 207--212.
+
+\bibitem[\protect\citeauthoryear{Gutschick}{Gutschick}{1981}]{Gutschick1981}
+Gutschick, V.~P. (1981, nov).
+\newblock {Evolved strategies in nitrogen acquisition by plants}.
+\newblock {\em The American Naturalist\/}~{\em 118\/}(5), 607--637.
+
+\bibitem[\protect\citeauthoryear{Henneron, Kardol, Wardle, Cros, and
+  Fontaine}{Henneron et~al.}{2020}]{Henneron2020}
+Henneron, L., P.~Kardol, D.~A. Wardle, C.~Cros, and S.~Fontaine (2020, nov).
+\newblock {Rhizosphere control of soil nitrogen cycling: a key component of
+  plant economic strategies}.
+\newblock {\em New Phytologist\/}~{\em 228\/}(4), 1269--1282.
+
+\bibitem[\protect\citeauthoryear{Hoagland and Arnon}{Hoagland and
+  Arnon}{1950}]{Hoagland1950}
+Hoagland, D.~R. and D.~I. Arnon (1950).
+\newblock {The water-culture method for growing plants without soil}.
+\newblock {\em California Agricultural Experiment Station: 347\/}~{\em
+  347\/}(2), 1--32.
+
+\bibitem[\protect\citeauthoryear{Hobbie}{Hobbie}{2006}]{Hobbie2006}
+Hobbie, E.~A. (2006, mar).
+\newblock {Carbon allocation to ectomycorrhizal fungi correlates with
+  belowground allocation in culture studies}.
+\newblock {\em Ecology\/}~{\em 87\/}(3), 563--569.
+
+\bibitem[\protect\citeauthoryear{Hobbie and Hobbie}{Hobbie and
+  Hobbie}{2008}]{Hobbie2008}
+Hobbie, E.~A. and J.~E. Hobbie (2008, aug).
+\newblock {Natural abundance of 15N in nitrogen-limited forests and tundra can
+  estimate nitrogen cycling through mycorrhizal fungi: a review}.
+\newblock {\em Ecosystems\/}~{\em 11\/}(5), 815--830.
+
+\bibitem[\protect\citeauthoryear{Hoek, Axelrod, Biancalani, Yurtsev, Liu, and
+  Gore}{Hoek et~al.}{2016}]{Hoek2016}
+Hoek, T.~A., K.~Axelrod, T.~Biancalani, E.~A. Yurtsev, J.~Liu, and J.~Gore
+  (2016, aug).
+\newblock {Resource availability modulates the cooperative and competitive
+  nature of a microbial cross-feeding mutualism}.
+\newblock {\em PLOS Biology\/}~{\em 14\/}(8), e1002540.
+
+\bibitem[\protect\citeauthoryear{H{\"{o}}gberg, Briones, Keel, Metcalfe,
+  Campbell, Midwood, Thornton, Hurry, Linder, N{\"{a}}sholm, and
+  H{\"{o}}gberg}{H{\"{o}}gberg et~al.}{2010}]{Hogberg2010}
+H{\"{o}}gberg, M.~N., M.~J.~I. Briones, S.~G. Keel, D.~B. Metcalfe,
+  C.~Campbell, A.~J. Midwood, B.~Thornton, V.~Hurry, S.~Linder,
+  T.~N{\"{a}}sholm, and P.~H{\"{o}}gberg (2010, jul).
+\newblock {Quantification of effects of season and nitrogen supply on tree
+  below-ground carbon transfer to ectomycorrhizal fungi and other soil
+  organisms in a boreal pine forest}.
+\newblock {\em New Phytologist\/}~{\em 187\/}(2), 485--493.
+
+\bibitem[\protect\citeauthoryear{H{\"{o}}gberg, H{\"{o}}gberg,
+  G{\"{o}}ttlicher, Betson, Keel, Metcalfe, Campbell, Schindlbacher, Hurry,
+  Lundmark, Linder, and N{\"{a}}sholm}{H{\"{o}}gberg
+  et~al.}{2008}]{Hogberg2007}
+H{\"{o}}gberg, P., M.~N. H{\"{o}}gberg, S.~G. G{\"{o}}ttlicher, N.~R. Betson,
+  S.~G. Keel, D.~B. Metcalfe, C.~Campbell, A.~Schindlbacher, V.~Hurry,
+  T.~Lundmark, S.~Linder, and T.~N{\"{a}}sholm (2008, jan).
+\newblock {High temporal resolution tracing of photosynthate carbon from the
+  tree canopy to forest soil microorganisms}.
+\newblock {\em New Phytologist\/}~{\em 177\/}(1), 220--228.
+
+\bibitem[\protect\citeauthoryear{Houlton, Wang, Vitousek, and Field}{Houlton
+  et~al.}{2008}]{Houlton2008}
+Houlton, B.~Z., Y.-P. Wang, P.~M. Vitousek, and C.~B. Field (2008, jul).
+\newblock {A unifying framework for dinitrogen fixation in the terrestrial
+  biosphere}.
+\newblock {\em Nature\/}~{\em 454\/}(7202), 327--330.
+
+\bibitem[\protect\citeauthoryear{IPCC}{IPCC}{2013}]{IPCC2013}
+IPCC (2013).
+\newblock {Climate Change 2013: The Physical Science Basis. Contribution of
+  Working Group I to the Fifth Assessment Report of the Intergovernmental Panel
+  on Climate Change}.
+\newblock Technical report.
+
+\bibitem[\protect\citeauthoryear{Johnson, Graham, and Smith}{Johnson
+  et~al.}{1997}]{Johnson1997}
+Johnson, N.~C., J.~H. Graham, and F.~A. Smith (1997, apr).
+\newblock {Functioning of mycorrhizal associations along the
+  mutualism-parasitism continuum}.
+\newblock {\em New Phytologist\/}~{\em 135\/}(4), 575--585.
+
+\bibitem[\protect\citeauthoryear{Kaiser, Kilburn, Clode, Fuchslueger, Koranda,
+  Cliff, Solaiman, and Murphy}{Kaiser et~al.}{2015}]{Kaiser2015}
+Kaiser, C., M.~R. Kilburn, P.~L. Clode, L.~Fuchslueger, M.~Koranda, J.~B.
+  Cliff, Z.~M. Solaiman, and D.~V. Murphy (2015, mar).
+\newblock {Exploring the transfer of recent plant photosynthates to soil
+  microbes: mycorrhizal pathway vs direct root exudation}.
+\newblock {\em New Phytologist\/}~{\em 205\/}(4), 1537--1551.
+
+\bibitem[\protect\citeauthoryear{Kattge, Knorr, Raddatz, and Wirth}{Kattge
+  et~al.}{2009}]{Kattge2009}
+Kattge, J., W.~Knorr, T.~Raddatz, and C.~Wirth (2009).
+\newblock {Quantifying photosynthetic capacity and its relationship to leaf
+  nitrogen content for global-scale terrestrial biosphere models}.
+\newblock {\em Global Change Biology\/}~{\em 15\/}(4), 976--991.
+
+\bibitem[\protect\citeauthoryear{Kayler, Gessler, and Buchmann}{Kayler
+  et~al.}{2010}]{Kayler2010}
+Kayler, Z., A.~Gessler, and N.~Buchmann (2010, sep).
+\newblock {What is the speed of link between aboveground and belowground
+  processes?}
+\newblock {\em New Phytologist\/}~{\em 187\/}(4), 885--888.
+
+\bibitem[\protect\citeauthoryear{Kayler, Keitel, Jansen, and Gessler}{Kayler
+  et~al.}{2017}]{Kayler2017}
+Kayler, Z., C.~Keitel, K.~Jansen, and A.~Gessler (2017, mar).
+\newblock {Experimental evidence of two mechanisms coupling leaf-level C
+  assimilation to rhizosphere CO<sub>2</sub> release}.
+\newblock {\em Environmental and Experimental Botany\/}~{\em 135}, 21--26.
+
+\bibitem[\protect\citeauthoryear{Kenward and Roger}{Kenward and
+  Roger}{1997}]{Kenward1997}
+Kenward, M.~G. and J.~H. Roger (1997, sep).
+\newblock {Small sample inference for fixed effects from restricted maximum
+  likelihood}.
+\newblock {\em Biometrics\/}~{\em 53\/}(3), 983.
+
+\bibitem[\protect\citeauthoryear{Knorr}{Knorr}{2000}]{Knorr2000}
+Knorr, W. (2000, jun).
+\newblock {Annual and interannual CO<sub>2</sub> exchanges of the terrestrial
+  biosphere: process-based simulations and uncertainties}.
+\newblock {\em Global Ecology and Biogeography\/}~{\em 9\/}(3), 225--252.
+
+\bibitem[\protect\citeauthoryear{Knorr and Heimann}{Knorr and
+  Heimann}{2001}]{Knorr2001}
+Knorr, W. and M.~Heimann (2001, mar).
+\newblock {Uncertainties in global terrestrial biosphere modeling: 1. A
+  comprehensive sensitivity analysis with a new photosynthesis and energy
+  balance scheme}.
+\newblock {\em Global Biogeochemical Cycles\/}~{\em 15\/}(1), 207--225.
+
+\bibitem[\protect\citeauthoryear{Kulmatiski, Adler, Stark, and
+  Tredennick}{Kulmatiski et~al.}{2017}]{Kulmatiski2017}
+Kulmatiski, A., P.~B. Adler, J.~M. Stark, and A.~T. Tredennick (2017, mar).
+\newblock {Water and nitrogen uptake are better associated with resource
+  availability than root biomass}.
+\newblock {\em Ecosphere\/}~{\em 8\/}(3), e01738.
+
+\bibitem[\protect\citeauthoryear{Lawrence, Fisher, Koven, Oleson, Swenson,
+  Bonan, Collier, Ghimire, Kampenhout, Kennedy, Kluzek, Lawrence, Li, Li,
+  Lombardozzi, Riley, Sacks, Shi, Vertenstein, Wieder, Xu, Ali, Badger, Bisht,
+  Broeke, Brunke, Burns, Buzan, Clark, Craig, Dahlin, Drewniak, Fisher,
+  Flanner, Fox, Gentine, Hoffman, Keppel‐Aleks, Knox, Kumar, Lenaerts, Leung,
+  Lipscomb, Lu, Pandey, Pelletier, Perket, Randerson, Ricciuto, Sanderson,
+  Slater, Subin, Tang, Thomas, {Val Martin}, and Zeng}{Lawrence
+  et~al.}{2019}]{Lawrence2019}
+Lawrence, D.~M., R.~A. Fisher, C.~D. Koven, K.~W. Oleson, S.~C. Swenson, G.~B.
+  Bonan, N.~Collier, B.~Ghimire, L.~Kampenhout, D.~Kennedy, E.~Kluzek, P.~J.
+  Lawrence, F.~Li, H.~Li, D.~L. Lombardozzi, W.~J. Riley, W.~J. Sacks, M.~Shi,
+  M.~Vertenstein, W.~R. Wieder, C.~Xu, A.~A. Ali, A.~M. Badger, G.~Bisht,
+  M.~Broeke, M.~A. Brunke, S.~P. Burns, J.~Buzan, M.~Clark, A.~Craig, K.~M.
+  Dahlin, B.~Drewniak, J.~B. Fisher, M.~Flanner, A.~M. Fox, P.~Gentine, F.~M.
+  Hoffman, G.~Keppel‐Aleks, R.~Knox, S.~Kumar, J.~Lenaerts, L.~R. Leung,
+  W.~H. Lipscomb, Y.~Lu, A.~Pandey, J.~D. Pelletier, J.~Perket, J.~T.
+  Randerson, D.~M. Ricciuto, B.~M. Sanderson, A.~Slater, Z.~M. Subin, J.~Tang,
+  R.~Q. Thomas, M.~{Val Martin}, and X.~Zeng (2019, dec).
+\newblock {The Community Land Model Version 5: description of new features,
+  benchmarking, and impact of forcing uncertainty}.
+\newblock {\em Journal of Advances in Modeling Earth Systems\/}~{\em 11\/}(12),
+  4245--4287.
+
+\bibitem[\protect\citeauthoryear{LeBauer and Treseder}{LeBauer and
+  Treseder}{2008}]{LeBauer2008}
+LeBauer, D.~S. and K.~Treseder (2008).
+\newblock {Nitrogen limitation of net primary productivity}.
+\newblock {\em Ecology\/}~{\em 89\/}(2), 371--379.
+
+\bibitem[\protect\citeauthoryear{Lenth}{Lenth}{2019}]{Lenth2019}
+Lenth, R. (2019).
+\newblock emmeans: estimated marginal means, aka least-squares means.
+
+\bibitem[\protect\citeauthoryear{Liang, Qi, Souza, and Luo}{Liang
+  et~al.}{2016}]{Liang2016}
+Liang, J., X.~Qi, L.~Souza, and Y.~Luo (2016, may).
+\newblock {Processes regulating progressive nitrogen limitation under elevated
+  carbon dioxide: a meta-analysis}.
+\newblock {\em Biogeosciences\/}~{\em 13\/}(9), 2689--2699.
+
+\bibitem[\protect\citeauthoryear{Luo, Currie, Dukes, Finzi, Hartwig, Hungate,
+  McMurtrie, Oren, Parton, Pataki, Shaw, Zak, and Field}{Luo
+  et~al.}{2004}]{Luo2004}
+Luo, Y., W.~S. Currie, J.~S. Dukes, A.~C. Finzi, U.~A. Hartwig, B.~A. Hungate,
+  R.~E. McMurtrie, R.~Oren, W.~J. Parton, D.~E. Pataki, R.~M. Shaw, D.~R. Zak,
+  and C.~B. Field (2004).
+\newblock {Progressive nitrogen limitation of ecosystem responses to rising
+  atmospheric carbon dioxide}.
+\newblock {\em BioScience\/}~{\em 54\/}(8), 731--739.
+
+\bibitem[\protect\citeauthoryear{Markham and Zekveld}{Markham and
+  Zekveld}{2007}]{Markham2007}
+Markham, J.~H. and C.~Zekveld (2007, sep).
+\newblock {Nitrogen fixation makes biomass allocation to roots independent of
+  soil nitrogen supply}.
+\newblock {\em Canadian Journal of Botany\/}~{\em 85\/}(9), 787--793.
+
+\bibitem[\protect\citeauthoryear{Matamala and Schlesinger}{Matamala and
+  Schlesinger}{2000}]{Matamala2000}
+Matamala, R. and W.~H. Schlesinger (2000, dec).
+\newblock {Effects of elevated atmospheric CO<sub>2</sub> on fine root
+  production and activity in an intact temperate forest ecosystem}.
+\newblock {\em Global Change Biology\/}~{\em 6\/}(8), 967--979.
+
+\bibitem[\protect\citeauthoryear{Menge, Levin, and Hedin}{Menge
+  et~al.}{2008}]{Menge2008}
+Menge, D. N.~L., S.~A. Levin, and L.~O. Hedin (2008, feb).
+\newblock {Evolutionary tradeoffs can select against nitrogen fixation and
+  thereby maintain nitrogen limitation}.
+\newblock {\em Proceedings of the National Academy of Sciences\/}~{\em
+  105\/}(5), 1573--1578.
+
+\bibitem[\protect\citeauthoryear{Meyerholt, Zaehle, and Smith}{Meyerholt
+  et~al.}{2016}]{Meyerholt2016}
+Meyerholt, J., S.~Zaehle, and M.~J. Smith (2016, mar).
+\newblock {Variability of projected terrestrial biosphere responses to elevated
+  levels of atmospheric CO<sub>2</sub> due to uncertainty in biological
+  nitrogen fixation}.
+\newblock {\em Biogeosciences\/}~{\em 13\/}(5), 1491--1518.
+
+\bibitem[\protect\citeauthoryear{Mu{\~{n}}oz, Qi, Li, Xie, Gao, Cheung, Wong,
+  and Lam}{Mu{\~{n}}oz et~al.}{2016}]{Munoz2016}
+Mu{\~{n}}oz, N., X.~Qi, M.~W. Li, M.~Xie, Y.~Gao, M.~Y. Cheung, F.~L. Wong, and
+  H.-M. Lam (2016).
+\newblock {Improvement in nitrogen fixation capacity could be part of the
+  domestication process in soybean}.
+\newblock {\em Heredity\/}~{\em 117\/}(2), 84--93.
+
+\bibitem[\protect\citeauthoryear{Nadelhoffer and Raich}{Nadelhoffer and
+  Raich}{1992}]{Nadelhoffer1992}
+Nadelhoffer, K.~J. and J.~W. Raich (1992, aug).
+\newblock {Fine root production estimates and belowground carbon allocation in
+  forest ecosystems}.
+\newblock {\em Ecology\/}~{\em 73\/}(4), 1139--1147.
+
+\bibitem[\protect\citeauthoryear{Norby, Ledford, Reilly, Miller, and
+  O'Neill}{Norby et~al.}{2004}]{Norby2004}
+Norby, R.~J., J.~Ledford, C.~D. Reilly, N.~E. Miller, and E.~G. O'Neill (2004,
+  jun).
+\newblock {Fine-root production dominates response of a deciduous forest to
+  atmospheric CO2 enrichment}.
+\newblock {\em Proceedings of the National Academy of Sciences\/}~{\em
+  101\/}(26), 9689--9693.
+
+\bibitem[\protect\citeauthoryear{Noyce, Kirwan, Rich, and Megonigal}{Noyce
+  et~al.}{2019}]{Noyce2019}
+Noyce, G.~L., M.~L. Kirwan, R.~L. Rich, and J.~P. Megonigal (2019).
+\newblock {Asynchronous nitrogen supply and demand produce nonlinear plant
+  allocation responses to warming and elevated CO<sub>2</sub>}.
+\newblock {\em Proceedings of the National Academy of Sciences\/}~{\em
+  116\/}(43), 21623--21628.
+
+\bibitem[\protect\citeauthoryear{Parvin, Uddin, Tausz‐Posch, Armstrong, and
+  Tausz}{Parvin et~al.}{2020}]{Parvin2020}
+Parvin, S., S.~Uddin, S.~Tausz‐Posch, R.~Armstrong, and M.~Tausz (2020, jul).
+\newblock {Carbon sink strength of nodules but not other organs modulates
+  photosynthesis of faba bean (<i>Vicia faba</i>) grown under elevated
+  [CO<sub>2</sub>] and different water supply}.
+\newblock {\em New Phytologist\/}~{\em 227\/}(1), 132--145.
+
+\bibitem[\protect\citeauthoryear{Phillips, Brzostek, and Midgley}{Phillips
+  et~al.}{2013}]{Phillips2013}
+Phillips, R.~P., E.~R. Brzostek, and M.~G. Midgley (2013).
+\newblock {The mycorrhizal-associated nutrient economy: a new framework for
+  predicting carbon-nutrient couplings in temperate forests}.
+\newblock {\em New Phytologist\/}~{\em 199\/}(1), 41--51.
+
+\bibitem[\protect\citeauthoryear{Phillips, Finzi, and Bernhardt}{Phillips
+  et~al.}{2011}]{Phillips2011}
+Phillips, R.~P., A.~C. Finzi, and E.~S. Bernhardt (2011, feb).
+\newblock {Enhanced root exudation induces microbial feedbacks to N cycling in
+  a pine forest under long-term CO2 fumigation}.
+\newblock {\em Ecology Letters\/}~{\em 14\/}(2), 187--194.
+
+\bibitem[\protect\citeauthoryear{Poorter, B{\"{u}}hler, {Van Dusschoten},
+  Climent, and Postma}{Poorter et~al.}{2012}]{Poorter2012}
+Poorter, H., J.~B{\"{u}}hler, D.~{Van Dusschoten}, J.~Climent, and J.~A. Postma
+  (2012).
+\newblock {Pot size matters: A meta-analysis of the effects of rooting volume
+  on plant growth}.
+\newblock {\em Functional Plant Biology\/}~{\em 39\/}(11), 839--850.
+
+\bibitem[\protect\citeauthoryear{Prentice, Liang, Medlyn, and Wang}{Prentice
+  et~al.}{2015}]{Prentice2015}
+Prentice, I.~C., X.~Liang, B.~E. Medlyn, and Y.-P. Wang (2015).
+\newblock {Reliable, robust and realistic: The three R's of next-generation
+  land-surface modelling}.
+\newblock {\em Atmospheric Chemistry and Physics\/}~{\em 15}, 5987--6005.
+
+\bibitem[\protect\citeauthoryear{{R Core Team}}{{R Core
+  Team}}{2021}]{RCoreTeam2021}
+{R Core Team} (2021).
+\newblock {R: A language and environment for statistical computing}.
+
+\bibitem[\protect\citeauthoryear{Raich, Clark, Schwendenmann, and Wood}{Raich
+  et~al.}{2014}]{Raich2014}
+Raich, J.~W., D.~A. Clark, L.~Schwendenmann, and T.~E. Wood (2014, jun).
+\newblock {Aboveground tree growth varies with belowground carbon allocation in
+  a tropical rainforest environment}.
+\newblock {\em PLoS ONE\/}~{\em 9\/}(6), e100275.
+
+\bibitem[\protect\citeauthoryear{Rastetter, Vitousek, Field, Shaver, Herbert,
+  and {\AA}gren}{Rastetter et~al.}{2001}]{Rastetter2001}
+Rastetter, E.~B., P.~M. Vitousek, C.~B. Field, G.~R. Shaver, D.~Herbert, and
+  G.~I. {\AA}gren (2001, jul).
+\newblock {Resource optimization and symbiotic nitrogen fixation}.
+\newblock {\em Ecosystems\/}~{\em 4\/}(4), 369--388.
+
+\bibitem[\protect\citeauthoryear{Rogers}{Rogers}{2014}]{Rogers2014}
+Rogers, A. (2014, feb).
+\newblock {The use and misuse of V<sub>c,max</sub> in Earth System Models}.
+\newblock {\em Photosynthesis Research\/}~{\em 119\/}(1-2), 15--29.
+
+\bibitem[\protect\citeauthoryear{Rogers, Medlyn, Dukes, Bonan, Caemmerer,
+  Dietze, Kattge, Leakey, Mercado, Niinemets, Prentice, Serbin, Sitch, Way, and
+  Zaehle}{Rogers et~al.}{2017}]{Rogers2017a}
+Rogers, A., B.~E. Medlyn, J.~S. Dukes, G.~B. Bonan, S.~Caemmerer, M.~C. Dietze,
+  J.~Kattge, A.~D.~B. Leakey, L.~M. Mercado, {\"{U}}.~Niinemets, I.~C.
+  Prentice, S.~P. Serbin, S.~Sitch, D.~A. Way, and S.~Zaehle (2017, jan).
+\newblock {A roadmap for improving the representation of photosynthesis in
+  Earth system models}.
+\newblock {\em New Phytologist\/}~{\em 213\/}(1), 22--42.
+
+\bibitem[\protect\citeauthoryear{Saleh, Abdel-Mawgoud, Hassan, Habeeb, Yehia,
+  and AbdElgawad}{Saleh et~al.}{2020}]{Saleh2020}
+Saleh, A.~M., M.~Abdel-Mawgoud, A.~R. Hassan, T.~H. Habeeb, R.~S. Yehia, and
+  H.~AbdElgawad (2020, jun).
+\newblock {Global metabolic changes induced by arbuscular mycorrhizal fungi in
+  oregano plants grown under ambient and elevated levels of atmospheric
+  CO<sub>2</sub>}.
+\newblock {\em Plant Physiology and Biochemistry\/}~{\em 151}, 255--263.
+
+\bibitem[\protect\citeauthoryear{Schaefer, Schwalm, Williams, Arain, Barr,
+  Chen, Davis, Dimitrov, Hilton, Hollinger, Humphreys, Poulter, Raczka,
+  Richardson, Sahoo, Thornton, Vargas, Verbeeck, Anderson, Baker, Black,
+  Bolstad, Chen, Curtis, Desai, Dietze, Dragoni, Gough, Grant, Gu, Jain,
+  Kucharik, Law, Liu, Lokipitiya, Margolis, Matamala, McCaughey, Monson,
+  Munger, Oechel, Peng, Price, Ricciuto, Riley, Roulet, Tian, Tonitto, Torn,
+  Weng, and Zhou}{Schaefer et~al.}{2012}]{Schaefer2012}
+Schaefer, K., C.~R. Schwalm, C.~Williams, M.~A. Arain, A.~Barr, J.~M. Chen,
+  K.~J. Davis, D.~Dimitrov, T.~W. Hilton, D.~Y. Hollinger, E.~Humphreys,
+  B.~Poulter, B.~M. Raczka, A.~D. Richardson, A.~Sahoo, P.~Thornton, R.~Vargas,
+  H.~Verbeeck, R.~Anderson, I.~Baker, T.~A. Black, P.~Bolstad, J.~Chen, P.~S.
+  Curtis, A.~R. Desai, M.~C. Dietze, D.~Dragoni, C.~M. Gough, R.~F. Grant,
+  L.~Gu, A.~K. Jain, C.~Kucharik, B.~E. Law, S.~Liu, E.~Lokipitiya, H.~A.
+  Margolis, R.~Matamala, J.~H. McCaughey, R.~Monson, J.~W. Munger, W.~Oechel,
+  C.~Peng, D.~T. Price, D.~Ricciuto, W.~J. Riley, N.~Roulet, H.~Tian,
+  C.~Tonitto, M.~Torn, E.~Weng, and X.~Zhou (2012, sep).
+\newblock {A model-data comparison of gross primary productivity: Results from
+  the North American Carbon Program site synthesis}.
+\newblock {\em Journal of Geophysical Research: Biogeosciences\/}~{\em
+  117\/}(G3), G03010.
+
+\bibitem[\protect\citeauthoryear{Shi, Fisher, Brzostek, and Phillips}{Shi
+  et~al.}{2016}]{Shi2016}
+Shi, M., J.~B. Fisher, E.~R. Brzostek, and R.~P. Phillips (2016).
+\newblock {Carbon cost of plant nitrogen acquisition: Global carbon cycle
+  impact from an improved plant nitrogen cycle in the Community Land Model}.
+\newblock {\em Global Change Biology\/}~{\em 22\/}(3), 1299--1314.
+
+\bibitem[\protect\citeauthoryear{Shi, Fisher, Phillips, and Brzostek}{Shi
+  et~al.}{2019}]{Shi2019}
+Shi, M., J.~B. Fisher, R.~P. Phillips, and E.~R. Brzostek (2019, jan).
+\newblock {Neglecting plant–microbe symbioses leads to underestimation of
+  modeled climate impacts}.
+\newblock {\em Biogeosciences\/}~{\em 16\/}(2), 457--465.
+
+\bibitem[\protect\citeauthoryear{Smith and Dukes}{Smith and
+  Dukes}{2013}]{Smith2013}
+Smith, N.~G. and J.~S. Dukes (2013, jan).
+\newblock {Plant respiration and photosynthesis in global-scale models:
+  incorporating acclimation to temperature and CO 2}.
+\newblock {\em Global Change Biology\/}~{\em 19\/}(1), 45--63.
+
+\bibitem[\protect\citeauthoryear{Smith, Lombardozzi, Tawfik, Bonan, and
+  Dukes}{Smith et~al.}{2017}]{Smith2017}
+Smith, N.~G., D.~L. Lombardozzi, A.~Tawfik, G.~B. Bonan, and J.~S. Dukes (2017,
+  mar).
+\newblock {Biophysical consequences of photosynthetic temperature acclimation
+  for climate}.
+\newblock {\em Journal of Advances in Modeling Earth Systems\/}~{\em 9\/}(1),
+  536--547.
+
+\bibitem[\protect\citeauthoryear{Smith, Malyshev, Shevliakova, Kattge, and
+  Dukes}{Smith et~al.}{2016}]{Smith2016}
+Smith, N.~G., S.~L. Malyshev, E.~Shevliakova, J.~Kattge, and J.~S. Dukes (2016,
+  apr).
+\newblock {Foliar temperature acclimation reduces simulated carbon sensitivity
+  to climate}.
+\newblock {\em Nature Climate Change\/}~{\em 6\/}(4), 407--411.
+
+\bibitem[\protect\citeauthoryear{Soudzilovskaia, Douma, Akhmetzhanova, van
+  Bodegom, Cornwell, Moens, Treseder, and Cornelissen}{Soudzilovskaia
+  et~al.}{2015}]{Soudzilovskaia2015}
+Soudzilovskaia, N.~A., J.~C. Douma, A.~A. Akhmetzhanova, P.~M. van Bodegom,
+  W.~K. Cornwell, E.~J. Moens, K.~K. Treseder, and J.~H.~C. Cornelissen (2015).
+\newblock {Global patterns of plant root colonization intensity by mycorrhizal
+  fungi explained by climate and soil chemistry}.
+\newblock {\em Global Ecology and Biogeography\/}~{\em 24\/}(3), 371--382.
+
+\bibitem[\protect\citeauthoryear{Sulman, Shevliakova, Brzostek, Kivlin,
+  Malyshev, Menge, and Zhang}{Sulman et~al.}{2019}]{Sulman2019}
+Sulman, B.~N., E.~Shevliakova, E.~R. Brzostek, S.~N. Kivlin, S.~L. Malyshev,
+  D.~N.~L. Menge, and X.~Zhang (2019).
+\newblock {Diverse mycorrhizal associations enhance terrestrial C storage in a
+  global model}.
+\newblock {\em Global Biogeochemical Cycles\/}~{\em 33\/}(4), 501--523.
+
+\bibitem[\protect\citeauthoryear{Taylor and Menge}{Taylor and
+  Menge}{2018}]{Taylor2018}
+Taylor, B.~N. and D.~N.~L. Menge (2018, sep).
+\newblock {Light regulates tropical symbiotic nitrogen fixation more strongly
+  than soil nitrogen}.
+\newblock {\em Nature Plants\/}~{\em 4\/}(9), 655--661.
+
+\bibitem[\protect\citeauthoryear{Terrer, Vicca, Stocker, Hungate, Phillips,
+  Reich, Finzi, and Prentice}{Terrer et~al.}{2018}]{Terrer2018}
+Terrer, C., S.~Vicca, B.~D. Stocker, B.~A. Hungate, R.~P. Phillips, P.~B.
+  Reich, A.~C. Finzi, and I.~C. Prentice (2018, jan).
+\newblock {Ecosystem responses to elevated <scp>CO</scp> <sub>2</sub> governed
+  by plant–soil interactions and the cost of nitrogen acquisition}.
+\newblock {\em New Phytologist\/}~{\em 217\/}(2), 507--522.
+
+\bibitem[\protect\citeauthoryear{Thomas, Brookshire, and Gerber}{Thomas
+  et~al.}{2015}]{Thomas2015}
+Thomas, R.~Q., E.~N.~J. Brookshire, and S.~Gerber (2015, may).
+\newblock {Nitrogen limitation on land: how can it occur in Earth system
+  models?}
+\newblock {\em Global Change Biology\/}~{\em 21\/}(5), 1777--1793.
+
+\bibitem[\protect\citeauthoryear{Thomas, Zaehle, Templer, and Goodale}{Thomas
+  et~al.}{2013}]{Thomas2013}
+Thomas, R.~Q., S.~Zaehle, P.~H. Templer, and C.~L. Goodale (2013, oct).
+\newblock {Global patterns of nitrogen limitation: confronting two global
+  biogeochemical models with observations}.
+\newblock {\em Global Change Biology\/}~{\em 19\/}(10), 2986--2998.
+
+\bibitem[\protect\citeauthoryear{Thornton, Lamarque, Rosenbloom, and
+  Mahowald}{Thornton et~al.}{2007}]{Thornton2007}
+Thornton, P.~E., J.-F. Lamarque, N.~A. Rosenbloom, and N.~M. Mahowald (2007,
+  dec).
+\newblock {Influence of carbon-nitrogen cycle coupling on land model response
+  to CO<sub>2</sub> fertilization and climate variability}.
+\newblock {\em Global Biogeochemical Cycles\/}~{\em 21\/}(4), GB4018.
+
+\bibitem[\protect\citeauthoryear{Tingey, Phillips, and Johnson}{Tingey
+  et~al.}{2000}]{Tingey2000}
+Tingey, D.~T., D.~L. Phillips, and M.~G. Johnson (2000, jul).
+\newblock {Elevated CO<sub>2</sub> and conifer roots: effects on growth, life
+  span and turnover}.
+\newblock {\em New Phytologist\/}~{\em 147\/}(1), 87--103.
+
+\bibitem[\protect\citeauthoryear{Uselman, Qualls, and Thomas}{Uselman
+  et~al.}{2000}]{Uselman2000}
+Uselman, S.~M., R.~G. Qualls, and R.~B. Thomas (2000).
+\newblock {Effects of increased atmospheric CO<sub>2</sub>, temperature, and
+  soil N availability on root exudation of dissolved organic carbon by a
+  N-fixing tree (<i>Robinia pseudoacacia</i> L.)}.
+\newblock {\em Plant and Soil\/}~{\em 222}, 191--202.
+
+\bibitem[\protect\citeauthoryear{van Diepen, Lilleskov, Pregitzer, and
+  Miller}{van Diepen et~al.}{2007}]{VanDiepen2007}
+van Diepen, L. T.~A., E.~A. Lilleskov, K.~S. Pregitzer, and R.~M. Miller (2007,
+  oct).
+\newblock {Decline of arbuscular mycorrhizal fungi in northern hardwood forests
+  exposed to chronic nitrogen additions}.
+\newblock {\em New Phytologist\/}~{\em 176\/}(1), 175--183.
+
+\bibitem[\protect\citeauthoryear{Vitousek, Cassman, Cleveland, Crews, Field,
+  Grimm, Howarth, Marino, Martinelli, Rastetter, and Sprent}{Vitousek
+  et~al.}{2002}]{Vitousek2002}
+Vitousek, P.~M., K.~Cassman, C.~C. Cleveland, T.~Crews, C.~B. Field, N.~B.
+  Grimm, R.~W. Howarth, R.~Marino, L.~Martinelli, E.~B. Rastetter, and J.~I.
+  Sprent (2002).
+\newblock {Towards an ecological understanding of biological nitrogen
+  fixation}.
+\newblock In {\em The Nitrogen Cycle at Regional to Global Scales}, pp.\
+  1--45. Dordrecht: Springer Netherlands.
+
+\bibitem[\protect\citeauthoryear{Vitousek and Howarth}{Vitousek and
+  Howarth}{1991}]{Vitousek1991}
+Vitousek, P.~M. and R.~W. Howarth (1991).
+\newblock {Nitrogen limitation on land and in sea: how can it occur?}
+\newblock {\em Biogeochemistry\/}~{\em 13\/}(2), 87--115.
+
+\bibitem[\protect\citeauthoryear{Vitousek, Porder, Houlton, and
+  Chadwick}{Vitousek et~al.}{2010}]{Vitousek2010}
+Vitousek, P.~M., S.~Porder, B.~Z. Houlton, and O.~A. Chadwick (2010, jan).
+\newblock {Terrestrial phosphorus limitation: mechanisms, implications, and
+  nitrogen–phosphorus interactions}.
+\newblock {\em Ecological Applications\/}~{\em 20\/}(1), 5--15.
+
+\bibitem[\protect\citeauthoryear{Walker, Beckerman, Gu, Kattge, Cernusak,
+  Domingues, Scales, Wohlfahrt, Wullschleger, and Woodward}{Walker
+  et~al.}{2014}]{Walker2014}
+Walker, A.~P., A.~P. Beckerman, L.~Gu, J.~Kattge, L.~A. Cernusak, T.~F.
+  Domingues, J.~C. Scales, G.~Wohlfahrt, S.~D. Wullschleger, and F.~I. Woodward
+  (2014, aug).
+\newblock {The relationship of leaf photosynthetic traits - Vcmax and Jmax - to
+  leaf nitrogen, leaf phosphorus, and specific leaf area: a meta-analysis and
+  modeling study}.
+\newblock {\em Ecology and Evolution\/}~{\em 4\/}(16), 3218--3235.
+
+\bibitem[\protect\citeauthoryear{Wang, Wang, Hoch, Wang, and Gu}{Wang
+  et~al.}{2018}]{Wang2018}
+Wang, W., Y.~Wang, G.~Hoch, Z.~Wang, and J.~Gu (2018, apr).
+\newblock {Linkage of root morphology to anatomy with increasing nitrogen
+  availability in six temperate tree species}.
+\newblock {\em Plant and Soil\/}~{\em 425\/}(1-2), 189--200.
+
+\bibitem[\protect\citeauthoryear{Wieder, Cleveland, Smith, and
+  Todd-Brown}{Wieder et~al.}{2015}]{Wieder2015}
+Wieder, W.~R., C.~C. Cleveland, W.~K. Smith, and K.~Todd-Brown (2015, jun).
+\newblock {Future productivity and carbon storage limited by terrestrial
+  nutrient availability}.
+\newblock {\em Nature Geoscience\/}~{\em 8\/}(6), 441--444.
+
+\bibitem[\protect\citeauthoryear{Wieder, Lawrence, Fisher, Bonan, Cheng,
+  Goodale, Grandy, Koven, Lombardozzi, Oleson, and Thomas}{Wieder
+  et~al.}{2019}]{Wieder2019}
+Wieder, W.~R., D.~M. Lawrence, R.~A. Fisher, G.~B. Bonan, S.~J. Cheng, C.~L.
+  Goodale, A.~S. Grandy, C.~D. Koven, D.~L. Lombardozzi, K.~W. Oleson, and
+  R.~Q. Thomas (2019, oct).
+\newblock {Beyond static benchmarking: using experimental manipulations to
+  evaluate land model assumptions}.
+\newblock {\em Global Biogeochemical Cycles\/}~{\em 33\/}(10), 1289--1309.
+
+\bibitem[\protect\citeauthoryear{Xu-Ri and Prentice}{Xu-Ri and
+  Prentice}{2017}]{Xu-Ri2017}
+Xu-Ri and I.~C. Prentice (2017, apr).
+\newblock {Modelling the demand for new nitrogen fixation by terrestrial
+  ecosystems}.
+\newblock {\em Biogeosciences\/}~{\em 14\/}(7), 2003--2017.
+
+\bibitem[\protect\citeauthoryear{Zaehle, Sitch, Smith, and Hatterman}{Zaehle
+  et~al.}{2005}]{Zaehle2005}
+Zaehle, S., S.~Sitch, B.~Smith, and F.~Hatterman (2005, sep).
+\newblock {Effects of parameter uncertainties on the modeling of terrestrial
+  biosphere dynamics}.
+\newblock {\em Global Biogeochemical Cycles\/}~{\em 19\/}(3), GB3020.
+
+\bibitem[\protect\citeauthoryear{Zhu, Riley, Tang, Collier, Hoffman, Yang, and
+  Bisht}{Zhu et~al.}{2019}]{Zhu2019}
+Zhu, Q., W.~J. Riley, J.~Tang, N.~Collier, F.~M. Hoffman, X.~Yang, and G.~Bisht
+  (2019).
+\newblock {Representing nitrogen, phosphorus, and carbon interactions in the
+  E3SM land model: development and global benchmarking}.
+\newblock {\em Journal of Advances in Modeling Earth Systems\/}~{\em 11\/}(7),
+  2238--2258.
+
+\bibitem[\protect\citeauthoryear{Ziehn, Kattge, Knorr, and Scholze}{Ziehn
+  et~al.}{2011}]{Ziehn2011}
+Ziehn, T., J.~Kattge, W.~Knorr, and M.~Scholze (2011, may).
+\newblock {Improving the predictability of global CO2 assimilation rates under
+  climate change}.
+\newblock {\em Geophysical Research Letters\/}~{\em 38\/}(10), L10404.
+
+\end{thebibliography}
