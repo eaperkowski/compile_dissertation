@@ -4,46 +4,46 @@ The top-level auxiliary file: Perkowski_dissertation_main_v1.0.aux
 A level-1 auxiliary file: ch4_TXeco/ch4_TXeco_main.aux
 The style file: chicago.bst
 Database file #1: reference_list.bib
-Warning--empty institution in IPCC2013
-You've used 103 entries,
+Warning--I didn't find a database entry for "Brzostek2014"
+You've used 104 entries,
             2861 wiz_defined-function locations,
-            1288 strings with 33454 characters,
-and the built_in function-call counts, 108991 in all, are:
-= -- 7587
-> -- 12385
+            1298 strings with 34094 characters,
+and the built_in function-call counts, 112305 in all, are:
+= -- 7737
+> -- 12957
 < -- 3
-+ -- 4032
-- -- 4140
-* -- 12394
-:= -- 20461
-add.period$ -- 309
-call.type$ -- 103
-change.case$ -- 1174
-chr.to.int$ -- 103
++ -- 4230
+- -- 4334
+* -- 12847
+:= -- 21127
+add.period$ -- 312
+call.type$ -- 104
+change.case$ -- 1210
+chr.to.int$ -- 104
 cite$ -- 104
-duplicate$ -- 1860
-empty$ -- 4512
-format.name$ -- 4520
-if$ -- 19671
+duplicate$ -- 1881
+empty$ -- 4561
+format.name$ -- 4722
+if$ -- 20243
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 101
-newline$ -- 516
-num.names$ -- 1032
-pop$ -- 880
+missing$ -- 104
+newline$ -- 521
+num.names$ -- 1042
+pop$ -- 916
 preamble$ -- 1
-purify$ -- 1792
+purify$ -- 1836
 quote$ -- 0
-skip$ -- 1869
+skip$ -- 1887
 stack$ -- 0
-substring$ -- 4510
-swap$ -- 617
+substring$ -- 4555
+swap$ -- 625
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 2050
-warning$ -- 1
-while$ -- 916
+type$ -- 2060
+warning$ -- 0
+while$ -- 920
 width$ -- 0
-write$ -- 1344
+write$ -- 1358
 (There was 1 warning)

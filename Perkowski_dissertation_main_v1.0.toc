@@ -8,16 +8,16 @@
 \contentsline {section}{\numberline {2.2}Methods}{5}{section.2.2}%
 \contentsline {subsection}{\numberline {2.2.1}\textit {Experiment setup}}{5}{subsection.2.2.1}%
 \contentsline {subsection}{\numberline {2.2.2}\textit {Plant measurements and calculations}}{6}{subsection.2.2.2}%
-\contentsline {subsection}{\numberline {2.2.3}\textit {Statistical analyses}}{7}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.3}\textit {Statistical analyses}}{8}{subsection.2.2.3}%
 \contentsline {section}{\numberline {2.3}Results}{9}{section.2.3}%
 \contentsline {subsection}{\numberline {2.3.1}\textit {Carbon costs to acquire nitrogen}}{9}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}\textit {Whole plant nitrogen biomass}}{12}{subsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.3.3}\textit {Root carbon biomass}}{14}{subsection.2.3.3}%
-\contentsline {subsection}{\numberline {2.3.4}\textit {Root nodule biomass}}{16}{subsection.2.3.4}%
-\contentsline {section}{\numberline {2.4}Discussion}{20}{section.2.4}%
-\contentsline {chapter}{3. \textbf {Soil nitrogen availability modifies leaf nitrogen economies in mature temperate deciduous forests: a direct test of photosynthetic least-cost theory}}{27}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Introduction}{27}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Methods}{28}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Results}{28}{section.3.3}%
-\contentsline {chapter}{4. \textbf {Conclusions}}{29}{chapter.4}%
-\contentsline {chapter}{\textbf {References}}{30}{chapter.4}%
+\contentsline {subsection}{\numberline {2.3.2}\textit {Whole plant nitrogen biomass}}{13}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}\textit {Root carbon biomass}}{15}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}\textit {Root nodule biomass}}{17}{subsection.2.3.4}%
+\contentsline {section}{\numberline {2.4}Discussion}{21}{section.2.4}%
+\contentsline {chapter}{3. \textbf {Soil nitrogen availability modifies leaf nitrogen economies in mature temperate deciduous forests: a direct test of photosynthetic least-cost theory}}{28}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introduction}{28}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Methods}{30}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Results}{30}{section.3.3}%
+\contentsline {chapter}{4. \textbf {Conclusions}}{31}{chapter.4}%
+\contentsline {chapter}{\textbf {References}}{32}{chapter.4}%

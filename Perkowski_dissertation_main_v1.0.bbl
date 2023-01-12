@@ -82,15 +82,6 @@ Brix, H. (1971).
   in Douglas fir}.
 \newblock {\em Forest Science\/}~{\em 17\/}(4), 407--414.
 
-\bibitem[\protect\citeauthoryear{Brzostek, Fisher, and Phillips}{Brzostek
-  et~al.}{2014}]{Brzostek2014}
-Brzostek, E.~R., J.~B. Fisher, and R.~P. Phillips (2014).
-\newblock {Modeling the carbon cost of plant nitrogen acquisition: Mycorrhizal
-  trade-offs and multipath resistance uptake improve predictions of
-  retranslocation}.
-\newblock {\em Journal of Geophysical Research: Biogeosciences\/}~{\em 119},
-  1684--1697.
-
 \bibitem[\protect\citeauthoryear{Clark, Mercado, Sitch, Jones, Gedney, Best,
   Pryor, Rooney, Essery, Blyth, Boucher, Harding, Huntingford, and Cox}{Clark
   et~al.}{2011}]{Clark2011}
@@ -169,9 +160,9 @@ Exbrayat, J.-F., A.~A. Bloom, P.~Falloon, A.~Ito, T.~L. Smallman, and
 
 \bibitem[\protect\citeauthoryear{Farquhar, von Caemmerer, and Berry}{Farquhar
   et~al.}{1980}]{Farquhar1980}
-Farquhar, G.~D., S.~von Caemmerer, and J.~A. Berry (1980, jun).
-\newblock {A biochemical model of photosynthetic CO<i>2</i> assimilation in
-  leaves of C3 species}.
+Farquhar, G.~D., S.~von Caemmerer, and J.~A. Berry (1980).
+\newblock {A biochemical model of photosynthetic CO2 assimilation in leaves of
+  C3 species}.
 \newblock {\em Planta\/}~{\em 149\/}(1), 78--90.
 
 \bibitem[\protect\citeauthoryear{Firn, McGree, Harvey, Flores-Moreno,
@@ -352,13 +343,6 @@ Houlton, B.~Z., Y.-P. Wang, P.~M. Vitousek, and C.~B. Field (2008, jul).
   biosphere}.
 \newblock {\em Nature\/}~{\em 454\/}(7202), 327--330.
 
-\bibitem[\protect\citeauthoryear{IPCC}{IPCC}{2013}]{IPCC2013}
-IPCC (2013).
-\newblock {Climate Change 2013: The Physical Science Basis. Contribution of
-  Working Group I to the Fifth Assessment Report of the Intergovernmental Panel
-  on Climate Change}.
-\newblock Technical report.
-
 \bibitem[\protect\citeauthoryear{Johnson, Graham, and Smith}{Johnson
   et~al.}{1997}]{Johnson1997}
 Johnson, N.~C., J.~H. Graham, and F.~A. Smith (1997, apr).
@@ -456,12 +440,28 @@ LeBauer, D.~S. and K.~Treseder (2008).
 Lenth, R. (2019).
 \newblock emmeans: estimated marginal means, aka least-squares means.
 
+\bibitem[\protect\citeauthoryear{Li, Zhang, Huang, Liu, Wu, Zhao, and
+  McDowell}{Li et~al.}{2020}]{Li2020}
+Li, W., H.~Zhang, G.~Huang, R.~Liu, H.~Wu, C.~Zhao, and N.~G. McDowell (2020,
+  mar).
+\newblock {Effects of nitrogen enrichment on tree carbon allocation: A global
+  synthesis}.
+\newblock {\em Global Ecology and Biogeography\/}~{\em 29\/}(3), 573--589.
+
 \bibitem[\protect\citeauthoryear{Liang, Qi, Souza, and Luo}{Liang
   et~al.}{2016}]{Liang2016}
 Liang, J., X.~Qi, L.~Souza, and Y.~Luo (2016, may).
 \newblock {Processes regulating progressive nitrogen limitation under elevated
   carbon dioxide: a meta-analysis}.
 \newblock {\em Biogeosciences\/}~{\em 13\/}(9), 2689--2699.
+
+\bibitem[\protect\citeauthoryear{Liang, Zhang, Lu, Ellsworth, BassiriRad, You,
+  Wang, He, Deng, Liu, Mo, and Ye}{Liang et~al.}{2020}]{Liang2020}
+Liang, X., T.~Zhang, X.~Lu, D.~S. Ellsworth, H.~BassiriRad, C.~You, D.~Wang,
+  P.~He, Q.~Deng, H.~Liu, J.~Mo, and Q.~Ye (2020, jun).
+\newblock {Global response patterns of plant photosynthesis to nitrogen
+  addition: A meta‐analysis}.
+\newblock {\em Global Change Biology\/}~{\em 26\/}(6), 3585--3600.
 
 \bibitem[\protect\citeauthoryear{Luo, Currie, Dukes, Finzi, Hartwig, Hungate,
   McMurtrie, Oren, Parton, Pataki, Shaw, Zak, and Field}{Luo
@@ -479,6 +479,19 @@ Markham, J.~H. and C.~Zekveld (2007, sep).
 \newblock {Nitrogen fixation makes biomass allocation to roots independent of
   soil nitrogen supply}.
 \newblock {\em Canadian Journal of Botany\/}~{\em 85\/}(9), 787--793.
+
+\bibitem[\protect\citeauthoryear{Masson-Delmotte, Zhai, Pirani, Connors,
+  Berger, Caud, Chen, Goldfarb, Gomis, Huang, Leitzell, Lonnoy, Matthews,
+  Maycock, Waterfield, Yelek{\c{c}}i, Yu, and Zhou}{Masson-Delmotte
+  et~al.}{2021}]{IPCC2021}
+Masson-Delmotte, V., P.~Zhai, A.~Pirani, S.~L. Connors, S.~Berger, N.~Caud,
+  Y.~Chen, L.~Goldfarb, M.~I. Gomis, M.~Huang, K.~Leitzell, E.~Lonnoy, J.~B.~R.
+  Matthews, T.~K. Maycock, T.~Waterfield, O.~Yelek{\c{c}}i, R.~Yu, and B.~Zhou
+  (2021).
+\newblock {\em {Climate Change 2021: The Physical Science Basis. Contribution
+  of Working Group I to the Sixth Assessment Report of the Intergovernmental
+  Panel on Climate Change}}.
+\newblock Cambridge, UK and New York, USA: Cambridge University Press.
 
 \bibitem[\protect\citeauthoryear{Matamala and Schlesinger}{Matamala and
   Schlesinger}{2000}]{Matamala2000}
@@ -794,8 +807,8 @@ Wang, W., Y.~Wang, G.~Hoch, Z.~Wang, and J.~Gu (2018, apr).
 \newblock {\em Plant and Soil\/}~{\em 425\/}(1-2), 189--200.
 
 \bibitem[\protect\citeauthoryear{Wieder, Cleveland, Smith, and
-  Todd-Brown}{Wieder et~al.}{2015}]{Wieder2015}
-Wieder, W.~R., C.~C. Cleveland, W.~K. Smith, and K.~Todd-Brown (2015, jun).
+  Todd-Brown}{Wieder et~al.}{2015}]{Wieder2015_NPP}
+Wieder, W.~R., C.~C. Cleveland, W.~K. Smith, and K.~Todd-Brown (2015).
 \newblock {Future productivity and carbon storage limited by terrestrial
   nutrient availability}.
 \newblock {\em Nature Geoscience\/}~{\em 8\/}(6), 441--444.
