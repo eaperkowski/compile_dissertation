@@ -1,23 +1,25 @@
 \contentsline {chapter}{\textbf {Acknowledgements}}{ii}{chapter*.1}%
-\contentsline {chapter}{\textbf {Abstract}}{iv}{chapter*.3}%
-\contentsline {chapter}{\textbf {\textbf {List of Tables}}}{v}{chapter*.4}%
-\contentsline {chapter}{\textbf {\textbf {List of Figures}}}{vi}{chapter*.5}%
+\contentsline {chapter}{\textbf {Abstract}}{v}{chapter*.3}%
+\contentsline {chapter}{\textbf {\textbf {List of Tables}}}{vi}{chapter*.4}%
+\contentsline {chapter}{\textbf {\textbf {List of Figures}}}{vii}{chapter*.5}%
 \contentsline {chapter}{1. \textbf {Introduction}}{1}{chapter.1}%
 \contentsline {chapter}{2. \textbf {Structural carbon costs to acquire nitrogen are determined by nitrogen and light availability in two species with different nitrogen acquisition strategies}}{2}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Introduction}{2}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Methods}{5}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}\textit {Experiment setup}}{5}{subsection.2.2.1}%
-\contentsline {subsection}{\numberline {2.2.2}\textit {Plant measurements and calculations}}{6}{subsection.2.2.2}%
+\contentsline {section}{\numberline {2.2}Methods}{6}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}\textit {Experiment setup}}{6}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}\textit {Plant measurements and calculations}}{7}{subsection.2.2.2}%
 \contentsline {subsection}{\numberline {2.2.3}\textit {Statistical analyses}}{8}{subsection.2.2.3}%
-\contentsline {section}{\numberline {2.3}Results}{9}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}\textit {Carbon costs to acquire nitrogen}}{9}{subsection.2.3.1}%
+\contentsline {section}{\numberline {2.3}Results}{10}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}\textit {Carbon costs to acquire nitrogen}}{10}{subsection.2.3.1}%
 \contentsline {subsection}{\numberline {2.3.2}\textit {Whole plant nitrogen biomass}}{13}{subsection.2.3.2}%
 \contentsline {subsection}{\numberline {2.3.3}\textit {Root carbon biomass}}{15}{subsection.2.3.3}%
 \contentsline {subsection}{\numberline {2.3.4}\textit {Root nodule biomass}}{17}{subsection.2.3.4}%
 \contentsline {section}{\numberline {2.4}Discussion}{21}{section.2.4}%
-\contentsline {chapter}{3. \textbf {Soil nitrogen availability modifies leaf nitrogen economies in mature temperate deciduous forests: a direct test of photosynthetic least-cost theory}}{28}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Introduction}{28}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Methods}{30}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Results}{30}{section.3.3}%
-\contentsline {chapter}{4. \textbf {Conclusions}}{31}{chapter.4}%
-\contentsline {chapter}{\textbf {References}}{32}{chapter.4}%
+\contentsline {chapter}{3. \textbf {Soil nitrogen availability modifies leaf nitrogen economies in mature temperate deciduous forests: a direct test of photosynthetic least-cost theory}}{29}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introduction}{29}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Methods}{29}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Results}{29}{section.3.3}%
+\contentsline {chapter}{4. \textbf {The relative cost of resource use for photosynthesis drives variance in leaf nitrogen content across climate and soil resource availability gradients}}{30}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introduction}{30}{section.4.1}%
+\contentsline {chapter}{5. \textbf {Conclusions}}{31}{chapter.5}%
+\contentsline {chapter}{\textbf {References}}{32}{chapter.5}%

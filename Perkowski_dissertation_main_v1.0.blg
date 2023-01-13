@@ -4,46 +4,47 @@ The top-level auxiliary file: Perkowski_dissertation_main_v1.0.aux
 A level-1 auxiliary file: ch4_TXeco/ch4_TXeco_main.aux
 The style file: chicago.bst
 Database file #1: reference_list.bib
-Warning--I didn't find a database entry for "Brzostek2014"
-You've used 104 entries,
+Warning--missing author in IPCC2021
+Warning--no volume for Markham2007
+You've used 101 entries,
             2861 wiz_defined-function locations,
-            1298 strings with 34094 characters,
-and the built_in function-call counts, 112305 in all, are:
-= -- 7737
-> -- 12957
+            1269 strings with 33279 characters,
+and the built_in function-call counts, 109400 in all, are:
+= -- 7518
+> -- 12692
 < -- 3
-+ -- 4230
-- -- 4334
-* -- 12847
-:= -- 21127
-add.period$ -- 312
-call.type$ -- 104
-change.case$ -- 1210
-chr.to.int$ -- 104
-cite$ -- 104
-duplicate$ -- 1881
-empty$ -- 4561
-format.name$ -- 4722
-if$ -- 20243
++ -- 4144
+- -- 4236
+* -- 12419
+:= -- 20610
+add.period$ -- 303
+call.type$ -- 101
+change.case$ -- 1182
+chr.to.int$ -- 101
+cite$ -- 103
+duplicate$ -- 1826
+empty$ -- 4435
+format.name$ -- 4616
+if$ -- 19753
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 104
-newline$ -- 521
-num.names$ -- 1042
-pop$ -- 916
+missing$ -- 100
+newline$ -- 506
+num.names$ -- 1013
+pop$ -- 898
 preamble$ -- 1
-purify$ -- 1836
+purify$ -- 1790
 quote$ -- 0
-skip$ -- 1887
+skip$ -- 1826
 stack$ -- 0
-substring$ -- 4555
-swap$ -- 625
+substring$ -- 4413
+swap$ -- 605
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 2060
-warning$ -- 0
-while$ -- 920
+type$ -- 2000
+warning$ -- 2
+while$ -- 883
 width$ -- 0
-write$ -- 1358
-(There was 1 warning)
+write$ -- 1317
+(There were 2 warnings)

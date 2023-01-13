@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.15)  11 JAN 2023 22:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.15)  13 JAN 2023 00:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -527,13 +527,13 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 1.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 1.
-)
+ [3
+
+])
 \tf@toc=\write5
 \openout5 = `Perkowski_dissertation_main_v1.0.toc'.
 
- [3
-
-] [4
+ [4] [5
 
 ] (/Users/eaperkowski/git/compile_dissertation/Perkowski_dissertation_main_v1.0.lot
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -542,13 +542,13 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 \tf@lot=\write6
 \openout6 = `Perkowski_dissertation_main_v1.0.lot'.
 
- [5
+ [6
 
 ] (/Users/eaperkowski/git/compile_dissertation/Perkowski_dissertation_main_v1.0.lof)
 \tf@lof=\write7
 \openout7 = `Perkowski_dissertation_main_v1.0.lof'.
 
- [6
+ [7
 
 ] (/Users/eaperkowski/git/compile_dissertation/ch1_intro/ch1_intro_main.tex
 Chapter 1.
@@ -561,18 +561,6 @@ l.2     \chapter
 
 ]
 Chapter 2.
-
-LaTeX Warning: Citation `Brzostek2014_FUN2' on page 2 undefined on input line 9.
-
-
-LaTeX Warning: Citation `Brzostek2014_FUN2' on page 2 undefined on input line 11.
-
-
-LaTeX Warning: Citation `Brzostek2014_FUN2' on page 2 undefined on input line 11.
-
-
-LaTeX Warning: Citation `Brzostek2014_FUN2' on page 2 undefined on input line 11.
-
 [2
 
 ] [3] [4]
@@ -585,7 +573,7 @@ LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 48.
 
 [11]
-<ch2_LxN_Greenhouse/figs/fig1_ncost.png, id=392, 5139.2pt x 2248.4pt>
+<ch2_LxN_Greenhouse/figs/fig1_ncost.png, id=418, 5139.2pt x 2248.4pt>
 File: ch2_LxN_Greenhouse/figs/fig1_ncost.png Graphic file (type png)
 <use ch2_LxN_Greenhouse/figs/fig1_ncost.png>
 Package pdftex.def Info: ch2_LxN_Greenhouse/figs/fig1_ncost.png  used on input line 174.
@@ -596,7 +584,7 @@ Package pdftex.def Info: ch2_LxN_Greenhouse/figs/fig1_ncost.png  used on input l
 
 
 ]
-<ch2_LxN_Greenhouse/figs/fig2_nacq.png, id=404, 5139.2pt x 2248.4pt>
+<ch2_LxN_Greenhouse/figs/fig2_nacq.png, id=429, 5139.2pt x 2248.4pt>
 File: ch2_LxN_Greenhouse/figs/fig2_nacq.png Graphic file (type png)
 <use ch2_LxN_Greenhouse/figs/fig2_nacq.png>
 Package pdftex.def Info: ch2_LxN_Greenhouse/figs/fig2_nacq.png  used on input line 191.
@@ -604,7 +592,7 @@ Package pdftex.def Info: ch2_LxN_Greenhouse/figs/fig2_nacq.png  used on input li
  [14 </Users/eaperkowski/git/compile_dissertation/ch2_LxN_Greenhouse/figs/fig2_nacq.png>] [15
 
 ]
-<ch2_LxN_Greenhouse/figs/fig3_rootCarbon.png, id=417, 5139.2pt x 2248.4pt>
+<ch2_LxN_Greenhouse/figs/fig3_rootCarbon.png, id=442, 5139.2pt x 2248.4pt>
 File: ch2_LxN_Greenhouse/figs/fig3_rootCarbon.png Graphic file (type png)
 <use ch2_LxN_Greenhouse/figs/fig3_rootCarbon.png>
 Package pdftex.def Info: ch2_LxN_Greenhouse/figs/fig3_rootCarbon.png  used on input line 208.
@@ -627,7 +615,7 @@ Overfull \hbox (1.59225pt too wide) in paragraph at lines 353--353
  []
 
 [19]
-<ch2_LxN_Greenhouse/figs/fig4_nodwgt.png, id=440, 5139.2pt x 2248.4pt>
+<ch2_LxN_Greenhouse/figs/fig4_nodwgt.png, id=466, 5139.2pt x 2248.4pt>
 File: ch2_LxN_Greenhouse/figs/fig4_nodwgt.png Graphic file (type png)
 <use ch2_LxN_Greenhouse/figs/fig4_nodwgt.png>
 Package pdftex.def Info: ch2_LxN_Greenhouse/figs/fig4_nodwgt.png  used on input line 361.
@@ -638,109 +626,49 @@ Package pdftex.def Info: ch2_LxN_Greenhouse/figs/fig4_nodwgt.png  used on input 
 
 
 
-] [22]
-
-LaTeX Warning: Citation `Brzostek2014_FUN2' on page 23 undefined on input line 374.
-
-
-LaTeX Warning: Citation `Brzostek2014_FUN2' on page 23 undefined on input line 376.
-
-
-LaTeX Warning: Citation `Brzostek2014_FUN2' on page 23 undefined on input line 376.
-
-[23] [24] [25] [26]) (/Users/eaperkowski/git/compile_dissertation/ch3_NxpH/ch3_NxpH_main.tex [27]
+] [22] [23] [24] [25] [26] [27]) (/Users/eaperkowski/git/compile_dissertation/ch3_NxpH/ch3_NxpH_main.tex [28]
 Chapter 3.
-
-Overfull \hbox (5.52559pt too wide) in paragraph at lines 9--10
-[]\T1/lmr/m/n/12 Terrestrial bio-sphere mod-els com-monly rep-re-sent C3 pho-to-syn-the-sis through
- []
-
-[28
+) [29
 
 ]
-
-LaTeX Warning: Citation `Dong2017' on page 29 undefined on input line 11.
-
-
-LaTeX Warning: Citation `Dong2020' on page 29 undefined on input line 11.
-
-
-LaTeX Warning: Citation `Dong2022a' on page 29 undefined on input line 11.
-
-
-LaTeX Warning: Citation `Smith2019' on page 29 undefined on input line 11.
-
-
-LaTeX Warning: Citation `Peng2021' on page 29 undefined on input line 11.
-
-
-LaTeX Warning: Citation `Smith2019' on page 29 undefined on input line 11.
-
-
-LaTeX Warning: Citation `Fay2015' on page 29 undefined on input line 11.
-
-
-LaTeX Warning: Citation `Pons1994' on page 29 undefined on input line 11.
-
-
-LaTeX Warning: Citation `Niinemets1997' on page 29 undefined on input line 11.
-
-
-LaTeX Warning: Citation `Evans2001' on page 29 undefined on input line 11.
-
-
-LaTeX Warning: Citation `Hikosaka2009' on page 29 undefined on input line 11.
-
-
-LaTeX Warning: Citation `Ghimire2017' on page 29 undefined on input line 11.
-
-
-LaTeX Warning: Citation `Onoda2017' on page 29 undefined on input line 11.
-
-
-LaTeX Warning: Citation `Luo2021' on page 29 undefined on input line 11.
-
-[29]) [30]
 \openout2 = `ch4_TXeco/ch4_TXeco_main.aux'.
 
- (/Users/eaperkowski/git/compile_dissertation/ch4_TXeco/ch4_TXeco_main.tex) (/Users/eaperkowski/git/compile_dissertation/ch5_NxCO2xI/ch5_NxCO2xI_main.tex) (/Users/eaperkowski/git/compile_dissertation/ch6_conclusions/ch6_conclusions_main.tex
+ (/Users/eaperkowski/git/compile_dissertation/ch4_TXeco/ch4_TXeco_main.tex
 Chapter 4.
-) [31
+) [30
 
+
+] (/Users/eaperkowski/git/compile_dissertation/ch5_NxCO2xI/ch5_NxCO2xI_main.tex) (/Users/eaperkowski/git/compile_dissertation/ch6_conclusions/ch6_conclusions_main.tex
+Chapter 5.
+) [31
 
 
 
 ] (/Users/eaperkowski/git/compile_dissertation/Perkowski_dissertation_main_v1.0.bbl [32
 
 
-] [33] [34]
-/Users/eaperkowski/git/compile_dissertation/Perkowski_dissertation_main_v1.0.bbl:186: Misplaced alignment tab character &.
-l.186 \newblock {\em Nature Ecology &
-                                      Evolution\/}~{\em 3\/}(3), 400--406.
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
+] [33] [34] [35] [36] [37] [38] [39] [40]
+Underfull \hbox (badness 1194) in paragraph at lines 488--493
+[]\T1/lmr/m/n/12 Meyerholt, J., S. Za-ehle, and M. J. Smith (2016). Vari-abil-ity of pro-
+ []
 
-[35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47]) [48] (/Users/eaperkowski/git/compile_dissertation/Perkowski_dissertation_main_v1.0.aux (/Users/eaperkowski/git/compile_dissertation/ch4_TXeco/ch4_TXeco_main.aux))
+[41] [42] [43] [44] [45] [46]) [47] (/Users/eaperkowski/git/compile_dissertation/Perkowski_dissertation_main_v1.0.aux (/Users/eaperkowski/git/compile_dissertation/ch4_TXeco/ch4_TXeco_main.aux))
 Package rerunfilecheck Info: File `Perkowski_dissertation_main_v1.0.out' has not changed.
-(rerunfilecheck)             Checksum: 38BFD01E9EA825F6F5230A9787F6193C;4556.
+(rerunfilecheck)             Checksum: 139F900821C5D4FF31B65E10199D3DBE;5538.
  ) 
 Here is how much of TeX's memory you used:
- 13722 strings out of 478994
- 224719 string characters out of 5858184
- 549057 words of memory out of 5000000
- 30703 multiletter control sequences out of 15000+600000
+ 13719 strings out of 478994
+ 224713 string characters out of 5858184
+ 549706 words of memory out of 5000000
+ 30701 multiletter control sequences out of 15000+600000
  449655 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,17n,74p,1984b,456s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmbx8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmsy8.pfb>
-Output written on /Users/eaperkowski/git/compile_dissertation/Perkowski_dissertation_main_v1.0.pdf (55 pages, 3587722 bytes).
+ 71i,17n,74p,1984b,458s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmbx8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmsy8.pfb>
+Output written on /Users/eaperkowski/git/compile_dissertation/Perkowski_dissertation_main_v1.0.pdf (55 pages, 3591046 bytes).
 PDF statistics:
- 801 PDF objects out of 1000 (max. 8388607)
- 717 compressed objects within 8 object streams
- 191 named destinations out of 1000 (max. 500000)
- 205 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 821 PDF objects out of 1000 (max. 8388607)
+ 736 compressed objects within 8 object streams
+ 190 named destinations out of 1000 (max. 500000)
+ 221 words of extra memory for PDF output out of 10000 (max. 10000000)
 
