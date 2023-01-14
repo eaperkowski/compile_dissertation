@@ -1,5 +1,21 @@
 \begin{thebibliography}{}
 
+\bibitem[\protect\citeauthoryear{Abrams and Mostoller}{Abrams and
+  Mostoller}{1995}]{Abrams1995}
+Abrams, M.~D. and S.~A. Mostoller (1995).
+\newblock {Gas exchange, leaf structure and nitrogen in contrasting
+  successional tree species growing in open and understory sites during a
+  drought}.
+\newblock {\em Tree Physiology\/}~{\em 15\/}(6), 361--370.
+
+\bibitem[\protect\citeauthoryear{Adams, Turnbull, Sprent, and Buchmann}{Adams
+  et~al.}{2016}]{Adams2016}
+Adams, M.~A., T.~L. Turnbull, J.~I. Sprent, and N.~Buchmann (2016).
+\newblock {Legumes are different: Leaf nitrogen, photosynthesis, and water use
+  efficiency}.
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America\/}~{\em 113\/}(15), 4098--4103.
+
 \bibitem[\protect\citeauthoryear{Ainsworth and Long}{Ainsworth and
   Long}{2005}]{Ainsworth2005}
 Ainsworth, E.~A. and S.~P. Long (2005).
@@ -16,6 +32,13 @@ Allen, K., J.~B. Fisher, R.~P. Phillips, J.~S. Powers, and E.~R. Brzostek
   across temperate and tropical forests}.
 \newblock {\em Frontiers in Forests and Global Change\/}~{\em 3}, 1--12.
 
+\bibitem[\protect\citeauthoryear{Allison, Czimczik, and Treseder}{Allison
+  et~al.}{2008}]{Allison2008a}
+Allison, S.~D., C.~I. Czimczik, and K.~K. Treseder (2008).
+\newblock {Microbial activity and soil respiration under nitrogen addition in
+  Alaskan boreal forest}.
+\newblock {\em Global Change Biology\/}~{\em 14\/}(5), 1156--1168.
+
 \bibitem[\protect\citeauthoryear{Andersen, Hauggaard-Nielsen, Ambus, and
   Jensen}{Andersen et~al.}{2005}]{Andersen2005}
 Andersen, M.~K., H.~Hauggaard-Nielsen, P.~Ambus, and E.~S. Jensen (2005).
@@ -30,6 +53,19 @@ Arndal, M.~F., A.~Tolver, K.~S. Larsen, C.~Beier, and I.~K. Schmidt (2018).
   CO2, warming and drought in a mixed heathland–grassland}.
 \newblock {\em Ecosystems\/}~{\em 21\/}(1), 15--30.
 
+\bibitem[\protect\citeauthoryear{Arnone}{Arnone}{1997}]{Arnone1997}
+Arnone, J.~A. (1997).
+\newblock {Indices of plant N availability in an alpine grassland under
+  elevated atmospheric CO2}.
+\newblock {\em Plant and Soil\/}~{\em 190\/}(1), 61--66.
+
+\bibitem[\protect\citeauthoryear{Bae, Fahey, Yanai, and Fisk}{Bae
+  et~al.}{2015}]{Bae2015}
+Bae, K., T.~J. Fahey, R.~D. Yanai, and M.~Fisk (2015).
+\newblock {Soil nitrogen availability affects belowground carbon allocation and
+  soil respiration in northern hardwood forests of New Hampshire}.
+\newblock {\em Ecosystems\/}~{\em 18\/}(7), 1179--1191.
+
 \bibitem[\protect\citeauthoryear{Bates, M{\"{a}}chler, Bolker, and
   Walker}{Bates et~al.}{2015}]{Bates2015}
 Bates, D., M.~M{\"{a}}chler, B.~Bolker, and S.~Walker (2015).
@@ -43,6 +79,23 @@ Bengtson, P., J.~Barker, and S.~J. Grayston (2012).
   availability, and stimulated SOM decomposition caused by rhizosphere priming
   effects}.
 \newblock {\em Ecology and Evolution\/}~{\em 2\/}(8), 1843--1852.
+
+\bibitem[\protect\citeauthoryear{Bernacchi, Singsaas, Pimentel, Portis, and
+  Long}{Bernacchi et~al.}{2001}]{Bernacchi2001}
+Bernacchi, C.~J., E.~L. Singsaas, C.~Pimentel, A.~R. Portis, and S.~P. Long
+  (2001).
+\newblock {Improved temperature response functions for models of
+  Rubisco-limited photosynthesis}.
+\newblock {\em Plant, Cell and Environment\/}~{\em 24\/}(2), 253--259.
+
+\bibitem[\protect\citeauthoryear{Bialic‐Murphy, Smith, Voothuluru, McElderry,
+  Roche, Cassidy, Kivlin, and Kalisz}{Bialic‐Murphy
+  et~al.}{2021}]{BialicMurphy2021}
+Bialic‐Murphy, L., N.~G. Smith, P.~Voothuluru, R.~M. McElderry, M.~D. Roche,
+  S.~T. Cassidy, S.~N. Kivlin, and S.~Kalisz (2021).
+\newblock {Invasion‐induced root–fungal disruptions alter plant water and
+  nitrogen economies}.
+\newblock {\em Ecology Letters\/}~{\em 24\/}(6), 1145--1156.
 
 \bibitem[\protect\citeauthoryear{Bloom, Chapin, and Mooney}{Bloom
   et~al.}{1985}]{Bloom1985}
@@ -75,6 +128,14 @@ Booth, B. B.~B., C.~D. Jones, M.~Collins, I.~J. Totterdell, P.~M. Cox,
   processes}.
 \newblock {\em Environmental Research Letters\/}~{\em 7\/}(2), 024002.
 
+\bibitem[\protect\citeauthoryear{Borer, Harpole, Adler, Lind, Orrock, Seabloom,
+  and Smith}{Borer et~al.}{2014}]{Borer2014}
+Borer, E.~T., W.~S. Harpole, P.~B. Adler, E.~M. Lind, J.~L. Orrock, E.~W.
+  Seabloom, and M.~D. Smith (2014).
+\newblock {Finding generality in ecology: A model for globally distributed
+  experiments}.
+\newblock {\em Methods in Ecology and Evolution\/}~{\em 5\/}(1), 65--73.
+
 \bibitem[\protect\citeauthoryear{Braghiere, Fisher, Allen, Brzostek, Shi, Yang,
   Ricciuto, Fisher, Zhu, and Phillips}{Braghiere et~al.}{2022}]{Braghiere2022}
 Braghiere, R.~K., J.~B. Fisher, K.~Allen, E.~Brzostek, M.~Shi, X.~Yang, D.~M.
@@ -84,6 +145,12 @@ Braghiere, R.~K., J.~B. Fisher, K.~Allen, E.~Brzostek, M.~Shi, X.~Yang, D.~M.
 \newblock {\em Journal of Advances in Modeling Earth Systems\/}~{\em 14\/}(8),
   1--23.
 
+\bibitem[\protect\citeauthoryear{Brix}{Brix}{1971}]{Brix1971}
+Brix, H. (1971).
+\newblock {Effects of nitrogen fertilization on photosynthesis and respiration
+  in Douglas-fir}.
+\newblock {\em Forest Science\/}~{\em 17\/}(4), 407--414.
+
 \bibitem[\protect\citeauthoryear{Brzostek, Fisher, and Phillips}{Brzostek
   et~al.}{2014}]{Brzostek2014FUN2}
 Brzostek, E.~R., J.~B. Fisher, and R.~P. Phillips (2014).
@@ -92,6 +159,22 @@ Brzostek, E.~R., J.~B. Fisher, and R.~P. Phillips (2014).
   retranslocation}.
 \newblock {\em Journal of Geophysical Research: Biogeosciences\/}~{\em 119},
   1684--1697.
+
+\bibitem[\protect\citeauthoryear{Bubier, Smith, Juutinen, Moore, Minocha, Long,
+  and Minocha}{Bubier et~al.}{2011}]{Bubier2011}
+Bubier, J.~L., R.~Smith, S.~Juutinen, T.~R. Moore, R.~Minocha, S.~Long, and
+  S.~Minocha (2011).
+\newblock {Effects of nutrient addition on leaf chemistry, morphology, and
+  photosynthetic capacity of three bog shrubs}.
+\newblock {\em Oecologia\/}~{\em 167\/}(2), 355--368.
+
+\bibitem[\protect\citeauthoryear{Cernusak, Ubierna, Winter, Holtum, Marshall,
+  and Farquhar}{Cernusak et~al.}{2013}]{Cernusak2013}
+Cernusak, L.~A., N.~Ubierna, K.~Winter, J.~A.~M. Holtum, J.~D. Marshall, and
+  G.~D. Farquhar (2013).
+\newblock {Environmental and physiological determinants of carbon isotope
+  discrimination in terrestrial plants}.
+\newblock {\em New Phytologist\/}~{\em 200\/}(4), 950--965.
 
 \bibitem[\protect\citeauthoryear{Clark, Mercado, Sitch, Jones, Gedney, Best,
   Pryor, Rooney, Essery, Blyth, Boucher, Harding, Huntingford, and Cox}{Clark
@@ -119,6 +202,19 @@ Cornwell, W.~K., J.~H.~C. Cornelissen, K.~Amatangelo, E.~Dorrepaal, V.~T.
   decomposition rates within biomes worldwide}.
 \newblock {\em Ecology Letters\/}~{\em 11\/}(10), 1065--1071.
 
+\bibitem[\protect\citeauthoryear{Cornwell, Wright, Turner, Maire, Barbour,
+  Cernusak, Dawson, Ellsworth, Farquhar, Griffiths, Keitel, Knohl, Reich,
+  Williams, Bhaskar, Cornelissen, Richards, Schmidt, Valladares, K{\"{o}}rner,
+  Schulze, Buchmann, and Santiago}{Cornwell et~al.}{2018}]{Cornwell2018}
+Cornwell, W.~K., I.~J. Wright, J.~Turner, V.~Maire, M.~M. Barbour, L.~A.
+  Cernusak, T.~E. Dawson, D.~S. Ellsworth, G.~D. Farquhar, H.~Griffiths,
+  C.~Keitel, A.~Knohl, P.~B. Reich, D.~G. Williams, R.~Bhaskar, J.~H.~C.
+  Cornelissen, A.~Richards, S.~Schmidt, F.~Valladares, C.~K{\"{o}}rner, E.-D.
+  Schulze, N.~Buchmann, and L.~S. Santiago (2018).
+\newblock {Climate and soils together regulate photosynthetic carbon isotope
+  discrimination within C<sub>3</sub> plants worldwide}.
+\newblock {\em Global Ecology and Biogeography\/}~{\em 27\/}(9), 1056--1067.
+
 \bibitem[\protect\citeauthoryear{Davies-Barnard, Meyerholt, Zaehle,
   Friedlingstein, Brovkin, Fan, Fisher, Jones, Lee, Peano, Smith, W{\aa}rlind,
   and Wiltshire}{Davies-Barnard et~al.}{2020}]{Davies-Barnard2020}
@@ -138,6 +234,38 @@ Delaire, M., E.~Frak, M.~Sigogne, B.~Adam, F.~Beaujard, and X.~{Le Roux}
   trees}.
 \newblock {\em Tree Physiology\/}~{\em 25\/}(2), 229--235.
 
+\bibitem[\protect\citeauthoryear{Doane and Horw{\'{a}}th}{Doane and
+  Horw{\'{a}}th}{2003}]{Doane2003}
+Doane, T.~A. and W.~R. Horw{\'{a}}th (2003).
+\newblock {Spectrophotometric determination of nitrate with a single reagent}.
+\newblock {\em Analytical Letters\/}~{\em 36\/}(12), 2713--2722.
+
+\bibitem[\protect\citeauthoryear{Dong, Prentice, Evans, Caddy-Retalic, Lowe,
+  and Wright}{Dong et~al.}{2017}]{Dong2017}
+Dong, N., I.~C. Prentice, B.~J. Evans, S.~Caddy-Retalic, A.~J. Lowe, and I.~J.
+  Wright (2017).
+\newblock {Leaf nitrogen from first principles: field evidence for adaptive
+  variation with climate}.
+\newblock {\em Biogeosciences\/}~{\em 14\/}(2), 481--495.
+
+\bibitem[\protect\citeauthoryear{Dong, Prentice, Wright, Evans, Togashi,
+  Caddy-Retalic, McInerney, Sparrow, Leitch, and Lowe}{Dong
+  et~al.}{2020}]{Dong2020}
+Dong, N., I.~C. Prentice, I.~J. Wright, B.~J. Evans, H.~F. Togashi,
+  S.~Caddy-Retalic, F.~A. McInerney, B.~Sparrow, E.~Leitch, and A.~J. Lowe
+  (2020).
+\newblock {Components of leaf‐trait variation along environmental gradients}.
+\newblock {\em New Phytologist\/}~{\em 228\/}(1), 82--94.
+
+\bibitem[\protect\citeauthoryear{Dong, Prentice, Wright, Wang, Atkin,
+  Bloomfield, Domingues, Gleason, Maire, Onoda, Poorter, and Smith}{Dong
+  et~al.}{2022}]{Dong2022a}
+Dong, N., I.~C. Prentice, I.~J. Wright, H.~Wang, O.~K. Atkin, K.~J. Bloomfield,
+  T.~F. Domingues, S.~M. Gleason, V.~Maire, Y.~Onoda, H.~Poorter, and N.~G.
+  Smith (2022).
+\newblock {Leaf nitrogen from the perspective of optimal plant function}.
+\newblock {\em Journal of Ecology\/}~{\em 110\/}(11), 2585--2602.
+
 \bibitem[\protect\citeauthoryear{Dovrat, Bakhshian, Masci, and Sheffer}{Dovrat
   et~al.}{2020}]{Dovrat2020}
 Dovrat, G., H.~Bakhshian, T.~Masci, and E.~Sheffer (2020).
@@ -153,6 +281,56 @@ Dovrat, G., T.~Masci, H.~Bakhshian, E.~{Mayzlish Gati}, S.~Golan, and
   fixation: Evidences from Mediterranean legume shrubs}.
 \newblock {\em Journal of Ecology\/}~{\em 106\/}(4), 1534--1544.
 
+\bibitem[\protect\citeauthoryear{Duursma}{Duursma}{2015}]{Duursma2015}
+Duursma, R.~A. (2015).
+\newblock {Plantecophys - An R Package for Analysing and Modelling Leaf Gas
+  Exchange Data}.
+\newblock {\em PLOS ONE\/}~{\em 10\/}(11), e0143346.
+
+\bibitem[\protect\citeauthoryear{Eastman, Adams, Brzostek, Burnham, Carrara,
+  Kelly, McNeil, Walter, and Peterjohn}{Eastman et~al.}{2021}]{Eastman2021}
+Eastman, B.~A., M.~B. Adams, E.~R. Brzostek, M.~B. Burnham, J.~E. Carrara,
+  C.~Kelly, B.~E. McNeil, C.~A. Walter, and W.~T. Peterjohn (2021).
+\newblock {Altered plant carbon partitioning enhanced forest ecosystem carbon
+  storage after 25 years of nitrogen additions}.
+\newblock {\em New Phytologist\/}~{\em 230\/}(4), 1435--1448.
+
+\bibitem[\protect\citeauthoryear{Ellsworth and Reich}{Ellsworth and
+  Reich}{1996}]{Ellsworth1996}
+Ellsworth, D.~S. and P.~B. Reich (1996).
+\newblock {Photosynthesis and leaf nitrogen in five Amazonian tree species
+  during early secondary succession}.
+\newblock {\em Ecology\/}~{\em 77\/}(2), 581--594.
+
+\bibitem[\protect\citeauthoryear{Espelta, Cort{\'{e}}s, Mangir{\'{o}}n, and
+  Retana}{Espelta et~al.}{2005}]{Espelta2005}
+Espelta, J.~M., P.~Cort{\'{e}}s, M.~Mangir{\'{o}}n, and J.~Retana (2005).
+\newblock {Differences in biomass partitioning, leaf nitrogen content, and
+  water use efficiency d13C result in similar performance of seedlings of two
+  Mediterranean oaks with contrasting leaf habit}.
+\newblock {\em Ecoscience\/}~{\em 12\/}(4), 447--454.
+
+\bibitem[\protect\citeauthoryear{Evans}{Evans}{1989}]{Evans1989_photoN}
+Evans, J.~R. (1989).
+\newblock {Photosynthesis and nitrogen relationships in leaves of C$_{3}$
+  plants}.
+\newblock {\em Oecologia\/}~{\em 78\/}(1), 9--19.
+
+\bibitem[\protect\citeauthoryear{Evans and Poorter}{Evans and
+  Poorter}{2001}]{Evans2001}
+Evans, J.~R. and H.~Poorter (2001).
+\newblock {Photosynthetic acclimation of plants to growth irradiance: the
+  relative importance of specific leaf area and nitrogen partitioning in
+  maximizing carbon gain}.
+\newblock {\em Plant, Cell and Environment\/}~{\em 24\/}(8), 755--767.
+
+\bibitem[\protect\citeauthoryear{Evans and Seemann}{Evans and
+  Seemann}{1989}]{EvansSeemann1989}
+Evans, J.~R. and J.~R. Seemann (1989).
+\newblock {The allocation of protein nitrogen in the photosynthetic apparatus:
+  costs, consequences, and control}.
+\newblock {\em Photosynthesis\/}~{\em 8}, 183--205.
+
 \bibitem[\protect\citeauthoryear{Exbrayat, Bloom, Falloon, Ito, Smallman, and
   Williams}{Exbrayat et~al.}{2018}]{Exbrayat2018}
 Exbrayat, J.-F., A.~A. Bloom, P.~Falloon, A.~Ito, T.~L. Smallman, and
@@ -161,6 +339,20 @@ Exbrayat, J.-F., A.~A. Bloom, P.~Falloon, A.~Ito, T.~L. Smallman, and
   terrestrial net primary productivity reduces global and regional
   uncertainties}.
 \newblock {\em Earth System Dynamics\/}~{\em 9\/}(1), 153--165.
+
+\bibitem[\protect\citeauthoryear{Farquhar, Ehleringer, and Hubick}{Farquhar
+  et~al.}{1989}]{Farquhar1989}
+Farquhar, G.~D., J.~R. Ehleringer, and K.~T. Hubick (1989).
+\newblock {Carbon Isotope Discrimination and Photosynthesis}.
+\newblock {\em Annual Review of Plant Physiology and Plant Molecular
+  Biology\/}~{\em 40\/}(1), 503--537.
+
+\bibitem[\protect\citeauthoryear{Farquhar, von Caemmerer, and Berry}{Farquhar
+  et~al.}{1980}]{Farquhar1980}
+Farquhar, G.~D., S.~von Caemmerer, and J.~A. Berry (1980).
+\newblock {A biochemical model of photosynthetic CO2 assimilation in leaves of
+  C3 species}.
+\newblock {\em Planta\/}~{\em 149\/}(1), 78--90.
 
 \bibitem[\protect\citeauthoryear{Fay, Prober, Harpole, Knops, Bakker, Borer,
   Lind, MacDougall, Seabloom, Wragg, Adler, Blumenthal, Buckley, Chu, Cleland,
@@ -177,6 +369,33 @@ Fay, P.~A., S.~M. Prober, W.~S. Harpole, J.~M.~H. Knops, J.~D. Bakker, E.~T.
   (2015).
 \newblock {Grassland productivity limited by multiple nutrients}.
 \newblock {\em Nature Plants\/}~{\em 1\/}(7), 15080.
+
+\bibitem[\protect\citeauthoryear{Field and Mooney}{Field and
+  Mooney}{1986}]{Field1986}
+Field, C.~B. and H.~A. Mooney (1986).
+\newblock {The photosynthesis-nitrogen relationship in wild plants}.
+\newblock In T.~J. Givnish (Ed.), {\em On the Economy of Plant Form and
+  Function}, pp.\  25--55. Cambridge: Cambridge University Press.
+
+\bibitem[\protect\citeauthoryear{Firn, McGree, Harvey, Flores~Moreno, Schutz,
+  Buckley, Borer, Seabloom, {La Pierre}, MacDougall, Prober, Stevens, Sullivan,
+  Porter, Ladouceur, Allen, Moromizato, Morgan, Harpole, Hautier, Eisenhauer,
+  Wright, Adler, Arnillas, Bakker, Biederman, Broadbent, Brown, Bugalho,
+  Caldeira, Cleland, Ebeling, Fay, Hagenah, Kleinhesselink, Mitchell, Moore,
+  Nogueira, Peri, Roscher, Smith, Wragg, and Risch}{Firn
+  et~al.}{2019}]{Firn2019}
+Firn, J., J.~M. McGree, E.~Harvey, H.~Flores~Moreno, M.~Schutz, Y.~M. Buckley,
+  E.~T. Borer, E.~W. Seabloom, K.~J. {La Pierre}, A.~M. MacDougall, S.~M.
+  Prober, C.~J. Stevens, L.~L. Sullivan, E.~Porter, E.~Ladouceur, C.~Allen,
+  K.~H. Moromizato, J.~W. Morgan, W.~S. Harpole, Y.~Hautier, N.~Eisenhauer,
+  J.~P. Wright, P.~B. Adler, C.~A. Arnillas, J.~D. Bakker, L.~Biederman,
+  A.~A.~D. Broadbent, C.~S. Brown, M.~N. Bugalho, M.~C. Caldeira, E.~E.
+  Cleland, A.~Ebeling, P.~A. Fay, N.~Hagenah, A.~R. Kleinhesselink,
+  R.~Mitchell, J.~L. Moore, C.~Nogueira, P.~L. Peri, C.~Roscher, M.~D. Smith,
+  P.~D. Wragg, and A.~C. Risch (2019).
+\newblock {Leaf nutrients, not specific leaf area, are consistent indicators of
+  elevated nutrient inputs}.
+\newblock {\em Nature Ecology and Evolution\/}~{\em 3\/}(3), 400--406.
 
 \bibitem[\protect\citeauthoryear{Fisher, Sitch, Malhi, Fisher, Huntingford, and
   Tan}{Fisher et~al.}{2010}]{Fisher2010}
@@ -227,6 +446,14 @@ Fujikake, H., A.~Yamazaki, N.~Ohtake, K.~Sueoshi, S.~Matsuhashi, T.~Ito,
   nitrate involves a decrease in sucrose supply to nodules}.
 \newblock {\em Journal of Experimental Botany\/}~{\em 54\/}(386), 1379--1388.
 
+\bibitem[\protect\citeauthoryear{Ghimire, Riley, Koven, Kattge, Rogers, Reich,
+  and Wright}{Ghimire et~al.}{2017}]{Ghimire2017}
+Ghimire, B., W.~J. Riley, C.~D. Koven, J.~Kattge, A.~Rogers, P.~B. Reich, and
+  I.~J. Wright (2017).
+\newblock {A global trait-based approach to estimate leaf nitrogen functional
+  allocation from observations:}.
+\newblock {\em Ecological Applications\/}~{\em 27\/}(5), 1421--1434.
+
 \bibitem[\protect\citeauthoryear{Giardina, Coleman, Hancock, King, Lilleskov,
   Loya, Pregitzer, Ryan, and Trettin}{Giardina et~al.}{2005}]{Giardina2005}
 Giardina, C.~P., M.~D. Coleman, J.~E. Hancock, J.~S. King, E.~A. Lilleskov,
@@ -259,10 +486,64 @@ Goll, D.~S., V.~Brovkin, B.~R. Parida, C.~H. Reick, J.~Kattge, P.~B. Reich,
   model of combined carbon, nitrogen and phosphorus cycling}.
 \newblock {\em Biogeosciences Discussions\/}~{\em 9\/}(3), 3173--3232.
 
+\bibitem[\protect\citeauthoryear{Gregory, McClain, Kramer, Pardo, Smith,
+  Tessmer, Walker, Ziccardi, and Sharkey}{Gregory et~al.}{2021}]{Gregory2021}
+Gregory, L.~M., A.~M. McClain, D.~M. Kramer, J.~D. Pardo, K.~E. Smith, O.~L.
+  Tessmer, B.~J. Walker, L.~G. Ziccardi, and T.~D. Sharkey (2021, oct).
+\newblock {The triose phosphate utilization limitation of photosynthetic rate:
+  Out of global models but important for leaf models}.
+\newblock {\em Plant, Cell and Environment\/}~{\em 44\/}(10), 3223--3226.
+
+\bibitem[\protect\citeauthoryear{Guerrieri, Mencuccini, Sheppard, Saurer,
+  Perks, Levy, Sutton, Borghetti, and Grace}{Guerrieri
+  et~al.}{2011}]{Guerrieri2011}
+Guerrieri, R., M.~Mencuccini, L.~J. Sheppard, M.~Saurer, M.~P. Perks, P.~Levy,
+  M.~A. Sutton, M.~Borghetti, and J.~Grace (2011).
+\newblock {The legacy of enhanced N and S deposition as revealed by the
+  combined analysis of $\delta$13C, $\delta$18O and $\delta$15N in tree rings}.
+\newblock {\em Global Change Biology\/}~{\em 17\/}(5), 1946--1962.
+
+\bibitem[\protect\citeauthoryear{Gulmon and Chu}{Gulmon and
+  Chu}{1981}]{Gulmon1981}
+Gulmon, S.~L. and C.~C. Chu (1981).
+\newblock {The effects of light and nitrogen on photosynthesis, leaf
+  characteristics, and dry matter allocation in the chaparral shrub,
+  <i>Diplacus aurantiacus</i>}.
+\newblock {\em Oecologia\/}~{\em 49\/}(2), 207--212.
+
 \bibitem[\protect\citeauthoryear{Gutschick}{Gutschick}{1981}]{Gutschick1981}
 Gutschick, V.~P. (1981).
 \newblock {Evolved strategies in nitrogen acquisition by plants}.
 \newblock {\em The American Naturalist\/}~{\em 118\/}(5), 607--637.
+
+\bibitem[\protect\citeauthoryear{Hallik, Niinemets, and Wright}{Hallik
+  et~al.}{2009}]{Hallik2009}
+Hallik, L., {\"{U}}.~Niinemets, and I.~J. Wright (2009).
+\newblock {Are species shade and drought tolerance reflected in leaf-level
+  structural and functional differentiation in Northern Hemisphere temperate
+  woody flora?}
+\newblock {\em New Phytologist\/}~{\em 184\/}(1), 257--274.
+
+\bibitem[\protect\citeauthoryear{Harrison, Edwards, Farquhar, Nicotra, and
+  Evans}{Harrison et~al.}{2009}]{Harrison2009}
+Harrison, M.~T., E.~J. Edwards, G.~D. Farquhar, A.~B. Nicotra, and J.~R. Evans
+  (2009).
+\newblock {Nitrogen in cell walls of sclerophyllous leaves accounts for little
+  of the variation in photosynthetic nitrogen-use efficiency}.
+\newblock {\em Plant, Cell and Environment\/}~{\em 32\/}(3), 259--270.
+
+\bibitem[\protect\citeauthoryear{Harrison, Cramer, Franklin, Prentice, Wang,
+  Br{\"{a}}nnstr{\"{o}}m, de~Boer, Dieckmann, Joshi, Keenan, Lavergne, Manzoni,
+  Mengoli, Morfopoulos, Pe{\~{n}}uelas, Pietsch, Rebel, Ryu, Smith, Stocker,
+  and Wright}{Harrison et~al.}{2021}]{Harrison2021}
+Harrison, S.~P., W.~Cramer, O.~Franklin, I.~C. Prentice, H.~Wang,
+  {\AA}.~Br{\"{a}}nnstr{\"{o}}m, H.~de~Boer, U.~Dieckmann, J.~Joshi, T.~F.
+  Keenan, A.~Lavergne, S.~Manzoni, G.~Mengoli, C.~Morfopoulos,
+  J.~Pe{\~{n}}uelas, S.~Pietsch, K.~T. Rebel, Y.~Ryu, N.~G. Smith, B.~D.
+  Stocker, and I.~J. Wright (2021).
+\newblock {Eco-evolutionary optimality as a means to improve vegetation and
+  land-surface models}.
+\newblock {\em New Phytologist\/}~{\em 231\/}(6), 2125--2141.
 
 \bibitem[\protect\citeauthoryear{Henneron, Kardol, Wardle, Cros, and
   Fontaine}{Henneron et~al.}{2020}]{Henneron2020}
@@ -270,6 +551,13 @@ Henneron, L., P.~Kardol, D.~A. Wardle, C.~Cros, and S.~Fontaine (2020).
 \newblock {Rhizosphere control of soil nitrogen cycling: a key component of
   plant economic strategies}.
 \newblock {\em New Phytologist\/}~{\em 228\/}(4), 1269--1282.
+
+\bibitem[\protect\citeauthoryear{Hikosaka and Shigeno}{Hikosaka and
+  Shigeno}{2009}]{Hikosaka2009}
+Hikosaka, K. and A.~Shigeno (2009).
+\newblock {The role of Rubisco and cell walls in the interspecific variation in
+  photosynthetic capacity}.
+\newblock {\em Oecologia\/}~{\em 160\/}(3), 443--451.
 
 \bibitem[\protect\citeauthoryear{Hoagland and Arnon}{Hoagland and
   Arnon}{1950}]{Hoagland1950}
@@ -334,6 +622,13 @@ Hungate, B.~A., J.~S. Dukes, M.~R. Shaw, Y.~Luo, and C.~B. Field (2003).
 \newblock {Nitrogen and climate change}.
 \newblock {\em Science\/}~{\em 302\/}(5650), 1512--1513.
 
+\bibitem[\protect\citeauthoryear{IPCC}{IPCC}{2021}]{IPCC2021}
+IPCC (2021).
+\newblock {\em {Climate Change 2021: The Physical Science Basis. Contribution
+  of Working Group I to the Sixth Assessment Report of the Intergovernmental
+  Panel on Climate Change}}.
+\newblock Cambridge University Press.
+
 \bibitem[\protect\citeauthoryear{Johnson, Graham, and Smith}{Johnson
   et~al.}{1997}]{Johnson1997}
 Johnson, N.~C., J.~H. Graham, and F.~A. Smith (1997).
@@ -348,6 +643,18 @@ Kaiser, C., M.~R. Kilburn, P.~L. Clode, L.~Fuchslueger, M.~Koranda, J.~B.
 \newblock {Exploring the transfer of recent plant photosynthates to soil
   microbes: mycorrhizal pathway vs direct root exudation}.
 \newblock {\em New Phytologist\/}~{\em 205\/}(4), 1537--1551.
+
+\bibitem[\protect\citeauthoryear{Katabuchi}{Katabuchi}{2015}]{Katabuchi2015}
+Katabuchi, M. (2015).
+\newblock {LeafArea: An R package for rapid digital analysis of leaf area}.
+\newblock {\em Ecological Research\/}~{\em 30\/}(6), 1073--1077.
+
+\bibitem[\protect\citeauthoryear{Kattge and Knorr}{Kattge and
+  Knorr}{2007}]{Kattge2007}
+Kattge, J. and W.~Knorr (2007).
+\newblock {Temperature acclimation in a biochemical model of photosynthesis: a
+  reanalysis of data from 36 species}.
+\newblock {\em Plant, Cell and Environment\/}~{\em 30\/}(9), 1176--1190.
 
 \bibitem[\protect\citeauthoryear{Kattge, Knorr, Raddatz, and Wirth}{Kattge
   et~al.}{2009}]{Kattge2009}
@@ -370,12 +677,30 @@ Kayler, Z., C.~Keitel, K.~Jansen, and A.~Gessler (2017).
   assimilation to rhizosphere CO<sub>2</sub> release}.
 \newblock {\em Environmental and Experimental Botany\/}~{\em 135}, 21--26.
 
+\bibitem[\protect\citeauthoryear{Keeling, Mook, and Tans}{Keeling
+  et~al.}{1979}]{Keeling1979}
+Keeling, C.~D., W.~G. Mook, and P.~P. Tans (1979, jan).
+\newblock {Recent trends in the <sup>13</sup>C/<sup>12</sup>C ratio of
+  atmospheric carbon dioxide}.
+\newblock {\em Nature\/}~{\em 277\/}(5692), 121--123.
+
 \bibitem[\protect\citeauthoryear{Kenward and Roger}{Kenward and
   Roger}{1997}]{Kenward1997}
 Kenward, M.~G. and J.~H. Roger (1997).
 \newblock {Small sample inference for fixed effects from restricted maximum
   likelihood}.
 \newblock {\em Biometrics\/}~{\em 53\/}(3), 983.
+
+\bibitem[\protect\citeauthoryear{Knapp, Avolio, Beier, Carroll, Collins, Dukes,
+  Fraser, Griffin-Nolan, Hoover, Jentsch, Loik, Phillips, Post, Sala, Slette,
+  Yahdjian, and Smith}{Knapp et~al.}{2017}]{Knapp2017}
+Knapp, A.~K., M.~L. Avolio, C.~Beier, C.~J.~W. Carroll, S.~L. Collins, J.~S.
+  Dukes, L.~H. Fraser, R.~J. Griffin-Nolan, D.~L. Hoover, A.~Jentsch, M.~E.
+  Loik, R.~P. Phillips, A.~K. Post, O.~E. Sala, I.~J. Slette, L.~Yahdjian, and
+  M.~D. Smith (2017).
+\newblock {Pushing precipitation to the extremes in distributed experiments:
+  recommendations for simulating wet and dry years}.
+\newblock {\em Global Change Biology\/}~{\em 23\/}(5), 1774--1782.
 
 \bibitem[\protect\citeauthoryear{Knorr}{Knorr}{2000}]{Knorr2000}
 Knorr, W. (2000).
@@ -431,12 +756,35 @@ LeBauer, D.~S. and K.~K. Treseder (2008).
 Lenth, R. (2019).
 \newblock emmeans: estimated marginal means, aka least-squares means.
 
+\bibitem[\protect\citeauthoryear{Li, Zhang, Huang, Liu, Wu, Zhao, and
+  McDowell}{Li et~al.}{2020}]{Li2020}
+Li, W., H.~Zhang, G.~Huang, R.~Liu, H.~Wu, C.~Zhao, and N.~G. McDowell (2020).
+\newblock {Effects of nitrogen enrichment on tree carbon allocation: A global
+  synthesis}.
+\newblock {\em Global Ecology and Biogeography\/}~{\em 29\/}(3), 573--589.
+
 \bibitem[\protect\citeauthoryear{Liang, Qi, Souza, and Luo}{Liang
   et~al.}{2016}]{Liang2016}
 Liang, J., X.~Qi, L.~Souza, and Y.~Luo (2016).
 \newblock {Processes regulating progressive nitrogen limitation under elevated
   carbon dioxide: a meta-analysis}.
 \newblock {\em Biogeosciences\/}~{\em 13\/}(9), 2689--2699.
+
+\bibitem[\protect\citeauthoryear{Liang, Zhang, Lu, Ellsworth, BassiriRad, You,
+  Wang, He, Deng, Liu, Mo, and Ye}{Liang et~al.}{2020}]{Liang2020}
+Liang, X., T.~Zhang, X.~Lu, D.~S. Ellsworth, H.~BassiriRad, C.~You, D.~Wang,
+  P.~He, Q.~Deng, H.~Liu, J.~Mo, and Q.~Ye (2020).
+\newblock {Global response patterns of plant photosynthesis to nitrogen
+  addition: A meta‐analysis}.
+\newblock {\em Global Change Biology\/}~{\em 26\/}(6), 3585--3600.
+
+\bibitem[\protect\citeauthoryear{Luo, Keenan, Chen, Croft, Prentice, Smith,
+  Walker, Wang, Wang, Xu, and Zhang}{Luo et~al.}{2021}]{Luo2021}
+Luo, X., T.~F. Keenan, J.~M. Chen, H.~Croft, I.~C. Prentice, N.~G. Smith, A.~P.
+  Walker, H.~Wang, R.~Wang, C.~Xu, and Y.~Zhang (2021).
+\newblock {Global variation in the fraction of leaf nitrogen allocated to
+  photosynthesis}.
+\newblock {\em Nature Communications\/}~{\em 12\/}(1), 4866.
 
 \bibitem[\protect\citeauthoryear{Luo, Currie, Dukes, Finzi, Hartwig, Hungate,
   McMurtrie, Oren, Parton, Pataki, Shaw, Zak, and Field}{Luo
@@ -455,25 +803,22 @@ Markham, J.~H. and C.~Zekveld (2007).
   soil nitrogen supply}.
 \newblock {\em Canadian Journal of Botany\/}~(9), 787--793.
 
-\bibitem[\protect\citeauthoryear{Masson-Delmotte, Zhai, Pirani, Connors,
-  Berger, Caud, Chen, Goldfarb, Gomis, Huang, Leitzell, Lonnoy, Matthews,
-  Maycock, Waterfield, Yelek{\c{c}}i, Yu, and Zhou}{Masson-Delmotte
-  et~al.}{2021}]{IPCC2021}
-Masson-Delmotte, V., P.~Zhai, A.~Pirani, S.~L. Connors, S.~Berger, N.~Caud,
-  Y.~Chen, L.~Goldfarb, M.~I. Gomis, M.~Huang, K.~Leitzell, E.~Lonnoy, J.~B.~R.
-  Matthews, T.~K. Maycock, T.~Waterfield, O.~Yelek{\c{c}}i, R.~Yu, and B.~Zhou
-  (Eds.) (2021).
-\newblock {\em {Climate Change 2021: The Physical Science Basis. Contribution
-  of Working Group I to the Sixth Assessment Report of the Intergovernmental
-  Panel on Climate Change}}.
-\newblock Cambridge University Press.
-
 \bibitem[\protect\citeauthoryear{Matamala and Schlesinger}{Matamala and
   Schlesinger}{2000}]{Matamala2000}
 Matamala, R. and W.~H. Schlesinger (2000).
 \newblock {Effects of elevated atmospheric CO<sub>2</sub> on fine root
   production and activity in an intact temperate forest ecosystem}.
 \newblock {\em Global Change Biology\/}~{\em 6\/}(8), 967--979.
+
+\bibitem[\protect\citeauthoryear{Medlyn, Dreyer, Ellsworth, Forstreuter,
+  Harley, Kirschbaum, {Le Roux}, Montpied, Strassemeyer, Walcroft, Wang, and
+  Loustau}{Medlyn et~al.}{2002}]{Medlyn2002}
+Medlyn, B.~E., E.~Dreyer, D.~S. Ellsworth, M.~Forstreuter, P.~C. Harley,
+  M.~U.~F. Kirschbaum, X.~{Le Roux}, P.~Montpied, J.~Strassemeyer, A.~Walcroft,
+  K.~Wang, and D.~Loustau (2002).
+\newblock {Temperature response of parameters of a biochemically based model of
+  photosynthesis. II. A review of experimental data}.
+\newblock {\em Plant, Cell and Environment\/}~{\em 25\/}(9), 1167--1179.
 
 \bibitem[\protect\citeauthoryear{Menge, Levin, and Hedin}{Menge
   et~al.}{2008}]{Menge2008}
@@ -483,6 +828,14 @@ Menge, D. N.~L., S.~A. Levin, and L.~O. Hedin (2008).
 \newblock {\em Proceedings of the National Academy of Sciences\/}~{\em
   105\/}(5), 1573--1578.
 
+\bibitem[\protect\citeauthoryear{Menne, Durre, Vose, Gleason, and
+  Houston}{Menne et~al.}{2012}]{Menne2012}
+Menne, M.~J., I.~Durre, R.~S. Vose, B.~E. Gleason, and T.~G. Houston (2012).
+\newblock {An overview of the global historical climatology network-daily
+  database}.
+\newblock {\em Journal of Atmospheric and Oceanic Technology\/}~{\em 29\/}(7),
+  897--910.
+
 \bibitem[\protect\citeauthoryear{Meyerholt, Zaehle, and Smith}{Meyerholt
   et~al.}{2016}]{Meyerholt2016}
 Meyerholt, J., S.~Zaehle, and M.~J. Smith (2016).
@@ -490,6 +843,14 @@ Meyerholt, J., S.~Zaehle, and M.~J. Smith (2016).
   levels of atmospheric CO<sub>2</sub> due to uncertainty in biological
   nitrogen fixation}.
 \newblock {\em Biogeosciences\/}~{\em 13\/}(5), 1491--1518.
+
+\bibitem[\protect\citeauthoryear{Minocha, Long, Magill, Aber, and
+  McDowell}{Minocha et~al.}{2000}]{Minocha2000}
+Minocha, R., S.~Long, A.~H. Magill, J.~D. Aber, and W.~H. McDowell (2000).
+\newblock {Foliar free polyamine and inorganic ion content in relation to soil
+  and soil solution chemistry in two fertilized forest stands at the Harvard
+  Forest, Massachusetts}.
+\newblock {\em Plant and Soil\/}~{\em 222\/}(1-2), 119--137.
 
 \bibitem[\protect\citeauthoryear{Mu{\~{n}}oz, Qi, Li, Xie, Gao, Cheung, Wong,
   and Lam}{Mu{\~{n}}oz et~al.}{2016}]{Munoz2016}
@@ -505,6 +866,14 @@ Nadelhoffer, K.~J. and J.~W. Raich (1992).
 \newblock {Fine root production estimates and belowground carbon allocation in
   forest ecosystems}.
 \newblock {\em Ecology\/}~{\em 73\/}(4), 1139--1147.
+
+\bibitem[\protect\citeauthoryear{Niinemets and Tenhunen}{Niinemets and
+  Tenhunen}{1997}]{Niinemets1997}
+Niinemets, {\"{U}}. and J.~D. Tenhunen (1997).
+\newblock {A model separating leaf structural and physiological effects on
+  carbon gain along light gradients for the shade-tolerant species <i>Acer
+  saccharum</i>}.
+\newblock {\em Plant, Cell and Environment\/}~{\em 20\/}(7), 845--866.
 
 \bibitem[\protect\citeauthoryear{Norby, Ledford, Reilly, Miller, and
   O'Neill}{Norby et~al.}{2004}]{Norby2004}
@@ -522,6 +891,31 @@ Noyce, G.~L., M.~L. Kirwan, R.~L. Rich, and J.~P. Megonigal (2019).
 \newblock {\em Proceedings of the National Academy of Sciences\/}~{\em
   116\/}(43), 21623--21628.
 
+\bibitem[\protect\citeauthoryear{Onoda, Hikosaka, and Hirose}{Onoda
+  et~al.}{2004}]{Onoda2004}
+Onoda, Y., K.~Hikosaka, and T.~Hirose (2004).
+\newblock {Allocation of nitrogen to cell walls decreases photosynthetic
+  nitrogen-use efficiency}.
+\newblock {\em Functional Ecology\/}~{\em 18\/}(3), 419--425.
+
+\bibitem[\protect\citeauthoryear{Onoda, Wright, Evans, Hikosaka, Kitajima,
+  Niinemets, Poorter, Tosens, and Westoby}{Onoda et~al.}{2017}]{Onoda2017}
+Onoda, Y., I.~J. Wright, J.~R. Evans, K.~Hikosaka, K.~Kitajima,
+  {\"{U}}.~Niinemets, H.~Poorter, T.~Tosens, and M.~Westoby (2017).
+\newblock {Physiological and structural tradeoffs underlying the leaf economics
+  spectrum}.
+\newblock {\em New Phytologist\/}~{\em 214\/}(4), 1447--1463.
+
+\bibitem[\protect\citeauthoryear{Paillassa, Wright, Prentice, Pepin, Smith,
+  Ethier, Westerband, Lamarque, Wang, Cornwell, and Maire}{Paillassa
+  et~al.}{2020}]{Paillassa2020}
+Paillassa, J., I.~J. Wright, I.~C. Prentice, S.~Pepin, N.~G. Smith, G.~Ethier,
+  A.~C. Westerband, L.~J. Lamarque, H.~Wang, W.~K. Cornwell, and V.~Maire
+  (2020).
+\newblock {When and where soil is important to modify the carbon and water
+  economy of leaves}.
+\newblock {\em New Phytologist\/}~{\em 228\/}(1), 121--135.
+
 \bibitem[\protect\citeauthoryear{Parvin, Uddin, Tausz~Posch, Armstrong, and
   Tausz}{Parvin et~al.}{2020}]{Parvin2020}
 Parvin, S., S.~Uddin, S.~Tausz~Posch, R.~Armstrong, and M.~Tausz (2020).
@@ -529,6 +923,21 @@ Parvin, S., S.~Uddin, S.~Tausz~Posch, R.~Armstrong, and M.~Tausz (2020).
   photosynthesis of faba bean (\textit{i>Vicia faba</i>}) grown under elevated
   [CO$_{2}$] and different water supply}.
 \newblock {\em New Phytologist\/}~{\em 227\/}(1), 132--145.
+
+\bibitem[\protect\citeauthoryear{Peng, Bloomfield, Cernusak, Domingues, and
+  Prentice}{Peng et~al.}{2021}]{Peng2021}
+Peng, Y., K.~J. Bloomfield, L.~A. Cernusak, T.~F. Domingues, and I.~C. Prentice
+  (2021).
+\newblock {Global climate and nutrient controls of photosynthetic capacity}.
+\newblock {\em Communications Biology\/}~{\em 4\/}(1), 462.
+
+\bibitem[\protect\citeauthoryear{Perkowski, Waring, and Smith}{Perkowski
+  et~al.}{2021}]{Perkowski2021}
+Perkowski, E.~A., E.~F. Waring, and N.~G. Smith (2021).
+\newblock {Root mass carbon costs to acquire nitrogen are determined by
+  nitrogen and light availability in two species with different nitrogen
+  acquisition strategies}.
+\newblock {\em Journal of Experimental Botany\/}~{\em 72\/}(15), 5766--5776.
 
 \bibitem[\protect\citeauthoryear{Phillips, Brzostek, and Midgley}{Phillips
   et~al.}{2013}]{Phillips2013}
@@ -544,6 +953,13 @@ Phillips, R.~P., A.~C. Finzi, and E.~S. Bernhardt (2011).
   a pine forest under long-term CO2 fumigation}.
 \newblock {\em Ecology Letters\/}~{\em 14\/}(2), 187--194.
 
+\bibitem[\protect\citeauthoryear{Pons and Pearcy}{Pons and
+  Pearcy}{1994}]{Pons1994}
+Pons, T.~L. and R.~W. Pearcy (1994).
+\newblock {Nitrogen reallocation and photosynthetic acclimation in response to
+  partial shading in soybean plants}.
+\newblock {\em Physiologia Plantarum\/}~{\em 92\/}(4), 636--644.
+
 \bibitem[\protect\citeauthoryear{Poorter, B{\"{u}}hler, {Van Dusschoten},
   Climent, and Postma}{Poorter et~al.}{2012}]{Poorter2012}
 Poorter, H., J.~B{\"{u}}hler, D.~{Van Dusschoten}, J.~Climent, and J.~A. Postma
@@ -552,12 +968,29 @@ Poorter, H., J.~B{\"{u}}hler, D.~{Van Dusschoten}, J.~Climent, and J.~A. Postma
   on plant growth}.
 \newblock {\em Functional Plant Biology\/}~{\em 39\/}(11), 839--850.
 
+\bibitem[\protect\citeauthoryear{Prentice, Dong, Gleason, Maire, and
+  Wright}{Prentice et~al.}{2014}]{Prentice2014}
+Prentice, I.~C., N.~Dong, S.~M. Gleason, V.~Maire, and I.~J. Wright (2014).
+\newblock {Balancing the costs of carbon gain and water transport: testing a
+  new theoretical framework for plant functional ecology}.
+\newblock {\em Ecology Letters\/}~{\em 17\/}(1), 82--91.
+
 \bibitem[\protect\citeauthoryear{Prentice, Liang, Medlyn, and Wang}{Prentice
   et~al.}{2015}]{Prentice2015}
 Prentice, I.~C., X.~Liang, B.~E. Medlyn, and Y.-P. Wang (2015).
 \newblock {Reliable, robust and realistic: The three R's of next-generation
   land-surface modelling}.
 \newblock {\em Atmospheric Chemistry and Physics\/}~{\em 15}, 5987--6005.
+
+\bibitem[\protect\citeauthoryear{Querejeta, Prieto, Armas, Casanoves,
+  Di{\'{e}}m{\'{e}}, Diouf, Yossi, Kaya, Pugnaire, and Rusch}{Querejeta
+  et~al.}{2022}]{Querejeta2022}
+Querejeta, J.~I., I.~Prieto, C.~Armas, F.~Casanoves, J.~S. Di{\'{e}}m{\'{e}},
+  M.~Diouf, H.~Yossi, B.~Kaya, F.~I. Pugnaire, and G.~M. Rusch (2022).
+\newblock {Higher leaf nitrogen content is linked to tighter stomatal
+  regulation of transpiration and more efficient water use across dryland
+  trees}.
+\newblock {\em New Phytologist\/}~{\em 235\/}(4), 1351--1364.
 
 \bibitem[\protect\citeauthoryear{{R Core Team}}{{R Core
   Team}}{2021}]{RCoreTeam2021}
@@ -577,6 +1010,19 @@ Rastetter, E.~B., P.~M. Vitousek, C.~B. Field, G.~R. Shaver, D.~Herbert, and
   G.~I. {\AA}gren (2001).
 \newblock {Resource optimization and symbiotic nitrogen fixation}.
 \newblock {\em Ecosystems\/}~{\em 4\/}(4), 369--388.
+
+\bibitem[\protect\citeauthoryear{Reich}{Reich}{2014}]{Reich2014}
+Reich, P.~B. (2014).
+\newblock {The world-wide 'fast-slow' plant economics spectrum: a traits
+  manifesto}.
+\newblock {\em Journal of Ecology\/}~{\em 102\/}(2), 275--301.
+
+\bibitem[\protect\citeauthoryear{Rhine, Mulvaney, Pratt, and Sims}{Rhine
+  et~al.}{1998}]{Rhine1998}
+Rhine, E.~D., R.~L. Mulvaney, E.~J. Pratt, and G.~K. Sims (1998).
+\newblock {Improving the Berthelot reaction for determining ammonium in soil
+  extracts and water}.
+\newblock {\em Soil Science Society of America Journal\/}~{\em 62\/}(2), 473.
 
 \bibitem[\protect\citeauthoryear{Rogers}{Rogers}{2014}]{Rogers2014}
 Rogers, A. (2014).
@@ -623,6 +1069,20 @@ Schaefer, K., C.~R. Schwalm, C.~Williams, M.~A. Arain, A.~Barr, J.~M. Chen,
 \newblock {\em Journal of Geophysical Research: Biogeosciences\/}~{\em
   117\/}(G3), G03010.
 
+\bibitem[\protect\citeauthoryear{Schneider, Rasband, and Eliceiri}{Schneider
+  et~al.}{2012}]{Schneider2012}
+Schneider, C.~A., W.~S. Rasband, and K.~W. Eliceiri (2012).
+\newblock {NIH Image to ImageJ: 25 years of image analysis.}
+\newblock {\em Nature Methods\/}~{\em 9\/}(7), 671--675.
+
+\bibitem[\protect\citeauthoryear{Scott and Smith}{Scott and
+  Smith}{2022}]{Scott2022}
+Scott, H.~G. and N.~G. Smith (2022).
+\newblock {A Model of C4 Photosynthetic Acclimation Based on Least-Cost
+  Optimality Theory Suitable for Earth System Model Incorporation}.
+\newblock {\em Journal of Advances in Modeling Earth Systems\/}~{\em 14\/}(3),
+  1--16.
+
 \bibitem[\protect\citeauthoryear{Shi, Fisher, Brzostek, and Phillips}{Shi
   et~al.}{2016}]{Shi2016}
 Shi, M., J.~B. Fisher, E.~R. Brzostek, and R.~P. Phillips (2016).
@@ -644,6 +1104,18 @@ Smith, N.~G. and J.~S. Dukes (2013).
   incorporating acclimation to temperature and CO 2}.
 \newblock {\em Global Change Biology\/}~{\em 19\/}(1), 45--63.
 
+\bibitem[\protect\citeauthoryear{Smith, Keenan, Prentice, Wang, Wright,
+  Niinemets, Crous, Domingues, Guerrieri, oko Ishida, Kattge, Kruger, Maire,
+  Rogers, Serbin, Tarvainen, Togashi, Townsend, Wang, Weerasinghe, and
+  Zhou}{Smith et~al.}{2019}]{Smith2019}
+Smith, N.~G., T.~F. Keenan, I.~C. Prentice, H.~Wang, I.~J. Wright,
+  {\"{U}}.~Niinemets, K.~Y. Crous, T.~F. Domingues, R.~Guerrieri, F.~oko
+  Ishida, J.~Kattge, E.~L. Kruger, V.~Maire, A.~Rogers, S.~P. Serbin,
+  L.~Tarvainen, H.~F. Togashi, P.~A. Townsend, M.~Wang, L.~K. Weerasinghe, and
+  S.-X. Zhou (2019).
+\newblock {Global photosynthetic capacity is optimized to the environment}.
+\newblock {\em Ecology Letters\/}~{\em 22\/}(3), 506--517.
+
 \bibitem[\protect\citeauthoryear{Smith, Lombardozzi, Tawfik, Bonan, and
   Dukes}{Smith et~al.}{2017}]{Smith2017}
 Smith, N.~G., D.~L. Lombardozzi, A.~Tawfik, G.~B. Bonan, and J.~S. Dukes
@@ -661,6 +1133,14 @@ Smith, N.~G., S.~L. Malyshev, E.~Shevliakova, J.~Kattge, and J.~S. Dukes
   to climate}.
 \newblock {\em Nature Climate Change\/}~{\em 6\/}(4), 407--411.
 
+\bibitem[\protect\citeauthoryear{{Soil Survey Staff}}{{Soil Survey
+  Staff}}{2022}]{SoilSurveyStaff2022}
+{Soil Survey Staff} (2022).
+\newblock {Web Soil Survey}.
+\newblock {\em Natural Resources Conservation Service, United States Department
+  of Agriculture, Available online at the following link:
+  http://websoilsurvey.sc.egov.usda.gov/. Accessed 11/18/2022\/}.
+
 \bibitem[\protect\citeauthoryear{Soudzilovskaia, Douma, Akhmetzhanova, van
   Bodegom, Cornwell, Moens, Treseder, and Cornelissen}{Soudzilovskaia
   et~al.}{2015}]{Soudzilovskaia2015}
@@ -677,6 +1157,13 @@ Sulman, B.~N., E.~Shevliakova, E.~R. Brzostek, S.~N. Kivlin, S.~L. Malyshev,
 \newblock {Diverse mycorrhizal associations enhance terrestrial C storage in a
   global model}.
 \newblock {\em Global Biogeochemical Cycles\/}~{\em 33\/}(4), 501--523.
+
+\bibitem[\protect\citeauthoryear{Sweet, Wolfe, DeGaetano, and Benner}{Sweet
+  et~al.}{2017}]{Sweet2017}
+Sweet, S.~K., D.~W. Wolfe, A.~DeGaetano, and R.~Benner (2017).
+\newblock {Anatomy of the 2016 drought in the Northeastern United States:
+  Implications for agriculture and water resources in humid climates}.
+\newblock {\em Agricultural and Forest Meteorology\/}~{\em 247}, 571--581.
 
 \bibitem[\protect\citeauthoryear{Taylor and Menge}{Taylor and
   Menge}{2018}]{Taylor2018}
@@ -737,6 +1224,14 @@ van Diepen, L. T.~A., E.~A. Lilleskov, K.~S. Pregitzer, and R.~M. Miller
   exposed to chronic nitrogen additions}.
 \newblock {\em New Phytologist\/}~{\em 176\/}(1), 175--183.
 
+\bibitem[\protect\citeauthoryear{Viet, Kwak, Lee, Lim, Matsushima, Chang, Lee,
+  and Choi}{Viet et~al.}{2013}]{Viet2013}
+Viet, H.~D., J.-H. Kwak, K.-S. Lee, S.-S. Lim, M.~Matsushima, S.~X. Chang,
+  K.-H. Lee, and W.-J. Choi (2013).
+\newblock {Foliar chemistry and tree ring $\delta$<sup>13</sup>C of <i>Pinus
+  densiflora</i> in relation to tree growth along a soil pH gradient}.
+\newblock {\em Plant and Soil\/}~{\em 363\/}(1-2), 101--112.
+
 \bibitem[\protect\citeauthoryear{Vitousek, Cassman, Cleveland, Crews, Field,
   Grimm, Howarth, Marino, Martinelli, Rastetter, and Sprent}{Vitousek
   et~al.}{2002}]{Vitousek2002}
@@ -772,12 +1267,36 @@ Walker, A.~P., A.~P. Beckerman, L.~Gu, J.~Kattge, L.~A. Cernusak, T.~F.
   meta-analysis and modeling study}.
 \newblock {\em Ecology and Evolution\/}~{\em 4\/}(16), 3218--3235.
 
+\bibitem[\protect\citeauthoryear{Wang, Prentice, Keenan, Davis, Wright,
+  Cornwell, Evans, and Peng}{Wang et~al.}{2017}]{Wang2017}
+Wang, H., I.~C. Prentice, T.~F. Keenan, T.~W. Davis, I.~J. Wright, W.~K.
+  Cornwell, B.~J. Evans, and C.~Peng (2017).
+\newblock {Towards a universal model for carbon dioxide uptake by plants}.
+\newblock {\em Nature Plants\/}~{\em 3\/}(9), 734--741.
+
 \bibitem[\protect\citeauthoryear{Wang, Wang, Hoch, Wang, and Gu}{Wang
   et~al.}{2018}]{Wang2018}
 Wang, W., Y.~Wang, G.~Hoch, Z.~Wang, and J.~Gu (2018).
 \newblock {Linkage of root morphology to anatomy with increasing nitrogen
   availability in six temperate tree species}.
 \newblock {\em Plant and Soil\/}~{\em 425\/}(1-2), 189--200.
+
+\bibitem[\protect\citeauthoryear{Weatherburn}{Weatherburn}{1967}]{Weatherburn1967}
+Weatherburn, M.~W. (1967).
+\newblock {Phenol-hypochlorite reaction for determination of ammonia}.
+\newblock {\em Analytical Chemistry\/}~{\em 39\/}(8), 971--974.
+
+\bibitem[\protect\citeauthoryear{Westerband, Wright, Maire, Paillassa,
+  Prentice, Atkin, Bloomfield, Cernusak, Dong, Gleason, {Guilherme Pereira},
+  Lambers, Leishman, Malhi, and Nolan}{Westerband
+  et~al.}{2023}]{Westerband2023}
+Westerband, A.~C., I.~J. Wright, V.~Maire, J.~Paillassa, I.~C. Prentice, O.~K.
+  Atkin, K.~J. Bloomfield, L.~A. Cernusak, N.~Dong, S.~M. Gleason,
+  C.~{Guilherme Pereira}, H.~Lambers, M.~R. Leishman, Y.~Malhi, and R.~H. Nolan
+  (2023).
+\newblock {Coordination of photosynthetic traits across soil and climate
+  gradients}.
+\newblock {\em Global Change Biology\/}~{\em 29\/}(3), 1--29.
 
 \bibitem[\protect\citeauthoryear{Wieder, Cleveland, Smith, and
   Todd-Brown}{Wieder et~al.}{2015}]{Wieder2015_NPP}
@@ -795,6 +1314,26 @@ Wieder, W.~R., D.~M. Lawrence, R.~A. Fisher, G.~B. Bonan, S.~J. Cheng, C.~L.
 \newblock {Beyond static benchmarking: using experimental manipulations to
   evaluate land model assumptions}.
 \newblock {\em Global Biogeochemical Cycles\/}~{\em 33\/}(10), 1289--1309.
+
+\bibitem[\protect\citeauthoryear{Wright, Reich, and Westoby}{Wright
+  et~al.}{2003}]{Wright2003}
+Wright, I.~J., P.~B. Reich, and M.~Westoby (2003).
+\newblock {Least-cost input mixtures of water and nitrogen for photosynthesis}.
+\newblock {\em The American Naturalist\/}~{\em 161\/}(1), 98--111.
+
+\bibitem[\protect\citeauthoryear{Wright, Reich, Westoby, Ackerly, Baruch,
+  Bongers, Cavender-Bares, Chapin, Cornelissen, Diemer, Flexas, Garnier, Groom,
+  Gulias, Hikosaka, Lamont, Lee, Lee, Lusk, Midgley, Navas, Niinemets, Oleksyn,
+  Osada, Poorter, Poot, Prior, Pyankov, Roumet, Thomas, Tjoelker, Veneklaas,
+  and Villar}{Wright et~al.}{2004}]{Wright2004}
+Wright, I.~J., P.~B. Reich, M.~Westoby, D.~D. Ackerly, Z.~Baruch, F.~Bongers,
+  J.~Cavender-Bares, T.~Chapin, J.~H.~C. Cornelissen, M.~Diemer, J.~Flexas,
+  E.~Garnier, P.~K. Groom, J.~Gulias, K.~Hikosaka, B.~B. Lamont, T.~Lee,
+  W.~Lee, C.~Lusk, J.~J. Midgley, M.-L. Navas, {\"{U}}.~Niinemets, J.~Oleksyn,
+  N.~Osada, H.~Poorter, P.~Poot, L.~Prior, V.~I. Pyankov, C.~Roumet, S.~C.
+  Thomas, M.~G. Tjoelker, E.~J. Veneklaas, and R.~Villar (2004).
+\newblock {The worldwide leaf economics spectrum}.
+\newblock {\em Nature\/}~{\em 428\/}(6985), 821--827.
 
 \bibitem[\protect\citeauthoryear{Xu-Ri and Prentice}{Xu-Ri and
   Prentice}{2017}]{Xu-Ri2017}
@@ -818,6 +1357,14 @@ Zhu, Q., W.~J. Riley, J.~Tang, N.~Collier, F.~M. Hoffman, X.~Yang, and G.~Bisht
   E3SM land model: development and global benchmarking}.
 \newblock {\em Journal of Advances in Modeling Earth Systems\/}~{\em 11\/}(7),
   2238--2258.
+
+\bibitem[\protect\citeauthoryear{Ziegler, Dusenge, Nyirambangutse, Zibera,
+  Wallin, and Uddling}{Ziegler et~al.}{2020}]{Ziegler2020}
+Ziegler, C., M.~E. Dusenge, B.~Nyirambangutse, E.~Zibera, G.~Wallin, and
+  J.~Uddling (2020).
+\newblock {Contrasting Dependencies of Photosynthetic Capacity on Leaf Nitrogen
+  in Early- and Late-Successional Tropical Montane Tree Species}.
+\newblock {\em Frontiers in Plant Science\/}~{\em 11}, 1--12.
 
 \bibitem[\protect\citeauthoryear{Ziehn, Kattge, Knorr, and Scholze}{Ziehn
   et~al.}{2011}]{Ziehn2011}

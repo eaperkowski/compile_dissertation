@@ -4,47 +4,49 @@ The top-level auxiliary file: Perkowski_dissertation_main_v1.0.aux
 A level-1 auxiliary file: ch4_TXeco/ch4_TXeco_main.aux
 The style file: chicago.bst
 Database file #1: reference_list.bib
-Warning--missing author in IPCC2021
+Warning--can't use both author and editor fields in IPCC2021
 Warning--no volume for Markham2007
-You've used 101 entries,
+Warning--no number and no volume in SoilSurveyStaff2022
+Warning--page numbers missing in SoilSurveyStaff2022
+You've used 169 entries,
             2861 wiz_defined-function locations,
-            1269 strings with 33279 characters,
-and the built_in function-call counts, 109400 in all, are:
-= -- 7518
-> -- 12692
-< -- 3
-+ -- 4144
-- -- 4236
-* -- 12419
-:= -- 20610
-add.period$ -- 303
-call.type$ -- 101
-change.case$ -- 1182
-chr.to.int$ -- 101
-cite$ -- 103
-duplicate$ -- 1826
-empty$ -- 4435
-format.name$ -- 4616
-if$ -- 19753
+            1680 strings with 52187 characters,
+and the built_in function-call counts, 182579 in all, are:
+= -- 12582
+> -- 21095
+< -- 4
++ -- 6887
+- -- 7063
+* -- 20687
+:= -- 34406
+add.period$ -- 508
+call.type$ -- 169
+change.case$ -- 1971
+chr.to.int$ -- 169
+cite$ -- 173
+duplicate$ -- 3055
+empty$ -- 7423
+format.name$ -- 7679
+if$ -- 32925
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 100
-newline$ -- 506
-num.names$ -- 1013
-pop$ -- 898
+missing$ -- 169
+newline$ -- 846
+num.names$ -- 1694
+pop$ -- 1486
 preamble$ -- 1
-purify$ -- 1790
+purify$ -- 2987
 quote$ -- 0
-skip$ -- 1826
+skip$ -- 3052
 stack$ -- 0
-substring$ -- 4413
-swap$ -- 605
-text.length$ -- 3
+substring$ -- 7452
+swap$ -- 1016
+text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 2000
-warning$ -- 2
-while$ -- 883
+type$ -- 3360
+warning$ -- 4
+while$ -- 1507
 width$ -- 0
-write$ -- 1317
-(There were 2 warnings)
+write$ -- 2204
+(There were 4 warnings)
