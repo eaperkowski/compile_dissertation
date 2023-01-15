@@ -8,45 +8,45 @@ Warning--can't use both author and editor fields in IPCC2021
 Warning--no volume for Markham2007
 Warning--no number and no volume in SoilSurveyStaff2022
 Warning--page numbers missing in SoilSurveyStaff2022
-You've used 169 entries,
+You've used 200 entries,
             2861 wiz_defined-function locations,
-            1680 strings with 52187 characters,
-and the built_in function-call counts, 182579 in all, are:
-= -- 12582
-> -- 21095
+            1861 strings with 59943 characters,
+and the built_in function-call counts, 214780 in all, are:
+= -- 14854
+> -- 24703
 < -- 4
-+ -- 6887
-- -- 7063
-* -- 20687
-:= -- 34406
-add.period$ -- 508
-call.type$ -- 169
-change.case$ -- 1971
-chr.to.int$ -- 169
-cite$ -- 173
-duplicate$ -- 3055
-empty$ -- 7423
-format.name$ -- 7679
-if$ -- 32925
++ -- 8063
+- -- 8291
+* -- 24256
+:= -- 40472
+add.period$ -- 601
+call.type$ -- 200
+change.case$ -- 2315
+chr.to.int$ -- 200
+cite$ -- 204
+duplicate$ -- 3610
+empty$ -- 8776
+format.name$ -- 9015
+if$ -- 38718
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 169
-newline$ -- 846
-num.names$ -- 1694
-pop$ -- 1486
+missing$ -- 201
+newline$ -- 1001
+num.names$ -- 2004
+pop$ -- 1742
 preamble$ -- 1
-purify$ -- 2987
+purify$ -- 3518
 quote$ -- 0
-skip$ -- 3052
+skip$ -- 3625
 stack$ -- 0
-substring$ -- 7452
-swap$ -- 1016
+substring$ -- 8818
+swap$ -- 1198
 text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 3360
+type$ -- 3970
 warning$ -- 4
-while$ -- 1507
+while$ -- 1804
 width$ -- 0
-write$ -- 2204
+write$ -- 2607
 (There were 4 warnings)
