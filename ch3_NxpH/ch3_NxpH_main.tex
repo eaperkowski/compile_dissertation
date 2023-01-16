@@ -146,72 +146,436 @@
 
     \subsection{\textit{Leaf N content}}
     
-    Increasing soil N availability generally increased $N_\mathrm{area}$ (Table 3.1; Fig. 3.1a). This pattern was driven by an increase in $N_\mathrm{mass}$ (Table 3.1; Fig. 3.1c) and a marginal increase in Marea (Table 1; Fig. 1e) with increasing soil N availability. There was no effect of soil pH on $N_\mathrm{area}$, $N_\mathrm{mass}$, or $M_\mathrm{area}$ (Table 1); however, we did observe strong differences in $N_\mathrm{area}$ (Fig. 1b), $N_\mathrm{mass}$ (Fig. 1d), and $M_\mathrm{area}$ (Fig. 1e) between species (Table 1).
+    Increasing soil N availability generally increased $N_\mathrm{area}$ (Table \ref{tab:table3.1}; Fig. \ref{fig:figure3.1}a). This pattern was driven by an increase in $N_\mathrm{mass}$ (Table \ref{tab:table3.1}; Fig. \ref{fig:figure3.1}c) and a marginal increase in $M_\mathrm{area}$ (Table \ref{tab:table3.1}; Fig. \ref{fig:figure3.1}e) with increasing soil N availability. There was no effect of soil pH on $N_\mathrm{area}$, $N_\mathrm{mass}$, or $M_\mathrm{area}$ (Table \ref{tab:table3.1}); however, we did observe strong differences in $N_\mathrm{area}$ (Fig. \ref{fig:figure3.1}b), $N_\mathrm{mass}$ (Fig. \ref{fig:figure3.1}d), and $M_\mathrm{area}$ (Fig. \ref{fig:figure3.1}e) between species (Table \ref{tab:table3.1}).
     \clearpage
 
     \newpage
-    [placeholder for Table 1]
+    \begin{landscape}
+        \begin{table}[]
+        \centering
+        \caption{Effects of soil N availability, soil pH, and species on leaf N content per unit leaf area ($N_\mathrm{area}$), leaf N content per unit leaf mass ($N_\mathrm{mass}$), and leaf mass per unit leaf area ($M_\mathrm{area}$)}
+        \resizebox{\columnwidth}{!}{
+        \begin{tabular}{p{2.5cm}p{0.5cm}p{2cm}p{1.5cm}p{1.5cm}p{2cm}p{1.5cm}p{1.5cm}p{2cm}p{1.5cm}p{1.5cm}}
+                 && 
+                 \multicolumn{3}{l}{$N_\mathrm{area}$} 
+                 & \multicolumn{3}{l}{$N_\mathrm{mass}$} 
+                 & \multicolumn{3}{l}{$M_\mathrm{area}$} 
+                 \\
+                 \hline 
+                 & 
+                 \multicolumn{1}{r}{df} 
+                 & \multicolumn{1}{r}{Coefficient} & \multicolumn{1}{r}{$\chi^{2}$} & \multicolumn{1}{r}{\textit{p}} 
+                 & \multicolumn{1}{r}{Coefficient} & \multicolumn{1}{r}{$\chi^{2}$} & \multicolumn{1}{r}{\textit{p}} 
+                 & \multicolumn{1}{r}{Coefficient} & \multicolumn{1}{r}{$\chi^{2}$} & \multicolumn{1}{r}{\textit{p}} 
+                 \\ 
+                 \hline
+
+                 Intercept & \multicolumn{1}{r}{-} 
+                 &  \multicolumn{1}{r}{9.03E-01} & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{-}
+                 &  \multicolumn{1}{r}{1.68E+00} & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{-}
+                 &  \multicolumn{1}{r}{4.60E+01} & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{-} 
+                 \\
+
+                 Soil N & \multicolumn{1}{r}{1}
+                 & \multicolumn{1}{r}{1.68E-02} & \multicolumn{1}{r}{11.990} & \multicolumn{1}{r}{\textbf{0.001}}
+                 & \multicolumn{1}{r}{1.25E-02}  & \multicolumn{1}{r}{6.902} & \multicolumn{1}{r}{\textbf{0.009}}
+                 & \multicolumn{1}{r}{4.87E-01}  & \multicolumn{1}{r}{4.143} & \multicolumn{1}{r}{\textbf{0.042}} 
+                 \\
+
+
+                 Soil pH & \multicolumn{1}{r}{1}
+                 & \multicolumn{1}{r}{9.28E-02} & \multicolumn{1}{r}{0.836} & \multicolumn{1}{r}{0.361}
+                 & \multicolumn{1}{r}{8.08E-02} & \multicolumn{1}{r}{0.663} & \multicolumn{1}{r}{0.415}
+                 & \multicolumn{1}{r}{4.05E+00} & \multicolumn{1}{r}{0.653} & \multicolumn{1}{r}{0.419} 
+                 \\
+
+                 Species & \multicolumn{1}{r}{4}
+                 & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{72.128} &  \multicolumn{1}{r}{\textbf{\textless{}0.001}}
+                 & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{35.074} &  \multicolumn{1}{r}{\textbf{\textless{}0.001}}
+                 & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{29.869} &  \multicolumn{1}{r}{\textbf{\textless{}0.001}}
+                 \\
+                 \hline
+
+                 &&&&&&&&&& 
+                 \\
+
+                 \multicolumn{11}{p{22.5cm}}{\textsuperscript{$*$}Significance determined using Type II Wald $\chi^{2}$ tests ($\alpha$ = 0.05). \textit{P}-values < 0.05 are in bold.}
+        \end{tabular}}
+        \label{tab:table3.1}
+        \end{table}
+    \end{landscape}
     \clearpage
 
     \newpage
-    [placeholder for Fig 1]
+    \begin{figure}
+        \includegraphics[width=\textwidth]{ch3_NxpH/figs/NxS_fig1_leafn.png}
+        \centering
+        \caption[Effects of soil N availability and species on leaf N content per unit leaf area, leaf nitrogen content per unit leaf biomass, and leaf mass per leaf area]{Effects of soil N availability and species on leaf N content per unit leaf area (a-b), leaf nitrogen content per unit leaf biomass (c-d), and leaf mass per leaf area (e-f). Soil N availability is represented on the x-axis in the left column of panels, while species is represented on the x-axis in the right column of panels. Tree species are represented as colored points and treatment plots are represented as shaped points, jittered for visibility. Species are abbreviated in the right column of panels through their assigned NRCS PLANTS Database symbol \shortcite{USDANRCS2022}, grouped along the x-axis per common mycorrhizal association, where the first three species commonly associate with arbuscular mycorrhizae (ACRU, ASCA, FAGR) and the second two species with ectomycorrhizae (FAGR, QURU). Trendlines are only included when the regression slope is statistically different from zero (\textit{p} < 0.05).}
+        \label{fig:figure3.1}
+    \end{figure}
     \clearpage
-
 
     \newpage
     \subsection{\textit{Net photosynthesis and leaf biochemistry}}
 
-    Increasing soil N availability generally had no effect on $A_\mathrm{net}$, $V_\mathrm{cmax25}$, $J_\mathrm{max25}$, or $J_\mathrm{max25}$:$V_\mathrm{cmax25}$ (Figs. 2a, 2d, 2g). We also observed strong species effects on all measured leaf photosynthetic traits (Table 2; Figs. 2b, 2e, 2h). Increasing soil pH had a marginal negative effect on $A_\mathrm{net}$, but had no effect on $V_\mathrm{cmax25}$, $J_\mathrm{max25}$, or $J_\mathrm{max25}$:$V_\mathrm{cmax25}$(Table 2). There was a weak positive effect of increasing $N_\mathrm{area}$ on $A_\mathrm{net}$ (Fig. 2c), but quite strong positive effects of increasing $N_\mathrm{area}$ on $V_\mathrm{cmax25}$ and $J_\mathrm{max25}$ (Table 2; Fig. 2f and 2i).
+    Increasing soil N availability generally had no effect on $A_\mathrm{net}$, $V_\mathrm{cmax25}$, $J_\mathrm{max25}$, or $J_\mathrm{max25}$:$V_\mathrm{cmax25}$ (Table \ref{tab:table3.2}, Figs. \ref{fig:figure3.2}a, \ref{fig:figure3.2}d, \ref{fig:figure3.2}g). We also observed strong species effects on all measured leaf photosynthetic traits (Table \ref{tab:table3.2}; Figs. \ref{fig:figure3.2}b, \ref{fig:figure3.2}e, \ref{fig:figure3.2}h). Increasing soil pH had a marginal negative effect on $A_\mathrm{net}$, but had no effect on $V_\mathrm{cmax25}$, $J_\mathrm{max25}$, or $J_\mathrm{max25}$:$V_\mathrm{cmax25}$ (Table \ref{tab:table3.2}). There was a weak positive effect of increasing $N_\mathrm{area}$ on $A_\mathrm{net}$ (Fig. \ref{fig:figure3.2}c), but quite strong positive effects of increasing $N_\mathrm{area}$ on $V_\mathrm{cmax25}$ and $J_\mathrm{max25}$ (Table \ref{tab:table3.2}; Fig. \ref{fig:figure3.2}f and \ref{fig:figure3.2}i).
     \clearpage
     
     \newpage
-    [placeholder for Table 2]
+    \begin{landscape}
+        \begin{table}[]
+        \centering
+        \caption{Effects of soil N availability, soil pH, species, and $N_\mathrm{area}$ on leaf biochemistry}
+        \resizebox{\columnwidth}{!}{
+        \begin{tabular}{p{2.5cm}p{0.5cm}p{2cm}p{1.5cm}p{1.5cm}p{2cm}p{1.5cm}p{1.5cm}p{2cm}p{1.5cm}p{1.5cm}}
+                 && 
+                 \multicolumn{3}{l}{$A_{\mathrm{net}}$} 
+                 & \multicolumn{3}{l}{$V_{\mathrm{cmax25}}$} 
+                 & \multicolumn{3}{l}{$J_{\mathrm{max25}}$} 
+                 \\
+                 \hline 
+                 & 
+                 \multicolumn{1}{r}{df} 
+                 & \multicolumn{1}{r}{Coefficient} & \multicolumn{1}{r}{$\chi^{2}$} & \multicolumn{1}{r}{\textit{p}} 
+                 & \multicolumn{1}{r}{Coefficient} & \multicolumn{1}{r}{$\chi^{2}$} & \multicolumn{1}{r}{\textit{p}} 
+                 & \multicolumn{1}{r}{Coefficient} & \multicolumn{1}{r}{$\chi^{2}$} & \multicolumn{1}{r}{\textit{p}} 
+                 \\ 
+                 \hline
+
+                 (Intercept) & \multicolumn{1}{r}{-} 
+                 &  \multicolumn{1}{r}{3.29E+00\textsuperscript{b}} & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{-}
+                 &  \multicolumn{1}{r}{6.38E+01}                    & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{-}
+                 &  \multicolumn{1}{r}{1.12E+02}                    & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{-} 
+                 \\
+
+                 Soil N & \multicolumn{1}{r}{1}
+                 & \multicolumn{1}{r}{-1.23E-03\textsuperscript{b}} & \multicolumn{1}{r}{1.798} & \multicolumn{1}{r}{0.180}
+                 & \multicolumn{1}{r}{-3.84E-01}                    & \multicolumn{1}{r}{1.745} & \multicolumn{1}{r}{0.187}
+                 & \multicolumn{1}{r}{-6.70E-01}                    & \multicolumn{1}{r}{2.172} & \multicolumn{1}{r}{0.141} 
+                 \\
+
+
+                 Soil pH & \multicolumn{1}{r}{1}
+                 & \multicolumn{1}{r}{-3.09E-01\textsuperscript{b}} & \multicolumn{1}{r}{3.312} & \multicolumn{1}{r}{\textit{0.069}}
+                 & \multicolumn{1}{r}{-4.91E+00}                    & \multicolumn{1}{r}{0.655} & \multicolumn{1}{r}{0.418}
+                 & \multicolumn{1}{r}{-8.18E+00}                    & \multicolumn{1}{r}{0.742} & \multicolumn{1}{r}{0.389} 
+                 \\
+
+                 Species & \multicolumn{1}{r}{4}
+                 & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{11.838} & \multicolumn{1}{r}{\textbf{0.019}}
+                 & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{31.748} & \multicolumn{1}{r}{\textbf{\textless{}0.001}}
+                 & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{27.291} & \multicolumn{1}{r}{\textbf{\textless{}0.001}}
+                 \\
+                 \hline
+
+                 ($N_\mathrm{area}$ int.) & \multicolumn{1}{r}{-}
+                 & \multicolumn{1}{r}{6.59E-01\textsuperscript{b}} & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{-}
+                 & \multicolumn{1}{r}{1.45E-01}                    & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{-}
+                 & \multicolumn{1}{r}{2.86E+01}                    & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{-}
+                 \\
+
+                 $N_\mathrm{area}$ & \multicolumn{1}{r}{4}
+                 & \multicolumn{1}{r}{3.13E-01\textsuperscript{b}} & \multicolumn{1}{r}{4.790} & \multicolumn{1}{r}{\textbf{0.029}}
+                 & \multicolumn{1}{r}{2.43E+01}                    & \multicolumn{1}{r}{22.616} & \multicolumn{1}{r}{\textbf{\textless{}0.001}}
+                 & \multicolumn{1}{r}{4.04E+01}                    & \multicolumn{1}{r}{28.259} & \multicolumn{1}{r}{\textbf{\textless{}0.001}}
+                 \\
+                 \hline
+
+                 &&&&&&&&&&
+                 \\
+
+                 && \multicolumn{3}{l}{$J_{\mathrm{max25}}$:$V_\mathrm{cmax25}$} &&&&& \\
+                 \hline
+                 & \multicolumn{1}{r}{df}
+                 & \multicolumn{1}{r}{Coefficient} & \multicolumn{1}{r}{$\chi^{2}$} & \multicolumn{1}{r}{\textit{p}} 
+                 \\
+                 \hline
+
+                 (Intercept) & \multicolumn{1}{r}{-}
+                 & \multicolumn{1}{r}{6.59E-01\textsuperscript{a}} & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{-}
+                 &&&&&&
+                 \\
+
+                 Soil N & \multicolumn{1}{r}{1}
+                 & \multicolumn{1}{r}{7.04E-04\textsuperscript{a}}  & \multicolumn{1}{r}{0.088} & \multicolumn{1}{r}{0.767}
+                 &&&&&& 
+                 \\
+
+                 Soil pH & \multicolumn{1}{r}{1}
+                 & \multicolumn{1}{r}{-7.84E-03\textsuperscript{a}} & \multicolumn{1}{r}{0.025} & \multicolumn{1}{r}{0.874}
+                 &&&&&& 
+                 \\
+
+                 Species & \multicolumn{1}{r}{4}
+                 & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{12.745} & \multicolumn{1}{r}{\textbf{0.013}} \\
+                 \hline
+
+                 ($N_\mathrm{area}$ int.) & \multicolumn{1}{r}{-}
+                 & \multicolumn{1}{r}{6.69E-01\textsuperscript{a}} & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{-}
+                 &&&&&& 
+                 \\
+
+                 $N_\mathrm{area}$ & \multicolumn{1}{r}{4}
+                 & \multicolumn{1}{r}{-4.69E-02\textsuperscript{a}} & \multicolumn{1}{r}{1.142} & \multicolumn{1}{r}{0.285}
+                 &&&&&
+                 \\
+                 \hline
+
+                 &&&&&&&&&& 
+                 \\
+
+                 \multicolumn{11}{p{22.5cm}}{\textsuperscript{$*$}Significance determined using Type II Wald $\chi^{2}$ tests ($\alpha$ = 0.05). \textit{P}-values < 0.05 are in bold, while \textit{p}-values between 0.05 and 0.1 are italicized. Superscript letters indicate model coefficients fit to natural-log (\textsuperscript{a}) or square-root (\textsuperscript{b}) transformed data. Relationships between $N_\mathrm{area}$ and each response variable were fit using the second series of bivariate mixed-effects models, so model coefficients and results are independent from model coefficients and results reported for relationships between soil N, soil pH, and species for each response variable. Key: $A_\mathrm{net}$ – light saturated net photosynthesis rate; $V_\mathrm{cmax25}$ – maximum rate of Rubisco carboxylation at 25\textdegree{}C; $J_\mathrm{max25}$ – maximum rate of electron transport for RuBP regeneration at 25\textdegree{}C, $J_{\mathrm{max25}}$:$V_\mathrm{cmax25}$ – the ratio of $J_\mathrm{max25}$ to $V_\mathrm{cmax25}$.}
+        \end{tabular}}
+        \label{tab:table3.2}
+        \end{table}
+    \end{landscape}
     \clearpage
 
     \newpage
-    [placeholder for Fig 2]
+    \begin{figure}
+        \includegraphics[width=\textwidth]{ch3_NxpH/figs/NxS_fig2_leafbiochem.png}
+        \centering
+        \caption[Effects of soil N availability, species, and leaf N content leaf biochemistry]{Effects of soil N availability (left column of panels), species (middle column of panels), and leaf N content per unit leaf area (right column of panels) on net photosynthesis (a-c), maximum Rubisco carboxylation rate (d-f), and maximum RuBP regeneration rate (g-i). Soil N availability is represented on the x-axis in the left column of panels, species is represented on the x-axis in the middle column of panels, and leaf N content per unit leaf area is represented continuously on the x-axis in the right column of panels. Species abbreviations and position along the x-axis in the middle column of panels, colored points, shapes, and trendlines are as explained in Figure \ref{fig:figure3.1}.}
+        \label{fig:figure3.2}
+    \end{figure}
     \clearpage
 
     \newpage
     \subsection{\textit{Leaf N allocation}}
-    Neither soil N availability nor soil pH affected the proportion of leaf N allocated to Rubisco or bioenergetics (Table 3; Fig. 3a, Fig. 3c), nor was there any subsequent effect on the proportion of leaf N allocated to photosynthesis (Table 3; Fig. 3f). We also found no effect of soil N availability or soil pH on the proportion of leaf N allocated to structure (Table 3; Fig 3g). Species varied in the proportion of leaf N allocated to Rubisco, photosynthesis, and structure (Fig 3b, Fig. 3d, Fig 3h), with no detectable species effect on the proportion of leaf N allocated to bioenergetics (Table 3).
+    Neither soil N availability nor soil pH affected the proportion of leaf N allocated to Rubisco or bioenergetics (Table \ref{tab:table3.3}; Fig. \ref{fig:figure3.3}a, Fig. \ref{fig:figure3.3}c), nor was there any subsequent effect on the proportion of leaf N allocated to photosynthesis (Table \ref{tab:table3.3}; Fig. \ref{fig:figure3.3}f). We also found no effect of soil N availability or soil pH on the proportion of leaf N allocated to structure (Table \ref{tab:table3.3}; Fig \ref{fig:figure3.3}g). Species varied in the proportion of leaf N allocated to Rubisco, photosynthesis, and structure (Fig \ref{fig:figure3.3}b, Fig. \ref{fig:figure3.3}d, Fig \ref{fig:figure3.3}h), with no detectable species effect on the proportion of leaf N allocated to bioenergetics (Table \ref{tab:table3.3}).
     \clearpage
 
     \newpage
-    [placeholder for Table 3]
+    \begin{landscape}
+        \begin{table}[]
+        \centering
+        \caption{Effects of soil N availability, soil pH, and species on the proportion of leaf nitrogen content allocated to photosynthesis, Rubisco, bioenergetics, and structure}
+        \resizebox{\columnwidth}{!}{
+        \begin{tabular}{p{2.5cm}p{0.5cm}p{2cm}p{1.5cm}p{1.5cm}p{2cm}p{1.5cm}p{1.5cm}p{2cm}p{1.5cm}p{1.5cm}}
+                 && 
+                 \multicolumn{3}{l}{$\rho_{\mathrm{photo}}$} 
+                 & \multicolumn{3}{l}{$\rho_{\mathrm{rub}}$} 
+                 & \multicolumn{3}{l}{$\rho_{\mathrm{bioe}}$} 
+                 \\
+                 \hline 
+                 & 
+                 \multicolumn{1}{r}{df} 
+                 & \multicolumn{1}{r}{Coefficient} & \multicolumn{1}{r}{$\chi^{2}$} & \multicolumn{1}{r}{\textit{p}} 
+                 & \multicolumn{1}{r}{Coefficient} & \multicolumn{1}{r}{$\chi^{2}$} & \multicolumn{1}{r}{\textit{p}} 
+                 & \multicolumn{1}{r}{Coefficient} & \multicolumn{1}{r}{$\chi^{2}$} & \multicolumn{1}{r}{\textit{p}} 
+                 \\ 
+                 \hline
+
+                 Intercept & \multicolumn{1}{r}{-} 
+                 &  \multicolumn{1}{r}{4.93E-01} & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{-}
+                 &  \multicolumn{1}{r}{4.17E-01} & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{-}
+                 &  \multicolumn{1}{r}{7.64E-02} & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{-} 
+                 \\
+
+                 Soil N & \multicolumn{1}{r}{1}
+                 & \multicolumn{1}{r}{-1.23E-03} & \multicolumn{1}{r}{0.521} & \multicolumn{1}{r}{0.470}
+                 & \multicolumn{1}{r}{-1.04E-03}  & \multicolumn{1}{r}{0.501} & \multicolumn{1}{r}{0.479}
+                 & \multicolumn{1}{r}{-1.77E-04}  & \multicolumn{1}{r}{0.557} & \multicolumn{1}{r}{0.455} 
+                 \\
+
+
+                 Soil pH & \multicolumn{1}{r}{1}
+                 & \multicolumn{1}{r}{-4.37E-02} & \multicolumn{1}{r}{1.581} & \multicolumn{1}{r}{0.209}
+                 & \multicolumn{1}{r}{-3.70E-02} & \multicolumn{1}{r}{1.511} & \multicolumn{1}{r}{0.219}
+                 & \multicolumn{1}{r}{-6.84E-03} & \multicolumn{1}{r}{1.941} & \multicolumn{1}{r}{0.164} 
+                 \\
+
+                 Species & \multicolumn{1}{r}{4}
+                 & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{13.106} & \multicolumn{1}{r}{\textbf{0.011}}
+                 & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{14.152} & \multicolumn{1}{r}{\textbf{0.007}}
+                 & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{7.300} & \multicolumn{1}{r}{0.121}
+                 \\
+
+                 &&&&&&&&&&
+                 \\
+
+                 && \multicolumn{3}{l}{$\rho_{str}$} &&&&& \\
+                 \hline
+                 & \multicolumn{1}{r}{df}
+                 & \multicolumn{1}{r}{Coefficient} & \multicolumn{1}{r}{$\chi^{2}$} & \multicolumn{1}{r}{\textit{p}} 
+                 \\
+                 \hline
+
+                 Intercept & \multicolumn{1}{r}{-}
+                 & \multicolumn{1}{r}{9.77E-02} & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{-}
+                 &&&&&&
+                 \\
+
+                 Soil N & \multicolumn{1}{r}{1}
+                 & \multicolumn{1}{r}{-2.29E-04}  & \multicolumn{1}{r}{1.165} & \multicolumn{1}{r}{0.280}
+                 &&&&&& 
+                 \\
+
+                 Soil pH & \multicolumn{1}{r}{1}
+                 & \multicolumn{1}{r}{-1.87E-03} & \multicolumn{1}{r}{0.179} & \multicolumn{1}{r}{0.672}
+                 &&&&&& 
+                 \\
+
+                 Species & \multicolumn{1}{r}{4}
+                 & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{16.428} & \multicolumn{1}{r}{\textbf{0.002}}
+                 &&&&&&
+                 \\
+                 \hline
+
+                 \multicolumn{11}{p{22.5cm}}{\textsuperscript{$*$}Significance determined using Type II Wald $\chi^{2}$ tests ($\alpha$ = 0.05). \textit{P}-values < 0.05 are in bold. Key: $\rho_\mathrm{photo}$ - proportion of leaf nitrogen content allocated to photosynthesis; $\rho_\mathrm{rub}$ - proportion of leaf nitrogen content allocated to Rubisco; $\rho_\mathrm{bioe}$ - proportion of leaf nitrogen content allocated to bioenergetics; $\rho_\mathrm{str}$ - proportion of leaf nitrogen content allocated to structure.}
+        \end{tabular}}
+        \label{tab:table3.3}
+        \end{table}
+    \end{landscape}
     \clearpage
 
     \newpage
-    [placeholder for Fig 3]
+    \begin{figure}
+        \includegraphics[width=\textwidth]{ch3_NxpH/figs/NxS_fig3_leafn_allocation.png}
+        \centering
+        \caption[Effects of soil N availability, species, and leaf N content on the fraction of leaf nitrogen allocated to photosynthesis and structure]{Effects of soil nitrogen availability and species on the proportion of leaf nitrogen content allocated to Rubisco (a-b), bioenergetics (c-d), photosynthesis (e-f), and structure (g-h)}
+        \label{fig:figure3.3}
+    \end{figure}
     \clearpage
 
     \newpage
     \subsection{\textit{Tradeoffs between nitrogen and water use }}
     
-    Although soil N availability did not affect $\chi$ (Table 4; Fig. 4a), increasing soil N availability decreased PNUE (Table 4; Fig. 4d) and increased the ratio of $N_\mathrm{area}$:$\chi$ (Table 4; Fig. 4f). Specifically, this response yielded a 26\% reduction in PNUE and 37\% stimulation in $N_\mathrm{area}$:$\chi$ across the soil nitrogen availability gradient. There was no apparent effect of soil N availability on $V_\mathrm{cmax25}$:$\chi$ (Table 4; Fig. 4h). Increasing soil pH had a weak marginal negative effect on PNUE, but did not influence $\chi$, $N_\mathrm{area}$:$\chi$, or $V_\mathrm{cmax25}$:$\chi$ (Table 4). We also observed differences in $\chi$ (Fig. 4b), PNUE (Fig. 4e), $N_\mathrm{area}$:$\chi$ (Fig. 4g), and $V_\mathrm{cmax25}$:$\chi$ (Fig. 4i) between species (Table 4). Finally, increasing $N_\mathrm{area}$ had a strong negative effect on $\chi$ (Table 4; Fig. 4c) and a strong positive effect on $V_\mathrm{cmax25}$:$\chi$ (Table 4; Fig. 4j).
+    Although soil N availability did not affect $\chi$ (Table \ref{tab:table3.4}; Fig. \ref{fig:figure3.4}a), increasing soil N availability decreased PNUE (Table \ref{tab:table3.4}; Fig. \ref{fig:figure3.4}d) and increased the ratio of $N_\mathrm{area}$:$\chi$ (Table \ref{tab:table3.4}; Fig. \ref{fig:figure3.4}f). Specifically, this response yielded a 26\% reduction in PNUE and 37\% stimulation in $N_\mathrm{area}$:$\chi$ across the soil nitrogen availability gradient. There was no apparent effect of soil N availability on $V_\mathrm{cmax25}$:$\chi$ (Table \ref{tab:table3.4}; Fig. \ref{fig:figure3.4}h). Increasing soil pH had a weak marginal negative effect on PNUE, but did not influence $\chi$, $N_\mathrm{area}$:$\chi$, or $V_\mathrm{cmax25}$:$\chi$ (Table \ref{tab:table3.4}). We also observed differences in $\chi$ (Fig. \ref{fig:figure3.4}b), PNUE (Fig. \ref{fig:figure3.4}e), $N_\mathrm{area}$:$\chi$ (Fig. \ref{fig:figure3.4}g), and $V_\mathrm{cmax25}$:$\chi$ (Fig. \ref{fig:figure3.4}i) between species (Table \ref{tab:table3.4}). Finally, increasing $N_\mathrm{area}$ had a strong negative effect on $\chi$ (Table \ref{tab:table3.4}; Fig. \ref{fig:figure3.4}c) and a strong positive effect on $V_\mathrm{cmax25}$:$\chi$ (Table \ref{tab:table3.4}; Fig. \ref{fig:figure3.4}j).
     \clearpage
 
     \newpage
-    [placeholder for Table 4]
+    \begin{landscape}
+        \begin{table}[]
+        \centering
+        \caption{Effects of soil N availability, soil pH, species, and $N_\mathrm{area}$ on tradeoffs between nitrogen and water use}
+        \resizebox{\columnwidth}{!}{
+        \begin{tabular}{p{2.5cm}p{0.5cm}p{2cm}p{1.5cm}p{1.5cm}p{2cm}p{1.5cm}p{1.5cm}p{2cm}p{1.5cm}p{1.5cm}}
+                 && 
+                 \multicolumn{3}{l}{$\chi$} 
+                 & \multicolumn{3}{l}{PNUE} 
+                 & \multicolumn{3}{l}{$N_\mathrm{area}$:$\chi$} 
+                 \\
+                 \hline 
+                 & 
+                 \multicolumn{1}{r}{df} 
+                 & \multicolumn{1}{r}{Coefficient} & \multicolumn{1}{r}{$\chi^{2}$} & \multicolumn{1}{r}{\textit{p}} 
+                 & \multicolumn{1}{r}{Coefficient} & \multicolumn{1}{r}{$\chi^{2}$} & \multicolumn{1}{r}{\textit{p}} 
+                 & \multicolumn{1}{r}{Coefficient} & \multicolumn{1}{r}{$\chi^{2}$} & \multicolumn{1}{r}{\textit{p}} 
+                 \\ 
+                 \hline
+
+                 (Intercept) & \multicolumn{1}{r}{-} 
+                 &  \multicolumn{1}{r}{8.12E-01}   & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{-}
+                 &  \multicolumn{1}{r}{9.57E+00}   & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{-}
+                 &  \multicolumn{1}{r}{9.19E-01}   & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{-} 
+                 \\
+
+                 Soil N & \multicolumn{1}{r}{1}
+                 & \multicolumn{1}{r}{-1.14E-03}  & \multicolumn{1}{r}{1.698} & \multicolumn{1}{r}{0.193}
+                 & \multicolumn{1}{r}{-6.63E-02}  & \multicolumn{1}{r}{6.396} & \multicolumn{1}{r}{\textbf{0.011}}
+                 & \multicolumn{1}{r}{2.60E-02}   & \multicolumn{1}{r}{9.533} & \multicolumn{1}{r}{\textbf{0.002}} 
+                 \\
+
+
+                 Soil pH & \multicolumn{1}{r}{1}
+                 & \multicolumn{1}{r}{-1.91E-02}  & \multicolumn{1}{r}{1.087} & \multicolumn{1}{r}{0.297}
+                 & \multicolumn{1}{r}{-9.25E-01}  & \multicolumn{1}{r}{2.843} & \multicolumn{1}{r}{\textit{0.092}}
+                 & \multicolumn{1}{r}{2.03E-01}   & \multicolumn{1}{r}{1.321} & \multicolumn{1}{r}{0.250} 
+                 \\
+
+                 Species & \multicolumn{1}{r}{4}
+                 & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{18.843} & \multicolumn{1}{r}{\textbf{0.001}}
+                 & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{13.454} & \multicolumn{1}{r}{\textbf{0.009}}
+                 & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{52.983} & \multicolumn{1}{r}{\textbf{\textless{}0.001}}
+                 \\
+                 \hline
+
+                 ($N_\mathrm{area}$ int.) & \multicolumn{1}{r}{-}
+                 & \multicolumn{1}{r}{8.93E-01}  & \multicolumn{1}{r}{-}    & \multicolumn{1}{r}{-}
+                 & \multicolumn{1}{r}{-}         & \multicolumn{1}{r}{-}    & \multicolumn{1}{r}{-}
+                 & \multicolumn{1}{r}{-}         & \multicolumn{1}{r}{-}    & \multicolumn{1}{r}{-}
+                 \\
+
+                 $N_\mathrm{area}$ & \multicolumn{1}{r}{1}
+                 & \multicolumn{1}{r}{-1.11E-01}  & \multicolumn{1}{r}{80.606}  & \multicolumn{1}{r}{\textbf{\textless{}0.001}}
+                 & \multicolumn{1}{r}{-}        & \multicolumn{1}{r}{-}       & \multicolumn{1}{r}{-}
+                 & \multicolumn{1}{r}{-}          & \multicolumn{1}{r}{-}       & \multicolumn{1}{r}{-}
+                 \\
+                 \hline
+
+                 &&&&&&&&&&
+                 \\
+
+                 && \multicolumn{3}{l}{$V_{\mathrm{cmax25}}$:$\chi$} &&&&& \\
+                 \hline
+                 & \multicolumn{1}{r}{df}
+                 & \multicolumn{1}{r}{Coefficient} & \multicolumn{1}{r}{$\chi^{2}$} & \multicolumn{1}{r}{\textit{p}} 
+                 \\
+                 \hline
+
+                 (Intercept) & \multicolumn{1}{r}{-}
+                 & \multicolumn{1}{r}{7.20E+01} & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{-}
+                 &&&&&&
+                 \\
+
+                 Soil N & \multicolumn{1}{r}{1}
+                 & \multicolumn{1}{r}{3.99E-01}  & \multicolumn{1}{r}{0.963} & \multicolumn{1}{r}{0.326}
+                 &&&&&& 
+                 \\
+
+                 Soil pH & \multicolumn{1}{r}{1}
+                 & \multicolumn{1}{r}{-3.12E+00} & \multicolumn{1}{r}{0.138} & \multicolumn{1}{r}{0.711}
+                 &&&&&& 
+                 \\
+
+                 Species & \multicolumn{1}{r}{4}
+                 & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{31.450} & \multicolumn{1}{r}{\textbf{\textless{}0.001}}
+                 \\
+                 \hline
+
+                 ($N_\mathrm{area}$ int.) & \multicolumn{1}{r}{-}
+                 & \multicolumn{1}{r}{1.18E+01} & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{-}
+                 &&&&&& 
+                 \\
+
+                 $N_\mathrm{area}$ & \multicolumn{1}{r}{4}
+                 & \multicolumn{1}{r}{3.87E+01} & \multicolumn{1}{r}{32.797} & \multicolumn{1}{r}{\textbf{\textless{}0.001}}
+                 &&&&&
+                 \\
+                 \hline
+
+                 \\
+
+                 \multicolumn{11}{p{22.5cm}}{\textsuperscript{$*$}Significance determined using Type II Wald $\chi^{2}$ tests ($\alpha$ = 0.05). \textit{P}-values < 0.05 are in bold, while \textit{p}-values between 0.05 and 0.1 are italicized. Superscript letters indicate model coefficients fit to natural-log (\textsuperscript{a}) or square-root (\textsuperscript{b}) transformed data. Relationships between $N_\mathrm{area}$ and each response variable were fit using the second series of bivariate mixed-effects models, so model coefficients and results are independent from model coefficients and results reported for relationships between soil N, soil pH, and species for each response variable. Key: $\chi$ - isotope-derived estimate of the $C\mathrm{i}$:$C_\mathrm{a}$; PNUE - photosynthetic N use efficiency, ratio of net photosynthesis to leaf N content per unit leaf area; $N_\mathrm{area}$:$\chi$ - ratio of $N_\mathrm{area}$ to $\chi$; $V_\mathrm{cmax25}$:$\chi$ - ratio of $V_\mathrm{cmax25}$ to $\chi$.}
+        \end{tabular}}
+        \label{tab:table3.4}
+        \end{table}
+    \end{landscape}
     \clearpage
 
     \newpage
-    [placeholder for Fig 4]
+    \begin{figure}
+        \includegraphics[width=\textwidth]{ch3_NxpH/figs/NxS_fig4_pnueiwue.png}
+        \centering
+        \caption[Effects of soil N availability, species, and leaf N content on tradeoffs between nitrogen and water use]{Effects of soil nitrogen availability and species on the proportion of leaf nitrogen content allocated to Rubisco (a-b), bioenergetics (c-d), photosynthesis (Rubisco + bioenergetics; e-f), and structure (g-h). Soil nitrogen availability is represented on the x-axis in the left column of panels and species are represented on the x-axis in the right column of panels. Species abbreviations and position along the x-axis in the middle column of panels, colored points, shapes, trendlines, error bars, and compact lettering are as explained in Figure \ref{fig:figure3.1}.}
+        \label{fig:figure3.4}
+    \end{figure}
     \clearpage
 
     \section{Discussion}
 
     Photosynthetic least-cost theory provides an explanation for understanding relationships between soil nutrient availability, leaf nutrient allocation, and photosynthetic capacity. The theory suggests that plants acclimate to a given environment by optimizing leaf photosynthesis rates at the lowest summed cost of using nutrients and water \shortciteN{Prentice2014,Wang2017,Smith2019,Paillassa2020}. The theory predicts that an increase in soil nutrient availability should allow similar photosynthesis rates to be achieved with increased leaf nutrient content and photosynthetic capacity (i.e., $V_\mathrm{cmax25}$ and $J_\mathrm{max25}$) at lower leaf $C_\mathrm{i}$:$C_\mathrm{a}$ ($\chi$), resulting in an increase in water use efficiency, decrease in nutrient use efficiency, and increase in both leaf nutrient content and photosynthetic capacity per unit $\chi$. The theory predicts similar leaf responses to increasing soil pH under acidic conditions, presumably due to generally faster nutrient cycle dynamics and consequent reductions in the cost of acquiring nutrients relative to water with increasing soil pH \shortcite{Wang2017,Paillassa2020,Dong2020}.
     
-    Supporting the theory, we showed that increasing soil N availability was associated with increased leaf N content (Fig 3.1a, 3.1c), a pattern that reduced photosynthetic N use efficiency (Fig 3.4d) and increased leaf N content per unit $\chi$ (Fig 3.4f). Increasing soil N coincided with slight, but non-significant decreases in $\chi$ and increases in $V_\mathrm{cmax25}$ and $J_\mathrm{max25}$ (\textit{p} < 0.2). The positive trend between soil N availability and photosynthetic capacity was supported by the concurrent strong increase in leaf N content with increasing soil N availability, which resulted in no change in the proportion of leaf N content allocated to photosynthesis across the soil N availability gradient. Additionally, leaf N content exhibited a strong negative correlation with $\chi$, indicative of strong nitrogen-water use tradeoffs at the leaf level. Responses tended to vary more due to soil N availability than soil pH. Overall, these findings are consistent with the nutrient-water use tradeoffs predicted from theory.
+    Supporting the theory, we showed that increasing soil N availability was associated with increased leaf N content (Fig \ref{fig:figure3.1}a, \ref{fig:figure3.1}c), a pattern that reduced photosynthetic N use efficiency (Fig \ref{fig:figure3.4}d) and increased leaf N content per unit $\chi$ (Fig \ref{fig:figure3.4}f). Increasing soil N coincided with slight, but non-significant decreases in $\chi$ and increases in $V_\mathrm{cmax25}$ and $J_\mathrm{max25}$ (\textit{p} < 0.2, Table \ref{tab:table3.2}). The positive trend between soil N availability and photosynthetic capacity was supported by the concurrent strong increase in leaf N content with increasing soil N availability, which resulted in no change in the proportion of leaf N content allocated to photosynthesis across the soil N availability gradient. Additionally, leaf N content exhibited a strong negative correlation with $\chi$, indicative of strong nitrogen-water use tradeoffs at the leaf level. Responses tended to vary more due to soil N availability than soil pH. Overall, these findings are consistent with the nutrient-water use tradeoffs predicted from theory.
 
     \subsection{\textit{Soil nitrogen availability modifies tradeoffs between nitrogen and water use}}
 
-    In support of expected least-cost outcomes and past environmental gradient studies \shortcite{Dong2017,Paillassa2020}, we found that increasing soil N availability was associated with increased leaf N content. Soil N availability had smaller impacts on measures of net photosynthesis and $\chi$, which led to reductions in PNUE and increases in leaf N content per unit $\chi$, as expected from theory. Photosynthetic least-cost theory suggests that reductions in PNUE should be driven by an increase in the proportion of leaf N allocated to photosynthetic tissue, a pattern that should allow plants to achieve optimal photosynthetic rates with greater photosynthetic capacity to make better use of available light. Contrasting theory predictions, we found no effect of soil N availability on photosynthetic capacity. However, photosynthetic capacity did tend to increase with increasing soil N availability (\textit{p} < 0.20; Table 2) resulting in no effect of soil N availability on the relative fraction of leaf N allocated to photosynthesis, Rubisco, or bioenergetics (Fig. 3). These lines of evidence support the idea that trees use additional N to support increased leaf N allocation toward photosynthetic tissue and enhance photosynthetic capacity \shortcite{Wright2003}.
+    In support of expected least-cost outcomes and past environmental gradient studies \shortcite{Dong2017,Paillassa2020}, we found that increasing soil N availability was associated with increased leaf N content. Soil N availability had smaller impacts on measures of net photosynthesis and $\chi$, which led to reductions in PNUE and increases in leaf N content per unit $\chi$, as expected from theory. Photosynthetic least-cost theory suggests that reductions in PNUE should be driven by an increase in the proportion of leaf N allocated to photosynthetic tissue, a pattern that should allow plants to achieve optimal photosynthetic rates with greater photosynthetic capacity to make better use of available light. Contrasting theory predictions, we found no effect of soil N availability on photosynthetic capacity. However, photosynthetic capacity did tend to increase with increasing soil N availability (\textit{p} < 0.20; Table \ref{tab:table3.2}) resulting in no effect of soil N availability on the relative fraction of leaf N allocated to photosynthesis, Rubisco, or bioenergetics (Fig. \ref{fig:figure3.3}). These lines of evidence support the idea that trees use additional N to support increased leaf N allocation toward photosynthetic tissue and enhance photosynthetic capacity \shortcite{Wright2003}.
 
     Soil N availability had a stronger effect on leaf N than photosynthetic capacity. This pattern suggests that additional plant N uptake due to increased soil N availability was also being used to support non-photosynthetic N pools, possibly to structural tissue or stress-induced amino acid and polyamine synthesis \shortcite{Minocha2000,Onoda2004,Bubier2011}. While we found no change in the proportion of leaf N allocated to leaf structural tissue, the overall stimulation in leaf N content with increasing soil N availability suggests an increase in the net amount of N invested in leaf structural tissue along the N availability gradient. Importantly, leaf N allocated to structure was calculated using an empirical relationship between $M_\mathrm{area}$ and the amount of leaf N allocated to cell walls \shortcite{Onoda2017}. As the generality of relationships between Marea and the amount of leaf N allocated to cell walls has been called into question \shortcite{Harrison2009}, future work should consider explicitly measuring N allocation to cell wall tissue and stress-induced amino acid synthesis to confirm these patterns.
     
-    In opposition to patterns expected from least cost theory, increasing soil N availability had no apparent effect on $\chi$ (Fig. 4a). Interestingly, despite the null effect of soil N availability on $\chi$, we observed a strong negative effect of increasing Narea on $\chi$ (Fig. 4c), consistent with the nitrogen-water use tradeoffs expected from theory. The null response of $\chi$ to increasing soil N availability may have been due to a lack of water limitation in the system, given that the area received approximately 20\% more precipitation (1167 mm) during the 12-month period leading up to our measurement period than normally expected (972 mm). However, droughts can and do occur in temperate forests of the northeastern United States \shortcite{Sweet2017}, so the observed increase in leaf N content with increasing soil N availability could be a strategy that allows trees to hedge bets against drier than normal growing seasons \shortcite{Onoda2004,Onoda2017,Hallik2009}. As was suggested in \shortciteN{Paillassa2020}, and more recently by \shortciteN{Querejeta2022}, negative effects of soil N availability on $\chi$ may increase with increasing aridity. This strategy would be especially advantageous if it allows individuals growing in arid regions to maintain carbon assimilation rates with reduced water loss. Future work should attempt to quantify interactive roles of climate and soil nitrogen availability on nitrogen-water use tradeoffs, which could be done by leveraging coordinated and multi-factor nutrient \shortcite{Borer2014} and water \shortcite{Knapp2017} manipulation experiments across broad climatic gradients.
+    In opposition to patterns expected from least cost theory, increasing soil N availability had no apparent effect on $\chi$ (Fig. \ref{fig:figure3.4}a). Interestingly, despite the null effect of soil N availability on $\chi$, we observed a strong negative effect of increasing Narea on $\chi$ (Fig. \ref{fig:figure3.4}c), consistent with the nitrogen-water use tradeoffs expected from theory. The null response of $\chi$ to increasing soil N availability may have been due to a lack of water limitation in the system, given that the area received approximately 20\% more precipitation (1167 mm) during the 12-month period leading up to our measurement period than normally expected (972 mm). However, droughts can and do occur in temperate forests of the northeastern United States \shortcite{Sweet2017}, so the observed increase in leaf N content with increasing soil N availability could be a strategy that allows trees to hedge bets against drier than normal growing seasons \shortcite{Onoda2004,Onoda2017,Hallik2009}. As was suggested in \shortciteN{Paillassa2020}, and more recently by \shortciteN{Querejeta2022}, negative effects of soil N availability on $\chi$ may increase with increasing aridity. This strategy would be especially advantageous if it allows individuals growing in arid regions to maintain carbon assimilation rates with reduced water loss. Future work should attempt to quantify interactive roles of climate and soil nitrogen availability on nitrogen-water use tradeoffs, which could be done by leveraging coordinated and multi-factor nutrient \shortcite{Borer2014} and water \shortcite{Knapp2017} manipulation experiments across broad climatic gradients.
     
     \subsection{\textit{Soil pH did not modify tradeoffs between nitrogen and water usage}}
 

@@ -454,6 +454,13 @@ Fay, P.~A., S.~M. Prober, W.~S. Harpole, J.~M.~H. Knops, J.~D. Bakker, E.~T.
 \newblock {Grassland productivity limited by multiple nutrients}.
 \newblock {\em Nature Plants\/}~{\em 1\/}(7), 15080.
 
+\bibitem[\protect\citeauthoryear{Feng}{Feng}{1999}]{Feng1999}
+Feng, X. (1999).
+\newblock {Trends in intrinsic water-use efficiency of natural trees for the
+  past 100-200 years: A response to atmospheric CO2 concentration}.
+\newblock {\em Geochimica et Cosmochimica Acta\/}~{\em 63\/}(13-14),
+  1891--1903.
+
 \bibitem[\protect\citeauthoryear{Field and Mooney}{Field and
   Mooney}{1986}]{Field1986}
 Field, C.~B. and H.~A. Mooney (1986).
@@ -710,6 +717,15 @@ Houlton, B.~Z., Y.-P. Wang, P.~M. Vitousek, and C.~B. Field (2008).
   biosphere}.
 \newblock {\em Nature\/}~{\em 454\/}(7202), 327--330.
 
+\bibitem[\protect\citeauthoryear{Huber, Perkins, Laesecke, Friend, Sengers,
+  Assael, Metaxa, Vogel, Mare{\v{s}}, and Miyagawa}{Huber
+  et~al.}{2009}]{Huber2009}
+Huber, M.~L., R.~A. Perkins, A.~Laesecke, D.~G. Friend, J.~V. Sengers, M.~J.
+  Assael, I.~N. Metaxa, E.~Vogel, R.~Mare{\v{s}}, and K.~Miyagawa (2009).
+\newblock {New international formulation for the viscosity of H2O}.
+\newblock {\em Journal of Physical and Chemical Reference Data\/}~{\em
+  38\/}(2), 101--125.
+
 \bibitem[\protect\citeauthoryear{Hungate, Dukes, Shaw, Luo, and Field}{Hungate
   et~al.}{2003}]{Hungate2003}
 Hungate, B.~A., J.~S. Dukes, M.~R. Shaw, Y.~Luo, and C.~B. Field (2003).
@@ -816,6 +832,13 @@ Kulmatiski, A., P.~B. Adler, J.~M. Stark, and A.~T. Tredennick (2017).
 \newblock {Water and nitrogen uptake are better associated with resource
   availability than root biomass}.
 \newblock {\em Ecosphere\/}~{\em 8\/}(3), e01738.
+
+\bibitem[\protect\citeauthoryear{Lavergne, Sandoval, Hare, Graven, and
+  Prentice}{Lavergne et~al.}{2020}]{Lavergne2020}
+Lavergne, A., D.~Sandoval, V.~J. Hare, H.~Graven, and I.~C. Prentice (2020).
+\newblock {Impacts of soil water stress on the acclimated stomatal limitation
+  of photosynthesis: Insights from stable carbon isotope data}.
+\newblock {\em Global Change Biology\/}~{\em 26\/}(12), 7158--7172.
 
 \bibitem[\protect\citeauthoryear{Lawrence, Fisher, Koven, Oleson, Swenson,
   Bonan, Collier, Ghimire, Kampenhout, Kennedy, Kluzek, Lawrence, Li, Li,
@@ -1331,9 +1354,6 @@ Smith, S.~E. and D.~J. Read (2008).
   Staff}}{2022}]{SoilSurveyStaff2022}
 {Soil Survey Staff} (2022).
 \newblock {Web Soil Survey}.
-\newblock {\em Natural Resources Conservation Service, United States Department
-  of Agriculture, Available online at the following link:
-  http://websoilsurvey.sc.egov.usda.gov/. Accessed 11/18/2022\/}.
 
 \bibitem[\protect\citeauthoryear{Soudzilovskaia, Douma, Akhmetzhanova, van
   Bodegom, Cornwell, Moens, Treseder, and Cornelissen}{Soudzilovskaia
@@ -1343,6 +1363,14 @@ Soudzilovskaia, N.~A., J.~C. Douma, A.~A. Akhmetzhanova, P.~M. van Bodegom,
 \newblock {Global patterns of plant root colonization intensity by mycorrhizal
   fungi explained by climate and soil chemistry}.
 \newblock {\em Global Ecology and Biogeography\/}~{\em 24\/}(3), 371--382.
+
+\bibitem[\protect\citeauthoryear{Stocker, Wang, Smith, Harrison, Keenan,
+  Sandoval, Davis, and Prentice}{Stocker et~al.}{2020}]{Stocker2020}
+Stocker, B.~D., H.~Wang, N.~G. Smith, S.~P. Harrison, T.~F. Keenan,
+  D.~Sandoval, T.~Davis, and I.~C. Prentice (2020).
+\newblock {P-model v1.0: An optimality-based light use efficiency model for
+  simulating ecosystem gross primary production}.
+\newblock {\em Geoscientific Model Development\/}~{\em 13\/}(3), 1545--1581.
 
 \bibitem[\protect\citeauthoryear{Sulman, Shevliakova, Brzostek, Kivlin,
   Malyshev, Menge, and Zhang}{Sulman et~al.}{2019}]{Sulman2019}
@@ -1414,6 +1442,10 @@ Tingey, D.~T., D.~L. Phillips, and M.~G. Johnson (2000).
 Udvardi, M. and P.~S. Poole (2013).
 \newblock {Transport and metabolism in legume-rhizobia symbioses}.
 \newblock {\em Annual Review of Plant Biology\/}~{\em 64}, 781--805.
+
+\bibitem[\protect\citeauthoryear{{USDA NRCS}}{{USDA NRCS}}{2022}]{USDANRCS2022}
+{USDA NRCS} (2022).
+\newblock {The PLANTS Database}.
 
 \bibitem[\protect\citeauthoryear{Uselman, Qualls, and Thomas}{Uselman
   et~al.}{2000}]{Uselman2000}

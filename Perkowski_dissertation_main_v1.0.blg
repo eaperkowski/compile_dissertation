@@ -6,47 +6,45 @@ The style file: chicago.bst
 Database file #1: reference_list.bib
 Warning--can't use both author and editor fields in IPCC2021
 Warning--no volume for Markham2007
-Warning--no number and no volume in SoilSurveyStaff2022
-Warning--page numbers missing in SoilSurveyStaff2022
-You've used 200 entries,
+You've used 205 entries,
             2861 wiz_defined-function locations,
-            1861 strings with 59943 characters,
-and the built_in function-call counts, 214780 in all, are:
-= -- 14854
-> -- 24703
+            1891 strings with 61168 characters,
+and the built_in function-call counts, 219315 in all, are:
+= -- 15180
+> -- 25176
 < -- 4
-+ -- 8063
-- -- 8291
-* -- 24256
-:= -- 40472
-add.period$ -- 601
-call.type$ -- 200
-change.case$ -- 2315
-chr.to.int$ -- 200
-cite$ -- 204
-duplicate$ -- 3610
-empty$ -- 8776
-format.name$ -- 9015
-if$ -- 38718
++ -- 8213
+- -- 8449
+* -- 24739
+:= -- 41327
+add.period$ -- 614
+call.type$ -- 205
+change.case$ -- 2365
+chr.to.int$ -- 205
+cite$ -- 207
+duplicate$ -- 3696
+empty$ -- 8986
+format.name$ -- 9185
+if$ -- 39534
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 201
-newline$ -- 1001
-num.names$ -- 2004
-pop$ -- 1742
+missing$ -- 204
+newline$ -- 1024
+num.names$ -- 2054
+pop$ -- 1781
 preamble$ -- 1
-purify$ -- 3518
+purify$ -- 3598
 quote$ -- 0
-skip$ -- 3625
+skip$ -- 3710
 stack$ -- 0
-substring$ -- 8818
-swap$ -- 1198
+substring$ -- 9036
+swap$ -- 1227
 text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 3970
-warning$ -- 4
-while$ -- 1804
+type$ -- 4070
+warning$ -- 2
+while$ -- 1850
 width$ -- 0
-write$ -- 2607
-(There were 4 warnings)
+write$ -- 2668
+(There were 2 warnings)

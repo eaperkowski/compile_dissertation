@@ -39,22 +39,24 @@
 \contentsline {subsection}{\numberline {3.4.5}\textit {Conclusions}}{64}{subsection.3.4.5}%
 \contentsline {chapter}{4. \textbf {The relative cost of resource use for photosynthesis drives variance in leaf nitrogen content across climate and soil resource availability gradients}}{65}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Introduction}{65}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Methods}{66}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Results}{66}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Discussion}{66}{section.4.4}%
-\contentsline {chapter}{5. \textbf {Optimal resource investment to photosynthetic capacity maximizes nutrient allocation to whole plant growth under elevated CO2}}{67}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Introduction}{67}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Methods}{72}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}\textit {Seed treatments and experimental design}}{72}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.2.2}\textit {Growth chamber conditions}}{73}{subsection.5.2.2}%
-\contentsline {subsection}{\numberline {5.2.3}\textit {Leaf gas exchange measurements}}{75}{subsection.5.2.3}%
-\contentsline {subsection}{\numberline {5.2.4}\textit {Leaf trait measurements}}{76}{subsection.5.2.4}%
-\contentsline {subsection}{\numberline {5.2.5}\textit {A/C\textsubscript {i} curve fitting and parameter estimation}}{78}{subsection.5.2.5}%
-\contentsline {subsection}{\numberline {5.2.6}Stomatal limitation}{78}{subsection.5.2.6}%
-\contentsline {subsection}{\numberline {5.2.7}\textit {Proportion of leaf nitorgen allocated to photosynthesis and structure}}{79}{subsection.5.2.7}%
-\contentsline {subsection}{\numberline {5.2.8}\textit {Whole plant traits}}{81}{subsection.5.2.8}%
-\contentsline {subsection}{\numberline {5.2.9}\textit {Statistical analyses}}{82}{subsection.5.2.9}%
-\contentsline {section}{\numberline {5.3}Results}{84}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Discussion}{84}{section.5.4}%
-\contentsline {chapter}{6. \textbf {Conclusions}}{85}{chapter.6}%
-\contentsline {chapter}{\textbf {References}}{86}{chapter.6}%
+\contentsline {section}{\numberline {4.2}Methods}{67}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}textit{Site descriptions and sampling methodology}}{67}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Leaf trait measurements}{67}{subsection.4.2.2}%
+\contentsline {section}{\numberline {4.3}Results}{73}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Discussion}{73}{section.4.4}%
+\contentsline {chapter}{5. \textbf {Optimal resource investment to photosynthetic capacity maximizes nutrient allocation to whole plant growth under elevated CO2}}{74}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Introduction}{74}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Methods}{79}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}\textit {Seed treatments and experimental design}}{79}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}\textit {Growth chamber conditions}}{80}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}\textit {Leaf gas exchange measurements}}{82}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.2.4}\textit {Leaf trait measurements}}{83}{subsection.5.2.4}%
+\contentsline {subsection}{\numberline {5.2.5}\textit {A/C\textsubscript {i} curve fitting and parameter estimation}}{85}{subsection.5.2.5}%
+\contentsline {subsection}{\numberline {5.2.6}Stomatal limitation}{85}{subsection.5.2.6}%
+\contentsline {subsection}{\numberline {5.2.7}\textit {Proportion of leaf nitorgen allocated to photosynthesis and structure}}{86}{subsection.5.2.7}%
+\contentsline {subsection}{\numberline {5.2.8}\textit {Whole plant traits}}{88}{subsection.5.2.8}%
+\contentsline {subsection}{\numberline {5.2.9}\textit {Statistical analyses}}{89}{subsection.5.2.9}%
+\contentsline {section}{\numberline {5.3}Results}{91}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Discussion}{91}{section.5.4}%
+\contentsline {chapter}{6. \textbf {Conclusions}}{92}{chapter.6}%
+\contentsline {chapter}{\textbf {References}}{93}{chapter.6}%
