@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.15)  15 JAN 2023 23:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.15)  16 JAN 2023 23:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -529,12 +529,12 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 1.
  [3
 
-]
-Overfull \hbox (2.27718pt too wide) in paragraph at lines 47--47
+] [4]
+Overfull \hbox (2.27718pt too wide) in paragraph at lines 55--55
  [][] [][]\T1/lmr/m/n/12 5. \T1/lmr/bx/n/12 Op-ti-mal re-source in-vest-ment to pho-to-syn-thetic ca-pac-ity max- 
  []
 
-[4])
+)
 \tf@toc=\write5
 \openout5 = `Perkowski_dissertation_main_v1.0.toc'.
 
@@ -549,67 +549,77 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
  [7
 
-] (/Users/eaperkowski/git/compile_dissertation/Perkowski_dissertation_main_v1.0.lof)
+] (/Users/eaperkowski/git/compile_dissertation/Perkowski_dissertation_main_v1.0.lof [8
+
+]
+Overfull \hbox (10.12321pt too wide) in paragraph at lines 13--13
+ [][] [][][]\T1/lmr/m/n/12 Structural equa-tion model re-sults ex-plor-ing di-rect and in-di-rect drivers 
+ []
+
+)
 \tf@lof=\write7
 \openout7 = `Perkowski_dissertation_main_v1.0.lof'.
 
- [8
-
-] [9] (/Users/eaperkowski/git/compile_dissertation/ch1_intro/ch1_intro_main.tex
+ [9] (/Users/eaperkowski/git/compile_dissertation/ch1_intro/ch1_intro_main.tex
 Chapter 1.
-) (/Users/eaperkowski/git/compile_dissertation/ch2_LxN_Greenhouse/ch2_LxN_main.texpdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.2     \chapter
-                {\textbf{Structural carbon costs to acquire nitrogen are det... [1
+l.11 
+      [1
 
 
 ]
-Chapter 2.
-[2
+Overfull \hbox (0.72475pt too wide) in paragraph at lines 13--14
+\T1/lmr/m/n/12 nu-tri-ent ac-qui-si-tion, plant nu-tri-ent al-lo-ca-tion, pho-to-syn-thetic pro-cesses, and whole
+ []
 
-] [3] [4]
+) (/Users/eaperkowski/git/compile_dissertation/ch2_LxN_Greenhouse/ch2_LxN_main.tex [2]
+Chapter 2.
+[3
+
+] [4] [5]
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 28.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) [5] [6] [7] [8] [9] [10]
+) [6] [7] [8] [9] [10] [11]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 48.
 
-[11]
-<ch2_LxN_Greenhouse/figs/fig1_ncost.png, id=667, 5139.2pt x 2248.4pt>
+[12]
+<ch2_LxN_Greenhouse/figs/fig1_ncost.png, id=751, 5139.2pt x 2248.4pt>
 File: ch2_LxN_Greenhouse/figs/fig1_ncost.png Graphic file (type png)
 <use ch2_LxN_Greenhouse/figs/fig1_ncost.png>
 Package pdftex.def Info: ch2_LxN_Greenhouse/figs/fig1_ncost.png  used on input line 137.
 (pdftex.def)             Requested size: 415.55249pt x 181.7969pt.
- [12 </Users/eaperkowski/git/compile_dissertation/ch2_LxN_Greenhouse/figs/fig1_ncost.png>] [13
+ [13 </Users/eaperkowski/git/compile_dissertation/ch2_LxN_Greenhouse/figs/fig1_ncost.png>] [14
 
 
 
 
 ]
-<ch2_LxN_Greenhouse/figs/fig2_nacq.png, id=684, 5139.2pt x 2248.4pt>
+<ch2_LxN_Greenhouse/figs/fig2_nacq.png, id=769, 5139.2pt x 2248.4pt>
 File: ch2_LxN_Greenhouse/figs/fig2_nacq.png Graphic file (type png)
 <use ch2_LxN_Greenhouse/figs/fig2_nacq.png>
 Package pdftex.def Info: ch2_LxN_Greenhouse/figs/fig2_nacq.png  used on input line 154.
 (pdftex.def)             Requested size: 415.55249pt x 181.7969pt.
- [14 </Users/eaperkowski/git/compile_dissertation/ch2_LxN_Greenhouse/figs/fig2_nacq.png>] [15
+ [15 </Users/eaperkowski/git/compile_dissertation/ch2_LxN_Greenhouse/figs/fig2_nacq.png>] [16
 
 ]
-<ch2_LxN_Greenhouse/figs/fig3_rootCarbon.png, id=713, 5139.2pt x 2248.4pt>
+<ch2_LxN_Greenhouse/figs/fig3_rootCarbon.png, id=798, 5139.2pt x 2248.4pt>
 File: ch2_LxN_Greenhouse/figs/fig3_rootCarbon.png Graphic file (type png)
 <use ch2_LxN_Greenhouse/figs/fig3_rootCarbon.png>
 Package pdftex.def Info: ch2_LxN_Greenhouse/figs/fig3_rootCarbon.png  used on input line 171.
 (pdftex.def)             Requested size: 415.55249pt x 181.7969pt.
- [16 </Users/eaperkowski/git/compile_dissertation/ch2_LxN_Greenhouse/figs/fig3_rootCarbon.png>] [17
+ [17 </Users/eaperkowski/git/compile_dissertation/ch2_LxN_Greenhouse/figs/fig3_rootCarbon.png>] [18
 
 ]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 182.
 
-[18]
+[19]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 227.
@@ -619,33 +629,33 @@ Overfull \hbox (1.59225pt too wide) in paragraph at lines 306--306
 [][]| 
  []
 
-[19]
-<ch2_LxN_Greenhouse/figs/fig4_nodwgt.png, id=748, 5139.2pt x 2248.4pt>
+[20]
+<ch2_LxN_Greenhouse/figs/fig4_nodwgt.png, id=832, 5139.2pt x 2248.4pt>
 File: ch2_LxN_Greenhouse/figs/fig4_nodwgt.png Graphic file (type png)
 <use ch2_LxN_Greenhouse/figs/fig4_nodwgt.png>
 Package pdftex.def Info: ch2_LxN_Greenhouse/figs/fig4_nodwgt.png  used on input line 315.
 (pdftex.def)             Requested size: 415.55249pt x 181.7969pt.
- [20 </Users/eaperkowski/git/compile_dissertation/ch2_LxN_Greenhouse/figs/fig4_nodwgt.png>] [21
+ [21 </Users/eaperkowski/git/compile_dissertation/ch2_LxN_Greenhouse/figs/fig4_nodwgt.png>] [22
 
 
 
 
 
-] [22] [23] [24] [25] [26] [27]) (/Users/eaperkowski/git/compile_dissertation/ch3_NxpH/ch3_NxpH_main.tex [28]
+] [23] [24] [25] [26] [27] [28]) (/Users/eaperkowski/git/compile_dissertation/ch3_NxpH/ch3_NxpH_main.tex [29]
 Chapter 3.
 
 Overfull \hbox (4.4006pt too wide) in paragraph at lines 9--10
 []\T1/lmr/m/n/12 Terrestrial bio-sphere mod-els com-monly rep-re-sent C$[]$ pho-to-syn-the-sis through
  []
 
-[29
+[30
 
-] [30] [31] [32] [33] [34]
+] [31] [32] [33] [34] [35]
 Overfull \hbox (17.6369pt too wide) in paragraph at lines 33--34
 \T1/lmr/m/n/12 portable pho-to-syn-the-sis ma-chine to mea-sure net pho-to-syn-the-sis ($\OML/lmm/m/it/12 A[]$\T1/lmr/m/n/12 ; $[]$),
  []
 
-[35]
+[36]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 51.
@@ -662,18 +672,18 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 51.
 
-[36] [37] [38]
+[37] [38] [39]
 Overfull \hbox (2.72186pt too wide) in paragraph at lines 109--110
 []\T1/lmr/m/n/12 where $\OML/lmm/m/it/12 N[]$ \T1/lmr/m/n/12 is the amount of ni-tro-gen in cy-tochrome f, set to 0.12407 $[]$
  []
 
-[39] [40] [41] [42] [43] [44] [45]
+[40] [41] [42] [43] [44] [45] [46]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 154.
 
-[46]
-<ch3_NxpH/figs/NxS_fig1_leafn.png, id=1209, 7227.0pt x 7227.0pt>
+[47]
+<ch3_NxpH/figs/NxS_fig1_leafn.png, id=1289, 7227.0pt x 7227.0pt>
 File: ch3_NxpH/figs/NxS_fig1_leafn.png Graphic file (type png)
 <use ch3_NxpH/figs/NxS_fig1_leafn.png>
 Package pdftex.def Info: ch3_NxpH/figs/NxS_fig1_leafn.png  used on input line 211.
@@ -682,7 +692,7 @@ Package pdftex.def Info: ch3_NxpH/figs/NxS_fig1_leafn.png  used on input line 21
 
 LaTeX Warning: Float too large for page by 7.80556pt on input line 215.
 
-[47 </Users/eaperkowski/git/compile_dissertation/ch3_NxpH/figs/NxS_fig1_leafn.png>] [48
+[48 </Users/eaperkowski/git/compile_dissertation/ch3_NxpH/figs/NxS_fig1_leafn.png>] [49
 
 
 
@@ -693,13 +703,13 @@ LaTeX Warning: Float too large for page by 7.80556pt on input line 215.
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 226.
 
-[49]
-<ch3_NxpH/figs/NxS_fig2_leafbiochem.png, id=1239, 9636.0pt x 7227.0pt>
+[50]
+<ch3_NxpH/figs/NxS_fig2_leafbiochem.png, id=1319, 9636.0pt x 7227.0pt>
 File: ch3_NxpH/figs/NxS_fig2_leafbiochem.png Graphic file (type png)
 <use ch3_NxpH/figs/NxS_fig2_leafbiochem.png>
 Package pdftex.def Info: ch3_NxpH/figs/NxS_fig2_leafbiochem.png  used on input line 336.
 (pdftex.def)             Requested size: 415.55249pt x 311.63715pt.
- [50 </Users/eaperkowski/git/compile_dissertation/ch3_NxpH/figs/NxS_fig2_leafbiochem.png>] [51
+ [51 </Users/eaperkowski/git/compile_dissertation/ch3_NxpH/figs/NxS_fig2_leafbiochem.png>] [52
 
 
 
@@ -710,8 +720,8 @@ Package pdftex.def Info: ch3_NxpH/figs/NxS_fig2_leafbiochem.png  used on input l
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 350.
 
-[52]
-<ch3_NxpH/figs/NxS_fig3_leafn_allocation.png, id=1268, 542.025pt x 722.7pt>
+[53]
+<ch3_NxpH/figs/NxS_fig3_leafn_allocation.png, id=1347, 542.025pt x 722.7pt>
 File: ch3_NxpH/figs/NxS_fig3_leafn_allocation.png Graphic file (type png)
 <use ch3_NxpH/figs/NxS_fig3_leafn_allocation.png>
 Package pdftex.def Info: ch3_NxpH/figs/NxS_fig3_leafn_allocation.png  used on input line 434.
@@ -720,7 +730,7 @@ Package pdftex.def Info: ch3_NxpH/figs/NxS_fig3_leafn_allocation.png  used on in
 
 LaTeX Warning: Float too large for page by 15.87712pt on input line 438.
 
-[53 </Users/eaperkowski/git/compile_dissertation/ch3_NxpH/figs/NxS_fig3_leafn_allocation.png>] [54
+[54 </Users/eaperkowski/git/compile_dissertation/ch3_NxpH/figs/NxS_fig3_leafn_allocation.png>] [55
 
 
 
@@ -731,51 +741,158 @@ LaTeX Warning: Float too large for page by 15.87712pt on input line 438.
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 449.
 
-[55]
-<ch3_NxpH/figs/NxS_fig4_pnueiwue.png, id=1300, 8288.9675pt x 9572.76375pt>
+[56]
+<ch3_NxpH/figs/NxS_fig4_pnueiwue.png, id=1379, 8288.9675pt x 9572.76375pt>
 File: ch3_NxpH/figs/NxS_fig4_pnueiwue.png Graphic file (type png)
 <use ch3_NxpH/figs/NxS_fig4_pnueiwue.png>
 Package pdftex.def Info: ch3_NxpH/figs/NxS_fig4_pnueiwue.png  used on input line 559.
 (pdftex.def)             Requested size: 415.55249pt x 479.83478pt.
- [56 </Users/eaperkowski/git/compile_dissertation/ch3_NxpH/figs/NxS_fig4_pnueiwue.png>] [57
+ [57 </Users/eaperkowski/git/compile_dissertation/ch3_NxpH/figs/NxS_fig4_pnueiwue.png>] [58
 
 
 
 
 
-] [58] [59] [60] [61] [62] [63]) [64]
+] [59] [60] [61] [62] [63] [64]) [65]
 \openout2 = `ch4_TXeco/ch4_TXeco_main.aux'.
 
  (/Users/eaperkowski/git/compile_dissertation/ch4_TXeco/ch4_TXeco_main.tex
 Chapter 4.
-[65
+[66
 
 
-] [66] [67] [68] [69] [70] [71
+] [67] [68] [69] [70] [71] [72
 
 ]
-<ch4_TXeco/figs/TXeco_fig1_site_map.png, id=1543, 12045.0pt x 4818.0pt>
+<ch4_TXeco/figs/TXeco_fig1_site_map.png, id=1620, 12045.0pt x 4818.0pt>
 File: ch4_TXeco/figs/TXeco_fig1_site_map.png Graphic file (type png)
 <use ch4_TXeco/figs/TXeco_fig1_site_map.png>
-Package pdftex.def Info: ch4_TXeco/figs/TXeco_fig1_site_map.png  used on input line 74.
+Package pdftex.def Info: ch4_TXeco/figs/TXeco_fig1_site_map.png  used on input line 73.
 (pdftex.def)             Requested size: 602.2853pt x 240.91411pt.
 
-Overfull \hbox (10.57468pt too wide) in paragraph at lines 74--75
+Overfull \hbox (10.57468pt too wide) in paragraph at lines 73--74
  [][] 
  []
 
-[72 </Users/eaperkowski/git/compile_dissertation/ch4_TXeco/figs/TXeco_fig1_site_map.png>]) [73
+[73 </Users/eaperkowski/git/compile_dissertation/ch4_TXeco/figs/TXeco_fig1_site_map.png>] [74
+
+
+
+
+] [75] [76] [77] [78]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 114.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\beta' on input line 114.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 114.
+
+[79] [80] [81]
+<ch4_TXeco/figs/TXeco_fig2_beta.png, id=1727, 7227.0pt x 2710.125pt>
+File: ch4_TXeco/figs/TXeco_fig2_beta.png Graphic file (type png)
+<use ch4_TXeco/figs/TXeco_fig2_beta.png>
+Package pdftex.def Info: ch4_TXeco/figs/TXeco_fig2_beta.png  used on input line 124.
+(pdftex.def)             Requested size: 433.6013pt x 162.60048pt.
+
+Overfull \hbox (18.04881pt too wide) in paragraph at lines 124--125
+ [][] 
+ []
+
+[82 </Users/eaperkowski/git/compile_dissertation/ch4_TXeco/figs/TXeco_fig2_beta.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mathsurround' on input line 130.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 130.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 130.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mathsurround' on input line 130.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 130.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 130.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 130.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\chi' on input line 130.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 130.
+
+[83
+
+
+] [84]
+<ch4_TXeco/figs/TXeco_fig3_chi.png, id=1741, 7227.0pt x 5540.7pt>
+File: ch4_TXeco/figs/TXeco_fig3_chi.png Graphic file (type png)
+<use ch4_TXeco/figs/TXeco_fig3_chi.png>
+Package pdftex.def Info: ch4_TXeco/figs/TXeco_fig3_chi.png  used on input line 142.
+(pdftex.def)             Requested size: 1445.37444pt x 1108.12039pt.
+
+Overfull \hbox (1029.82195pt too wide) in paragraph at lines 142--143
+ [][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 642.40976pt on input line 145.
+
+[85 </Users/eaperkowski/git/compile_dissertation/ch4_TXeco/figs/TXeco_fig3_chi.png>] [86
+
+
+] [87] [88]
+<ch4_TXeco/figs/TXeco_fig4_narea.png, id=1761, 9636.0pt x 7227.0pt>
+File: ch4_TXeco/figs/TXeco_fig4_narea.png Graphic file (type png)
+<use ch4_TXeco/figs/TXeco_fig4_narea.png>
+Package pdftex.def Info: ch4_TXeco/figs/TXeco_fig4_narea.png  used on input line 163.
+(pdftex.def)             Requested size: 481.82823pt x 361.37117pt.
+
+
+LaTeX Warning: Float too large for page by 42.81866pt on input line 167.
+
+[89 </Users/eaperkowski/git/compile_dissertation/ch4_TXeco/figs/TXeco_fig4_narea.png>] [90
+
+
+
+
+] [91]
+<ch4_TXeco/figs/TXeco_fig5_SEM.png, id=1777, 1661.20625pt x 949.5475pt>
+File: ch4_TXeco/figs/TXeco_fig5_SEM.png Graphic file (type png)
+<use ch4_TXeco/figs/TXeco_fig5_SEM.png>
+Package pdftex.def Info: ch4_TXeco/figs/TXeco_fig5_SEM.png  used on input line 182.
+(pdftex.def)             Requested size: 498.36572pt x 284.86644pt.
+ [92 </Users/eaperkowski/git/compile_dissertation/ch4_TXeco/figs/TXeco_fig5_SEM.png>]) [93
 
 
 
 
 ] (/Users/eaperkowski/git/compile_dissertation/ch5_NxCO2xI/ch5_NxCO2xI_main.tex
 Chapter 5.
-[74
+[94
 
 
 
-] [75] [76] [77] [78] [79] [80] [81] [82] [83] [84]
+] [95] [96] [97] [98] [99] [100] [101] [102] [103] [104]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\mathsurround' on input line 61.
@@ -788,40 +905,40 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `subscript' on input line 61.
 
-[85] [86] [87] [88] [89] [90]) (/Users/eaperkowski/git/compile_dissertation/ch6_conclusions/ch6_conclusions_main.tex [91]
+[105] [106] [107] [108] [109] [110]) (/Users/eaperkowski/git/compile_dissertation/ch6_conclusions/ch6_conclusions_main.tex [111]
 Chapter 6.
-) [92
+) [112
 
-] (/Users/eaperkowski/git/compile_dissertation/Perkowski_dissertation_main_v1.0.bbl [93
+] (/Users/eaperkowski/git/compile_dissertation/Perkowski_dissertation_main_v1.0.bbl [113
 
 
-] [94] [95] [96] [97] [98] [99] [100] [101] [102] [103] [104]
-Underfull \hbox (badness 1910) in paragraph at lines 640--648
+] [114] [115] [116] [117] [118] [119] [120] [121] [122] [123] [124] [125]
+Underfull \hbox (badness 1910) in paragraph at lines 677--685
 []\T1/lmr/m/n/12 Harrison, S. P., W. Cramer, O. Franklin, I. C. Pren-tice, H. Wang,
  []
 
-[105] [106] [107] [108] [109] [110] [111]
-Underfull \hbox (badness 1194) in paragraph at lines 994--999
+[126] [127] [128] [129] [130] [131] [132]
+Underfull \hbox (badness 1194) in paragraph at lines 1049--1054
 []\T1/lmr/m/n/12 Meyerholt, J., S. Za-ehle, and M. J. Smith (2016). Vari-abil-ity of pro-
  []
 
-[112] [113] [114] [115] [116] [117] [118] [119] [120] [121] [122] [123]) [124] (/Users/eaperkowski/git/compile_dissertation/Perkowski_dissertation_main_v1.0.aux (/Users/eaperkowski/git/compile_dissertation/ch4_TXeco/ch4_TXeco_main.aux))
+[133] [134] [135] [136] [137] [138] [139] [140] [141] [142] [143] [144] [145] [146]) [147] (/Users/eaperkowski/git/compile_dissertation/Perkowski_dissertation_main_v1.0.aux (/Users/eaperkowski/git/compile_dissertation/ch4_TXeco/ch4_TXeco_main.aux))
 Package rerunfilecheck Info: File `Perkowski_dissertation_main_v1.0.out' has not changed.
-(rerunfilecheck)             Checksum: BD92CDD949D05FF9E4708C357A82B10A;14449.
+(rerunfilecheck)             Checksum: 34EEA6CF1807218007136836D28C0405;16000.
  ) 
 Here is how much of TeX's memory you used:
- 14190 strings out of 478994
- 231506 string characters out of 5858184
- 574695 words of memory out of 5000000
- 30908 multiletter control sequences out of 15000+600000
+ 14297 strings out of 478994
+ 233437 string characters out of 5858184
+ 577114 words of memory out of 5000000
+ 30958 multiletter control sequences out of 15000+600000
  453919 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,17n,74p,2213b,460s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,17n,74p,2213b,458s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmbx8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmmi6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmri8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmsy6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmsy8.pfb>
-Output written on /Users/eaperkowski/git/compile_dissertation/Perkowski_dissertation_main_v1.0.pdf (134 pages, 17518279 bytes).
+Output written on /Users/eaperkowski/git/compile_dissertation/Perkowski_dissertation_main_v1.0.pdf (157 pages, 28226552 bytes).
 PDF statistics:
- 2116 PDF objects out of 2487 (max. 8388607)
- 1920 compressed objects within 20 object streams
- 446 named destinations out of 1000 (max. 500000)
- 542 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2372 PDF objects out of 2487 (max. 8388607)
+ 2142 compressed objects within 22 object streams
+ 499 named destinations out of 1000 (max. 500000)
+ 626 words of extra memory for PDF output out of 10000 (max. 10000000)
 

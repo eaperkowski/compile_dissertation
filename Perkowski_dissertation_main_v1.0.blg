@@ -3,48 +3,51 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Perkowski_dissertation_main_v1.0.aux
 A level-1 auxiliary file: ch4_TXeco/ch4_TXeco_main.aux
 The style file: chicago.bst
+Reallocated field_info (elt_size=4) to 10106 items from 5000.
 Database file #1: reference_list.bib
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
+Warning--no number and no volume in Bloomfield2022
 Warning--can't use both author and editor fields in IPCC2021
 Warning--no volume for Markham2007
-You've used 205 entries,
+You've used 222 entries,
             2861 wiz_defined-function locations,
-            1891 strings with 61168 characters,
-and the built_in function-call counts, 219315 in all, are:
-= -- 15180
-> -- 25176
+            1987 strings with 64833 characters,
+and the built_in function-call counts, 234303 in all, are:
+= -- 16311
+> -- 26693
 < -- 4
-+ -- 8213
-- -- 8449
-* -- 24739
-:= -- 41327
-add.period$ -- 614
-call.type$ -- 205
-change.case$ -- 2365
-chr.to.int$ -- 205
-cite$ -- 207
-duplicate$ -- 3696
-empty$ -- 8986
-format.name$ -- 9185
-if$ -- 39534
++ -- 8695
+- -- 8959
+* -- 26307
+:= -- 44121
+add.period$ -- 661
+call.type$ -- 222
+change.case$ -- 2527
+chr.to.int$ -- 222
+cite$ -- 225
+duplicate$ -- 3988
+empty$ -- 9684
+format.name$ -- 9755
+if$ -- 42255
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 204
-newline$ -- 1024
-num.names$ -- 2054
-pop$ -- 1781
+missing$ -- 217
+newline$ -- 1105
+num.names$ -- 2224
+pop$ -- 1900
 preamble$ -- 1
-purify$ -- 3598
+purify$ -- 3862
 quote$ -- 0
-skip$ -- 3710
+skip$ -- 4024
 stack$ -- 0
-substring$ -- 9036
-swap$ -- 1227
+substring$ -- 9713
+swap$ -- 1323
 text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 4070
-warning$ -- 2
-while$ -- 1850
+type$ -- 4410
+warning$ -- 3
+while$ -- 2006
 width$ -- 0
-write$ -- 2668
-(There were 2 warnings)
+write$ -- 2881
+(There were 3 warnings)

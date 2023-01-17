@@ -117,6 +117,11 @@ Bates, D., M.~M{\"{a}}chler, B.~Bolker, and S.~Walker (2015).
 \newblock {Fitting linear mixed-effects models using lme4}.
 \newblock {\em Journal of Statistical Software\/}~{\em 67\/}(1), 1--48.
 
+\bibitem[\protect\citeauthoryear{Beaudette, Skovlin, Roeker, and
+  Brown}{Beaudette et~al.}{2022}]{Beaudette2022}
+Beaudette, D., J.~Skovlin, S.~Roeker, and A.~Brown (2022).
+\newblock {soilDB: Soil Database Interface}.
+
 \bibitem[\protect\citeauthoryear{Bengtson, Barker, and Grayston}{Bengtson
   et~al.}{2012}]{Bengtson2012}
 Bengtson, P., J.~Barker, and S.~J. Grayston (2012).
@@ -148,6 +153,13 @@ Bloom, A.~J., F.~S. Chapin, and H.~A. Mooney (1985).
 \newblock {Resource limitation in plants - an economic analogy}.
 \newblock {\em Annual Review of Ecology and Systematics\/}~{\em 16\/}(1),
   363--392.
+
+\bibitem[\protect\citeauthoryear{Bloomfield, Stocker, Keenan, and
+  Prentice}{Bloomfield et~al.}{2022}]{Bloomfield2022}
+Bloomfield, K.~J., B.~D. Stocker, T.~F. Keenan, and I.~C. Prentice (2022).
+\newblock {Environmental controls on the light use efficiency of terrestrial
+  gross primary production}.
+\newblock {\em Global Change Biology\/}, 0--2.
 
 \bibitem[\protect\citeauthoryear{Bonan, Hartman, Parton, and Wieder}{Bonan
   et~al.}{2013}]{Bonan2013}
@@ -266,11 +278,27 @@ Cornwell, W.~K., I.~J. Wright, J.~Turner, V.~Maire, M.~M. Barbour, L.~A.
   discrimination within C\textsubscript{3} plants worldwide}.
 \newblock {\em Global Ecology and Biogeography\/}~{\em 27\/}(9), 1056--1067.
 
+\bibitem[\protect\citeauthoryear{Cramer and Prentice}{Cramer and
+  Prentice}{1988}]{Cramer1988}
+Cramer, W. and I.~C. Prentice (1988).
+\newblock {Simulation of regional soil moisture deficits on a European scale}.
+\newblock {\em Norsk Geografisk Tidsskrift - Norwegian Journal of
+  Geography\/}~{\em 42\/}(2-3), 149--151.
+
 \bibitem[\protect\citeauthoryear{Curtis}{Curtis}{1996}]{Curtis1996}
 Curtis, P.~S. (1996).
 \newblock {A meta-analysis of leaf gas exchange and nitrogen in trees grown
   under elevated carbon dioxide}.
 \newblock {\em Plant, Cell and Environment\/}~{\em 19\/}(2), 127--137.
+
+\bibitem[\protect\citeauthoryear{Daly, Halbleib, Smith, Gibson, Doggett,
+  Taylor, Curtis, and Pasteris}{Daly et~al.}{2008}]{Daly2008}
+Daly, C., M.~Halbleib, J.~I. Smith, W.~P. Gibson, M.~K. Doggett, G.~H. Taylor,
+  J.~Curtis, and P.~P. Pasteris (2008).
+\newblock {Physiographically sensitive mapping of climatological temperature
+  and precipitation across the conterminous United States}.
+\newblock {\em International Journal of Climatology\/}~{\em 28\/}(15),
+  2031--2064.
 
 \bibitem[\protect\citeauthoryear{Davies-Barnard, Meyerholt, Zaehle,
   Friedlingstein, Brovkin, Fan, Fisher, Jones, Lee, Peano, Smith, W{\aa}rlind,
@@ -281,6 +309,15 @@ Davies-Barnard, T., J.~Meyerholt, S.~Zaehle, P.~Friedlingstein, V.~Brovkin,
 \newblock {Nitrogen cycling in CMIP6 land surface models: progress and
   limitations}.
 \newblock {\em Biogeosciences\/}~{\em 17\/}(20), 5129--5148.
+
+\bibitem[\protect\citeauthoryear{Davis, Prentice, Stocker, Thomas, Whitley,
+  Wang, Evans, Gallego-Sala, Sykes, and Cramer}{Davis et~al.}{2017}]{Davis2017}
+Davis, T.~W., I.~C. Prentice, B.~D. Stocker, R.~T. Thomas, R.~J. Whitley,
+  H.~Wang, B.~J. Evans, A.~V. Gallego-Sala, M.~T. Sykes, and W.~Cramer (2017).
+\newblock {Simple process-led algorithms for simulating habitats (SPLASH
+  v.1.0): robust indices of radiation, evapotranspiration and plant-available
+  moisture}.
+\newblock {\em Geoscientific Model Development\/}~{\em 10}, 689--708.
 
 \bibitem[\protect\citeauthoryear{Delaire, Frak, Sigogne, Adam, Beaujard, and
   {Le Roux}}{Delaire et~al.}{2005}]{Delaire2005}
@@ -653,6 +690,10 @@ Henneron, L., P.~Kardol, D.~A. Wardle, C.~Cros, and S.~Fontaine (2020).
   plant economic strategies}.
 \newblock {\em New Phytologist\/}~{\em 228\/}(4), 1269--1282.
 
+\bibitem[\protect\citeauthoryear{Hijmans}{Hijmans}{2022}]{Hijmans2022}
+Hijmans, R.~J. (2022).
+\newblock {terra: Spatial Data Analysis}.
+
 \bibitem[\protect\citeauthoryear{Hikosaka and Shigeno}{Hikosaka and
   Shigeno}{2009}]{Hikosaka2009}
 Hikosaka, K. and A.~Shigeno (2009).
@@ -745,6 +786,14 @@ Johnson, N.~C., J.~H. Graham, and F.~A. Smith (1997).
 \newblock {Functioning of mycorrhizal associations along the
   mutualism-parasitism continuum}.
 \newblock {\em New Phytologist\/}~{\em 135\/}(4), 575--585.
+
+\bibitem[\protect\citeauthoryear{Kachurina, Zhang, Raun, and Krenzer}{Kachurina
+  et~al.}{2000}]{Kachurina2000}
+Kachurina, O.~M., H.~Zhang, W.~R. Raun, and E.~G. Krenzer (2000).
+\newblock {Simultaneous determination of soil aluminum, ammonium- and nitrate-
+  nitrogen using 1 M potassium chloride}.
+\newblock {\em Communications in Soil Science and Plant Analysis\/}~{\em
+  31\/}(7-8), 893--903.
 
 \bibitem[\protect\citeauthoryear{Kaiser, Kilburn, Clode, Fuchslueger, Koranda,
   Cliff, Solaiman, and Murphy}{Kaiser et~al.}{2015}]{Kaiser2015}
@@ -868,6 +917,12 @@ Lawrence, D.~M., R.~A. Fisher, C.~D. Koven, K.~W. Oleson, S.~C. Swenson, G.~B.
 LeBauer, D.~S. and K.~K. Treseder (2008).
 \newblock {Nitrogen limitation of net primary productivity}.
 \newblock {\em Ecology\/}~{\em 89\/}(2), 371--379.
+
+\bibitem[\protect\citeauthoryear{Lefcheck}{Lefcheck}{2016}]{Lefcheck2016}
+Lefcheck, J.~S. (2016).
+\newblock {piecewiseSEM: Piecewise structural equation modelling in r for
+  ecology, evolution, and systematics}.
+\newblock {\em Methods in Ecology and Evolution\/}~{\em 7\/}(5), 573--579.
 
 \bibitem[\protect\citeauthoryear{Lenth}{Lenth}{2019}]{Lenth2019}
 Lenth, R. (2019).
@@ -1064,6 +1119,16 @@ Norby, R.~J., J.~M. Warren, C.~M. Iversen, B.~E. Medlyn, and R.~E. McMurtrie
 \newblock {\em Proceedings of the National Academy of Sciences\/}~{\em
   107\/}(45), 19368--19373.
 
+\bibitem[\protect\citeauthoryear{Novick, Ficklin, Stoy, Williams, Bohrer,
+  Oishi, Papuga, Blanken, Noormets, Sulman, Scott, Wang, and Phillips}{Novick
+  et~al.}{2016}]{Novick2016}
+Novick, K.~A., D.~L. Ficklin, P.~C. Stoy, C.~A. Williams, G.~Bohrer, A.~C.
+  Oishi, S.~A. Papuga, P.~D. Blanken, A.~Noormets, B.~N. Sulman, R.~L. Scott,
+  L.~Wang, and R.~P. Phillips (2016).
+\newblock {The increasing importance of atmospheric demand for ecosystem water
+  and carbon fluxes}.
+\newblock {\em Nature Climate Change\/}~{\em 6\/}(11), 1023--1027.
+
 \bibitem[\protect\citeauthoryear{Noyce, Kirwan, Rich, and Megonigal}{Noyce
   et~al.}{2019}]{Noyce2019}
 Noyce, G.~L., M.~L. Kirwan, R.~L. Rich, and J.~P. Megonigal (2019).
@@ -1086,6 +1151,13 @@ Onoda, Y., I.~J. Wright, J.~R. Evans, K.~Hikosaka, K.~Kitajima,
 \newblock {Physiological and structural tradeoffs underlying the leaf economics
   spectrum}.
 \newblock {\em New Phytologist\/}~{\em 214\/}(4), 1447--1463.
+
+\bibitem[\protect\citeauthoryear{Oreskes, Shrader-Frechette, and
+  Belitz}{Oreskes et~al.}{1994}]{Oreskes1994}
+Oreskes, N., K.~Shrader-Frechette, and K.~Belitz (1994).
+\newblock {Verification, validation, and confirmation of numerical models in
+  the Earth sciences}.
+\newblock {\em Science\/}~{\em 263\/}(5147), 641--646.
 
 \bibitem[\protect\citeauthoryear{Paillassa, Wright, Prentice, Pepin, Smith,
   Ethier, Westerband, Lamarque, Wang, Cornwell, and Maire}{Paillassa
@@ -1134,6 +1206,19 @@ Phillips, R.~P., A.~C. Finzi, and E.~S. Bernhardt (2011).
   a pine forest under long-term CO2 fumigation}.
 \newblock {\em Ecology Letters\/}~{\em 14\/}(2), 187--194.
 
+\bibitem[\protect\citeauthoryear{Pinheiro and Bates}{Pinheiro and
+  Bates}{2022}]{Pinheiro2022}
+Pinheiro, J. and D.~Bates (2022).
+\newblock nlme: linear and nonlinear mixed effects models.
+
+\bibitem[\protect\citeauthoryear{Poggio, {De Sousa}, Batjes, Heuvelink, Kempen,
+  Ribeiro, and Rossiter}{Poggio et~al.}{2021}]{Poggio2021}
+Poggio, L., L.~M. {De Sousa}, N.~H. Batjes, G.~B.~M. Heuvelink, B.~Kempen,
+  E.~Ribeiro, and D.~Rossiter (2021).
+\newblock {SoilGrids 2.0: Producing soil information for the globe with
+  quantified spatial uncertainty}.
+\newblock {\em Soil\/}~{\em 7\/}(1), 217--240.
+
 \bibitem[\protect\citeauthoryear{Pons and Pearcy}{Pons and
   Pearcy}{1994}]{Pons1994}
 Pons, T.~L. and R.~W. Pearcy (1994).
@@ -1171,6 +1256,13 @@ Prentice, I.~C., X.~Liang, B.~E. Medlyn, and Y.-P. Wang (2015).
 \newblock {Reliable, robust and realistic: The three R's of next-generation
   land-surface modelling}.
 \newblock {\em Atmospheric Chemistry and Physics\/}~{\em 15}, 5987--6005.
+
+\bibitem[\protect\citeauthoryear{Priestley and Taylor}{Priestley and
+  Taylor}{1972}]{Priestley1972}
+Priestley, C. H.~B. and R.~J. Taylor (1972).
+\newblock {On the Assessment of Surface Heat Flux and Evaporation Using
+  Large-Scale Parameters}.
+\newblock {\em Monthly Weather Review\/}~{\em 100\/}(2), 81--92.
 
 \bibitem[\protect\citeauthoryear{Querejeta, Prieto, Armas, Casanoves,
   Di{\'{e}}m{\'{e}}, Diouf, Yossi, Kaya, Pugnaire, and Rusch}{Querejeta
@@ -1251,6 +1343,14 @@ Saleh, A.~M., M.~Abdel-Mawgoud, A.~R. Hassan, T.~H. Habeeb, R.~S. Yehia, and
   oregano plants grown under ambient and elevated levels of atmospheric
   CO$_{2}$}.
 \newblock {\em Plant Physiology and Biochemistry\/}~{\em 151}, 255--263.
+
+\bibitem[\protect\citeauthoryear{Saxton and Rawls}{Saxton and
+  Rawls}{2006}]{Saxton2006}
+Saxton, K.~E. and W.~J. Rawls (2006).
+\newblock {Soil water characteristic estimates by texture and organic matter
+  for hydrologic solutions}.
+\newblock {\em Soil Science Society of America Journal\/}~{\em 70\/}(5),
+  1569--1578.
 
 \bibitem[\protect\citeauthoryear{Schaefer, Schwalm, Williams, Arain, Barr,
   Chen, Davis, Dimitrov, Hilton, Hollinger, Humphreys, Poulter, Raczka,
@@ -1372,6 +1472,22 @@ Stocker, B.~D., H.~Wang, N.~G. Smith, S.~P. Harrison, T.~F. Keenan,
   simulating ecosystem gross primary production}.
 \newblock {\em Geoscientific Model Development\/}~{\em 13\/}(3), 1545--1581.
 
+\bibitem[\protect\citeauthoryear{Stocker, Zscheischler, Keenan, Prentice,
+  Pe{\~{n}}uelas, and Seneviratne}{Stocker et~al.}{2018}]{Stocker2018}
+Stocker, B.~D., J.~Zscheischler, T.~F. Keenan, I.~C. Prentice,
+  J.~Pe{\~{n}}uelas, and S.~I. Seneviratne (2018).
+\newblock {Quantifying soil moisture impacts on light use efficiency across
+  biomes}.
+\newblock {\em New Phytologist\/}~{\em 218\/}(4), 1430--1449.
+
+\bibitem[\protect\citeauthoryear{Sulman, Roman, Yi, Wang, Phillips, and
+  Novick}{Sulman et~al.}{2016}]{Sulman2016}
+Sulman, B.~N., D.~T. Roman, K.~Yi, L.~Wang, R.~P. Phillips, and K.~A. Novick
+  (2016).
+\newblock {High atmospheric demand for water can limit forest carbon uptake and
+  transpiration as severely as dry soil}.
+\newblock {\em Geophysical Research Letters\/}~{\em 43\/}(18), 9686--9695.
+
 \bibitem[\protect\citeauthoryear{Sulman, Shevliakova, Brzostek, Kivlin,
   Malyshev, Menge, and Zhang}{Sulman et~al.}{2019}]{Sulman2019}
 Sulman, B.~N., E.~Shevliakova, E.~R. Brzostek, S.~N. Kivlin, S.~L. Malyshev,
@@ -1408,6 +1524,12 @@ Terrer, C., S.~Vicca, B.~D. Stocker, B.~A. Hungate, R.~P. Phillips, P.~B.
 \newblock {Ecosystem responses to elevated CO\textsubscript{2} governed by
   plant–soil interactions and the cost of nitrogen acquisition}.
 \newblock {\em New Phytologist\/}~{\em 217\/}(2), 507--522.
+
+\bibitem[\protect\citeauthoryear{Thieurmel and Elmarhraoui}{Thieurmel and
+  Elmarhraoui}{2019}]{Thieurmel2019}
+Thieurmel, B. and A.~Elmarhraoui (2019).
+\newblock {suncalc: Compute sun position, sunlight phases, moon position, and
+  lunar phase}.
 
 \bibitem[\protect\citeauthoryear{Thomas, Brookshire, and Gerber}{Thomas
   et~al.}{2015}]{Thomas2015}
