@@ -1,7 +1,7 @@
 \contentsline {chapter}{\textbf {Acknowledgements}}{ii}{chapter*.1}%
-\contentsline {chapter}{\textbf {Abstract}}{vi}{chapter*.3}%
-\contentsline {chapter}{\textbf {\textbf {List of Tables}}}{vii}{chapter*.4}%
-\contentsline {chapter}{\textbf {\textbf {List of Figures}}}{viii}{chapter*.5}%
+\contentsline {chapter}{\textbf {Abstract}}{vii}{chapter*.3}%
+\contentsline {chapter}{\textbf {\textbf {List of Tables}}}{viii}{chapter*.4}%
+\contentsline {chapter}{\textbf {\textbf {List of Figures}}}{ix}{chapter*.5}%
 \contentsline {chapter}{1. \textbf {Introduction}}{1}{chapter.1}%
 \contentsline {chapter}{2. \textbf {Structural carbon costs to acquire nitrogen are determined by nitrogen and light availability in two species with different nitrogen acquisition strategies}}{3}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Introduction}{3}{section.2.1}%
@@ -48,7 +48,7 @@
 \contentsline {subsection}{\numberline {4.2.6}\textit {Data analysis}}{77}{subsection.4.2.6}%
 \contentsline {section}{\numberline {4.3}Results}{79}{section.4.3}%
 \contentsline {subsection}{\numberline {4.3.1}\textit {Cost to acquire nitrogen relative to water ($\beta $)}}{79}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4.3.2}\textit {Leaf C\textsubscript {i}:C\textsubscript {a} ($\chi $)}}{83}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.2}\textit {Leaf C\textsubscript {i}:C\textsubscript {a}}}{83}{subsection.4.3.2}%
 \contentsline {subsection}{\numberline {4.3.3}\textit {Leaf nitrogen content}}{86}{subsection.4.3.3}%
 \contentsline {subsection}{\numberline {4.3.4}\textit {Structural equation model}}{90}{subsection.4.3.4}%
 \contentsline {section}{\numberline {4.4}Discussion}{93}{section.4.4}%
@@ -63,8 +63,14 @@
 \contentsline {subsection}{\numberline {5.2.6}Stomatal limitation}{105}{subsection.5.2.6}%
 \contentsline {subsection}{\numberline {5.2.7}\textit {Proportion of leaf nitorgen allocated to photosynthesis and structure}}{106}{subsection.5.2.7}%
 \contentsline {subsection}{\numberline {5.2.8}\textit {Whole plant traits}}{108}{subsection.5.2.8}%
-\contentsline {subsection}{\numberline {5.2.9}\textit {Statistical analyses}}{109}{subsection.5.2.9}%
-\contentsline {section}{\numberline {5.3}Results}{111}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Discussion}{111}{section.5.4}%
-\contentsline {chapter}{6. \textbf {Conclusions}}{112}{chapter.6}%
-\contentsline {chapter}{\textbf {References}}{113}{chapter.6}%
+\contentsline {subsection}{\numberline {5.2.9}\textit {Statistical analyses}}{110}{subsection.5.2.9}%
+\contentsline {section}{\numberline {5.3}Results}{112}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}\textit {Leaf nitrogen content, chlorophyll content, and mass per area}}{112}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}\textit {Leaf biochemistry and stomatal conductance}}{116}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.3}\textit {Leaf nitrogen allocation}}{120}{subsection.5.3.3}%
+\contentsline {subsection}{\numberline {5.3.4}\textit {Whole plant growth and total leaf area}}{124}{subsection.5.3.4}%
+\contentsline {subsection}{\numberline {5.3.5}\textit {Carbon costs to acquire nitrogen}}{124}{subsection.5.3.5}%
+\contentsline {subsection}{\numberline {5.3.6}\textit {Nitrogen fixation}}{128}{subsection.5.3.6}%
+\contentsline {section}{\numberline {5.4}Discussion}{132}{section.5.4}%
+\contentsline {chapter}{6. \textbf {Conclusions}}{134}{chapter.6}%
+\contentsline {chapter}{\textbf {References}}{135}{chapter.6}%
