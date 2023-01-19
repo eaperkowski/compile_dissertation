@@ -1,53 +1,53 @@
-This is BibTeX, Version 0.99d (TeX Live 2021)
+This is BibTeX, Version 0.99d (TeX Live 2022)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Perkowski_dissertation_main_v1.0.aux
 A level-1 auxiliary file: ch4_TXeco/ch4_TXeco_main.aux
 The style file: chicago.bst
-Reallocated field_info (elt_size=4) to 10129 items from 5000.
+Reallocated field_info (elt_size=4) to 10152 items from 5000.
 Database file #1: reference_list.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Warning--no number and no volume in Bloomfield2022
 Warning--can't use both author and editor fields in IPCC2021
 Warning--no volume for Markham2007
-You've used 223 entries,
+You've used 224 entries,
             2861 wiz_defined-function locations,
-            1993 strings with 65150 characters,
-and the built_in function-call counts, 235317 in all, are:
-= -- 16383
-> -- 26805
+            2000 strings with 65322 characters,
+and the built_in function-call counts, 236246 in all, are:
+= -- 16452
+> -- 26900
 < -- 4
-+ -- 8731
-- -- 8995
-* -- 26423
-:= -- 44309
-add.period$ -- 664
-call.type$ -- 223
-change.case$ -- 2538
-chr.to.int$ -- 223
-cite$ -- 226
-duplicate$ -- 4006
-empty$ -- 9728
-format.name$ -- 9795
-if$ -- 42440
++ -- 8761
+- -- 9025
+* -- 26527
+:= -- 44479
+add.period$ -- 667
+call.type$ -- 224
+change.case$ -- 2548
+chr.to.int$ -- 224
+cite$ -- 227
+duplicate$ -- 4024
+empty$ -- 9772
+format.name$ -- 9829
+if$ -- 42611
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 218
-newline$ -- 1110
-num.names$ -- 2234
-pop$ -- 1908
+missing$ -- 219
+newline$ -- 1115
+num.names$ -- 2244
+pop$ -- 1915
 preamble$ -- 1
-purify$ -- 3879
+purify$ -- 3895
 quote$ -- 0
-skip$ -- 4041
+skip$ -- 4058
 stack$ -- 0
-substring$ -- 9758
-swap$ -- 1329
+substring$ -- 9803
+swap$ -- 1335
 text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 4430
+type$ -- 4450
 warning$ -- 3
-while$ -- 2014
+while$ -- 2022
 width$ -- 0
-write$ -- 2894
+write$ -- 2907
 (There were 3 warnings)

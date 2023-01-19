@@ -72,5 +72,9 @@
 \contentsline {subsection}{\numberline {5.3.5}\textit {Carbon costs to acquire nitrogen}}{124}{subsection.5.3.5}%
 \contentsline {subsection}{\numberline {5.3.6}\textit {Nitrogen fixation}}{128}{subsection.5.3.6}%
 \contentsline {section}{\numberline {5.4}Discussion}{132}{section.5.4}%
-\contentsline {chapter}{6. \textbf {Conclusions}}{134}{chapter.6}%
-\contentsline {chapter}{\textbf {References}}{135}{chapter.6}%
+\contentsline {subsection}{\numberline {5.4.1}\textit {Soil nitrogen fertilization has divergent effects on leaf and whole plant acclimation responses to CO$_2$}}{133}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}\textit {Implications for future model development}}{137}{subsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.4.3}\textit {Study limitations and future directions}}{138}{subsection.5.4.3}%
+\contentsline {subsection}{\numberline {5.4.4}\textit {Conclusions}}{140}{subsection.5.4.4}%
+\contentsline {chapter}{6. \textbf {Conclusions}}{142}{chapter.6}%
+\contentsline {chapter}{\textbf {References}}{143}{chapter.6}%
