@@ -1,7 +1,7 @@
 \contentsline {chapter}{\textbf {Acknowledgements}}{ii}{chapter*.1}%
 \contentsline {chapter}{\textbf {Abstract}}{vii}{chapter*.3}%
 \contentsline {chapter}{\textbf {\textbf {List of Tables}}}{viii}{chapter*.4}%
-\contentsline {chapter}{\textbf {\textbf {List of Figures}}}{ix}{chapter*.5}%
+\contentsline {chapter}{\textbf {\textbf {List of Figures}}}{x}{chapter*.5}%
 \contentsline {chapter}{1. \textbf {Introduction}}{1}{chapter.1}%
 \contentsline {chapter}{2. \textbf {Structural carbon costs to acquire nitrogen are determined by nitrogen and light availability in two species with different nitrogen acquisition strategies}}{3}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Introduction}{3}{section.2.1}%
