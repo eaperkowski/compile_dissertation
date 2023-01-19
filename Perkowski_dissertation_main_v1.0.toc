@@ -3,78 +3,78 @@
 \contentsline {chapter}{\textbf {\textbf {List of Tables}}}{viii}{chapter*.4}%
 \contentsline {chapter}{\textbf {\textbf {List of Figures}}}{x}{chapter*.5}%
 \contentsline {chapter}{1. \textbf {Introduction}}{1}{chapter.1}%
-\contentsline {chapter}{2. \textbf {Structural carbon costs to acquire nitrogen are determined by nitrogen and light availability in two species with different nitrogen acquisition strategies}}{3}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Introduction}{3}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Methods}{7}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}\textit {Experiment setup}}{7}{subsection.2.2.1}%
-\contentsline {subsection}{\numberline {2.2.2}\textit {Plant measurements and calculations}}{8}{subsection.2.2.2}%
-\contentsline {subsection}{\numberline {2.2.3}\textit {Statistical analyses}}{9}{subsection.2.2.3}%
-\contentsline {section}{\numberline {2.3}Results}{11}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}\textit {Carbon costs to acquire nitrogen}}{11}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}\textit {Whole plant nitrogen biomass}}{14}{subsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.3.3}\textit {Root carbon biomass}}{16}{subsection.2.3.3}%
-\contentsline {subsection}{\numberline {2.3.4}\textit {Root nodule biomass}}{18}{subsection.2.3.4}%
-\contentsline {section}{\numberline {2.4}Discussion}{22}{section.2.4}%
-\contentsline {chapter}{3. \textbf {Soil nitrogen availability modifies leaf nitrogen economies in mature temperate deciduous forests: a direct test of photosynthetic least-cost theory}}{30}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Introduction}{30}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Methods}{34}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}\textit {Study site description}}{34}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}\textit {Experimental design}}{35}{subsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.2.3}\textit {Leaf gas exchange and trait measurements}}{35}{subsection.3.2.3}%
-\contentsline {subsection}{\numberline {3.2.4}$A_{net}/C_i$ \textit {curve-fitting and parameter estimation}}{38}{subsection.3.2.4}%
-\contentsline {subsection}{\numberline {3.2.5}\textit {Proportion of leaf nitrogen allocated to photosynthesis and structure}}{40}{subsection.3.2.5}%
-\contentsline {subsection}{\numberline {3.2.6}\textit {Tradeoffs between nitrogen and water use}}{41}{subsection.3.2.6}%
-\contentsline {subsection}{\numberline {3.2.7}\textit {Soil nitrogen availability and pH}}{42}{subsection.3.2.7}%
-\contentsline {subsection}{\numberline {3.2.8}\textit {Statistical analyses}}{44}{subsection.3.2.8}%
-\contentsline {section}{\numberline {3.3}Results}{46}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}\textit {Leaf N content}}{46}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.3.2}\textit {Net photosynthesis and leaf biochemistry}}{49}{subsection.3.3.2}%
-\contentsline {subsection}{\numberline {3.3.3}\textit {Leaf N allocation}}{52}{subsection.3.3.3}%
-\contentsline {subsection}{\numberline {3.3.4}\textit {Tradeoffs between nitrogen and water use }}{55}{subsection.3.3.4}%
-\contentsline {section}{\numberline {3.4}Discussion}{58}{section.3.4}%
-\contentsline {subsection}{\numberline {3.4.1}\textit {Soil nitrogen availability modifies tradeoffs between nitrogen and water use}}{59}{subsection.3.4.1}%
-\contentsline {subsection}{\numberline {3.4.2}\textit {Soil pH did not modify tradeoffs between nitrogen and water usage}}{61}{subsection.3.4.2}%
-\contentsline {subsection}{\numberline {3.4.3}\textit {Species identity explains a large amount of variation in leaf and whole plant traits}}{62}{subsection.3.4.3}%
-\contentsline {subsection}{\numberline {3.4.4}\textit {Implications for photosynthetic least-cost theory model development}}{63}{subsection.3.4.4}%
-\contentsline {subsection}{\numberline {3.4.5}\textit {Conclusions}}{65}{subsection.3.4.5}%
-\contentsline {chapter}{4. \textbf {The relative cost of resource use for photosynthesis drives variance in leaf nitrogen content across climate and soil resource availability gradients}}{66}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Introduction}{66}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Methods}{68}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}textit{Site descriptions and sampling methodology}}{68}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}\textit {Leaf trait measurements}}{68}{subsection.4.2.2}%
-\contentsline {subsection}{\numberline {4.2.3}\textit {Site climate data}}{74}{subsection.4.2.3}%
-\contentsline {subsection}{\numberline {4.2.4}\textit {Site edaphic characteristics}}{74}{subsection.4.2.4}%
-\contentsline {subsection}{\numberline {4.2.5}\textit {Plant functional group assignments}}{76}{subsection.4.2.5}%
-\contentsline {subsection}{\numberline {4.2.6}\textit {Data analysis}}{77}{subsection.4.2.6}%
-\contentsline {section}{\numberline {4.3}Results}{79}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}\textit {Cost to acquire nitrogen relative to water ($\beta $)}}{79}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4.3.2}\textit {Leaf C\textsubscript {i}:C\textsubscript {a}}}{83}{subsection.4.3.2}%
-\contentsline {subsection}{\numberline {4.3.3}\textit {Leaf nitrogen content}}{86}{subsection.4.3.3}%
-\contentsline {subsection}{\numberline {4.3.4}\textit {Structural equation model}}{90}{subsection.4.3.4}%
-\contentsline {section}{\numberline {4.4}Discussion}{93}{section.4.4}%
-\contentsline {chapter}{5. \textbf {Optimal resource investment to photosynthetic capacity maximizes nutrient allocation to whole plant growth under elevated CO2}}{94}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Introduction}{94}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Methods}{99}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}\textit {Seed treatments and experimental design}}{99}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.2.2}\textit {Growth chamber conditions}}{100}{subsection.5.2.2}%
-\contentsline {subsection}{\numberline {5.2.3}\textit {Leaf gas exchange measurements}}{102}{subsection.5.2.3}%
-\contentsline {subsection}{\numberline {5.2.4}\textit {Leaf trait measurements}}{103}{subsection.5.2.4}%
-\contentsline {subsection}{\numberline {5.2.5}\textit {A/C\textsubscript {i} curve fitting and parameter estimation}}{105}{subsection.5.2.5}%
-\contentsline {subsection}{\numberline {5.2.6}Stomatal limitation}{105}{subsection.5.2.6}%
-\contentsline {subsection}{\numberline {5.2.7}\textit {Proportion of leaf nitorgen allocated to photosynthesis and structure}}{106}{subsection.5.2.7}%
-\contentsline {subsection}{\numberline {5.2.8}\textit {Whole plant traits}}{108}{subsection.5.2.8}%
-\contentsline {subsection}{\numberline {5.2.9}\textit {Statistical analyses}}{110}{subsection.5.2.9}%
-\contentsline {section}{\numberline {5.3}Results}{112}{section.5.3}%
-\contentsline {subsection}{\numberline {5.3.1}\textit {Leaf nitrogen content, chlorophyll content, and mass per area}}{112}{subsection.5.3.1}%
-\contentsline {subsection}{\numberline {5.3.2}\textit {Leaf biochemistry and stomatal conductance}}{116}{subsection.5.3.2}%
-\contentsline {subsection}{\numberline {5.3.3}\textit {Leaf nitrogen allocation}}{120}{subsection.5.3.3}%
-\contentsline {subsection}{\numberline {5.3.4}\textit {Whole plant growth and total leaf area}}{124}{subsection.5.3.4}%
-\contentsline {subsection}{\numberline {5.3.5}\textit {Carbon costs to acquire nitrogen}}{124}{subsection.5.3.5}%
-\contentsline {subsection}{\numberline {5.3.6}\textit {Nitrogen fixation}}{128}{subsection.5.3.6}%
-\contentsline {section}{\numberline {5.4}Discussion}{132}{section.5.4}%
-\contentsline {subsection}{\numberline {5.4.1}\textit {Soil nitrogen fertilization has divergent effects on leaf and whole plant acclimation responses to CO$_2$}}{133}{subsection.5.4.1}%
-\contentsline {subsection}{\numberline {5.4.2}\textit {Implications for future model development}}{137}{subsection.5.4.2}%
-\contentsline {subsection}{\numberline {5.4.3}\textit {Study limitations and future directions}}{138}{subsection.5.4.3}%
-\contentsline {subsection}{\numberline {5.4.4}\textit {Conclusions}}{140}{subsection.5.4.4}%
-\contentsline {chapter}{6. \textbf {Conclusions}}{142}{chapter.6}%
-\contentsline {chapter}{\textbf {References}}{143}{chapter.6}%
+\contentsline {chapter}{2. \textbf {Structural carbon costs to acquire nitrogen are determined by nitrogen and light availability in two species with different nitrogen acquisition strategies}}{4}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introduction}{4}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Methods}{8}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}\textit {Experiment setup}}{8}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}\textit {Plant measurements and calculations}}{9}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}\textit {Statistical analyses}}{10}{subsection.2.2.3}%
+\contentsline {section}{\numberline {2.3}Results}{12}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}\textit {Carbon costs to acquire nitrogen}}{12}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}\textit {Whole plant nitrogen biomass}}{15}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}\textit {Root carbon biomass}}{17}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}\textit {Root nodule biomass}}{19}{subsection.2.3.4}%
+\contentsline {section}{\numberline {2.4}Discussion}{23}{section.2.4}%
+\contentsline {chapter}{3. \textbf {Soil nitrogen availability modifies leaf nitrogen economies in mature temperate deciduous forests: a direct test of photosynthetic least-cost theory}}{31}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introduction}{31}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Methods}{35}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}\textit {Study site description}}{35}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}\textit {Experimental design}}{36}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}\textit {Leaf gas exchange and trait measurements}}{36}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}$A_{net}/C_i$ \textit {curve-fitting and parameter estimation}}{39}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.5}\textit {Proportion of leaf nitrogen allocated to photosynthesis and structure}}{41}{subsection.3.2.5}%
+\contentsline {subsection}{\numberline {3.2.6}\textit {Tradeoffs between nitrogen and water use}}{42}{subsection.3.2.6}%
+\contentsline {subsection}{\numberline {3.2.7}\textit {Soil nitrogen availability and pH}}{43}{subsection.3.2.7}%
+\contentsline {subsection}{\numberline {3.2.8}\textit {Statistical analyses}}{45}{subsection.3.2.8}%
+\contentsline {section}{\numberline {3.3}Results}{47}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}\textit {Leaf N content}}{47}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}\textit {Net photosynthesis and leaf biochemistry}}{50}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}\textit {Leaf N allocation}}{53}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}\textit {Tradeoffs between nitrogen and water use }}{56}{subsection.3.3.4}%
+\contentsline {section}{\numberline {3.4}Discussion}{59}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}\textit {Soil nitrogen availability modifies tradeoffs between nitrogen and water use}}{60}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}\textit {Soil pH did not modify tradeoffs between nitrogen and water usage}}{62}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}\textit {Species identity explains a large amount of variation in leaf and whole plant traits}}{63}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.4}\textit {Implications for photosynthetic least-cost theory model development}}{64}{subsection.3.4.4}%
+\contentsline {subsection}{\numberline {3.4.5}\textit {Conclusions}}{66}{subsection.3.4.5}%
+\contentsline {chapter}{4. \textbf {The relative cost of resource use for photosynthesis drives variance in leaf nitrogen content across climate and soil resource availability gradients}}{67}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introduction}{67}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Methods}{69}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}textit{Site descriptions and sampling methodology}}{69}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}\textit {Leaf trait measurements}}{69}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}\textit {Site climate data}}{75}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}\textit {Site edaphic characteristics}}{75}{subsection.4.2.4}%
+\contentsline {subsection}{\numberline {4.2.5}\textit {Plant functional group assignments}}{77}{subsection.4.2.5}%
+\contentsline {subsection}{\numberline {4.2.6}\textit {Data analysis}}{78}{subsection.4.2.6}%
+\contentsline {section}{\numberline {4.3}Results}{80}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}\textit {Cost to acquire nitrogen relative to water ($\beta $)}}{80}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}\textit {Leaf C\textsubscript {i}:C\textsubscript {a}}}{84}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}\textit {Leaf nitrogen content}}{87}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.4}\textit {Structural equation model}}{91}{subsection.4.3.4}%
+\contentsline {section}{\numberline {4.4}Discussion}{94}{section.4.4}%
+\contentsline {chapter}{5. \textbf {Optimal resource investment to photosynthetic capacity maximizes nutrient allocation to whole plant growth under elevated CO2}}{95}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Introduction}{95}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Methods}{100}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}\textit {Seed treatments and experimental design}}{100}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}\textit {Growth chamber conditions}}{101}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}\textit {Leaf gas exchange measurements}}{103}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.2.4}\textit {Leaf trait measurements}}{104}{subsection.5.2.4}%
+\contentsline {subsection}{\numberline {5.2.5}\textit {A/C\textsubscript {i} curve fitting and parameter estimation}}{106}{subsection.5.2.5}%
+\contentsline {subsection}{\numberline {5.2.6}Stomatal limitation}{106}{subsection.5.2.6}%
+\contentsline {subsection}{\numberline {5.2.7}\textit {Proportion of leaf nitorgen allocated to photosynthesis and structure}}{107}{subsection.5.2.7}%
+\contentsline {subsection}{\numberline {5.2.8}\textit {Whole plant traits}}{109}{subsection.5.2.8}%
+\contentsline {subsection}{\numberline {5.2.9}\textit {Statistical analyses}}{111}{subsection.5.2.9}%
+\contentsline {section}{\numberline {5.3}Results}{113}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}\textit {Leaf nitrogen content, chlorophyll content, and mass per area}}{113}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}\textit {Leaf biochemistry and stomatal conductance}}{117}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.3}\textit {Leaf nitrogen allocation}}{121}{subsection.5.3.3}%
+\contentsline {subsection}{\numberline {5.3.4}\textit {Whole plant growth and total leaf area}}{125}{subsection.5.3.4}%
+\contentsline {subsection}{\numberline {5.3.5}\textit {Carbon costs to acquire nitrogen}}{125}{subsection.5.3.5}%
+\contentsline {subsection}{\numberline {5.3.6}\textit {Nitrogen fixation}}{129}{subsection.5.3.6}%
+\contentsline {section}{\numberline {5.4}Discussion}{133}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}\textit {Soil nitrogen fertilization has divergent effects on leaf and whole plant acclimation responses to CO$_2$}}{134}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}\textit {Implications for future model development}}{138}{subsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.4.3}\textit {Study limitations and future directions}}{139}{subsection.5.4.3}%
+\contentsline {subsection}{\numberline {5.4.4}\textit {Conclusions}}{141}{subsection.5.4.4}%
+\contentsline {chapter}{6. \textbf {Conclusions}}{143}{chapter.6}%
+\contentsline {chapter}{\textbf {References}}{145}{chapter.6}%
