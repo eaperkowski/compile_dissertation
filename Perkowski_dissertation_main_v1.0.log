@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.18)  19 JAN 2023 17:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.18)  20 JAN 2023 15:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -420,30 +420,30 @@ Package shellesc Info: Restricted shell escape enabled on input line 77.
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/docmute/docmute.sty
 Package: docmute 2012/03/22 v1.4 Input stand-alone documents
 )
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 73.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 72.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (./Perkowski_dissertation_main_v1.0.aux (./ch4_TXeco/ch4_TXeco_main.aux))
 \openout1 = `Perkowski_dissertation_main_v1.0.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
  (/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count321
@@ -473,7 +473,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
 )
-Package hyperref Info: Link coloring ON on input line 73.
+Package hyperref Info: Link coloring ON on input line 72.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/local/texlive/2022/texmf-dist/tex/latex/refcount/refcount.sty
@@ -483,16 +483,16 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count327
 )
-LaTeX Info: Redefining \ref on input line 73.
-LaTeX Info: Redefining \pageref on input line 73.
-LaTeX Info: Redefining \nameref on input line 73.
+LaTeX Info: Redefining \ref on input line 72.
+LaTeX Info: Redefining \pageref on input line 72.
+LaTeX Info: Redefining \nameref on input line 72.
  (./Perkowski_dissertation_main_v1.0.out) (./Perkowski_dissertation_main_v1.0.out)
 \@outlinefile=\write4
 \openout4 = `Perkowski_dissertation_main_v1.0.out'.
 
 \docmute@nestinglevel=\count328
 
-Overfull \vbox (8.88918pt too high) detected at line 112
+Overfull \vbox (8.88918pt too high) detected at line 111
  []
 
 [1
@@ -502,7 +502,7 @@ Overfull \vbox (8.88918pt too high) detected at line 112
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.140 \frontmatter
+l.139 \frontmatter
                    [1] [2
 
 
@@ -572,52 +572,52 @@ l.8
      [1
 
 
-]) [2] (./ch2_LxN_Greenhouse/ch2_LxN_main.tex [3]
+] [2] [3] [4] [5]) [6] (./ch2_LxN_Greenhouse/ch2_LxN_main.tex [7]
 Chapter 2.
-[4
+[8
 
-] [5] [6]
+] [9] [10]
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 28.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) [7] [8] [9] [10] [11] [12]
+) [11] [12] [13] [14] [15] [16]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 48.
 
-[13]
-<ch2_LxN_Greenhouse/figs/fig1_ncost.png, id=897, 5139.2pt x 2248.4pt>
+[17]
+<ch2_LxN_Greenhouse/figs/fig1_ncost.png, id=974, 5139.2pt x 2248.4pt>
 File: ch2_LxN_Greenhouse/figs/fig1_ncost.png Graphic file (type png)
 <use ch2_LxN_Greenhouse/figs/fig1_ncost.png>
 Package pdftex.def Info: ch2_LxN_Greenhouse/figs/fig1_ncost.png  used on input line 137.
 (pdftex.def)             Requested size: 415.55249pt x 181.7969pt.
- [14 <./ch2_LxN_Greenhouse/figs/fig1_ncost.png>] [15
+ [18 <./ch2_LxN_Greenhouse/figs/fig1_ncost.png>] [19
 
 
 
 
 ]
-<ch2_LxN_Greenhouse/figs/fig2_nacq.png, id=914, 5139.2pt x 2248.4pt>
+<ch2_LxN_Greenhouse/figs/fig2_nacq.png, id=992, 5139.2pt x 2248.4pt>
 File: ch2_LxN_Greenhouse/figs/fig2_nacq.png Graphic file (type png)
 <use ch2_LxN_Greenhouse/figs/fig2_nacq.png>
 Package pdftex.def Info: ch2_LxN_Greenhouse/figs/fig2_nacq.png  used on input line 154.
 (pdftex.def)             Requested size: 415.55249pt x 181.7969pt.
- [16 <./ch2_LxN_Greenhouse/figs/fig2_nacq.png>] [17
+ [20 <./ch2_LxN_Greenhouse/figs/fig2_nacq.png>] [21
 
 ]
-<ch2_LxN_Greenhouse/figs/fig3_rootCarbon.png, id=943, 5139.2pt x 2248.4pt>
+<ch2_LxN_Greenhouse/figs/fig3_rootCarbon.png, id=1020, 5139.2pt x 2248.4pt>
 File: ch2_LxN_Greenhouse/figs/fig3_rootCarbon.png Graphic file (type png)
 <use ch2_LxN_Greenhouse/figs/fig3_rootCarbon.png>
 Package pdftex.def Info: ch2_LxN_Greenhouse/figs/fig3_rootCarbon.png  used on input line 171.
 (pdftex.def)             Requested size: 415.55249pt x 181.7969pt.
- [18 <./ch2_LxN_Greenhouse/figs/fig3_rootCarbon.png>] [19
+ [22 <./ch2_LxN_Greenhouse/figs/fig3_rootCarbon.png>] [23
 
 ]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 182.
 
-[20]
+[24]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 227.
@@ -627,33 +627,33 @@ Overfull \hbox (1.59225pt too wide) in paragraph at lines 306--306
 [][]| 
  []
 
-[21]
-<ch2_LxN_Greenhouse/figs/fig4_nodwgt.png, id=978, 5139.2pt x 2248.4pt>
+[25]
+<ch2_LxN_Greenhouse/figs/fig4_nodwgt.png, id=1056, 5139.2pt x 2248.4pt>
 File: ch2_LxN_Greenhouse/figs/fig4_nodwgt.png Graphic file (type png)
 <use ch2_LxN_Greenhouse/figs/fig4_nodwgt.png>
 Package pdftex.def Info: ch2_LxN_Greenhouse/figs/fig4_nodwgt.png  used on input line 315.
 (pdftex.def)             Requested size: 415.55249pt x 181.7969pt.
- [22 <./ch2_LxN_Greenhouse/figs/fig4_nodwgt.png>] [23
+ [26 <./ch2_LxN_Greenhouse/figs/fig4_nodwgt.png>] [27
 
 
 
 
 
-] [24] [25] [26] [27] [28] [29]) (./ch3_NxpH/ch3_NxpH_main.tex [30]
+] [28] [29] [30] [31] [32] [33]) (./ch3_NxpH/ch3_NxpH_main.tex [34]
 Chapter 3.
 
 Overfull \hbox (4.4006pt too wide) in paragraph at lines 9--10
 []\T1/lmr/m/n/12 Terrestrial bio-sphere mod-els com-monly rep-re-sent C$[]$ pho-to-syn-the-sis through
  []
 
-[31
+[35
 
-] [32] [33] [34] [35] [36]
+] [36] [37] [38] [39] [40]
 Overfull \hbox (17.6369pt too wide) in paragraph at lines 33--34
 \T1/lmr/m/n/12 portable pho-to-syn-the-sis ma-chine to mea-sure net pho-to-syn-the-sis ($\OML/lmm/m/it/12 A[]$\T1/lmr/m/n/12 ; $[]$),
  []
 
-[37]
+[41]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 51.
@@ -670,18 +670,18 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 51.
 
-[38] [39] [40]
+[42] [43] [44]
 Overfull \hbox (2.72186pt too wide) in paragraph at lines 109--110
 []\T1/lmr/m/n/12 where $\OML/lmm/m/it/12 N[]$ \T1/lmr/m/n/12 is the amount of ni-tro-gen in cy-tochrome f, set to 0.12407 $[]$
  []
 
-[41] [42] [43] [44] [45] [46] [47]
+[45] [46] [47] [48] [49] [50] [51]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 154.
 
-[48]
-<ch3_NxpH/figs/NxS_fig1_leafn.png, id=1423, 7227.0pt x 7227.0pt>
+[52]
+<ch3_NxpH/figs/NxS_fig1_leafn.png, id=1488, 7227.0pt x 7227.0pt>
 File: ch3_NxpH/figs/NxS_fig1_leafn.png Graphic file (type png)
 <use ch3_NxpH/figs/NxS_fig1_leafn.png>
 Package pdftex.def Info: ch3_NxpH/figs/NxS_fig1_leafn.png  used on input line 211.
@@ -690,7 +690,7 @@ Package pdftex.def Info: ch3_NxpH/figs/NxS_fig1_leafn.png  used on input line 21
 
 LaTeX Warning: Float too large for page by 7.80556pt on input line 215.
 
-[49 <./ch3_NxpH/figs/NxS_fig1_leafn.png>] [50
+[53 <./ch3_NxpH/figs/NxS_fig1_leafn.png>] [54
 
 
 
@@ -701,13 +701,13 @@ LaTeX Warning: Float too large for page by 7.80556pt on input line 215.
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 226.
 
-[51]
-<ch3_NxpH/figs/NxS_fig2_leafbiochem.png, id=1453, 9636.0pt x 7227.0pt>
+[55]
+<ch3_NxpH/figs/NxS_fig2_leafbiochem.png, id=1519, 9636.0pt x 7227.0pt>
 File: ch3_NxpH/figs/NxS_fig2_leafbiochem.png Graphic file (type png)
 <use ch3_NxpH/figs/NxS_fig2_leafbiochem.png>
 Package pdftex.def Info: ch3_NxpH/figs/NxS_fig2_leafbiochem.png  used on input line 336.
 (pdftex.def)             Requested size: 415.55249pt x 311.63715pt.
- [52 <./ch3_NxpH/figs/NxS_fig2_leafbiochem.png>] [53
+ [56 <./ch3_NxpH/figs/NxS_fig2_leafbiochem.png>] [57
 
 
 
@@ -718,8 +718,8 @@ Package pdftex.def Info: ch3_NxpH/figs/NxS_fig2_leafbiochem.png  used on input l
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 350.
 
-[54]
-<ch3_NxpH/figs/NxS_fig3_leafn_allocation.png, id=1481, 542.025pt x 722.7pt>
+[58]
+<ch3_NxpH/figs/NxS_fig3_leafn_allocation.png, id=1547, 542.025pt x 722.7pt>
 File: ch3_NxpH/figs/NxS_fig3_leafn_allocation.png Graphic file (type png)
 <use ch3_NxpH/figs/NxS_fig3_leafn_allocation.png>
 Package pdftex.def Info: ch3_NxpH/figs/NxS_fig3_leafn_allocation.png  used on input line 434.
@@ -728,7 +728,7 @@ Package pdftex.def Info: ch3_NxpH/figs/NxS_fig3_leafn_allocation.png  used on in
 
 LaTeX Warning: Float too large for page by 15.87712pt on input line 438.
 
-[55 <./ch3_NxpH/figs/NxS_fig3_leafn_allocation.png>] [56
+[59 <./ch3_NxpH/figs/NxS_fig3_leafn_allocation.png>] [60
 
 
 
@@ -739,30 +739,30 @@ LaTeX Warning: Float too large for page by 15.87712pt on input line 438.
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 449.
 
-[57]
-<ch3_NxpH/figs/NxS_fig4_pnueiwue.png, id=1513, 8288.9675pt x 9572.76375pt>
+[61]
+<ch3_NxpH/figs/NxS_fig4_pnueiwue.png, id=1580, 8288.9675pt x 9572.76375pt>
 File: ch3_NxpH/figs/NxS_fig4_pnueiwue.png Graphic file (type png)
 <use ch3_NxpH/figs/NxS_fig4_pnueiwue.png>
 Package pdftex.def Info: ch3_NxpH/figs/NxS_fig4_pnueiwue.png  used on input line 559.
 (pdftex.def)             Requested size: 415.55249pt x 479.83478pt.
- [58 <./ch3_NxpH/figs/NxS_fig4_pnueiwue.png>] [59
+ [62 <./ch3_NxpH/figs/NxS_fig4_pnueiwue.png>] [63
 
 
 
 
 
-] [60] [61] [62] [63] [64] [65]) [66]
+] [64] [65] [66] [67] [68] [69]) [70]
 \openout2 = `ch4_TXeco/ch4_TXeco_main.aux'.
 
  (./ch4_TXeco/ch4_TXeco_main.tex
 Chapter 4.
-[67
+[71
 
 
-] [68] [69] [70] [71] [72] [73
+] [72] [73] [74] [75] [76] [77
 
 ]
-<ch4_TXeco/figs/TXeco_fig1_site_map.png, id=1752, 12045.0pt x 4818.0pt>
+<ch4_TXeco/figs/TXeco_fig1_site_map.png, id=1818, 12045.0pt x 4818.0pt>
 File: ch4_TXeco/figs/TXeco_fig1_site_map.png Graphic file (type png)
 <use ch4_TXeco/figs/TXeco_fig1_site_map.png>
 Package pdftex.def Info: ch4_TXeco/figs/TXeco_fig1_site_map.png  used on input line 73.
@@ -772,12 +772,12 @@ Overfull \hbox (10.57468pt too wide) in paragraph at lines 73--74
  [][] 
  []
 
-[74 <./ch4_TXeco/figs/TXeco_fig1_site_map.png>] [75
+[78 <./ch4_TXeco/figs/TXeco_fig1_site_map.png>] [79
 
 
 
 
-] [76] [77] [78] [79]
+] [80] [81] [82] [83]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 114.
@@ -790,13 +790,13 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 114.
 
-[80] [81] [82]
-<ch4_TXeco/figs/TXeco_fig2_beta.png, id=1858, 7227.0pt x 2710.125pt>
+[84] [85] [86]
+<ch4_TXeco/figs/TXeco_fig2_beta.png, id=1925, 7227.0pt x 2710.125pt>
 File: ch4_TXeco/figs/TXeco_fig2_beta.png Graphic file (type png)
 <use ch4_TXeco/figs/TXeco_fig2_beta.png>
 Package pdftex.def Info: ch4_TXeco/figs/TXeco_fig2_beta.png  used on input line 125.
 (pdftex.def)             Requested size: 542.00162pt x 203.25061pt.
- [83 <./ch4_TXeco/figs/TXeco_fig2_beta.png>]
+ [87 <./ch4_TXeco/figs/TXeco_fig2_beta.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\mathsurround' on input line 132.
@@ -821,13 +821,13 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `subscript' on input line 132.
 
-[84
+[88
 
 
 
 
-] [85]
-<ch4_TXeco/figs/TXeco_fig3_chi.png, id=1873, 7227.0pt x 5540.7pt>
+] [89]
+<ch4_TXeco/figs/TXeco_fig3_chi.png, id=1939, 7227.0pt x 5540.7pt>
 File: ch4_TXeco/figs/TXeco_fig3_chi.png Graphic file (type png)
 <use ch4_TXeco/figs/TXeco_fig3_chi.png>
 Package pdftex.def Info: ch4_TXeco/figs/TXeco_fig3_chi.png  used on input line 144.
@@ -840,11 +840,11 @@ Overfull \hbox (1029.82195pt too wide) in paragraph at lines 144--145
 
 LaTeX Warning: Float too large for page by 642.40976pt on input line 147.
 
-[86 <./ch4_TXeco/figs/TXeco_fig3_chi.png>] [87
+[90 <./ch4_TXeco/figs/TXeco_fig3_chi.png>] [91
 
 
-] [88] [89]
-<ch4_TXeco/figs/TXeco_fig4_narea.png, id=1891, 9636.0pt x 7227.0pt>
+] [92] [93]
+<ch4_TXeco/figs/TXeco_fig4_narea.png, id=1958, 9636.0pt x 7227.0pt>
 File: ch4_TXeco/figs/TXeco_fig4_narea.png Graphic file (type png)
 <use ch4_TXeco/figs/TXeco_fig4_narea.png>
 Package pdftex.def Info: ch4_TXeco/figs/TXeco_fig4_narea.png  used on input line 165.
@@ -854,27 +854,27 @@ Overfull \hbox (18.04881pt too wide) in paragraph at lines 165--166
  [][] 
  []
 
-[90 <./ch4_TXeco/figs/TXeco_fig4_narea.png>] [91
+[94 <./ch4_TXeco/figs/TXeco_fig4_narea.png>] [95
 
 
-] [92]
-<ch4_TXeco/figs/TXeco_fig5_SEM.png, id=1907, 1661.20625pt x 949.5475pt>
+] [96]
+<ch4_TXeco/figs/TXeco_fig5_SEM.png, id=1973, 1661.20625pt x 949.5475pt>
 File: ch4_TXeco/figs/TXeco_fig5_SEM.png Graphic file (type png)
 <use ch4_TXeco/figs/TXeco_fig5_SEM.png>
 Package pdftex.def Info: ch4_TXeco/figs/TXeco_fig5_SEM.png  used on input line 183.
 (pdftex.def)             Requested size: 498.36572pt x 284.86644pt.
- [93 <./ch4_TXeco/figs/TXeco_fig5_SEM.png>]) [94
+ [97 <./ch4_TXeco/figs/TXeco_fig5_SEM.png>]) [98
 
 
 
 
 ] (./ch5_NxCO2xI/ch5_NxCO2xI_main.tex
 Chapter 5.
-[95
+[99
 
 
 
-] [96] [97] [98] [99] [100] [101] [102] [103] [104] [105]
+] [100] [101] [102] [103] [104] [105] [106] [107] [108] [109]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\mathsurround' on input line 57.
@@ -887,36 +887,20 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `subscript' on input line 57.
 
-[106] [107] [108] [109] [110] [111] [112] [113] [114]
+[110] [111] [112] [113] [114] [115] [116] [117] [118]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 137.
 
-[115]
-<ch5_NxCO2xI/figs/NxCO2xI_fig1_leafN.png, id=2189, 7227.0pt x 4818.0pt>
+[119]
+<ch5_NxCO2xI/figs/NxCO2xI_fig1_leafN.png, id=2255, 7227.0pt x 4818.0pt>
 File: ch5_NxCO2xI/figs/NxCO2xI_fig1_leafN.png Graphic file (type png)
 <use ch5_NxCO2xI/figs/NxCO2xI_fig1_leafN.png>
 Package pdftex.def Info: ch5_NxCO2xI/figs/NxCO2xI_fig1_leafN.png  used on input line 277.
 (pdftex.def)             Requested size: 451.6864pt x 301.12427pt.
- [116 <./ch5_NxCO2xI/figs/NxCO2xI_fig1_leafN.png>] [117
+ [120 <./ch5_NxCO2xI/figs/NxCO2xI_fig1_leafN.png>] [121
 
 
-
-
-
-
-] [118]
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 291.
-
-[119]
-<ch5_NxCO2xI/figs/NxCO2xI_fig2_photo.png, id=2207, 7227.0pt x 7227.0pt>
-File: ch5_NxCO2xI/figs/NxCO2xI_fig2_photo.png Graphic file (type png)
-<use ch5_NxCO2xI/figs/NxCO2xI_fig2_photo.png>
-Package pdftex.def Info: ch5_NxCO2xI/figs/NxCO2xI_fig2_photo.png  used on input line 434.
-(pdftex.def)             Requested size: 411.9874pt x 411.9874pt.
- [120 <./ch5_NxCO2xI/figs/NxCO2xI_fig2_photo.png>] [121
 
 
 
@@ -924,22 +908,38 @@ Package pdftex.def Info: ch5_NxCO2xI/figs/NxCO2xI_fig2_photo.png  used on input 
 ] [122]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 447.
+               Default added (so using `tbp') on input line 291.
 
 [123]
-<ch5_NxCO2xI/figs/NxCO2xI_fig3_propN.png, id=2226, 7227.0pt x 2409.0pt>
-File: ch5_NxCO2xI/figs/NxCO2xI_fig3_propN.png Graphic file (type png)
-<use ch5_NxCO2xI/figs/NxCO2xI_fig3_propN.png>
-Package pdftex.def Info: ch5_NxCO2xI/figs/NxCO2xI_fig3_propN.png  used on input line 590.
-(pdftex.def)             Requested size: 542.00162pt x 180.6672pt.
- [124 <./ch5_NxCO2xI/figs/NxCO2xI_fig3_propN.png>] [125
-
-
+<ch5_NxCO2xI/figs/NxCO2xI_fig2_photo.png, id=2274, 7227.0pt x 7227.0pt>
+File: ch5_NxCO2xI/figs/NxCO2xI_fig2_photo.png Graphic file (type png)
+<use ch5_NxCO2xI/figs/NxCO2xI_fig2_photo.png>
+Package pdftex.def Info: ch5_NxCO2xI/figs/NxCO2xI_fig2_photo.png  used on input line 434.
+(pdftex.def)             Requested size: 411.9874pt x 411.9874pt.
+ [124 <./ch5_NxCO2xI/figs/NxCO2xI_fig2_photo.png>] [125
 
 
 
 
 ] [126]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 447.
+
+[127]
+<ch5_NxCO2xI/figs/NxCO2xI_fig3_propN.png, id=2293, 7227.0pt x 2409.0pt>
+File: ch5_NxCO2xI/figs/NxCO2xI_fig3_propN.png Graphic file (type png)
+<use ch5_NxCO2xI/figs/NxCO2xI_fig3_propN.png>
+Package pdftex.def Info: ch5_NxCO2xI/figs/NxCO2xI_fig3_propN.png  used on input line 590.
+(pdftex.def)             Requested size: 542.00162pt x 180.6672pt.
+ [128 <./ch5_NxCO2xI/figs/NxCO2xI_fig3_propN.png>] [129
+
+
+
+
+
+
+] [130]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 605.
@@ -949,8 +949,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 737--737
 []\T1/lmr/m/n/12 N fer-til-iza-tion
  []
 
-[127]
-<ch5_NxCO2xI/figs/NxCO2xI_fig4_wholePlant.png, id=2245, 5582.8575pt x 4786.88374pt>
+[131]
+<ch5_NxCO2xI/figs/NxCO2xI_fig4_wholePlant.png, id=2311, 5582.8575pt x 4786.88374pt>
 File: ch5_NxCO2xI/figs/NxCO2xI_fig4_wholePlant.png Graphic file (type png)
 <use ch5_NxCO2xI/figs/NxCO2xI_fig4_wholePlant.png>
 Package pdftex.def Info: ch5_NxCO2xI/figs/NxCO2xI_fig4_wholePlant.png  used on input line 746.
@@ -960,18 +960,18 @@ Overfull \hbox (3.14377pt too wide) in paragraph at lines 746--747
  [][] 
  []
 
-[128 <./ch5_NxCO2xI/figs/NxCO2xI_fig4_wholePlant.png>] [129
+[132 <./ch5_NxCO2xI/figs/NxCO2xI_fig4_wholePlant.png>] [133
 
 
 
 
-] [130]
+] [134]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 761.
 
-[131]
-<ch5_NxCO2xI/figs/NxCO2xI_fig5_nFix.png, id=2264, 5606.9475pt x 4804.95125pt>
+[135]
+<ch5_NxCO2xI/figs/NxCO2xI_fig5_nFix.png, id=2330, 5606.9475pt x 4804.95125pt>
 File: ch5_NxCO2xI/figs/NxCO2xI_fig5_nFix.png Graphic file (type png)
 <use ch5_NxCO2xI/figs/NxCO2xI_fig5_nFix.png>
 Package pdftex.def Info: ch5_NxCO2xI/figs/NxCO2xI_fig5_nFix.png  used on input line 840.
@@ -981,7 +981,7 @@ Overfull \hbox (4.95044pt too wide) in paragraph at lines 840--841
  [][] 
  []
 
-[132 <./ch5_NxCO2xI/figs/NxCO2xI_fig5_nFix.png>] [133
+[136 <./ch5_NxCO2xI/figs/NxCO2xI_fig5_nFix.png>] [137
 
 
 
@@ -999,40 +999,40 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 849.
 
-[134] [135] [136] [137] [138] [139] [140]) [141] (./ch6_conclusions/ch6_conclusions_main.tex [142]
+[138] [139] [140] [141] [142] [143] [144]) [145] (./ch6_conclusions/ch6_conclusions_main.tex [146]
 Chapter 6.
-) [143
+) [147
 
-] [144] (./Perkowski_dissertation_main_v1.0.bbl [145
+] [148] (./Perkowski_dissertation_main_v1.0.bbl [149
 
 
-] [146] [147] [148] [149] [150] [151] [152] [153] [154] [155] [156] [157]
+] [150] [151] [152] [153] [154] [155] [156] [157] [158] [159] [160] [161]
 Underfull \hbox (badness 1910) in paragraph at lines 685--693
 []\T1/lmr/m/n/12 Harrison, S. P., W. Cramer, O. Franklin, I. C. Pren-tice, H. Wang,
  []
 
-[158] [159] [160] [161] [162] [163] [164]
+[162] [163] [164] [165] [166] [167] [168]
 Underfull \hbox (badness 1194) in paragraph at lines 1063--1068
 []\T1/lmr/m/n/12 Meyerholt, J., S. Za-ehle, and M. J. Smith (2016). Vari-abil-ity of pro-
  []
 
-[165] [166] [167] [168] [169] [170] [171] [172] [173] [174] [175] [176] [177] [178]) [179] (./Perkowski_dissertation_main_v1.0.aux (./ch4_TXeco/ch4_TXeco_main.aux))
+[169] [170] [171] [172] [173] [174] [175] [176] [177] [178] [179] [180] [181] [182]) [183] (./Perkowski_dissertation_main_v1.0.aux (./ch4_TXeco/ch4_TXeco_main.aux))
 Package rerunfilecheck Info: File `Perkowski_dissertation_main_v1.0.out' has not changed.
 (rerunfilecheck)             Checksum: 1C31255E64513C57915E0E04D4935702;18772.
  ) 
 Here is how much of TeX's memory you used:
- 15416 strings out of 478268
- 268042 string characters out of 5846347
- 593972 words of memory out of 5000000
- 32735 multiletter control sequences out of 15000+600000
+ 15422 strings out of 478268
+ 268099 string characters out of 5846347
+ 595094 words of memory out of 5000000
+ 32736 multiletter control sequences out of 15000+600000
  522736 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,17n,77p,2903b,459s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmbx8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmmi6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmri8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsy6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsy8.pfb>
-Output written on Perkowski_dissertation_main_v1.0.pdf (192 pages, 38437025 bytes).
+Output written on Perkowski_dissertation_main_v1.0.pdf (196 pages, 38447422 bytes).
 PDF statistics:
- 2748 PDF objects out of 2984 (max. 8388607)
- 2452 compressed objects within 25 object streams
- 557 named destinations out of 1000 (max. 500000)
+ 2816 PDF objects out of 2984 (max. 8388607)
+ 2515 compressed objects within 26 object streams
+ 562 named destinations out of 1000 (max. 500000)
  731 words of extra memory for PDF output out of 10000 (max. 10000000)
 
