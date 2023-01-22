@@ -40,7 +40,7 @@
 \contentsline {chapter}{4. \textbf {The relative cost of resource use for photosynthesis drives variance in leaf nitrogen content across climate and soil resource availability gradients}}{71}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Introduction}{71}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Methods}{73}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}textit{Site descriptions and sampling methodology}}{73}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.1}\textit {Site descriptions and sampling methodology}}{73}{subsection.4.2.1}%
 \contentsline {subsection}{\numberline {4.2.2}\textit {Leaf trait measurements}}{73}{subsection.4.2.2}%
 \contentsline {subsection}{\numberline {4.2.3}\textit {Site climate data}}{79}{subsection.4.2.3}%
 \contentsline {subsection}{\numberline {4.2.4}\textit {Site edaphic characteristics}}{79}{subsection.4.2.4}%
@@ -48,7 +48,7 @@
 \contentsline {subsection}{\numberline {4.2.6}\textit {Data analysis}}{82}{subsection.4.2.6}%
 \contentsline {section}{\numberline {4.3}Results}{84}{section.4.3}%
 \contentsline {subsection}{\numberline {4.3.1}\textit {Cost to acquire nitrogen relative to water ($\beta $)}}{84}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4.3.2}\textit {Leaf C\textsubscript {i}:C\textsubscript {a}}}{88}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.2}\textit {Leaf C\textsubscript {i}:C\textsubscript {a} ($\chi $)}}{88}{subsection.4.3.2}%
 \contentsline {subsection}{\numberline {4.3.3}\textit {Leaf nitrogen content}}{91}{subsection.4.3.3}%
 \contentsline {subsection}{\numberline {4.3.4}\textit {Structural equation model}}{95}{subsection.4.3.4}%
 \contentsline {section}{\numberline {4.4}Discussion}{98}{section.4.4}%

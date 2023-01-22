@@ -9,7 +9,7 @@ Empirical support for positive relationships between soil nitrogen availability 
 
 \section{Methods}
 
-\subsection{textit{Site descriptions and sampling methodology}}
+\subsection{\textit{Site descriptions and sampling methodology}}
 
 We collected leaf and soil samples from 24 open grassland sites across central and eastern Texas in summer 2020 and summer 2021 (Fig. \ref{fig:figure4.1}). Twelve sites were visited between June and July 2020 and 14 sites (11 unique from 2020) were visited between May and June 2021 (Table 1). We explicitly chose sites that maximized variability in precipitation and edaphic variability between sites while minimizing temperature variability across the environmental gradient (Table 1). No site with personally communicated or anecdotal evidence of grazing or disturbance (e.g., mowing, feral hog activity, etc.) were used. We collected leaf material from three individuals each of the five most abundant species at random locations at each site, only  selecting species that were broadly classified as graminoid, forb/herb, shrub, or subshrub growth habits per the USDA PLANTS database \shortcite{USDANRCS2022}. All collected leaves were fully expanded with no visible herbivory or other external damage and also free from shading by nearby shrubs or trees. Five soil samples were collected from 0-15cm below the soil surface at each site near the leaf collection sample locations. Soil samples were later mixed together by hand to create one composite soil sample per site.
 
@@ -63,14 +63,250 @@ We derived the unit cost of resource use ($\beta$) using leaf $\chi$ and site cl
 \clearpage
 
 \newpage
-placeholder for Table 1
+\begin{table}
+    \centering
+    \caption{Site locality information, sampling year(s), 2006-2020 mean annual precipitation (MAP; mm), mean annual temperature (MAT; \textdegree{}C), and water holding capacity (WHC; mm)*}
+    \resizebox{\columnwidth}{!}{
+        \begin{tabular}{p{5cm}p{3cm}p{3cm}p{3cm}p{3cm}p{3cm}p{3cm}}
+            \hline
+            \multicolumn{1}{l}{Site} 
+            & \multicolumn{1}{r}{Latitude} 
+            & \multicolumn{1}{r}{Longitude} 
+            & \multicolumn{1}{r}{Sampling year}
+            & \multicolumn{1}{r}{MAP}  
+            & \multicolumn{1}{r}{MAT} 
+            & \multicolumn{1}{r}{WHC} 
+            \\
+            \hline 
+
+            \multicolumn{1}{l}{Edwards\_2019\_17} 
+            & \multicolumn{1}{r}{29.95}
+            & \multicolumn{1}{r}{-100.36}
+            & \multicolumn{1}{r}{2020}
+            & \multicolumn{1}{r}{563.5}
+            & \multicolumn{1}{r}{19.0}
+            & \multicolumn{1}{r}{224.7}
+            \\
+
+            \multicolumn{1}{l}{Uvalde\_2020\_02} 
+            & \multicolumn{1}{r}{29.59}
+            & \multicolumn{1}{r}{-100.09}
+            & \multicolumn{1}{r}{2020, 2021}
+            & \multicolumn{1}{r}{648.5}
+            & \multicolumn{1}{r}{19.5}
+            & \multicolumn{1}{r}{224.7}
+            \\
+
+            \multicolumn{1}{l}{Menard\_2020\_01} 
+            & \multicolumn{1}{r}{30.91}
+            & \multicolumn{1}{r}{-99.59}
+            & \multicolumn{1}{r}{2020}
+            & \multicolumn{1}{r}{641.9}
+            & \multicolumn{1}{r}{18.3}
+            & \multicolumn{1}{r}{220.2}
+            \\
+
+            \multicolumn{1}{l}{Kerr\_2020\_03} 
+            & \multicolumn{1}{r}{30.06}
+            & \multicolumn{1}{r}{-99.34}
+            & \multicolumn{1}{r}{2021}
+            & \multicolumn{1}{r}{672.4}
+            & \multicolumn{1}{r}{18.3}
+            & \multicolumn{1}{r}{237.5}
+            \\
+
+            \multicolumn{1}{l}{Bandera\_2020\_03} 
+            & \multicolumn{1}{r}{29.85}
+            & \multicolumn{1}{r}{-99.30}
+            & \multicolumn{1}{r}{2021}
+            & \multicolumn{1}{r}{789.4}
+            & \multicolumn{1}{r}{18.8}
+            & \multicolumn{1}{r}{235.1}
+            \\
+
+            \multicolumn{1}{l}{Sansaba\_2020\_01} 
+            & \multicolumn{1}{r}{31.29}
+            & \multicolumn{1}{r}{-98.62}
+            & \multicolumn{1}{r}{2020}
+            & \multicolumn{1}{r}{733.0}
+            & \multicolumn{1}{r}{18.8}
+            & \multicolumn{1}{r}{234.3}
+            \\
+
+            \multicolumn{1}{l}{Comal\_2020\_21} 
+            & \multicolumn{1}{r}{29.79}
+            & \multicolumn{1}{r}{-98.43}
+            & \multicolumn{1}{r}{2020}
+            & \multicolumn{1}{r}{878.5}
+            & \multicolumn{1}{r}{19.9}
+            & \multicolumn{1}{r}{220.7}
+            \\
+
+            \multicolumn{1}{l}{Blanco\_2019\_16} 
+            & \multicolumn{1}{r}{29.99}
+            & \multicolumn{1}{r}{-98.43}
+            & \multicolumn{1}{r}{2020}
+            & \multicolumn{1}{r}{833.0}
+            & \multicolumn{1}{r}{19.2}
+            & \multicolumn{1}{r}{222.2}
+            \\
+
+            \multicolumn{1}{l}{Bexar\_2019\_13} 
+            & \multicolumn{1}{r}{29.24}
+            & \multicolumn{1}{r}{-98.43}
+            & \multicolumn{1}{r}{2020}
+            & \multicolumn{1}{r}{759.3}
+            & \multicolumn{1}{r}{21.5}
+            & \multicolumn{1}{r}{206.0}
+            \\
+
+            \multicolumn{1}{l}{Burnet\_2020\_14} 
+            & \multicolumn{1}{r}{30.84}
+            & \multicolumn{1}{r}{-98.34}
+            & \multicolumn{1}{r}{2021}
+            & \multicolumn{1}{r}{763.3}
+            & \multicolumn{1}{r}{19.5}
+            & \multicolumn{1}{r}{217.8}
+            \\
+
+            \multicolumn{1}{l}{Comal\_2020\_19} 
+            & \multicolumn{1}{r}{30.01}
+            & \multicolumn{1}{r}{-98.32}
+            & \multicolumn{1}{r}{2021}
+            & \multicolumn{1}{r}{845.0}
+            & \multicolumn{1}{r}{19.3}
+            & \multicolumn{1}{r}{220.4}
+            \\
+
+            \multicolumn{1}{l}{Hays\_2020\_54} 
+            & \multicolumn{1}{r}{29.96}
+            & \multicolumn{1}{r}{-98.17}
+            & \multicolumn{1}{r}{2021}
+            & \multicolumn{1}{r}{861.3}
+            & \multicolumn{1}{r}{20.0}
+            & \multicolumn{1}{r}{225.6}
+            \\
+
+            \multicolumn{1}{l}{Burnet\_2020\_12} 
+            & \multicolumn{1}{r}{30.82}
+            & \multicolumn{1}{r}{-98.06}
+            & \multicolumn{1}{r}{2021}
+            & \multicolumn{1}{r}{815.1}
+            & \multicolumn{1}{r}{19.4}
+            & \multicolumn{1}{r}{245.3}
+            \\
+            
+            \multicolumn{1}{l}{Williamson\_2019\_09} 
+            & \multicolumn{1}{r}{30.71}
+            & \multicolumn{1}{r}{-97.86}
+            & \multicolumn{1}{r}{2020}
+            & \multicolumn{1}{r}{867.7}
+            & \multicolumn{1}{r}{19.7}
+            & \multicolumn{1}{r}{270.2}
+            \\
+
+            \multicolumn{1}{l}{Williamson\_2019\_10} 
+            & \multicolumn{1}{r}{30.54}
+            & \multicolumn{1}{r}{-97.77}
+            & \multicolumn{1}{r}{2020}
+            & \multicolumn{1}{r}{819.5}
+            & \multicolumn{1}{r}{19.9}
+            & \multicolumn{1}{r}{239.8}
+            \\
+
+            \multicolumn{1}{l}{Bell\_2021\_08} 
+            & \multicolumn{1}{r}{31.06}
+            & \multicolumn{1}{r}{-97.55}
+            & \multicolumn{1}{r}{2021}
+            & \multicolumn{1}{r}{937.3}
+            & \multicolumn{1}{r}{19.6}
+            & \multicolumn{1}{r}{232.3}
+            \\
+
+            \multicolumn{1}{l}{Fayette\_2021\_12} 
+            & \multicolumn{1}{r}{29.86}
+            & \multicolumn{1}{r}{-97.21}
+            & \multicolumn{1}{r}{2021}
+            & \multicolumn{1}{r}{985.7}
+            & \multicolumn{1}{r}{20.4}
+            & \multicolumn{1}{r}{165.6}
+            \\
+
+            \multicolumn{1}{l}{Fayette\_2019\_04} 
+            & \multicolumn{1}{r}{30.09}
+            & \multicolumn{1}{r}{-96.78}
+            & \multicolumn{1}{r}{2020}
+            & \multicolumn{1}{r}{1017.4}
+            & \multicolumn{1}{r}{20.6}
+            & \multicolumn{1}{r}{226.9}
+            \\
+
+            \multicolumn{1}{l}{Fayette\_2020\_09} 
+            & \multicolumn{1}{r}{29.86}
+            & \multicolumn{1}{r}{-96.71}
+            & \multicolumn{1}{r}{2021}
+            & \multicolumn{1}{r}{1002.7}
+            & \multicolumn{1}{r}{20.8}
+            & \multicolumn{1}{r}{187.6}
+            \\
+
+            \multicolumn{1}{l}{Washington\_2020\_08} 
+            & \multicolumn{1}{r}{30.28}
+            & \multicolumn{1}{r}{-96.41}
+            & \multicolumn{1}{r}{2021}
+            & \multicolumn{1}{r}{1077.4}
+            & \multicolumn{1}{r}{20.4}
+            & \multicolumn{1}{r}{203.9}
+            \\
+
+            \multicolumn{1}{l}{Austin\_2020\_03} 
+            & \multicolumn{1}{r}{29.78}
+            & \multicolumn{1}{r}{-96.24}
+            & \multicolumn{1}{r}{2021}
+            & \multicolumn{1}{r}{1108.7}
+            & \multicolumn{1}{r}{20.6}
+            & \multicolumn{1}{r}{253.0}
+            \\
+
+            \multicolumn{1}{l}{Brazos\_2020\_16} 
+            & \multicolumn{1}{r}{30.93}
+            & \multicolumn{1}{r}{-96.23}
+            & \multicolumn{1}{r}{2021}
+            & \multicolumn{1}{r}{1078.0}
+            & \multicolumn{1}{r}{20.1}
+            & \multicolumn{1}{r}{202.2}
+            \\
+
+            \multicolumn{1}{l}{Brazos\_2020\_18} 
+            & \multicolumn{1}{r}{30.52}
+            & \multicolumn{1}{r}{-96.21}
+            & \multicolumn{1}{r}{2020, 2021}
+            & \multicolumn{1}{r}{1099.4}
+            & \multicolumn{1}{r}{20.4}
+            & \multicolumn{1}{r}{233.5}
+            \\
+
+            \multicolumn{1}{l}{Harris\_2020\_03} 
+            & \multicolumn{1}{r}{29.88}
+            & \multicolumn{1}{r}{-95.31}
+            & \multicolumn{1}{r}{2020, 2021}
+            & \multicolumn{1}{r}{1492.0}
+            & \multicolumn{1}{r}{21.6}
+            & \multicolumn{1}{r}{265.6}
+            \\
+            \hline
+
+        \end{tabular}}
+        \label{tab:table4.1}
+\end{table}
+\noindent *Rows are arranged by longitude to visualize precipitation variability across sites
 \clearpage
 
 \newpage
 \begin{landscape}
     \begin{figure}
         \centering
-        \includegraphics[scale = 0.05]{ch4_TXeco/figs/TXeco_fig1_site_map.png}
+        \includegraphics[scale = 0.049]{ch4_TXeco/figs/TXeco_fig1_site_map.png}
         \caption[Maps that detail site locations along 2006-2020 mean annual precipitation (panel A) and mean annual temperature (panel B) gradients in Texas, USA.]{Maps that detail site locations along 2006-2020 mean annual precipitation (panel A) and mean annual temperature (panel B) gradients in Texas, USA. Precipitation and temperature data were plotted at a 4-km grid resolution and are masked to include only grid cells that occur in the Texas state boundary in the United States. In both panels, open circles refer to sites visited in 2020, open triangles to sites visited in 2021, and closed circles to sites visited in 2020 and 2021. The scale bar in panel A also applies to panel B.}
         \label{fig:figure4.1}
     \end{figure}
@@ -115,7 +351,79 @@ Finally, we conducted a path analysis using a piecewise structural equation mode
 Model selection indicated that 2-day soil moisture was the timescale that conferred the best model fit for $\beta$ (AICc = 1227.83; Table S2; Fig. S1). Increasing soil nitrogen availability generally decreased $\beta$ (\textit{p} < 0.001; Table 2), a pattern driven by a negative effect of increasing soil nitrogen availability on $\beta$ in C$_3$ nonlegumes (Tukey: \textit{p} < 0.001) and C$_3$ legumes (Tukey: \textit{p} = 0.004; Fig. 2a). C$_4$ nonlegumes also demonstrated a negative trend in the effect of increasing soil nitrogen availability on $\beta$, but this pattern was not significantly different from zero (Tukey: \textit{p} = 0.307; Fig. 2a). There was no apparent effect of soil moisture on $\beta$ (\textit{p} = 0.264; Table 1; Fig. 2b). A functional group effect (\textit{p} < 0.001; Table 1) indicated that C$_4$ nonlegumes generally had lower $\beta$ values than both C$_3$ legumes and C$_3$ non-legumes when averaged across soil moisture and soil nitrogen availability values (Tukey: p < 0.001 in both cases), while average $\beta$ values in C$_3$ legumes did not differ from C$_3$ nonlegumes (Tukey: \textit{p} = 0.691).
 
 \newpage
-placeholder Table 2
+\begin{table}
+    \centering
+    \caption{Effects of soil moisture, soil nitrogen availability, and plant functional group on $\beta$}
+    %\resizebox{\columnwidth}{!}{
+        \begin{tabular}{p{3.75cm}p{0.5cm}p{2cm}p{1.5cm}p{1.5cm}}
+            \hline 
+            & \multicolumn{1}{r}{df} 
+            & \multicolumn{1}{r}{Coefficient} 
+            & \multicolumn{1}{r}{$\chi^{2}$} 
+            & \multicolumn{1}{r}{\textit{p}} 
+            \\ 
+            \hline
+            
+            Intercept
+            & \multicolumn{1}{r}{-}
+            & \multicolumn{1}{r}{3.20E+00}
+            & \multicolumn{1}{r}{-}
+            & \multicolumn{1}{r}{-}
+            \\
+
+            Soil moisture (SM\textsubscript{2})
+            & \multicolumn{1}{r}{1}
+            & \multicolumn{1}{r}{2.19E-01}
+            & \multicolumn{1}{r}{1.244}
+            & \multicolumn{1}{r}{0.265}
+            \\
+
+            Soil N (N)
+            & \multicolumn{1}{r}{1}
+            & \multicolumn{1}{r}{-1.70E-02}
+            & \multicolumn{1}{r}{26.823}
+            & \multicolumn{1}{r}{\textbf{<0.001}}
+            \\
+
+            PFT
+            & \multicolumn{1}{r}{2}
+            & \multicolumn{1}{r}{-}
+            & \multicolumn{1}{r}{199.617}
+            & \multicolumn{1}{r}{\textbf{<0.001}}
+            \\
+
+            SM\textsubscript{2}*N
+            & \multicolumn{1}{r}{1}
+            & \multicolumn{1}{r}{1.77E-03}
+            & \multicolumn{1}{r}{0.438}
+            & \multicolumn{1}{r}{0.508}
+            \\
+
+            SM\textsubscript{2}*PFT
+            & \multicolumn{1}{r}{2}
+            & \multicolumn{1}{r}{-}
+            & \multicolumn{1}{r}{2.038}
+            & \multicolumn{1}{r}{0.361}
+            \\
+
+            N*PFT
+            & \multicolumn{1}{r}{2}
+            & \multicolumn{1}{r}{-}
+            & \multicolumn{1}{r}{7.668}
+            & \multicolumn{1}{r}{\textbf{0.022}}
+            \\
+
+            SM\textsubscript{2}*N*PFT
+            & \multicolumn{1}{r}{2}
+            & \multicolumn{1}{r}{-}
+            & \multicolumn{1}{r}{0.127}
+            & \multicolumn{1}{r}{0.939}
+            \\
+            \hline
+        \end{tabular}%}
+    \label{tab:table4.2}
+\end{table}
+\noindent \textsuperscript{$*$}Significance determined using Type II Wald $\chi^{2}$ tests ($\alpha$ = 0.05). \textit{P}-values < 0.05 are in bold. Model coefficients are expressed on the natural-log scale and are only included for continuous fixed effects. Key: df=degrees of freedom, $\chi^2$=Wald Type II chi-square test statistic
 \clearpage
 
 \newpage
@@ -129,19 +437,105 @@ placeholder Table 2
 \end{landscape}
 \clearpage
 
-\subsection{\textit{Leaf C\textsubscript{i}:C\textsubscript{a}}}
+\subsection{\textit{Leaf C\textsubscript{i}:C\textsubscript{a} ($\chi$)}}
 Model selection indicated that 4-day daily VPD was the timescale that conferred the best model fit for $\chi$ (AICc = -883.97; Table S1; Fig. S2).
 
 Variance in $\chi$ was driven by a series of two-way interactions between functional group and VPD (\textit{p} = 0.006; Table 3), soil moisture (\textit{p} = 0.033, Table 3), and soil nitrogen availability (\textit{p} = 0.022; Table 3). The interaction between 4-day VPD and functional group revealed that the general negative effect of increasing VPD (\textit{p} < 0.001; Table 3) was driven by a negative effect of increasing VPD on $\chi$ in C$_3$ nonlegumes (Tukey: \textit{p} < 0.001) and marginal negative effect in C$_3$ legumes (Tukey: \textit{p} = 0.074) paired with a positive trending, but insignificant effect of increasing VPD in C$_4$ nonlegumes (Tukey: \textit{p} = 0.130; Fig. 3a). The interaction between 2-day soil moisture and functional group indicated that the general negative effect of increasing soil moisture on $\chi$ was driven by a positive effect of increasing soil moisture on $\chi$ in C$_4$ nonlegumes (Tukey: \textit{p} = 0.009) despite a positive trending but insignificant effect of increasing soil moisture on $\chi$ in C$_3$ legumes (Tukey: \textit{p} = 0.116) and a null effect of soil moisture on $\chi$ in C$_3$ nonlegumes (Tukey: \textit{p} = 0.693; Fig. 3c). The interaction between soil nitrogen availability and plant functional group revealed a weak negative effect of increasing soil nitrogen availability on $\chi$ in C$_3$ legumes (Tukey: \textit{p} = 0.045), with no apparent effect in C$_3$ nonlegumes (Tukey: \textit{p} = 0.706) or C$_4$ nonlegumes (Tukey: \textit{p} = 0.757). Finally, an individual effect of functional group (\textit{p} < 0.001; Table 3) revealed that C$_4$ nonlegumes generally had lower $\chi$ than C$_3$ legumes and C$_3$ nonlegumes (Tukey: \textit{p} < 0.001 in both cases), with no apparent difference between C$_3$ legumes and C$_3$ nonlegumes (Tukey: \textit{p} = 0.831).
 
 \newpage
-placeholder Table 3
+\begin{table}
+    \centering
+    \caption{Effects of soil moisture, soil nitrogen availability, and plant functional group on $\chi^*$}
+    %\resizebox{\columnwidth}{!}{
+        \begin{tabular}{p{6cm}p{0.5cm}p{2cm}p{1.5cm}p{1.5cm}}
+            \hline 
+            & \multicolumn{1}{r}{df} 
+            & \multicolumn{1}{r}{Coefficient} 
+            & \multicolumn{1}{r}{$\chi^{2}$} 
+            & \multicolumn{1}{r}{\textit{p}} 
+            \\ 
+            \hline
+            
+            Intercept
+            & \multicolumn{1}{r}{-}
+            & \multicolumn{1}{r}{9.33E-01}
+            & \multicolumn{1}{r}{-}
+            & \multicolumn{1}{r}{-}
+            \\
+
+            Vapor pressure deficit (VPD\textsubscript{4})
+            & \multicolumn{1}{r}{1}
+            & \multicolumn{1}{r}{-1.78E-01}
+            & \multicolumn{1}{r}{20.792}
+            & \multicolumn{1}{r}{\textbf{<0.001}}
+            \\
+
+            Soil moisture (SM\textsubscript{2})
+            & \multicolumn{1}{r}{1}
+            & \multicolumn{1}{r}{4.53E-02}
+            & \multicolumn{1}{r}{1.972}
+            & \multicolumn{1}{r}{0.160}
+            \\
+
+            Soil N (N)
+            & \multicolumn{1}{r}{1}
+            & \multicolumn{1}{r}{-1.30E-03}
+            & \multicolumn{1}{r}{0.168}
+            & \multicolumn{1}{r}{0.682}
+            \\
+
+            PFT
+            & \multicolumn{1}{r}{2}
+            & \multicolumn{1}{r}{-}
+            & \multicolumn{1}{r}{172.624}
+            & \multicolumn{1}{r}{\textbf{<0.001}}
+            \\
+
+            SM\textsubscript{2}*N
+            & \multicolumn{1}{r}{1}
+            & \multicolumn{1}{r}{7.40E-04}
+            & \multicolumn{1}{r}{0.849}
+            & \multicolumn{1}{r}{0.357}
+            \\
+
+            VPD\textsubscript{4}*PFT
+            & \multicolumn{1}{r}{2}
+            & \multicolumn{1}{r}{-}
+            & \multicolumn{1}{r}{10.241}
+            & \multicolumn{1}{r}{\textbf{0.006}}
+            \\
+
+            SM\textsubscript{2}*PFT
+            & \multicolumn{1}{r}{2}
+            & \multicolumn{1}{r}{-}
+            & \multicolumn{1}{r}{6.806}
+            & \multicolumn{1}{r}{\textbf{0.033}}
+            \\
+
+            N*PFT
+            & \multicolumn{1}{r}{2}
+            & \multicolumn{1}{r}{-}
+            & \multicolumn{1}{r}{7.602}
+            & \multicolumn{1}{r}{\textbf{0.022}}
+            \\
+
+            SM\textsubscript{2}*N*PFT
+            & \multicolumn{1}{r}{2}
+            & \multicolumn{1}{r}{-}
+            & \multicolumn{1}{r}{0.732}
+            & \multicolumn{1}{r}{0.694}
+            \\
+            \hline
+        \end{tabular}%}
+    \label{tab:table4.3}
+\end{table}
+\noindent \textsuperscript{$*$}Significance determined using Type II Wald $\chi^{2}$ tests ($\alpha$ = 0.05). \textit{P}-values less than 0.05 are in bold and \textit{p}-values where 0.05 < \textit{p} < 0.1 are italicized. $\chi$ was not transformed prior to model fitting, so model coefficients are reported on the response scale. Model coefficients are only included for continuous fixed effects.
 \clearpage
 
 \newpage
 \begin{figure}
     \centering
-    \includegraphics[scale = 0.2]{ch4_TXeco/figs/TXeco_fig3_chi.png}
+    \includegraphics[scale = 0.07]{ch4_TXeco/figs/TXeco_fig3_chi.png}
     \caption[Effects of 4-day mean vapor pressure deficit, 2-day soil moisture (per water holding capacity), and soil nitrogen availability on $\chi$. ]{Effects of 4-day mean vapor pressure deficit (a), 2-day soil moisture (per water holding capacity; b), and soil nitrogen availability (c) on $\chi$. Shading and trendlines are as explained in Figure 2. Points are jittered for visibility. Variably colored trendlines are only included if there is an interaction between the x-axis and plant functional group, where solid trendlines indicate slopes that are different from zero (\textit{p} < 0.05) and dashed trendlines indicate slopes that are not different from zero (\textit{p} < 0.05). Error ribbons represent the upper and lower 95\% confidence intervals of each fitted trendline.}
     \label{fig:figure4.3}
 \end{figure}
@@ -155,26 +549,154 @@ A marginal interaction between $\chi$ and plant functional group (\textit{p} = 0
 An interaction between $\chi$ and functional group (\textit{p} = 0.005; Table 4) indicated that the general negative effect of increasing $\chi$ on $M_\mathrm{area}$ (\textit{p} < 0.001; Table 4; Fig. 4c) was driven by a negative effect of increasing $\chi$ on $M_\mathrm{area}$ in C$_3$ legumes and C$_3$ nonlegumes (Tukey: \textit{p} < 0.001 in both cases) despite a nonsignificant effect of increasing $\chi$ on $M_\mathrm{area}$ in C$_4$ nonlegumes (Tukey: \textit{p} = 0.724). An interaction between soil nitrogen and soil moisture (\textit{p} < 0.001; Table 4) indicated that the general negative effect of increasing soil nitrogen availability on $M_\mathrm{area}$ (\textit{p} < 0.001; Table 4) decreased with increasing soil moisture, despite an apparent general negative effect of increasing soil moisture on $M_\mathrm{area}$ (\textit{p} = 0.002; Table 4). Specifically, the negative effect of increasing soil nitrogen availability on $M_\mathrm{area}$ was only apparent when soil moisture was less than 65\% the maximum water holding capacity (Tukey: \textit{p} < 0.05 in all cases). An additional interaction between soil nitrogen availability and functional group (\textit{p} = 0.034; Table 4) indicated that the general negative effect of increasing soil nitrogen availability on $M_\mathrm{area}$ was driven by decreases in C$_3$ nonlegumes (Tukey: \textit{p} < 0.001) and C$_4$ nonlegumes (Tukey: \textit{p} = 0.003), with no apparent effect of soil nitrogen availability on $M_\mathrm{area}$ in C$_3$ legumes (Tukey: \textit{p} = 0.997).
 
 \newpage
-placeholder Table 4
+\begin{landscape}
+    \begin{table}
+    \centering
+    \caption{Effects of soil nitrogen fertilization, inoculation, and CO$_2$ treatments on $N_\mathrm{area}$, $N_\mathrm{mass}$, $M_\mathrm{area}$, and $Chl_\mathrm{area}$}
+    \resizebox{\columnwidth}{!}{
+        \begin{tabular}{p{3.75cm}p{0.5cm}p{1.75cm}p{1.5cm}p{1.5cm}p{1.75cm}p{1.5cm}p{1.5cm}p{1.75cm}p{1.5cm}p{1.5cm}}
+            && 
+            \multicolumn{3}{l}{$N_\mathrm{area}$} 
+            & \multicolumn{3}{l}{$N_\mathrm{mass}$} 
+            & \multicolumn{3}{l}{$M_\mathrm{area}$} 
+            \\
+            \hline 
+            & 
+            \multicolumn{1}{r}{df} 
+            & \multicolumn{1}{r}{Coefficient}   & \multicolumn{1}{r}{$\chi^{2}$}    & \multicolumn{1}{r}{\textit{p}} 
+            & \multicolumn{1}{r}{Coefficient}   & \multicolumn{1}{r}{$\chi^{2}$}    & \multicolumn{1}{r}{\textit{p}} 
+            & \multicolumn{1}{r}{Coefficient}   & \multicolumn{1}{r}{$\chi^{2}$}    & \multicolumn{1}{r}{\textit{p}} 
+            \\ 
+            \hline
+
+            (Intercept) & \multicolumn{1}{r}{-} 
+            &  \multicolumn{1}{r}{2.78E+00}     & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{-}
+            &  \multicolumn{1}{r}{4.42E-01}     & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{-}
+            &  \multicolumn{1}{r}{6.97E+00}     & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{-} 
+            \\
+
+            $\chi$ & \multicolumn{1}{r}{1}
+            & \multicolumn{1}{r}{-2.53E+00}     & \multicolumn{1}{r}{15.771}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{4.56E-01}      & \multicolumn{1}{r}{1.201}         & \multicolumn{1}{r}{0.273}
+            & \multicolumn{1}{r}{-3.10E+00}     & \multicolumn{1}{r}{20.620}        & \multicolumn{1}{r}{\textbf{<0.001}} 
+            \\
+
+
+            Soil N (N) & \multicolumn{1}{r}{1}
+            & \multicolumn{1}{r}{1.08E-02}      & \multicolumn{1}{r}{2.855}         & \multicolumn{1}{r}{\textit{0.091}}
+            & \multicolumn{1}{r}{1.37E-02}      & \multicolumn{1}{r}{54.531}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{-2.87E-03}     & \multicolumn{1}{r}{29.759}        & \multicolumn{1}{r}{\textbf{<0.001}} 
+            \\
+
+            Soil moisture (SM\textsubscript{2}) & \multicolumn{1}{r}{1}
+            & \multicolumn{1}{r}{3.61E-01}      & \multicolumn{1}{r}{0.157}         & \multicolumn{1}{r}{0.692}
+            & \multicolumn{1}{r}{5.04E-01}      & \multicolumn{1}{r}{16.255}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{-1.26E-01}     & \multicolumn{1}{r}{9.282}         & \multicolumn{1}{r}{\textbf{ 0.002}} 
+            \\
+
+            PFT & \multicolumn{1}{r}{1}
+            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{60.641}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{21.539}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{11.520}        & \multicolumn{1}{r}{\textbf{0.003}} 
+            \\
+
+            SM\textsubscript{2}*N & \multicolumn{1}{r}{1}
+            & \multicolumn{1}{r}{-1.09E-02}     & \multicolumn{1}{r}{4.779}         & \multicolumn{1}{r}{\textbf{ 0.029}}
+            & \multicolumn{1}{r}{-1.76E-02}     & \multicolumn{1}{r}{41.784}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{6.35E-03}      & \multicolumn{1}{r}{14.111}        & \multicolumn{1}{r}{\textbf{<0.001}} 
+            \\
+
+            $\chi$*PFT & \multicolumn{1}{r}{1}
+            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{15.188}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{4.864}         & \multicolumn{1}{r}{\textit{ 0.088}}
+            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{17.032}        & \multicolumn{1}{r}{\textbf{ 0.025}} 
+            \\
+
+            N*PFT & \multicolumn{1}{r}{1}
+            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{2.289}         & \multicolumn{1}{r}{0.318}
+            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{0.914}         & \multicolumn{1}{r}{0.633}
+            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{6.760}         & \multicolumn{1}{r}{\textbf{0.034}}
+            \\
+
+            SM\textsubscript{2}*PFT & \multicolumn{1}{r}{1}
+            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{0.978}         & \multicolumn{1}{r}{0.613}
+            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{0.128}         & \multicolumn{1}{r}{0.938}
+            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{2.121}         & \multicolumn{1}{r}{0.346} 
+            \\
+
+            SM\textsubscript{2}*N*PFT & \multicolumn{1}{r}{1}
+            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{1.289}         & \multicolumn{1}{r}{0.525}
+            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{2.180}         & \multicolumn{1}{r}{0.336}
+            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{0.629}         & \multicolumn{1}{r}{0.730}
+            \\
+            \hline
+
+    \end{tabular}}
+    \label{tab:table4.4}
+    \end{table}
+    \noindent \textsuperscript{$*$}Significance determined using Type II Wald $\chi^{2}$ tests ($\alpha$ = 0.05). \textit{P}-values less than 0.05 are in bold and \textit{p}-values where 0.05 < \textit{p} < 0.1 are italicized. Coefficients are reported on the natural-log scale and are only included for continuous fixed effects.
+\end{landscape}
 \clearpage
 
 \newpage
-%\begin{landscape}
     \begin{figure}
         \centering
-        \includegraphics[scale = 0.045]{ch4_TXeco/figs/TXeco_fig4_narea.png}
+        \includegraphics[scale = 0.042]{ch4_TXeco/figs/TXeco_fig4_narea.png}
         \caption[Effects of $\chi$, soil nitrogen availability, and soil moisture on leaf nitrogen content per unit leaf area, leaf nitrogen content per unit leaf biomass, and leaf mass per area.]{Effects of $\chi$ (a-c), soil nitrogen availability (d-f), and soil moisture (g-i) on leaf nitrogen content per unit leaf area (a, d, g), leaf nitrogen content per unit leaf biomass (b, e, h), and leaf mass per area (c, f, i). A solid black trendline indicates the bivariate relationship between the fixed effect the x-axis and response variable on the y-axis and is only included when there is no interaction between the x-axis and plant functional group.}
         \label{fig:figure4.4}
     \end{figure}
-%\end{landscape}
 \clearpage
 
 \subsection{\textit{Structural equation model}}
 The piecewise structural equation model explained 90\%, 54\%, 80\%, 92\%, and 41\% of variance in $N_\mathrm{area}$, $N_\mathrm{mass}$, $M_\mathrm{area}$, $\chi$, and $\beta$, respectively (Table 5; Fig. 5). Variance in $N_\mathrm{area}$ was driven by a negative effect of increasing $\chi$ (\textit{p} < 0.001; Table 5) paired with positive effects of increasing $N_\mathrm{mass}$ and $M_\mathrm{area}$ (\textit{p} < 0.001 in both cases; Table 5; Fig. 5). Model results indicated that the negative effect of $\chi$ on $N_\mathrm{area}$ was driven by a strong reduction in $M_\mathrm{area}$ with increasing $\chi$ (\textit{p} < 0.001; Table 5) paired with no change in $\chi$ due to Nmass (\textit{p} = 0.150; Table 5). However, there was a strong negative effect of increasing $M_\mathrm{area}$ on $N_\mathrm{mass}$ (\textit{p} < 0.001; Table 5; Fig. 5). $\chi$ generally increased with increasing $\beta$  (\textit{p} < 0.001; Table 5) and decreased with increasing VPD (\textit{p} < 0.001; Table 5; Fig. 5). Variance in $\beta$  was driven by a negative effect of increasing soil nitrogen availability (\textit{p} < 0.001; Table 5) and was generally higher in C$_3$ species (\textit{p} < 0.001; Table 5; Fig. 5). However, $\beta$ did not change with soil moisture (\textit{p} = 0.332; Table 5) or with ability to acquire nitrogen via symbiotic nitrogen fixation (\textit{p} = 0.546; Table 5). Finally, soil nitrogen availability was positively associated with increasing soil moisture (\textit{p} < 0.001; Table 5; Fig. 5), while VPD was negatively associated with increasing soil moisture (\textit{p} < 0.001; Table 5; Fig. 5).
 
 \newpage
-placeholder Table 5
+\begin{table}
+    \centering
+    \caption{Structural equation model results investigating direct effects of climatic and soil resource availability on $N_\mathrm{area}$, $N_\mathrm{mass}$, $M_\mathrm{area}$, $\chi$, and $\beta$}
+    %\resizebox{\columnwidth}{!}{
+        \begin{tabular}{p{0.5cm}p{3cm}p{1.5cm}p{1.5cm}}
+            \hline
+            & Predictor & \multicolumn{1}{r}{Coefficient} & \multicolumn{1}{r}{\textit{p}} \\
+            \hline
+
+            \multicolumn{2}{l}{$N_\mathrm{area}$ ($R^2{}_c$) = 0.90} && \\
+            & \multicolumn{1}{l}{$\chi$} & \multicolumn{1}{r}{-0.140} & \multicolumn{1}{r}{\textbf{<0.001}} \\
+            & \multicolumn{1}{l}{$M_\mathrm{area}$} & \multicolumn{1}{r}{0.807} & \multicolumn{1}{r}{\textbf{<0.001}} \\
+            & \multicolumn{1}{l}{$N_\mathrm{mass}$} & \multicolumn{1}{r}{0.795} & \multicolumn{1}{r}{\textbf{<0.001}} \\
+            \hline
+
+            \multicolumn{2}{l}{$N_\mathrm{mass}$ ($R^2{}_c$) = 0.54} && \\
+            & \multicolumn{1}{l}{$\chi$} & \multicolumn{1}{r}{0.097} & \multicolumn{1}{r}{\textbf{<0.001}} \\
+            \hline
+
+            \multicolumn{2}{l}{$M_\mathrm{area}$ ($R^2{}_c$) = 0.80} && \\
+            & \multicolumn{1}{l}{$\chi$} & \multicolumn{1}{r}{-0.372} & \multicolumn{1}{r}{0.150} \\
+            & \multicolumn{1}{l}{$M_\mathrm{area}$} & \multicolumn{1}{r}{-0.303} & \multicolumn{1}{r}{\textbf{<0.001}} \\
+            \hline
+
+            \multicolumn{2}{l}{$\chi$ ($R^2{}_c$) = 0.92} && \\
+            & \multicolumn{1}{l}{$\beta$} & \multicolumn{1}{r}{0.261} & \multicolumn{1}{r}{\textbf{<0.001}} \\
+            & \multicolumn{1}{l}{VPD\textsubscript{4}} & \multicolumn{1}{r}{-0.122} & \multicolumn{1}{r}{\textbf{<0.001}} \\
+            \hline
+
+            \multicolumn{2}{l}{$\beta$ ($R^2{}_c$) = 0.41} && \\
+            & \multicolumn{1}{l}{Soil N} & \multicolumn{1}{r}{-0.201} & \multicolumn{1}{r}{\textbf{<0.001}} \\
+            & \multicolumn{1}{l}{SM\textsubscript{2}} & \multicolumn{1}{r}{-0.048} & \multicolumn{1}{r}{0.332} \\
+            & \multicolumn{1}{l}{Photo. pathway} & \multicolumn{1}{r}{0.490} & \multicolumn{1}{r}{\textbf{<0.001}} \\
+            & \multicolumn{1}{l}{N-fixing ability} & \multicolumn{1}{r}{-0.053} & \multicolumn{1}{r}{0.546} \\
+            \hline
+
+            \multicolumn{2}{l}{Soil N ($R^2{}_c$) = 0.39} && \\
+            & \multicolumn{1}{l}{SM\textsubscript{2}} & \multicolumn{1}{r}{0.410} & \multicolumn{1}{r}{\textbf{<0.001}} \\
+            \hline
+
+        \end{tabular}%}
+    \end{table}
+    \noindent \textsuperscript{$*$}Reported coefficients are standardized across the entire structural equation model. \textit{P}-values less than 0.05 are noted in bold. Positive coefficients for photosynthetic pathway indicate generally larger values in C\textsubscript{3} species, while positive coefficients for N-fixing ability indicate generally larger values in N-fixing species. Key: $N_\mathrm{area}$=leaf nitrogen content per unit leaf area, $M_\mathrm{area}$=leaf mass per unit leaf dry biomass, $N_\mathrm{mass}$=leaf nitrogen content per unit leaf dry biomass, $\beta$=cost of acquiring nitrogen relative to water, $\chi$=isotope-derived estimate of the leaf Ci:Ca ratio, VPD\textsubscript{4}= 4-day mean vapor pressure deficit, SM\textsubscript{2}=2-day mean soil moisture, R\textsuperscript{2}\textsubscript{c} = conditional R\textsuperscript{2} value
 \clearpage
+
+
 
 \newpage
 \begin{landscape}
