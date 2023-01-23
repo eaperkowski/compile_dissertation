@@ -163,17 +163,17 @@ Bloom, A.~J., F.~S. Chapin, and H.~A. Mooney (1985).
   363--392.
 
 \bibitem[\protect\citeauthoryear{Bloomfield, Stocker, Keenan, and
-  Prentice}{Bloomfield et~al.}{2022}]{Bloomfield2022}
-Bloomfield, K.~J., B.~D. Stocker, T.~F. Keenan, and I.~C. Prentice (2022).
+  Prentice}{Bloomfield et~al.}{2023}]{Bloomfield2022}
+Bloomfield, K.~J., B.~D. Stocker, T.~F. Keenan, and I.~C. Prentice (2023).
 \newblock {Environmental controls on the light use efficiency of terrestrial
   gross primary production}.
-\newblock {\em Global Change Biology\/}, 0--2.
+\newblock {\em Global Change Biology\/}~{\em 29\/}(4), 0--2.
 
 \bibitem[\protect\citeauthoryear{Bonan, Hartman, Parton, and Wieder}{Bonan
   et~al.}{2013}]{Bonan2013}
 Bonan, G.~B., M.~D. Hartman, W.~J. Parton, and W.~R. Wieder (2013).
 \newblock {Evaluating litter decomposition in earth system models with
-  long-term litterbag experiments: an example using the Community Land Model
+  long-term litter bag experiments: an example using the Community Land Model
   version 4 (CLM4)}.
 \newblock {\em Global Change Biology\/}~{\em 19\/}(3), 957--974.
 
@@ -400,7 +400,7 @@ Drake, B.~G., M.~A. Gonz{\`{a}}lez-Meler, and S.~P. Long (1997).
 
 \bibitem[\protect\citeauthoryear{Duursma}{Duursma}{2015}]{Duursma2015}
 Duursma, R.~A. (2015).
-\newblock {Plantecophys - An R Package for Analysing and Modelling Leaf Gas
+\newblock {Plantecophys - An R Package for Analyzing and Modelling Leaf Gas
   Exchange Data}.
 \newblock {\em PLOS ONE\/}~{\em 10\/}(11), e0143346.
 
@@ -640,6 +640,13 @@ Gregory, L.~M., A.~M. McClain, D.~M. Kramer, J.~D. Pardo, K.~E. Smith, O.~L.
   Out of global models but important for leaf models}.
 \newblock {\em Plant, Cell and Environment\/}~{\em 44\/}(10), 3223--3226.
 
+\bibitem[\protect\citeauthoryear{Grossiord, Buckley, Cernusak, Novick, Poulter,
+  Siegwolf, Sperry, and McDowell}{Grossiord et~al.}{2020}]{Grossiord2020}
+Grossiord, C., T.~N. Buckley, L.~A. Cernusak, K.~A. Novick, B.~Poulter,
+  R.~T.~W. Siegwolf, J.~S. Sperry, and N.~G. McDowell (2020).
+\newblock {Plant responses to rising vapor pressure deficit}.
+\newblock {\em New Phytologist\/}~{\em 226\/}(6), 1550--1566.
+
 \bibitem[\protect\citeauthoryear{Guerrieri, Mencuccini, Sheppard, Saurer,
   Perks, Levy, Sutton, Borghetti, and Grace}{Guerrieri
   et~al.}{2011}]{Guerrieri2011}
@@ -783,10 +790,11 @@ Hungate, B.~A., J.~S. Dukes, M.~R. Shaw, Y.~Luo, and C.~B. Field (2003).
 
 \bibitem[\protect\citeauthoryear{IPCC}{IPCC}{2021}]{IPCC2021}
 IPCC (2021).
-\newblock {\em {Climate Change 2021: The Physical Science Basis. Contribution
-  of Working Group I to the Sixth Assessment Report of the Intergovernmental
-  Panel on Climate Change}}.
-\newblock Cambridge University Press.
+\newblock {\em Climate Change 2021: The Physical Science Basis. Contribution of
+  Working Group I to the Sixth Assessment Report of the Intergovernmental Panel
+  on Climate Change}, Volume In Press.
+\newblock Cambridge, United Kingdom and New York, NY, USA: Cambridge University
+  Press.
 
 \bibitem[\protect\citeauthoryear{Johnson, Graham, and Smith}{Johnson
   et~al.}{1997}]{Johnson1997}
@@ -1162,8 +1170,8 @@ Onoda, Y., K.~Hikosaka, and T.~Hirose (2004).
   Niinemets, Poorter, Tosens, and Westoby}{Onoda et~al.}{2017}]{Onoda2017}
 Onoda, Y., I.~J. Wright, J.~R. Evans, K.~Hikosaka, K.~Kitajima,
   {\"{U}}.~Niinemets, H.~Poorter, T.~Tosens, and M.~Westoby (2017).
-\newblock {Physiological and structural tradeoffs underlying the leaf economics
-  spectrum}.
+\newblock {Physiological and structural trade-offs underlying the leaf
+  economics spectrum}.
 \newblock {\em New Phytologist\/}~{\em 214\/}(4), 1447--1463.
 
 \bibitem[\protect\citeauthoryear{Oreskes, Shrader-Frechette, and
@@ -1595,7 +1603,7 @@ Udvardi, M. and P.~S. Poole (2013).
   et~al.}{2000}]{Uselman2000}
 Uselman, S.~M., R.~G. Qualls, and R.~B. Thomas (2000).
 \newblock {Effects of increased atmospheric CO\textsubscript{2}, temperature,
-  and soil N availability on root exudation of dissolved organic carbon by a
+  and soil N availability on root exudation of dissolved organic carbon by an
   N-fixing tree (\textit{Robinia pseudoacacia} L.)}.
 \newblock {\em Plant and Soil\/}~{\em 222}, 191--202.
 

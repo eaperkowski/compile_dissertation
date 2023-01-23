@@ -1,53 +1,51 @@
-This is BibTeX, Version 0.99d (TeX Live 2021)
+This is BibTeX, Version 0.99d (TeX Live 2022)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Perkowski_dissertation_main_v1.0.aux
 A level-1 auxiliary file: ch4_TXeco/ch4_TXeco_main.aux
 The style file: chicago.bst
-Reallocated field_info (elt_size=4) to 10175 items from 5000.
+Reallocated field_info (elt_size=4) to 10198 items from 5000.
 Database file #1: reference_list.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
-Warning--no number and no volume in Bloomfield2022
-Warning--can't use both author and editor fields in IPCC2021
 Warning--no volume for Markham2007
-You've used 225 entries,
+You've used 226 entries,
             2861 wiz_defined-function locations,
-            2005 strings with 65600 characters,
-and the built_in function-call counts, 237363 in all, are:
-= -- 16529
-> -- 27029
-< -- 4
-+ -- 8803
-- -- 9067
-* -- 26657
-:= -- 44687
-add.period$ -- 670
-call.type$ -- 225
-change.case$ -- 2560
-chr.to.int$ -- 225
-cite$ -- 228
-duplicate$ -- 4042
-empty$ -- 9818
-format.name$ -- 9875
-if$ -- 42814
+            2012 strings with 65646 characters,
+and the built_in function-call counts, 238582 in all, are:
+= -- 16611
+> -- 27175
+< -- 5
++ -- 8851
+- -- 9115
+* -- 26805
+:= -- 44915
+add.period$ -- 673
+call.type$ -- 226
+change.case$ -- 2573
+chr.to.int$ -- 226
+cite$ -- 227
+duplicate$ -- 4061
+empty$ -- 9865
+format.name$ -- 9927
+if$ -- 43035
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 220
-newline$ -- 1120
-num.names$ -- 2254
-pop$ -- 1924
+missing$ -- 221
+newline$ -- 1125
+num.names$ -- 2264
+pop$ -- 1933
 preamble$ -- 1
-purify$ -- 3913
+purify$ -- 3932
 quote$ -- 0
-skip$ -- 4075
+skip$ -- 4093
 stack$ -- 0
-substring$ -- 9854
-swap$ -- 1341
-text.length$ -- 4
+substring$ -- 9905
+swap$ -- 1348
+text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 4470
-warning$ -- 3
-while$ -- 2030
+type$ -- 4490
+warning$ -- 1
+while$ -- 2038
 width$ -- 0
-write$ -- 2920
-(There were 3 warnings)
+write$ -- 2935
+(There was 1 warning)
