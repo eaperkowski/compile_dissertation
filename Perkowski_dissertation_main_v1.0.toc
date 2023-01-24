@@ -15,6 +15,10 @@
 \contentsline {subsection}{\numberline {2.3.3}\textit {Root carbon biomass}}{21}{subsection.2.3.3}%
 \contentsline {subsection}{\numberline {2.3.4}\textit {Root nodule biomass}}{23}{subsection.2.3.4}%
 \contentsline {section}{\numberline {2.4}Discussion}{27}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}\textit {Fertilization decreases and light availaiblity increases carbon costs to acquire nitrogen}}{27}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}\textit {Modeling implications}}{29}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}\textit {Study limitations}}{31}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}\textit {Conclusions}}{33}{subsection.2.4.4}%
 \contentsline {chapter}{3. \textbf {Soil nitrogen availability modifies leaf nitrogen economies in mature temperate deciduous forests: a direct test of photosynthetic least-cost theory}}{35}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Introduction}{35}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Methods}{39}{section.3.2}%
@@ -68,9 +72,8 @@
 \contentsline {subsection}{\numberline {5.3.1}\textit {Leaf nitrogen content, chlorophyll content, and mass per area}}{121}{subsection.5.3.1}%
 \contentsline {subsection}{\numberline {5.3.2}\textit {Leaf biochemistry and stomatal conductance}}{125}{subsection.5.3.2}%
 \contentsline {subsection}{\numberline {5.3.3}\textit {Leaf nitrogen allocation}}{129}{subsection.5.3.3}%
-\contentsline {subsection}{\numberline {5.3.4}\textit {Whole plant growth and total leaf area}}{133}{subsection.5.3.4}%
-\contentsline {subsection}{\numberline {5.3.5}\textit {Carbon costs to acquire nitrogen}}{133}{subsection.5.3.5}%
-\contentsline {subsection}{\numberline {5.3.6}\textit {Nitrogen fixation}}{137}{subsection.5.3.6}%
+\contentsline {subsection}{\numberline {5.3.4}\textit {Whole plant traits}}{133}{subsection.5.3.4}%
+\contentsline {subsection}{\numberline {5.3.5}\textit {Nitrogen fixation}}{137}{subsection.5.3.5}%
 \contentsline {section}{\numberline {5.4}Discussion}{141}{section.5.4}%
 \contentsline {subsection}{\numberline {5.4.1}\textit {Soil nitrogen fertilization has divergent effects on leaf and whole plant acclimation responses to CO$_2$}}{142}{subsection.5.4.1}%
 \contentsline {subsection}{\numberline {5.4.2}\textit {Implications for future model development}}{146}{subsection.5.4.2}%
