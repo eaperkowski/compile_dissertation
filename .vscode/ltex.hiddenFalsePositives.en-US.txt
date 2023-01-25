@@ -53,3 +53,5 @@
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qa represents the fractionation between \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q and \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q due to diffusion in air, assumed to be 4.4‰, and b represents the fractionation caused by Rubisco carboxylation, assumed to be 27‰ Farquhar1989.\\E$"}
 {"rule":"SENTENCE_WHITESPACE","sentence":"^\\QMaps that detail site locations along 2006-2020 mean annual precipitation (a) and mean annual temperature (b) gradients in Texas, USA.\\E$"}
 {"rule":"DATE_NEW_YEAR","sentence":"^\\QI used the Parameter-elevation Regressions on Independent Slopes Model (PRISM) Daly2008climate product to access gridded daily temperature and precipitation data for the coterminous United States at a 4-km grid resolution between January 1, 2006 and July 31, 2021 (PRISM Climate Group, Oregon State University, https://prism.oregonstate.edu, data created 4 Feb 2014, accessed 24 Mar 2022).\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Qunicode hyperref naturalnames hyperref\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qunicode hyperref naturalnames hyperref\\E$"}
