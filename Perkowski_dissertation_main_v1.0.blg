@@ -1,51 +1,51 @@
-This is BibTeX, Version 0.99d (TeX Live 2021)
+This is BibTeX, Version 0.99d (TeX Live 2022)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Perkowski_dissertation_main_v1.0.aux
 A level-1 auxiliary file: ch4_TXeco/ch4_TXeco_main.aux
 The style file: chicago.bst
-Reallocated field_info (elt_size=4) to 10428 items from 5000.
+Reallocated field_info (elt_size=4) to 10451 items from 5000.
 Database file #1: reference_list.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Warning--no volume for Markham2007
-You've used 236 entries,
+You've used 237 entries,
             2861 wiz_defined-function locations,
-            2075 strings with 67975 characters,
-and the built_in function-call counts, 247504 in all, are:
-= -- 17315
-> -- 28004
+            2080 strings with 68163 characters,
+and the built_in function-call counts, 248281 in all, are:
+= -- 17380
+> -- 28065
 < -- 7
-+ -- 9111
-- -- 9387
-* -- 27740
-:= -- 46524
-add.period$ -- 704
-call.type$ -- 236
-change.case$ -- 2664
-chr.to.int$ -- 236
-cite$ -- 237
-duplicate$ -- 4255
-empty$ -- 10323
-format.name$ -- 10239
-if$ -- 44698
++ -- 9129
+- -- 9405
+* -- 27822
+:= -- 46660
+add.period$ -- 707
+call.type$ -- 237
+change.case$ -- 2672
+chr.to.int$ -- 237
+cite$ -- 238
+duplicate$ -- 4273
+empty$ -- 10369
+format.name$ -- 10261
+if$ -- 44845
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 231
-newline$ -- 1175
-num.names$ -- 2366
-pop$ -- 1998
+missing$ -- 232
+newline$ -- 1180
+num.names$ -- 2376
+pop$ -- 2003
 preamble$ -- 1
-purify$ -- 4083
+purify$ -- 4097
 quote$ -- 0
-skip$ -- 4292
+skip$ -- 4309
 stack$ -- 0
-substring$ -- 10364
-swap$ -- 1417
+substring$ -- 10415
+swap$ -- 1423
 text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 4690
+type$ -- 4710
 warning$ -- 1
-while$ -- 2131
+while$ -- 2139
 width$ -- 0
-write$ -- 3067
+write$ -- 3080
 (There was 1 warning)
