@@ -867,6 +867,13 @@ Keeling, C.~D., W.~G. Mook, and P.~P. Tans (1979, jan).
   atmospheric carbon dioxide}.
 \newblock {\em Nature\/}~{\em 277\/}(5692), 121--123.
 
+\bibitem[\protect\citeauthoryear{Keeney and Nelson}{Keeney and
+  Nelson}{1983}]{Keeney1983}
+Keeney, D.~R. and D.~W. Nelson (1983).
+\newblock {Nitrogen—Inorganic Forms}.
+\newblock In A.~L. Page (Ed.), {\em Methods of Soil Analysis\/} (2nd ed.).,
+  Chapter~33, pp.\  643--698. Madison, WI, USA: ASA and SSSA.
+
 \bibitem[\protect\citeauthoryear{Kenward and Roger}{Kenward and
   Roger}{1997}]{Kenward1997}
 Kenward, M.~G. and J.~H. Roger (1997).
@@ -1729,6 +1736,15 @@ Walker, A.~P., A.~P. Beckerman, L.~Gu, J.~Kattge, L.~A. Cernusak, T.~F.
   J$_{max}$ - to leaf nitrogen, leaf phosphorus, and specific leaf area: a
   meta-analysis and modeling study}.
 \newblock {\em Ecology and Evolution\/}~{\em 4\/}(16), 3218--3235.
+
+\bibitem[\protect\citeauthoryear{Walker, Johnson, Rogers, Anderson, Bridges,
+  Fisher, Lu, Ricciuto, Serbin, and Ye}{Walker et~al.}{2021}]{Walker2021}
+Walker, A.~P., A.~L. Johnson, A.~Rogers, J.~Anderson, R.~A. Bridges, R.~A.
+  Fisher, D.~Lu, D.~M. Ricciuto, S.~P. Serbin, and M.~Ye (2021).
+\newblock {Multi‐hypothesis comparison of Farquhar and Collatz photosynthesis
+  models reveals the unexpected influence of empirical assumptions at leaf and
+  global scales}.
+\newblock {\em Global Change Biology\/}~{\em 27\/}(4), 804--822.
 
 \bibitem[\protect\citeauthoryear{Wang, Prentice, Keenan, Davis, Wright,
   Cornwell, Evans, and Peng}{Wang et~al.}{2017}]{Wang2017}
