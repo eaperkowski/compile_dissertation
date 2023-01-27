@@ -87,4 +87,7 @@
 \contentsline {subsection}{\numberline {5.4.3}\textit {Study limitations and future directions}}{154}{subsection.5.4.3}%
 \contentsline {subsection}{\numberline {5.4.4}\textit {Conclusions}}{156}{subsection.5.4.4}%
 \contentsline {chapter}{6. \textbf {Conclusions}}{158}{chapter.6}%
-\contentsline {chapter}{\textbf {References}}{160}{chapter.6}%
+\contentsline {section}{\numberline {6.1}\textit {Experiment summaries}}{159}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}\textit {Light-by-nitrogen greenhouse experiment}}{159}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}\textit {Nitrogen-by-pH field manipulation experiment}}{160}{subsection.6.1.2}%
+\contentsline {chapter}{\textbf {References}}{161}{subsection.6.1.2}%
