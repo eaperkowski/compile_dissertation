@@ -18,6 +18,7 @@
 \usepackage{lineno, blindtext}
 \usepackage{csvsimple}
 \usepackage{docmute}
+\usepackage{longtable}
 
 
 \newcommand{\colvec}[2][.8]{%
@@ -278,21 +279,29 @@ Placeholder for text
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%End Ode to learning chapter                     %
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Backmatter -- Bibliography, appendices, etc.%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \backmatter
 
 
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%Bibliography:  Use BibTeX 							   %
+%Bibliography
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \bibliographystyle{chicago}
 \addcontentsline{toc}{chapter}{\textbf{References}}
 \bibliography{reference_list}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Appendices
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input{ch2_LxN_Greenhouse/ch2_LxN_Greenhouse_appendix.tex}
+\input{ch3_NxpH/ch3_NxpH_appendix.tex}
+\input{ch4_TXeco/ch4_TXeco_appendix.tex}
+\input{ch5_NxCO2xI/ch5_NxCO2xI_appendix.tex}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%End document
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \end{document}

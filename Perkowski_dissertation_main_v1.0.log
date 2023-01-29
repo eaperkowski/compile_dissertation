@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.15)  27 JAN 2023 21:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.15)  29 JAN 2023 00:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -414,48 +414,65 @@ Package shellesc Info: Restricted shell escape enabled on input line 77.
 \csv@out=\write3
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/docmute/docmute.sty
 Package: docmute 2012/03/22 v1.4 Input stand-alone documents
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip70
+\LTright=\skip71
+\LTpre=\skip72
+\LTpost=\skip73
+\LTchunksize=\count314
+\LTcapwidth=\dimen181
+\LT@head=\box55
+\LT@firsthead=\box56
+\LT@foot=\box57
+\LT@lastfoot=\box58
+\LT@cols=\count315
+\LT@rows=\count316
+\c@LT@tables=\count317
+\c@LT@chunks=\count318
+\LT@p@ftn=\toks30
 )
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 73.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 74.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count314
-\l__pdf_internal_box=\box55
+\l__color_backend_stack_int=\count319
+\l__pdf_internal_box=\box59
 ) (/Users/eaperkowski/git/compile_dissertation/Perkowski_dissertation_main_v1.0.aux (/Users/eaperkowski/git/compile_dissertation/ch4_TXeco/ch4_TXeco_main.aux))
 \openout1 = `Perkowski_dissertation_main_v1.0.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
  (/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count315
-\scratchdimen=\dimen181
-\scratchbox=\box56
-\nofMPsegments=\count316
-\nofMParguments=\count317
-\everyMPshowfont=\toks30
-\MPscratchCnt=\count318
-\MPscratchDim=\dimen182
-\MPnumerator=\count319
-\makeMPintoPDFobject=\count320
-\everyMPtoPDFconversion=\toks31
+\scratchcounter=\count320
+\scratchdimen=\dimen182
+\scratchbox=\box60
+\nofMPsegments=\count321
+\nofMParguments=\count322
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count323
+\MPscratchDim=\dimen183
+\MPnumerator=\count324
+\makeMPintoPDFobject=\count325
+\everyMPtoPDFconversion=\toks32
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -464,6 +481,10 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
+)
 Package caption Info: End \AtBeginDocument code.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
@@ -472,7 +493,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
-Package hyperref Info: Link coloring ON on input line 73.
+Package hyperref Info: Link coloring ON on input line 74.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
@@ -480,18 +501,18 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count321
+\c@section@level=\count326
 )
-LaTeX Info: Redefining \ref on input line 73.
-LaTeX Info: Redefining \pageref on input line 73.
-LaTeX Info: Redefining \nameref on input line 73.
+LaTeX Info: Redefining \ref on input line 74.
+LaTeX Info: Redefining \pageref on input line 74.
+LaTeX Info: Redefining \nameref on input line 74.
  (/Users/eaperkowski/git/compile_dissertation/Perkowski_dissertation_main_v1.0.out) (/Users/eaperkowski/git/compile_dissertation/Perkowski_dissertation_main_v1.0.out)
 \@outlinefile=\write4
 \openout4 = `Perkowski_dissertation_main_v1.0.out'.
 
-\docmute@nestinglevel=\count322
+\docmute@nestinglevel=\count327
 
-Overfull \vbox (8.88918pt too high) detected at line 111
+Overfull \vbox (8.88918pt too high) detected at line 112
  []
 
 [1
@@ -500,7 +521,7 @@ Overfull \vbox (8.88918pt too high) detected at line 111
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.139 \frontmatter
+l.140 \frontmatter
                    [1] [2
 
 
@@ -548,17 +569,17 @@ LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 8.
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) [9
 
-])
+] [10])
 \tf@lot=\write6
 \openout6 = `Perkowski_dissertation_main_v1.0.lot'.
 
- [10] (/Users/eaperkowski/git/compile_dissertation/Perkowski_dissertation_main_v1.0.lof [11
+ [11] [12] (/Users/eaperkowski/git/compile_dissertation/Perkowski_dissertation_main_v1.0.lof [13
 
-])
+] [14])
 \tf@lof=\write7
 \openout7 = `Perkowski_dissertation_main_v1.0.lof'.
 
- [12] [13] (/Users/eaperkowski/git/compile_dissertation/ch1_intro/ch1_intro_main.tex
+ [15] (/Users/eaperkowski/git/compile_dissertation/ch1_intro/ch1_intro_main.tex
 Chapter 1.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
@@ -574,7 +595,7 @@ Chapter 2.
 ] [9] [10] [11] [12] [13] [14] [15] [16] [17
 
 ]
-<ch2_LxN_Greenhouse/figs/fig1_ncost.png, id=1095, 9636.0pt x 4215.75pt>
+<ch2_LxN_Greenhouse/figs/fig1_ncost.png, id=1179, 9636.0pt x 4215.75pt>
 File: ch2_LxN_Greenhouse/figs/fig1_ncost.png Graphic file (type png)
 <use ch2_LxN_Greenhouse/figs/fig1_ncost.png>
 Package pdftex.def Info: ch2_LxN_Greenhouse/figs/fig1_ncost.png  used on input line 132.
@@ -586,7 +607,7 @@ Package pdftex.def Info: ch2_LxN_Greenhouse/figs/fig1_ncost.png  used on input l
 
 
 ]
-<ch2_LxN_Greenhouse/figs/fig2_nacq.png, id=1112, 9636.0pt x 4215.75pt>
+<ch2_LxN_Greenhouse/figs/fig2_nacq.png, id=1197, 9636.0pt x 4215.75pt>
 File: ch2_LxN_Greenhouse/figs/fig2_nacq.png Graphic file (type png)
 <use ch2_LxN_Greenhouse/figs/fig2_nacq.png>
 Package pdftex.def Info: ch2_LxN_Greenhouse/figs/fig2_nacq.png  used on input line 150.
@@ -596,7 +617,7 @@ Package pdftex.def Info: ch2_LxN_Greenhouse/figs/fig2_nacq.png  used on input li
 
 
 ]
-<ch2_LxN_Greenhouse/figs/fig3_rootCarbon.png, id=1141, 9636.0pt x 4215.75pt>
+<ch2_LxN_Greenhouse/figs/fig3_rootCarbon.png, id=1227, 9636.0pt x 4215.75pt>
 File: ch2_LxN_Greenhouse/figs/fig3_rootCarbon.png Graphic file (type png)
 <use ch2_LxN_Greenhouse/figs/fig3_rootCarbon.png>
 Package pdftex.def Info: ch2_LxN_Greenhouse/figs/fig3_rootCarbon.png  used on input line 169.
@@ -616,7 +637,7 @@ LaTeX Warning: Float too large for page by 11.12717pt on input line 174.
 
 
 ]
-<ch2_LxN_Greenhouse/figs/fig4_nodwgt.png, id=1178, 9636.0pt x 4215.75pt>
+<ch2_LxN_Greenhouse/figs/fig4_nodwgt.png, id=1263, 9636.0pt x 4215.75pt>
 File: ch2_LxN_Greenhouse/figs/fig4_nodwgt.png Graphic file (type png)
 <use ch2_LxN_Greenhouse/figs/fig4_nodwgt.png>
 Package pdftex.def Info: ch2_LxN_Greenhouse/figs/fig4_nodwgt.png  used on input line 321.
@@ -657,7 +678,7 @@ LaTeX Warning: No positions in optional float specifier.
 
 
 ]
-<ch3_NxpH/figs/NxS_fig1_leafn.png, id=1606, 7227.0pt x 7227.0pt>
+<ch3_NxpH/figs/NxS_fig1_leafn.png, id=1692, 7227.0pt x 7227.0pt>
 File: ch3_NxpH/figs/NxS_fig1_leafn.png Graphic file (type png)
 <use ch3_NxpH/figs/NxS_fig1_leafn.png>
 Package pdftex.def Info: ch3_NxpH/figs/NxS_fig1_leafn.png  used on input line 201.
@@ -670,7 +691,7 @@ Package pdftex.def Info: ch3_NxpH/figs/NxS_fig1_leafn.png  used on input line 20
 
 
 ]
-<ch3_NxpH/figs/NxS_fig2_leafbiochem.png, id=1637, 9636.0pt x 7227.0pt>
+<ch3_NxpH/figs/NxS_fig2_leafbiochem.png, id=1722, 9636.0pt x 7227.0pt>
 File: ch3_NxpH/figs/NxS_fig2_leafbiochem.png Graphic file (type png)
 <use ch3_NxpH/figs/NxS_fig2_leafbiochem.png>
 Package pdftex.def Info: ch3_NxpH/figs/NxS_fig2_leafbiochem.png  used on input line 324.
@@ -683,7 +704,7 @@ Package pdftex.def Info: ch3_NxpH/figs/NxS_fig2_leafbiochem.png  used on input l
 
 
 ]
-<ch3_NxpH/figs/NxS_fig3_leafn_allocation.png, id=1664, 542.025pt x 722.7pt>
+<ch3_NxpH/figs/NxS_fig3_leafn_allocation.png, id=1750, 542.025pt x 722.7pt>
 File: ch3_NxpH/figs/NxS_fig3_leafn_allocation.png Graphic file (type png)
 <use ch3_NxpH/figs/NxS_fig3_leafn_allocation.png>
 Package pdftex.def Info: ch3_NxpH/figs/NxS_fig3_leafn_allocation.png  used on input line 422.
@@ -696,7 +717,7 @@ Package pdftex.def Info: ch3_NxpH/figs/NxS_fig3_leafn_allocation.png  used on in
 
 
 ]
-<ch3_NxpH/figs/NxS_fig4_pnueiwue.png, id=1700, 8288.9675pt x 9572.76375pt>
+<ch3_NxpH/figs/NxS_fig4_pnueiwue.png, id=1784, 8288.9675pt x 9572.76375pt>
 File: ch3_NxpH/figs/NxS_fig4_pnueiwue.png Graphic file (type png)
 <use ch3_NxpH/figs/NxS_fig4_pnueiwue.png>
 Package pdftex.def Info: ch3_NxpH/figs/NxS_fig4_pnueiwue.png  used on input line 545.
@@ -716,7 +737,7 @@ Chapter 4.
 ] [72] [73] [74] [75] [76] [77] [78] [79] [80] [81
 
 ]
-<ch4_TXeco/figs/TXeco_fig1_site_map.png, id=2031, 12045.0pt x 4818.0pt>
+<ch4_TXeco/figs/TXeco_fig1_site_map.png, id=2116, 12045.0pt x 4818.0pt>
 File: ch4_TXeco/figs/TXeco_fig1_site_map.png Graphic file (type png)
 <use ch4_TXeco/figs/TXeco_fig1_site_map.png>
 Package pdftex.def Info: ch4_TXeco/figs/TXeco_fig1_site_map.png  used on input line 323.
@@ -732,7 +753,7 @@ Overfull \hbox (0.8893pt too wide) in paragraph at lines 331--332
 
 
 ] [84] [85] [86] [87] [88] [89] [90]
-<ch4_TXeco/figs/TXeco_fig2_beta.png, id=2146, 7227.0pt x 2710.125pt>
+<ch4_TXeco/figs/TXeco_fig2_beta.png, id=2230, 7227.0pt x 2710.125pt>
 File: ch4_TXeco/figs/TXeco_fig2_beta.png Graphic file (type png)
 <use ch4_TXeco/figs/TXeco_fig2_beta.png>
 Package pdftex.def Info: ch4_TXeco/figs/TXeco_fig2_beta.png  used on input line 449.
@@ -768,7 +789,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 ] [93]
-<ch4_TXeco/figs/TXeco_fig3_chi.png, id=2167, 5907.06876pt x 5526.6475pt>
+<ch4_TXeco/figs/TXeco_fig3_chi.png, id=2252, 5907.06876pt x 5526.6475pt>
 File: ch4_TXeco/figs/TXeco_fig3_chi.png Graphic file (type png)
 <use ch4_TXeco/figs/TXeco_fig3_chi.png>
 Package pdftex.def Info: ch4_TXeco/figs/TXeco_fig3_chi.png  used on input line 554.
@@ -779,7 +800,7 @@ Package pdftex.def Info: ch4_TXeco/figs/TXeco_fig3_chi.png  used on input line 5
 ] [96] [97
 
 ]
-<ch4_TXeco/figs/TXeco_fig4_narea.png, id=2209, 9636.0pt x 7227.0pt>
+<ch4_TXeco/figs/TXeco_fig4_narea.png, id=2294, 9636.0pt x 7227.0pt>
 File: ch4_TXeco/figs/TXeco_fig4_narea.png Graphic file (type png)
 <use ch4_TXeco/figs/TXeco_fig4_narea.png>
 Package pdftex.def Info: ch4_TXeco/figs/TXeco_fig4_narea.png  used on input line 660.
@@ -789,7 +810,7 @@ Package pdftex.def Info: ch4_TXeco/figs/TXeco_fig4_narea.png  used on input line
 
 
 ] [100]
-<ch4_TXeco/figs/TXeco_fig5_SEM.png, id=2241, 1454.43375pt x 811.03pt>
+<ch4_TXeco/figs/TXeco_fig5_SEM.png, id=2327, 1454.43375pt x 811.03pt>
 File: ch4_TXeco/figs/TXeco_fig5_SEM.png Graphic file (type png)
 <use ch4_TXeco/figs/TXeco_fig5_SEM.png>
 Package pdftex.def Info: ch4_TXeco/figs/TXeco_fig5_SEM.png  used on input line 722.
@@ -993,7 +1014,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 [121] [122] [123] [124] [125] [126] [127] [128] [129] [130
 
 ]
-<ch5_NxCO2xI/figs/NxCO2xI_fig1_leafN.png, id=2656, 7227.0pt x 4818.0pt>
+<ch5_NxCO2xI/figs/NxCO2xI_fig1_leafN.png, id=2742, 7227.0pt x 4818.0pt>
 File: ch5_NxCO2xI/figs/NxCO2xI_fig1_leafN.png Graphic file (type png)
 <use ch5_NxCO2xI/figs/NxCO2xI_fig1_leafN.png>
 Package pdftex.def Info: ch5_NxCO2xI/figs/NxCO2xI_fig1_leafN.png  used on input line 270.
@@ -1007,7 +1028,7 @@ Package pdftex.def Info: ch5_NxCO2xI/figs/NxCO2xI_fig1_leafN.png  used on input 
 ] [133] [134
 
 ]
-<ch5_NxCO2xI/figs/NxCO2xI_fig2_photo.png, id=2696, 7227.0pt x 7227.0pt>
+<ch5_NxCO2xI/figs/NxCO2xI_fig2_photo.png, id=2781, 7227.0pt x 7227.0pt>
 File: ch5_NxCO2xI/figs/NxCO2xI_fig2_photo.png Graphic file (type png)
 <use ch5_NxCO2xI/figs/NxCO2xI_fig2_photo.png>
 Package pdftex.def Info: ch5_NxCO2xI/figs/NxCO2xI_fig2_photo.png  used on input line 429.
@@ -1019,7 +1040,7 @@ Package pdftex.def Info: ch5_NxCO2xI/figs/NxCO2xI_fig2_photo.png  used on input 
 ] [137] [138
 
 ]
-<ch5_NxCO2xI/figs/NxCO2xI_fig3_propN.png, id=2738, 7227.0pt x 2409.0pt>
+<ch5_NxCO2xI/figs/NxCO2xI_fig3_propN.png, id=2822, 7227.0pt x 2409.0pt>
 File: ch5_NxCO2xI/figs/NxCO2xI_fig3_propN.png Graphic file (type png)
 <use ch5_NxCO2xI/figs/NxCO2xI_fig3_propN.png>
 Package pdftex.def Info: ch5_NxCO2xI/figs/NxCO2xI_fig3_propN.png  used on input line 584.
@@ -1038,7 +1059,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 727--727
 [142
 
 ]
-<ch5_NxCO2xI/figs/NxCO2xI_fig4_wholePlant.png, id=2769, 5582.8575pt x 4786.88374pt>
+<ch5_NxCO2xI/figs/NxCO2xI_fig4_wholePlant.png, id=2855, 5582.8575pt x 4786.88374pt>
 File: ch5_NxCO2xI/figs/NxCO2xI_fig4_wholePlant.png Graphic file (type png)
 <use ch5_NxCO2xI/figs/NxCO2xI_fig4_wholePlant.png>
 Package pdftex.def Info: ch5_NxCO2xI/figs/NxCO2xI_fig4_wholePlant.png  used on input line 739.
@@ -1050,7 +1071,7 @@ Package pdftex.def Info: ch5_NxCO2xI/figs/NxCO2xI_fig4_wholePlant.png  used on i
 ] [145] [146
 
 ]
-<ch5_NxCO2xI/figs/NxCO2xI_fig5_nFix.png, id=2811, 5606.9475pt x 4804.95125pt>
+<ch5_NxCO2xI/figs/NxCO2xI_fig5_nFix.png, id=2896, 5606.9475pt x 4804.95125pt>
 File: ch5_NxCO2xI/figs/NxCO2xI_fig5_nFix.png Graphic file (type png)
 <use ch5_NxCO2xI/figs/NxCO2xI_fig5_nFix.png>
 Package pdftex.def Info: ch5_NxCO2xI/figs/NxCO2xI_fig5_nFix.png  used on input line 834.
@@ -1102,23 +1123,181 @@ Underfull \hbox (badness 1194) in paragraph at lines 1093--1098
 []\T1/lmr/m/n/12 Meyerholt, J., S. Za-ehle, and M. J. Smith (2016). Vari-abil-ity of pro-
  []
 
-[183] [184] [185] [186] [187] [188] [189] [190] [191] [192] [193] [194] [195] [196] [197]) [198] (/Users/eaperkowski/git/compile_dissertation/Perkowski_dissertation_main_v1.0.aux (/Users/eaperkowski/git/compile_dissertation/ch4_TXeco/ch4_TXeco_main.aux))
+[183] [184] [185] [186] [187] [188] [189] [190] [191] [192] [193] [194] [195] [196] [197]) (/Users/eaperkowski/git/compile_dissertation/ch2_LxN_Greenhouse/ch2_LxN_Greenhouse_appendix.tex [198]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 2.
+
+[199
+
+]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 37.
+
+[200
+
+]) (/Users/eaperkowski/git/compile_dissertation/ch3_NxpH/ch3_NxpH_appendix.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 2.
+
+[201
+
+
+]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 52.
+
+[202
+
+]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 79.
+
+[203
+
+]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 99.
+
+[204]
+<ch3_NxpH/figs/NxS_figS1_leaftemp.png, id=3216, 7227.0pt x 2710.125pt>
+File: ch3_NxpH/figs/NxS_figS1_leaftemp.png Graphic file (type png)
+<use ch3_NxpH/figs/NxS_figS1_leaftemp.png>
+Package pdftex.def Info: ch3_NxpH/figs/NxS_figS1_leaftemp.png  used on input line 129.
+(pdftex.def)             Requested size: 505.9417pt x 189.72813pt.
+ [205 </Users/eaperkowski/git/compile_dissertation/ch3_NxpH/figs/NxS_figS1_leaftemp.png>]) (/Users/eaperkowski/git/compile_dissertation/ch4_TXeco/ch4_TXeco_appendix.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 2.
+
+[206
+
+
+
+
+
+
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{equation.6.1.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.42 \end{equation}
+                   pdfTeX warning (ext4): destination with the same identifier (name{equation.6.1.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.42 \end{equation}
+                   ]pdfTeX warning (ext4): destination with the same identifier (name{equation.6.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.46 \begin{equation}
+                     pdfTeX warning (ext4): destination with the same identifier (name{equation.6.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.46 \begin{equation}
+                     pdfTeX warning (ext4): destination with the same identifier (name{equation.6.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.46 \begin{equation}
+                     pdfTeX warning (ext4): destination with the same identifier (name{equation.6.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.46 \begin{equation}
+                      [207pdfTeX warning (ext4): destination with the same identifier (name{equation.6.1.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.54 \clearpage
+               ]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 58.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+[]\T1/lmr/bx/n/12 Growth
+ []
+
+[208]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 102.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
+[]\T1/lmr/bx/n/12 Growth
+ []
+
+[209]
+Underfull \hbox (badness 10000) in paragraph at lines 159--159
+[]\T1/lmr/bx/n/12 Growth
+ []
+
+[210]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 166.
+
+[211]
+<ch4_TXeco/figs/TXeco_figS2_aicc.png, id=3258, 7227.0pt x 2710.125pt>
+File: ch4_TXeco/figs/TXeco_figS2_aicc.png Graphic file (type png)
+<use ch4_TXeco/figs/TXeco_figS2_aicc.png>
+Package pdftex.def Info: ch4_TXeco/figs/TXeco_figS2_aicc.png  used on input line 198.
+(pdftex.def)             Requested size: 505.9417pt x 189.72813pt.
+ [212 </Users/eaperkowski/git/compile_dissertation/ch4_TXeco/figs/TXeco_figS2_aicc.png>]) (/Users/eaperkowski/git/compile_dissertation/ch5_NxCO2xI/ch5_NxCO2xI_appendix.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 2.
+
+) [213
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+] (/Users/eaperkowski/git/compile_dissertation/Perkowski_dissertation_main_v1.0.aux (/Users/eaperkowski/git/compile_dissertation/ch4_TXeco/ch4_TXeco_main.aux))
 Package rerunfilecheck Info: File `Perkowski_dissertation_main_v1.0.out' has not changed.
-(rerunfilecheck)             Checksum: A91D4C048CBA7233425C4F66CECB08CC;26110.
+(rerunfilecheck)             Checksum: C10CF94B0B71F697FA605E9D49BA6E13;30298.
  ) 
 Here is how much of TeX's memory you used:
- 14504 strings out of 478994
- 236957 string characters out of 5858184
- 594165 words of memory out of 5000000
- 31042 multiletter control sequences out of 15000+600000
+ 14717 strings out of 478994
+ 240719 string characters out of 5858184
+ 611923 words of memory out of 5000000
+ 31195 multiletter control sequences out of 15000+600000
  456907 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,17n,74p,3129b,458s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmbx8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmmi6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmri8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmsy6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmsy8.pfb>
-Output written on /Users/eaperkowski/git/compile_dissertation/Perkowski_dissertation_main_v1.0.pdf (212 pages, 44547482 bytes).
+Output written on /Users/eaperkowski/git/compile_dissertation/Perkowski_dissertation_main_v1.0.pdf (229 pages, 45866224 bytes).
 PDF statistics:
- 3302 PDF objects out of 3580 (max. 8388607)
- 2995 compressed objects within 30 object streams
- 615 named destinations out of 1000 (max. 500000)
- 851 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3478 PDF objects out of 3580 (max. 8388607)
+ 3147 compressed objects within 32 object streams
+ 655 named destinations out of 1000 (max. 500000)
+ 893 words of extra memory for PDF output out of 10000 (max. 10000000)
 

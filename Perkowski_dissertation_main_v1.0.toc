@@ -1,7 +1,7 @@
 \contentsline {chapter}{\textbf {Acknowledgements}}{ii}{chapter*.1}%
 \contentsline {chapter}{\textbf {Abstract}}{viii}{chapter*.3}%
 \contentsline {chapter}{\textbf {\textbf {List of Tables}}}{ix}{chapter*.4}%
-\contentsline {chapter}{\textbf {\textbf {List of Figures}}}{xi}{chapter*.5}%
+\contentsline {chapter}{\textbf {\textbf {List of Figures}}}{xiii}{chapter*.5}%
 \contentsline {chapter}{1. \textbf {Introduction}}{1}{chapter.1}%
 \contentsline {chapter}{2. \textbf {Structural carbon costs to acquire nitrogen are determined by nitrogen and light availability in two species with different nitrogen acquisition strategies}}{8}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Introduction}{8}{section.2.1}%
@@ -93,3 +93,7 @@
 \contentsline {subsection}{\numberline {6.1.3}\textit {Chapter 4: The relative cost of resource use for photosynthesis drives variance in leaf nitrogen content across a climate and soil resource availability gradient}}{161}{subsection.6.1.3}%
 \contentsline {subsection}{\numberline {6.1.4}\textit {Chapter 5: Optimal resource investment to photosynthetic capacity maximizes nutrient allocation to whole plant growth under elevated CO$_2$}}{161}{subsection.6.1.4}%
 \contentsline {chapter}{\textbf {References}}{162}{subsection.6.1.4}%
+\contentsline {chapter}{\textbf {Appendix A: \\ Supplemental material for "Structural carbon costs to acquire nitrogen are determined by nitrogen and light availability in two species with different nitrogen acquisition strategies"}}{199}{chapter*.42}%
+\contentsline {chapter}{\textbf {Appendix B: \\ Supplemental material for "Soil nitrogen availability modifies leaf nitrogen economies in mature temperate deciduous forests: a direct test of photosynthetic least-cost theory"}}{201}{chapter*.45}%
+\contentsline {chapter}{\textbf {Appendix C: \\ Supplemental material for "The relative cost of resource use for photosynthesis drives variance in leaf nitrogen content across a climate and soil resource availability gradient"}}{206}{chapter*.51}%
+\contentsline {chapter}{\textbf {Appendix D: \\ Supplemental material for "Optimal resource investment to photosynthetic capacity maximizes nutrient allocation to whole plant growth under elevated CO$_2$"}}{213}{chapter*.63}%
