@@ -97,3 +97,68 @@
 \noindent \textsuperscript{*}Significance determined using Wald’s $\chi$\textsuperscript{2} tests (\textit{P} = 0.05). \textit{P}-values < 0.05 are in bold and \textit{p}-values between 0.05 and 0.1 are italicized. Negative coefficients for light treatments indicate a positive effect of increasing light availability on all response variables, as light availability is treated as percent shade cover in all linear mixed-effects models.
 \end{singlespace}
 \clearpage
+
+\newpage
+\begin{landscape}
+    \begin{table}
+        \caption{Slopes of the regression line describing the relationship between each dependent variable and nitrogen fertilization at each light level\textsuperscript{*}}
+        \centering
+        %\resizebox{\columnwidth}{!}{
+            \begin{tabular}{p{0.5cm}p{2cm}p{3cm}}
+            \hline
+            \multicolumn{2}{r}{Shade cover} 
+            & \multicolumn{1}{r}{Slope}
+            \\
+            \hline
+             
+            \multicolumn{2}{l}{\textit{G. hirsutum}} & \\
+            & \multicolumn{1}{r}{0\%}
+            &  \multicolumn{1}{r}{\textbf{8.29E-04\textsuperscript{a}}}
+            \\
+            & \multicolumn{1}{r}{30\%}                     
+            &  \multicolumn{1}{r}{\textbf{5.74E-04\textsuperscript{a}}}
+            \\
+            & \multicolumn{1}{r}{50\%}
+            &  \multicolumn{1}{r}{\textbf{4.03E-04\textsuperscript{a}}}
+            \\
+            & \multicolumn{1}{r}{80\%}
+            &  \multicolumn{1}{r}{1.48E-04\textsuperscript{a}}
+            \\
+            && 
+            \\
+
+            \multicolumn{2}{l}{\textit{G. max}} &
+            \\
+            & \multicolumn{1}{r}{0\%}
+            &  \multicolumn{1}{r}{\textbf{7.86E-04}}
+            \\
+              
+            & \multicolumn{1}{r}{30\%}
+            &  \multicolumn{1}{r}{\textbf{5.87E-04}}
+            \\
+              
+            & \multicolumn{1}{r}{50\%}
+            &  \multicolumn{1}{r}{\textbf{4.55E-04}}
+            \\
+              
+            & \multicolumn{1}{r}{80\%}
+            &  \multicolumn{1}{r}{\textit{2.57E-05}} 
+            \\
+            \hline
+        \end{tabular}%}
+        \label{tab:tablec.3}
+    \end{table}
+    \noindent \textsuperscript{*}Slopes represent estimated marginal mean slopes from linear mixed-effects models described in the Methods. Slopes were calculated using the ‘emmeans’ R package \shortcite{Lenth2019}. Superscripts indicate slopes fit to natural-log (\textsuperscript{a}) or square root (\textsuperscript{b}) transformed data. Slopes statistically different from zero (Tukey: \textit{p} < 0.05) are indicated in bold. Marginally significant slopes (Tukey: 0.05 < \textit{p} < 0.1) are italicized.
+\end{landscape}
+\clearpage
+
+\newpage
+\begin{landscape}
+\begin{figure}
+    \centering
+    \includegraphics[scale = 0.061]{ch2_LxN_Greenhouse/figs/figs1_bvr.png}
+    \caption[Effects of shade cover and nitrogen fertilization on the ratio of plant biomass to rooting volume in \textit{G. hirsutum} and \textit{G. max}.]{Effects of shade cover and nitrogen fertilization on the ratio of plant biomass to rooting volume in \textit{G. hirsutum} (left panel) and \textit{G. max} (right panel). The red horizontal line indicates the recommended 1 g L$^{-1}$ threshold for BVR recommended by \shortciteN{Poorter2012} to avoid pot size-induced growth limitation. Nitrogen fertilization treatments are represented on the x-axis. Shade cover treatments are represented through colored points and trendlines. Trendlines were created by back-transforming marginal mean slopes and intercepts from species-specific linear mixed-effects models. These values were calculated using the 'emtrends' and 'emmeans' functions in the 'emmeans' R package \shortcite{Lenth2019}. Points are jittered for visibility.  Yellow points and trendlines represent the 0\% shade cover treatment, blue points and trendlines represent the 30\% shade cover treatment, green points and trendlines represent the 50\% shade cover treatment, and purple points and trendlines represent the 80\% shade cover treatment. Solid trendlines indicate slopes that are significantly different from zero (Tukey: \textit{p} < 0.05), while dashed trendlines indicate slopes that are not statistically different from zero.}
+    \label{fig:figure.a1}
+\end{figure}
+\end{landscape}
+\clearpage
