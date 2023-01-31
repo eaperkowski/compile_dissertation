@@ -87,13 +87,8 @@
 \contentsline {subsection}{\numberline {5.4.3}\textit {Study limitations and future directions}}{154}{subsection.5.4.3}%
 \contentsline {subsection}{\numberline {5.4.4}\textit {Conclusions}}{156}{subsection.5.4.4}%
 \contentsline {chapter}{6. \textbf {Conclusions}}{158}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Summary of experimental chapters}{159}{section.6.1}%
-\contentsline {subsection}{\numberline {6.1.1}\textit {Chapter 2: Structural carbon costs to acquire nitrogen are determined by nitrogen and light availability in two species with different nitrogen acquisition strategies}}{159}{subsection.6.1.1}%
-\contentsline {subsection}{\numberline {6.1.2}\textit {Chapter 3: Soil nitrogen availability modifies leaf nitrogen economies in mature temperate deciduous forests: a direct test of photosynthetic least-cost theory}}{160}{subsection.6.1.2}%
-\contentsline {subsection}{\numberline {6.1.3}\textit {Chapter 4: The relative cost of resource use for photosynthesis drives variance in leaf nitrogen content across a climate and soil resource availability gradient}}{161}{subsection.6.1.3}%
-\contentsline {subsection}{\numberline {6.1.4}\textit {Chapter 5: Optimal resource investment to photosynthetic capacity maximizes nutrient allocation to whole plant growth under elevated CO$_2$}}{161}{subsection.6.1.4}%
-\contentsline {chapter}{\textbf {References}}{162}{subsection.6.1.4}%
-\contentsline {chapter}{\textbf {Appendix A: \\ Supplemental material for "Structural carbon costs to acquire nitrogen are determined by nitrogen and light availability in two species with different nitrogen acquisition strategies"}}{199}{chapter*.42}%
-\contentsline {chapter}{\textbf {Appendix B: \\ Supplemental material for "Soil nitrogen availability modifies leaf nitrogen economies in mature temperate deciduous forests: a direct test of photosynthetic least-cost theory"}}{203}{chapter*.47}%
-\contentsline {chapter}{\textbf {Appendix C: \\ Supplemental material for "The relative cost of resource use for photosynthesis drives variance in leaf nitrogen content across a climate and soil resource availability gradient"}}{208}{chapter*.53}%
-\contentsline {chapter}{\textbf {Appendix D: \\ Supplemental material for "Optimal resource investment to photosynthetic capacity maximizes nutrient allocation to whole plant growth under elevated CO$_2$"}}{215}{chapter*.65}%
+\contentsline {chapter}{\textbf {References}}{164}{chapter.6}%
+\contentsline {chapter}{\textbf {Appendix A: Supplemental material for "Structural carbon costs to acquire nitrogen are determined by nitrogen and light availability in two species with different nitrogen acquisition strategies"}}{201}{chapter*.42}%
+\contentsline {chapter}{\textbf {Appendix B: \\ Supplemental material for "Soil nitrogen availability modifies leaf nitrogen economies in mature temperate deciduous forests: a direct test of photosynthetic least-cost theory"}}{205}{chapter*.47}%
+\contentsline {chapter}{\textbf {Appendix C: \\ Supplemental material for "The relative cost of resource use for photosynthesis drives variance in leaf nitrogen content across a climate and soil resource availability gradient"}}{210}{chapter*.53}%
+\contentsline {chapter}{\textbf {Appendix D: \\ Supplemental material for "Optimal resource investment to photosynthetic capacity maximizes nutrient allocation to whole plant growth under elevated CO$_2$"}}{217}{chapter*.65}%
