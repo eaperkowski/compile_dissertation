@@ -22,14 +22,14 @@ Adams, M.~A., T.~L. Turnbull, J.~I. Sprent, and N.~Buchmann (2016).
 Ainsworth, E.~A., P.~A. Davey, C.~J. Bernacchi, O.~C. Dermody, E.~A. Heaton,
   D.~J. Moore, P.~B. Morgan, S.~L. Naidu, H.~S.~Y. Ra, X.~G. Zhu, P.~S. Curtis,
   and S.~P. Long (2002).
-\newblock {A meta-analysis of elevated [CO\textsubscript{2}] effects on soybean
+\newblock {A meta-analysis of elevated [CO$_2$] effects on soybean
   (\textit{Glycine max}) physiology, growth and yield}.
 \newblock {\em Global Change Biology\/}~{\em 8\/}(8), 695--709.
 
 \bibitem[\protect\citeauthoryear{Ainsworth and Long}{Ainsworth and
   Long}{2005}]{Ainsworth2005}
 Ainsworth, E.~A. and S.~P. Long (2005).
-\newblock {What have we learned from 15 years of free-air CO2 enrichment
+\newblock {What have we learned from 15 years of free-air CO$_2$ enrichment
   (FACE)? A meta-analytic review of the responses of photosynthesis, canopy
   properties and plant production to rising CO$_{2}$}.
 \newblock {\em New Phytologist\/}~{\em 165\/}(2), 351--372.
@@ -38,7 +38,7 @@ Ainsworth, E.~A. and S.~P. Long (2005).
   Rogers}{2007}]{Ainsworth2007}
 Ainsworth, E.~A. and A.~Rogers (2007).
 \newblock {The response of photosynthesis and stomatal conductance to rising
-  [CO2]: mechanisms and environmental interactions}.
+  [CO$_2$]: mechanisms and environmental interactions}.
 \newblock {\em Plant, Cell and Environment\/}~{\em 30\/}(3), 258--270.
 
 \bibitem[\protect\citeauthoryear{Allen, Fisher, Phillips, Powers, and
@@ -68,20 +68,20 @@ Andersen, M.~K., H.~Hauggaard-Nielsen, P.~Ambus, and E.~S. Jensen (2005).
 Andrews, M., E.~K. James, J.~I. Sprent, R.~M. Boddey, E.~Gross, and F.~B. dos
   Reis (2011).
 \newblock {Nitrogen fixation in legumes and actinorhizal plants in natural
-  ecosystems: Values obtained using \textsuperscript{15}N natural abundance}.
+  ecosystems: Values obtained using $^{15}$N natural abundance}.
 \newblock {\em Plant Ecology and Diversity\/}~{\em 4\/}(2-3), 117--130.
 
 \bibitem[\protect\citeauthoryear{Arndal, Tolver, Larsen, Beier, and
   Schmidt}{Arndal et~al.}{2018}]{Arndal2018}
 Arndal, M.~F., A.~Tolver, K.~S. Larsen, C.~Beier, and I.~K. Schmidt (2018).
 \newblock {Fine root growth and vertical distribution in response to elevated
-  CO2, warming and drought in a mixed heathland–grassland}.
+  CO$_2$, warming and drought in a mixed heathland–grassland}.
 \newblock {\em Ecosystems\/}~{\em 21\/}(1), 15--30.
 
 \bibitem[\protect\citeauthoryear{Arnone}{Arnone}{1997}]{Arnone1997}
 Arnone, J.~A. (1997).
 \newblock {Indices of plant N availability in an alpine grassland under
-  elevated atmospheric CO2}.
+  elevated atmospheric CO$_2$}.
 \newblock {\em Plant and Soil\/}~{\em 190\/}(1), 61--66.
 
 \bibitem[\protect\citeauthoryear{Arora, Katavouta, Williams, Jones, Brovkin,
@@ -283,7 +283,7 @@ Cornwell, W.~K., I.~J. Wright, J.~Turner, V.~Maire, M.~M. Barbour, L.~A.
   Cornelissen, A.~Richards, S.~Schmidt, F.~Valladares, C.~K{\"{o}}rner, E.-D.
   Schulze, N.~Buchmann, and L.~S. Santiago (2018).
 \newblock {Climate and soils together regulate photosynthetic carbon isotope
-  discrimination within C\textsubscript{3} plants worldwide}.
+  discrimination within C$_3$ plants worldwide}.
 \newblock {\em Global Ecology and Biogeography\/}~{\em 27\/}(9), 1056--1067.
 
 \bibitem[\protect\citeauthoryear{Cramer and Prentice}{Cramer and
@@ -372,8 +372,7 @@ Dong, N., I.~C. Prentice, I.~J. Wright, H.~Wang, O.~K. Atkin, K.~J. Bloomfield,
   and Prentice}{Dong et~al.}{2022}]{Dong2022_eCO2}
 Dong, N., I.~J. Wright, J.~M. Chen, X.~Luo, H.~Wang, T.~F. Keenan, N.~G. Smith,
   and I.~C. Prentice (2022).
-\newblock {Rising CO\textsubscript{2} and warming reduce global canopy demand
-  for nitrogen}.
+\newblock {Rising CO$_2$ and warming reduce global canopy demand for nitrogen}.
 \newblock {\em New Phytologist\/}~{\em 235\/}(5), 1692--1700.
 
 \bibitem[\protect\citeauthoryear{Dovrat, Bakhshian, Masci, and Sheffer}{Dovrat
@@ -394,14 +393,13 @@ Dovrat, G., T.~Masci, H.~Bakhshian, E.~{Mayzlish Gati}, S.~Golan, and
 \bibitem[\protect\citeauthoryear{Drake, Gonz{\`{a}}lez-Meler, and Long}{Drake
   et~al.}{1997}]{Drake1997}
 Drake, B.~G., M.~A. Gonz{\`{a}}lez-Meler, and S.~P. Long (1997).
-\newblock {More efficient plants: a consequence of rising atmospheric
-  CO\textsubscript{2}?}
+\newblock {More efficient plants: a consequence of rising atmospheric CO$_2$?}
 \newblock {\em Annual Review of Plant Biology\/}~{\em 48}, 609--639.
 
 \bibitem[\protect\citeauthoryear{Duursma}{Duursma}{2015}]{Duursma2015}
 Duursma, R.~A. (2015).
-\newblock {Plantecophys - An R Package for Analyzing and Modelling Leaf Gas
-  Exchange Data}.
+\newblock {Plantecophys - An R package for analyzing and modelling leaf gas
+  exchange data}.
 \newblock {\em PLOS ONE\/}~{\em 10\/}(11), e0143346.
 
 \bibitem[\protect\citeauthoryear{Eastman, Adams, Brzostek, Burnham, Carrara,
@@ -423,8 +421,8 @@ Ellsworth, D.~S. and P.~B. Reich (1996).
   Retana}{Espelta et~al.}{2005}]{Espelta2005}
 Espelta, J.~M., P.~Cort{\'{e}}s, M.~Mangir{\'{o}}n, and J.~Retana (2005).
 \newblock {Differences in biomass partitioning, leaf nitrogen content, and
-  water use efficiency d13C result in similar performance of seedlings of two
-  Mediterranean oaks with contrasting leaf habit}.
+  water use efficiency $\delta^{13}$ result in similar performance of seedlings
+  of two Mediterranean oaks with contrasting leaf habit}.
 \newblock {\em Ecoscience\/}~{\em 12\/}(4), 447--454.
 
 \bibitem[\protect\citeauthoryear{Evans}{Evans}{1989}]{Evans1989_photoN}
@@ -466,7 +464,7 @@ Exbrayat, J.-F., A.~A. Bloom, P.~Falloon, A.~Ito, T.~L. Smallman, and
 \bibitem[\protect\citeauthoryear{Farquhar, Ehleringer, and Hubick}{Farquhar
   et~al.}{1989}]{Farquhar1989}
 Farquhar, G.~D., J.~R. Ehleringer, and K.~T. Hubick (1989).
-\newblock {Carbon Isotope Discrimination and Photosynthesis}.
+\newblock {Carbon isotope discrimination and photosynthesis}.
 \newblock {\em Annual Review of Plant Physiology and Plant Molecular
   Biology\/}~{\em 40\/}(1), 503--537.
 
@@ -479,8 +477,8 @@ Farquhar, G.~D. and T.~D. Sharkey (1982).
 \bibitem[\protect\citeauthoryear{Farquhar, von Caemmerer, and Berry}{Farquhar
   et~al.}{1980}]{Farquhar1980}
 Farquhar, G.~D., S.~von Caemmerer, and J.~A. Berry (1980).
-\newblock {A biochemical model of photosynthetic CO2 assimilation in leaves of
-  C3 species}.
+\newblock {A biochemical model of photosynthetic CO$_2$ assimilation in leaves
+  of C$_3$ species}.
 \newblock {\em Planta\/}~{\em 149\/}(1), 78--90.
 
 \bibitem[\protect\citeauthoryear{Fay, Prober, Harpole, Knops, Bakker, Borer,
@@ -502,7 +500,7 @@ Fay, P.~A., S.~M. Prober, W.~S. Harpole, J.~M.~H. Knops, J.~D. Bakker, E.~T.
 \bibitem[\protect\citeauthoryear{Feng}{Feng}{1999}]{Feng1999}
 Feng, X. (1999).
 \newblock {Trends in intrinsic water-use efficiency of natural trees for the
-  past 100-200 years: A response to atmospheric CO2 concentration}.
+  past 100-200 years: A response to atmospheric CO$_2$ concentration}.
 \newblock {\em Geochimica et Cosmochimica Acta\/}~{\em 63\/}(13-14),
   1891--1903.
 
@@ -520,7 +518,7 @@ Finzi, A.~C., D.~J.~P. Moore, E.~H. DeLucia, J.~Lichter, K.~S. Hofmockel, R.~B.
   Jackson, H.~S. Kim, R.~Matamala, H.~R. McCarthy, R.~Oren, J.~S. Pippen, and
   W.~H. Schlesinger (2006).
 \newblock {Progressive nitrogen limitation of ecosystem processes under
-  elevated CO2 in a warm-temperate forest}.
+  elevated CO$_2$ in a warm-temperate forest}.
 \newblock {\em Ecology\/}~{\em 87\/}(1), 15--25.
 
 \bibitem[\protect\citeauthoryear{Firn, McGree, Harvey, Flores~Moreno, Schutz,
@@ -595,7 +593,7 @@ Fujikake, H., A.~Yamazaki, N.~Ohtake, K.~Sueoshi, S.~Matsuhashi, T.~Ito,
 \bibitem[\protect\citeauthoryear{Ghannoum, Evans, and von Caemmerer}{Ghannoum
   et~al.}{2011}]{Ghannoum2011}
 Ghannoum, O., J.~R. Evans, and S.~von Caemmerer (2011).
-\newblock {Nitrogen and water use efficiency of C\textsubscript{4} plants}.
+\newblock {Nitrogen and water use efficiency of C$_4$ plants}.
 \newblock In A.~S. Raghavendra and R.~F. Sage (Eds.), {\em C4 Photosynthesis
   and Related CO2 Concentrating Mechanisms}, Chapter~8, pp.\  129--146.
   Springer.
@@ -661,7 +659,8 @@ Grossiord, C., T.~N. Buckley, L.~A. Cernusak, K.~A. Novick, B.~Poulter,
 Guerrieri, R., M.~Mencuccini, L.~J. Sheppard, M.~Saurer, M.~P. Perks, P.~Levy,
   M.~A. Sutton, M.~Borghetti, and J.~Grace (2011).
 \newblock {The legacy of enhanced N and S deposition as revealed by the
-  combined analysis of $\delta$13C, $\delta$18O and $\delta$15N in tree rings}.
+  combined analysis of $\delta^{13}$C, $\delta^{18}$O and $\delta^{15}$N in
+  tree rings}.
 \newblock {\em Global Change Biology\/}~{\em 17\/}(5), 1946--1962.
 
 \bibitem[\protect\citeauthoryear{Gulmon and Chu}{Gulmon and
@@ -669,7 +668,7 @@ Guerrieri, R., M.~Mencuccini, L.~J. Sheppard, M.~Saurer, M.~P. Perks, P.~Levy,
 Gulmon, S.~L. and C.~C. Chu (1981).
 \newblock {The effects of light and nitrogen on photosynthesis, leaf
   characteristics, and dry matter allocation in the chaparral shrub,
-  <i>Diplacus aurantiacus</i>}.
+  \textit{Diplacus aurantiacus}}.
 \newblock {\em Oecologia\/}~{\em 49\/}(2), 207--212.
 
 \bibitem[\protect\citeauthoryear{Gutschick}{Gutschick}{1981}]{Gutschick1981}
@@ -786,7 +785,7 @@ Houlton, B.~Z., Y.-P. Wang, P.~M. Vitousek, and C.~B. Field (2008).
   et~al.}{2009}]{Huber2009}
 Huber, M.~L., R.~A. Perkins, A.~Laesecke, D.~G. Friend, J.~V. Sengers, M.~J.
   Assael, I.~N. Metaxa, E.~Vogel, R.~Mare{\v{s}}, and K.~Miyagawa (2009).
-\newblock {New international formulation for the viscosity of H2O}.
+\newblock {New international formulation for the viscosity of H$_2$O}.
 \newblock {\em Journal of Physical and Chemical Reference Data\/}~{\em
   38\/}(2), 101--125.
 
@@ -857,14 +856,14 @@ Kayler, Z., A.~Gessler, and N.~Buchmann (2010).
   et~al.}{2017}]{Kayler2017}
 Kayler, Z., C.~Keitel, K.~Jansen, and A.~Gessler (2017).
 \newblock {Experimental evidence of two mechanisms coupling leaf-level C
-  assimilation to rhizosphere CO<sub>2</sub> release}.
+  assimilation to rhizosphere CO$_2$ release}.
 \newblock {\em Environmental and Experimental Botany\/}~{\em 135}, 21--26.
 
 \bibitem[\protect\citeauthoryear{Keeling, Mook, and Tans}{Keeling
   et~al.}{1979}]{Keeling1979}
 Keeling, C.~D., W.~G. Mook, and P.~P. Tans (1979, jan).
-\newblock {Recent trends in the <sup>13</sup>C/<sup>12</sup>C ratio of
-  atmospheric carbon dioxide}.
+\newblock {Recent trends in the $^{13}$C:$^{12}$C ratio of atmospheric carbon
+  dioxide}.
 \newblock {\em Nature\/}~{\em 277\/}(5692), 121--123.
 
 \bibitem[\protect\citeauthoryear{Keeney and Nelson}{Keeney and
@@ -992,9 +991,9 @@ L{\'{o}}pez, J., D.~A. Way, and W.~Sadok (2021).
   Dijkstra}{Lu et~al.}{2022}]{Lu2022}
 Lu, J., J.~Yang, C.~Keitel, L.~Yin, P.~Wang, W.~Cheng, and F.~A. Dijkstra
   (2022).
-\newblock {Belowground Carbon Efficiency for Nitrogen and Phosphorus
-  Acquisition Varies Between Lolium perenne and Trifolium repens and Depends on
-  Phosphorus Fertilization}.
+\newblock {Belowground carbon efficiency for nitrogen and phosphorus
+  acquisition varies between \textit{Lolium perenne} and \textit{Trifolium
+  repens} and depends on phosphorus fertilization}.
 \newblock {\em Frontiers in Plant Science\/}~{\em 13}, 1--9.
 
 \bibitem[\protect\citeauthoryear{Luo, Keenan, Chen, Croft, Prentice, Smith,
@@ -1020,7 +1019,7 @@ Luo, Y., W.~S. Currie, J.~S. Dukes, A.~C. Finzi, U.~A. Hartwig, B.~A. Hungate,
 Maire, V., P.~Martre, J.~Kattge, F.~Gastal, G.~Esser, S.~Fontaine, and J.-F.
   Soussana (2012).
 \newblock {The coordination of leaf photosynthesis links C and N fluxes in
-  C\textsubscript{3} plant species}.
+  C$_{3}$ plant species}.
 \newblock {\em PLoS ONE\/}~{\em 7\/}(6), e38345.
 
 \bibitem[\protect\citeauthoryear{Makino}{Makino}{2003}]{Makino2003}
@@ -1032,7 +1031,7 @@ Makino, A. (2003).
 \bibitem[\protect\citeauthoryear{Makino, Harada, Sato, Nakano, and Mae}{Makino
   et~al.}{1997}]{Makino1997}
 Makino, A., M.~Harada, T.~Sato, H.~Nakano, and T.~Mae (1997).
-\newblock {Growth and N Allocation in Rice Plants under CO2 Enrichment}.
+\newblock {Growth and N Allocation in Rice Plants under CO$_{2}$ Enrichment}.
 \newblock {\em Plant Physiology\/}~{\em 115\/}(1), 199--203.
 
 \bibitem[\protect\citeauthoryear{Markham and Zekveld}{Markham and
@@ -1051,8 +1050,8 @@ Marschner, H. and B.~Dell (1994).
 \bibitem[\protect\citeauthoryear{Matamala and Schlesinger}{Matamala and
   Schlesinger}{2000}]{Matamala2000}
 Matamala, R. and W.~H. Schlesinger (2000).
-\newblock {Effects of elevated atmospheric CO<sub>2</sub> on fine root
-  production and activity in an intact temperate forest ecosystem}.
+\newblock {Effects of elevated atmospheric CO$_{2}$ on fine root production and
+  activity in an intact temperate forest ecosystem}.
 \newblock {\em Global Change Biology\/}~{\em 6\/}(8), 967--979.
 
 \bibitem[\protect\citeauthoryear{Medlyn, Dreyer, Ellsworth, Forstreuter,
@@ -1092,8 +1091,8 @@ Meyerholt, J., K.~Sickel, and S.~Zaehle (2020).
   et~al.}{2016}]{Meyerholt2016}
 Meyerholt, J., S.~Zaehle, and M.~J. Smith (2016).
 \newblock {Variability of projected terrestrial biosphere responses to elevated
-  levels of atmospheric CO<sub>2</sub> due to uncertainty in biological
-  nitrogen fixation}.
+  levels of atmospheric CO$_{2}$ due to uncertainty in biological nitrogen
+  fixation}.
 \newblock {\em Biogeosciences\/}~{\em 13\/}(5), 1491--1518.
 
 \bibitem[\protect\citeauthoryear{Minocha, Long, Magill, Aber, and
@@ -1120,7 +1119,7 @@ Morgan, J.~A., D.~E. Pataki, C.~K{\"{o}}rner, H.~Clark, S.~J. {Del Grosso},
   Niklaus, J.~B. Nippert, R.~S. Nowak, W.~J. Parton, H.~W. Polley, and M.~R.
   Shaw (2004).
 \newblock {Water relations in grassland and desert ecosystems exposed to
-  elevated atmospheric CO\textsubscript{2}}.
+  elevated atmospheric CO$_{2}$}.
 \newblock {\em Oecologia\/}~{\em 140\/}(1), 11--25.
 
 \bibitem[\protect\citeauthoryear{Mu{\~{n}}oz, Qi, Li, Xie, Gao, Cheung, Wong,
@@ -1142,15 +1141,15 @@ Nadelhoffer, K.~J. and J.~W. Raich (1992).
   Tenhunen}{1997}]{Niinemets1997}
 Niinemets, {\"{U}}. and J.~D. Tenhunen (1997).
 \newblock {A model separating leaf structural and physiological effects on
-  carbon gain along light gradients for the shade-tolerant species <i>Acer
-  saccharum</i>}.
+  carbon gain along light gradients for the shade-tolerant species \textit{Acer
+  saccharum}}.
 \newblock {\em Plant, Cell and Environment\/}~{\em 20\/}(7), 845--866.
 
 \bibitem[\protect\citeauthoryear{Norby, Ledford, Reilly, Miller, and
   O'Neill}{Norby et~al.}{2004}]{Norby2004}
 Norby, R.~J., J.~Ledford, C.~D. Reilly, N.~E. Miller, and E.~G. O'Neill (2004).
 \newblock {Fine-root production dominates response of a deciduous forest to
-  atmospheric CO2 enrichment}.
+  atmospheric CO$_{2}$ enrichment}.
 \newblock {\em Proceedings of the National Academy of Sciences\/}~{\em
   101\/}(26), 9689--9693.
 
@@ -1158,8 +1157,8 @@ Norby, R.~J., J.~Ledford, C.~D. Reilly, N.~E. Miller, and E.~G. O'Neill (2004).
   McMurtrie}{Norby et~al.}{2010}]{Norby2010}
 Norby, R.~J., J.~M. Warren, C.~M. Iversen, B.~E. Medlyn, and R.~E. McMurtrie
   (2010).
-\newblock {CO\textsubscript{2} enhancement of forest productivity constrained
-  by limited nitrogen availability}.
+\newblock {CO$_{2}$ enhancement of forest productivity constrained by limited
+  nitrogen availability}.
 \newblock {\em Proceedings of the National Academy of Sciences\/}~{\em
   107\/}(45), 19368--19373.
 
@@ -1177,7 +1176,7 @@ Novick, K.~A., D.~L. Ficklin, P.~C. Stoy, C.~A. Williams, G.~Bohrer, A.~C.
   et~al.}{2019}]{Noyce2019}
 Noyce, G.~L., M.~L. Kirwan, R.~L. Rich, and J.~P. Megonigal (2019).
 \newblock {Asynchronous nitrogen supply and demand produce nonlinear plant
-  allocation responses to warming and elevated CO<sub>2</sub>}.
+  allocation responses to warming and elevated CO$_{2}$}.
 \newblock {\em Proceedings of the National Academy of Sciences\/}~{\em
   116\/}(43), 21623--21628.
 
@@ -1225,7 +1224,7 @@ Paillassa, J., I.~J. Wright, I.~C. Prentice, S.~Pepin, N.~G. Smith, G.~Ethier,
   Tausz}{Parvin et~al.}{2020}]{Parvin2020}
 Parvin, S., S.~Uddin, S.~Tausz~Posch, R.~Armstrong, and M.~Tausz (2020).
 \newblock {Carbon sink strength of nodules but not other organs modulates
-  photosynthesis of faba bean (\textit{i>Vicia faba</i>}) grown under elevated
+  photosynthesis of faba bean (\textit{Vicia faba}) grown under elevated
   [CO$_{2}$] and different water supply}.
 \newblock {\em New Phytologist\/}~{\em 227\/}(1), 132--145.
 
@@ -1263,7 +1262,7 @@ Phillips, R.~P., E.~R. Brzostek, and M.~G. Midgley (2013).
   et~al.}{2011}]{Phillips2011}
 Phillips, R.~P., A.~C. Finzi, and E.~S. Bernhardt (2011).
 \newblock {Enhanced root exudation induces microbial feedbacks to N cycling in
-  a pine forest under long-term CO2 fumigation}.
+  a pine forest under long-term CO$_{2}$ fumigation}.
 \newblock {\em Ecology Letters\/}~{\em 14\/}(2), 187--194.
 
 \bibitem[\protect\citeauthoryear{Pinheiro and Bates}{Pinheiro and
@@ -1298,9 +1297,9 @@ Poorter, H., J.~B{\"{u}}hler, D.~{Van Dusschoten}, J.~Climent, and J.~A. Postma
   Graf, Cernusak, and Pons}{Poorter et~al.}{2022}]{Poorter2022}
 Poorter, H., O.~Knopf, I.~J. Wright, A.~A. Temme, S.~W. Hogewoning, A.~Graf,
   L.~A. Cernusak, and T.~L. Pons (2022).
-\newblock {A meta-analysis of responses of C\textsubscript{3} plants to
-  atmospheric CO\textsubscript{2}: dose–response curves for 85 traits ranging
-  from the molecular to the whole-plant level}.
+\newblock {A meta-analysis of responses of C$_{3}$ plants to atmospheric
+  CO$_{2}$: dose–response curves for 85 traits ranging from the molecular to
+  the whole-plant level}.
 \newblock {\em New Phytologist\/}~{\em 233\/}(4), 1560--1596.
 
 \bibitem[\protect\citeauthoryear{Prentice, Dong, Gleason, Maire, and
@@ -1364,14 +1363,14 @@ Reich, P.~B. (2014).
 Reich, P.~B., S.~E. Hobbie, T.~Lee, D.~S. Ellsworth, J.~B. West, D.~Tilman,
   J.~M.~H. Knops, S.~Naeem, and J.~Trost (2006).
 \newblock {Nitrogen limitation constrains sustainability of ecosystem response
-  to CO<sub>2</sub>}.
+  to CO$_{2}$}.
 \newblock {\em Nature\/}~{\em 440\/}(7086), 922--925.
 
 \bibitem[\protect\citeauthoryear{Reichman, Grunes, and Viets}{Reichman
   et~al.}{1966}]{Reichman1966}
 Reichman, G.~A., D.~L. Grunes, and F.~G. Viets (1966).
-\newblock {Effect of Soil Moisture on Ammonification and Nitrification in Two
-  Northern Plains Soils}.
+\newblock {Effect of soil moisture on ammonification and nitrification in two
+  Northern Plains soils}.
 \newblock {\em Soil Science Society of America Journal\/}~{\em 30\/}(3),
   363--366.
 
@@ -1406,9 +1405,9 @@ Saathoff, A.~J. and J.~Welles (2021).
 \bibitem[\protect\citeauthoryear{Sage and Pearcy}{Sage and
   Pearcy}{1987}]{Sage1987_c3c4}
 Sage, R.~F. and R.~W. Pearcy (1987).
-\newblock {The nitrogen use efficiency of C\textsubscript{3} and
-  C\textsubscript{4} plants: I. Leaf nitrogen, growth, and biomass partitioning
-  in \textit{Chenopodium album} (L.) and \textit{Amaranthus retroflexus} (L.)}.
+\newblock {The nitrogen use efficiency of C$_{3}$ and C$_{4}$ plants: I. Leaf
+  nitrogen, growth, and biomass partitioning in \textit{Chenopodium album} (L.)
+  and \textit{Amaranthus retroflexus} (L.)}.
 \newblock {\em Plant Physiology\/}~{\em 84\/}(3), 954--958.
 
 \bibitem[\protect\citeauthoryear{Saleh, Abdel-Mawgoud, Hassan, Habeeb, Yehia,
@@ -1453,8 +1452,7 @@ Schaefer, K., C.~R. Schwalm, C.~Williams, M.~A. Arain, A.~Barr, J.~M. Chen,
   Edwards}{1981}]{Schmitt1981}
 Schmitt, M.~R. and G.~E. Edwards (1981).
 \newblock {Photosynthetic capacity and nitrogen use efficiency of maize, wheat,
-  and rice: A comparison between C\textsubscript{3} and C\textsubscript{4}
-  photosynthesis}.
+  and rice: A comparison between C$_{3}$ and C$_{4}$ photosynthesis}.
 \newblock {\em Journal of Experimental Botany\/}~{\em 32\/}(3), 459--466.
 
 \bibitem[\protect\citeauthoryear{Schneider, Rasband, and Eliceiri}{Schneider
@@ -1466,8 +1464,8 @@ Schneider, C.~A., W.~S. Rasband, and K.~W. Eliceiri (2012).
 \bibitem[\protect\citeauthoryear{Scott and Smith}{Scott and
   Smith}{2022}]{Scott2022}
 Scott, H.~G. and N.~G. Smith (2022).
-\newblock {A Model of C4 Photosynthetic Acclimation Based on Least-Cost
-  Optimality Theory Suitable for Earth System Model Incorporation}.
+\newblock {A Model of C$_{4}$ photosynthetic acclimation based on least-cost
+  optimality theory suitable for Earth system model incorporation}.
 \newblock {\em Journal of Advances in Modeling Earth Systems\/}~{\em 14\/}(3),
   1--16.
 
@@ -1497,14 +1495,14 @@ Smith, B., D.~W{\"{a}}rlind, A.~Arneth, T.~Hickler, P.~Leadley, J.~Siltberg,
   Dukes}{2013}]{Smith2013}
 Smith, N.~G. and J.~S. Dukes (2013).
 \newblock {Plant respiration and photosynthesis in global-scale models:
-  incorporating acclimation to temperature and CO 2}.
+  incorporating acclimation to temperature and CO$_{2}$}.
 \newblock {\em Global Change Biology\/}~{\em 19\/}(1), 45--63.
 
 \bibitem[\protect\citeauthoryear{Smith and Keenan}{Smith and
   Keenan}{2020}]{Smith2020}
 Smith, N.~G. and T.~F. Keenan (2020).
 \newblock {Mechanisms underlying leaf photosynthetic acclimation to warming and
-  elevated CO2 as inferred from least‐cost optimality theory}.
+  elevated CO$_{2}$ as inferred from least‐cost optimality theory}.
 \newblock {\em Global Change Biology\/}~{\em 26\/}(9), 5202--5216.
 
 \bibitem[\protect\citeauthoryear{Smith, Keenan, Prentice, Wang, Wright,
@@ -1613,16 +1611,16 @@ Taylor, B.~N. and D.~N.~L. Menge (2018).
 \bibitem[\protect\citeauthoryear{Terrer, Vicca, Hungate, Phillips, and
   Prentice}{Terrer et~al.}{2016}]{Terrer2016}
 Terrer, C., S.~Vicca, B.~A. Hungate, R.~P. Phillips, and I.~C. Prentice (2016).
-\newblock {Mycorrhizal association as a primary control of the
-  CO\textsubscript{2} fertilization effect}.
+\newblock {Mycorrhizal association as a primary control of the CO$_{2}$
+  fertilization effect}.
 \newblock {\em Science\/}~{\em 353\/}(6294), 72--74.
 
 \bibitem[\protect\citeauthoryear{Terrer, Vicca, Stocker, Hungate, Phillips,
   Reich, Finzi, and Prentice}{Terrer et~al.}{2018}]{Terrer2018}
 Terrer, C., S.~Vicca, B.~D. Stocker, B.~A. Hungate, R.~P. Phillips, P.~B.
   Reich, A.~C. Finzi, and I.~C. Prentice (2018).
-\newblock {Ecosystem responses to elevated CO\textsubscript{2} governed by
-  plant–soil interactions and the cost of nitrogen acquisition}.
+\newblock {Ecosystem responses to elevated CO$_{2}$ governed by plant–soil
+  interactions and the cost of nitrogen acquisition}.
 \newblock {\em New Phytologist\/}~{\em 217\/}(2), 507--522.
 
 \bibitem[\protect\citeauthoryear{Thieurmel and Elmarhraoui}{Thieurmel and
@@ -1649,7 +1647,7 @@ Thomas, R.~Q., S.~Zaehle, P.~H. Templer, and C.~L. Goodale (2013).
   Mahowald}{Thornton et~al.}{2007}]{Thornton2007}
 Thornton, P.~E., J.-F. Lamarque, N.~A. Rosenbloom, and N.~M. Mahowald (2007).
 \newblock {Influence of carbon-nitrogen cycle coupling on land model response
-  to CO<sub>2</sub> fertilization and climate variability}.
+  to CO$_{2}$ fertilization and climate variability}.
 \newblock {\em Global Biogeochemical Cycles\/}~{\em 21\/}(4), GB4018.
 
 \bibitem[\protect\citeauthoryear{Tingey, Phillips, and Johnson}{Tingey
@@ -1672,9 +1670,9 @@ Udvardi, M. and P.~S. Poole (2013).
 \bibitem[\protect\citeauthoryear{Uselman, Qualls, and Thomas}{Uselman
   et~al.}{2000}]{Uselman2000}
 Uselman, S.~M., R.~G. Qualls, and R.~B. Thomas (2000).
-\newblock {Effects of increased atmospheric CO\textsubscript{2}, temperature,
-  and soil N availability on root exudation of dissolved organic carbon by an
-  N-fixing tree (\textit{Robinia pseudoacacia} L.)}.
+\newblock {Effects of increased atmospheric CO$_{2}$, temperature, and soil N
+  availability on root exudation of dissolved organic carbon by an N-fixing
+  tree (\textit{Robinia pseudoacacia} L.)}.
 \newblock {\em Plant and Soil\/}~{\em 222}, 191--202.
 
 \bibitem[\protect\citeauthoryear{van Diepen, Lilleskov, Pregitzer, and
@@ -1688,8 +1686,7 @@ van Diepen, L. T.~A., E.~A. Lilleskov, K.~S. Pregitzer, and R.~M. Miller
 \bibitem[\protect\citeauthoryear{Vance and Heichel}{Vance and
   Heichel}{1991}]{Vance1991}
 Vance, C.~P. and G.~H. Heichel (1991).
-\newblock {Carbon in N\textsubscript{2} fixation: Limitation or exquisite
-  adaptation}.
+\newblock {Carbon in N$_{2}$ fixation: Limitation or exquisite adaptation}.
 \newblock {\em Annual Review of Plant Physiology and Plant Molecular
   Biology\/}~{\em 42\/}(1), 373--392.
 
@@ -1697,9 +1694,8 @@ Vance, C.~P. and G.~H. Heichel (1991).
   and Choi}{Viet et~al.}{2013}]{Viet2013}
 Viet, H.~D., J.-H. Kwak, K.-S. Lee, S.-S. Lim, M.~Matsushima, S.~X. Chang,
   K.-H. Lee, and W.-J. Choi (2013).
-\newblock {Foliar chemistry and tree ring $\delta$\textsuperscript{13}C of
-  \textit{Pinus densiflora} in relation to tree growth along a soil pH
-  gradient}.
+\newblock {Foliar chemistry and tree ring $\delta^{13}$C of \textit{Pinus
+  densiflora} in relation to tree growth along a soil pH gradient}.
 \newblock {\em Plant and Soil\/}~{\em 363\/}(1-2), 101--112.
 
 \bibitem[\protect\citeauthoryear{Vitousek, Cassman, Cleveland, Crews, Field,
@@ -1866,8 +1862,7 @@ Zaehle, S., B.~E. Medlyn, M.~G. {De Kauwe}, A.~P. Walker, M.~C. Dietze,
   H.~Mccarthy, A.~C. Finzi, P.~J. Hanson, I.~C. Prentice, R.~Oren, and R.~J.
   Norby (2014).
 \newblock {Evaluation of 11 terrestrial carbon-nitrogen cycle models against
-  observations from two temperate Free-Air CO\textsubscript{2} Enrichment
-  studies}.
+  observations from two temperate Free-Air CO$_{2}$ Enrichment studies}.
 \newblock {\em New Phytologist\/}~{\em 202\/}(3), 803--822.
 
 \bibitem[\protect\citeauthoryear{Zaehle, Sitch, Smith, and Hatterman}{Zaehle
@@ -1890,15 +1885,15 @@ Zhu, Q., W.~J. Riley, J.~Tang, N.~Collier, F.~M. Hoffman, X.~Yang, and G.~Bisht
   Wallin, and Uddling}{Ziegler et~al.}{2020}]{Ziegler2020}
 Ziegler, C., M.~E. Dusenge, B.~Nyirambangutse, E.~Zibera, G.~Wallin, and
   J.~Uddling (2020).
-\newblock {Contrasting Dependencies of Photosynthetic Capacity on Leaf Nitrogen
-  in Early- and Late-Successional Tropical Montane Tree Species}.
+\newblock {Contrasting dependencies of photosynthetic capacity on leaf nitrogen
+  in early- and late-successional tropical montane tree species}.
 \newblock {\em Frontiers in Plant Science\/}~{\em 11}, 1--12.
 
 \bibitem[\protect\citeauthoryear{Ziehn, Kattge, Knorr, and Scholze}{Ziehn
   et~al.}{2011}]{Ziehn2011}
 Ziehn, T., J.~Kattge, W.~Knorr, and M.~Scholze (2011).
-\newblock {Improving the predictability of global CO2 assimilation rates under
-  climate change}.
+\newblock {Improving the predictability of global CO$_{2}$ assimilation rates
+  under climate change}.
 \newblock {\em Geophysical Research Letters\/}~{\em 38\/}(10), L10404.
 
 \end{thebibliography}

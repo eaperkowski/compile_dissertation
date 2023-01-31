@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2021)
+This is BibTeX, Version 0.99d (TeX Live 2022)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Perkowski_dissertation_main_v1.0.aux
 A level-1 auxiliary file: ch4_TXeco/ch4_TXeco_main.aux
@@ -9,7 +9,7 @@ Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Warning--no volume for Markham2007
 You've used 239 entries,
             2861 wiz_defined-function locations,
-            2096 strings with 68695 characters,
+            2096 strings with 68492 characters,
 and the built_in function-call counts, 250554 in all, are:
 = -- 17551
 > -- 28301
