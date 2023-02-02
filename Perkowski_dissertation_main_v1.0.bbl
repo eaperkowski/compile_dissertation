@@ -653,16 +653,6 @@ Grossiord, C., T.~N. Buckley, L.~A. Cernusak, K.~A. Novick, B.~Poulter,
 \newblock {Plant responses to rising vapor pressure deficit}.
 \newblock {\em New Phytologist\/}~{\em 226\/}(6), 1550--1566.
 
-\bibitem[\protect\citeauthoryear{Guerrieri, Mencuccini, Sheppard, Saurer,
-  Perks, Levy, Sutton, Borghetti, and Grace}{Guerrieri
-  et~al.}{2011}]{Guerrieri2011}
-Guerrieri, R., M.~Mencuccini, L.~J. Sheppard, M.~Saurer, M.~P. Perks, P.~Levy,
-  M.~A. Sutton, M.~Borghetti, and J.~Grace (2011).
-\newblock {The legacy of enhanced N and S deposition as revealed by the
-  combined analysis of $\delta^{13}$C, $\delta^{18}$O and $\delta^{15}$N in
-  tree rings}.
-\newblock {\em Global Change Biology\/}~{\em 17\/}(5), 1946--1962.
-
 \bibitem[\protect\citeauthoryear{Gulmon and Chu}{Gulmon and
   Chu}{1981}]{Gulmon1981}
 Gulmon, S.~L. and C.~C. Chu (1981).
@@ -1497,6 +1487,13 @@ Smith, N.~G. and J.~S. Dukes (2013).
 \newblock {Plant respiration and photosynthesis in global-scale models:
   incorporating acclimation to temperature and CO$_{2}$}.
 \newblock {\em Global Change Biology\/}~{\em 19\/}(1), 45--63.
+
+\bibitem[\protect\citeauthoryear{Smith and Dukes}{Smith and
+  Dukes}{2018}]{Smith2018}
+Smith, N.~G. and J.~S. Dukes (2018).
+\newblock {Drivers of leaf carbon exchange capacity across biomes at the
+  continental scale}.
+\newblock {\em Ecology\/}~{\em 99\/}(7), 1610--1620.
 
 \bibitem[\protect\citeauthoryear{Smith and Keenan}{Smith and
   Keenan}{2020}]{Smith2020}
