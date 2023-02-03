@@ -33,7 +33,7 @@
 \contentsline {section}{\numberline {3.3}Results}{50}{section.3.3}%
 \contentsline {subsection}{\numberline {3.3.1}\textit {Leaf nitrogen content}}{50}{subsection.3.3.1}%
 \contentsline {subsection}{\numberline {3.3.2}\textit {Net photosynthesis and leaf biochemistry}}{53}{subsection.3.3.2}%
-\contentsline {subsection}{\numberline {3.3.3}\textit {Leaf N allocation}}{56}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.3}\textit {Leaf nitrogen allocation}}{56}{subsection.3.3.3}%
 \contentsline {subsection}{\numberline {3.3.4}\textit {Tradeoffs between nitrogen and water use}}{59}{subsection.3.3.4}%
 \contentsline {section}{\numberline {3.4}Discussion}{62}{section.3.4}%
 \contentsline {subsection}{\numberline {3.4.1}\textit {Soil nitrogen availability modifies tradeoffs between nitrogen and water use}}{63}{subsection.3.4.1}%
@@ -45,13 +45,13 @@
 \contentsline {section}{\numberline {4.1}Introduction}{70}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Methods}{76}{section.4.2}%
 \contentsline {subsection}{\numberline {4.2.1}\textit {Site descriptions and sampling methodology}}{76}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}\textit {Leaf trait measurements}}{76}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.2}\textit {Leaf trait measurements}}{77}{subsection.4.2.2}%
 \contentsline {subsection}{\numberline {4.2.3}\textit {Site climate data}}{82}{subsection.4.2.3}%
 \contentsline {subsection}{\numberline {4.2.4}\textit {Site edaphic characteristics}}{82}{subsection.4.2.4}%
 \contentsline {subsection}{\numberline {4.2.5}\textit {Plant functional group assignments}}{84}{subsection.4.2.5}%
 \contentsline {subsection}{\numberline {4.2.6}\textit {Data analysis}}{85}{subsection.4.2.6}%
-\contentsline {section}{\numberline {4.3}Results}{87}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}\textit {Cost to acquire nitrogen relative to water}}{87}{subsection.4.3.1}%
+\contentsline {section}{\numberline {4.3}Results}{88}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}\textit {Cost to acquire nitrogen relative to water}}{88}{subsection.4.3.1}%
 \contentsline {subsection}{\numberline {4.3.2}\textit {$C_\mathrm {i}$:$C_\mathrm {a}$}}{91}{subsection.4.3.2}%
 \contentsline {subsection}{\numberline {4.3.3}\textit {Leaf nitrogen content}}{94}{subsection.4.3.3}%
 \contentsline {subsection}{\numberline {4.3.4}\textit {Structural equation model}}{98}{subsection.4.3.4}%
