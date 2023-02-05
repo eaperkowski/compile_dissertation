@@ -52,7 +52,7 @@
 \contentsline {subsection}{\numberline {4.2.6}\textit {Data analysis}}{85}{subsection.4.2.6}%
 \contentsline {section}{\numberline {4.3}Results}{88}{section.4.3}%
 \contentsline {subsection}{\numberline {4.3.1}\textit {Cost to acquire nitrogen relative to water}}{88}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4.3.2}\textit {$C_\mathrm {i}$:$C_\mathrm {a}$}}{91}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.2}\textit {Leaf $C_\mathrm {i}$:$C_\mathrm {a}$}}{91}{subsection.4.3.2}%
 \contentsline {subsection}{\numberline {4.3.3}\textit {Leaf nitrogen content}}{94}{subsection.4.3.3}%
 \contentsline {subsection}{\numberline {4.3.4}\textit {Structural equation model}}{98}{subsection.4.3.4}%
 \contentsline {section}{\numberline {4.4}Discussion}{101}{section.4.4}%
