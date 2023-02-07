@@ -961,7 +961,6 @@ OUTPUT Perkowski_dissertation_main_v1.0.toc
 INPUT ./Perkowski_dissertation_main_v1.0.lot
 INPUT Perkowski_dissertation_main_v1.0.lot
 INPUT Perkowski_dissertation_main_v1.0.lot
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/lm/ec-lmr8.tfm
 OUTPUT Perkowski_dissertation_main_v1.0.lot
 INPUT ./Perkowski_dissertation_main_v1.0.lof
 INPUT Perkowski_dissertation_main_v1.0.lof
@@ -1002,6 +1001,7 @@ INPUT ./ch2_LxN_Greenhouse/figs/fig3_rootCarbon.png
 INPUT ch2_LxN_Greenhouse/figs/fig3_rootCarbon.png
 INPUT ./ch2_LxN_Greenhouse/figs/fig3_rootCarbon.png
 INPUT ./ch2_LxN_Greenhouse/figs/fig3_rootCarbon.png
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/lm/ec-lmr8.tfm
 INPUT ./ch2_LxN_Greenhouse/figs/fig4_nodwgt.png
 INPUT ./ch2_LxN_Greenhouse/figs/fig4_nodwgt.png
 INPUT ch2_LxN_Greenhouse/figs/fig4_nodwgt.png

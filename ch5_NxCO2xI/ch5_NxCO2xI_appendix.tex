@@ -8,7 +8,7 @@
 \renewcommand{\thefigure}{D\arabic{figure}}
 
 \begin{table}[!h]
-    \caption{Summary table containing volumes of compounds used to create modified Hoagland’s solutions for each soil nitrogen fertilization treatment. All volumes are expressed as milliliters per liter (mL/L)}
+    \caption[Summary table containing volumes of compounds used to create modified Hoagland’s solutions for each soil nitrogen fertilization treatment]{Summary table containing volumes of compounds used to create modified Hoagland’s solutions for each soil nitrogen fertilization treatment. All volumes are expressed as milliliters per liter (mL/L)}
     \label{table:tab.d1}
     \resizebox{\columnwidth}{!}{
     \begin{tabular}{p{4cm}p{2cm}p{2cm}p{2cm}p{2cm}p{2cm}}
@@ -84,20 +84,48 @@
 \end{table}
 \clearpage
 
-\newpage
-\begin{figure}
+\begin{table}[]
     \centering
-    \includegraphics[scale = 0.0625]{ch5_NxCO2xI/figs/NxCO2xI_figS1_leafN_chl_.png}
-    \caption[Relationships between area-based leaf nitrogen content, mass-based leaf nitrogen content, and leaf mass per unit leaf area measured on the focal leaf used to generate $A_\mathrm{net}$/$C_\mathrm{i}$ curves and leaf nitrogen content measured on the leaf used for chlorophyll extractions]{Relationships between area-based leaf nitrogen content (a), mass-based leaf nitrogen content (b), and leaf mass per unit leaf area (c) measured on the focal leaf used to generate $A_\mathrm{net}$/$C_\mathrm{i}$ curves and leaf nitrogen content measured on the leaf used for chlorophyll extractions. Blue points refer to leaves grown under ambient CO$_2$ and red points refer leaves grown under elevated CO$_2$. Square points indicate uninoculated pots and circular points indicate inoculated pots. Pearson's correlation, associated \textit{p}-values, and the line of the regression line that described each bivariate are included in the top left corner of each plot. The solid black line visualizes the trend given a 1:1 bivariate relationship.}
-    \label{fig:figure.d1}
-\end{figure}
+    \caption[Effects of CO$_2$, fertilization, and inoculation on whole plant biomass: pot volume]{Effects of CO$_2$, fertilization, and inoculation on whole plant biomass: pot volume (BVR; g L$^{-1}$)$^*$}
+    \label{table:tab.d3}
+    %\resizebox{\columnwidth}{!}{
+        \begin{tabular}{p{3.5cm}p{0.5cm}p{1.75cm}p{1.5cm}p{1.5cm}}
+            \hline
+            & \multicolumn{1}{r}{df} & \multicolumn{1}{r}{Coefficient}    & \multicolumn{1}{r}{$\chi^2$}  & \multicolumn{1}{r}{\textit{p}}
+            \\
+            \hline
+    (Intercept)       & \multicolumn{1}{r}{-}       & \multicolumn{1}{r}{1.33E$-$01}    & \multicolumn{1}{r}{-}         & \multicolumn{1}{r}{-}               \\
+    CO$_2$               & \multicolumn{1}{r}{1}    & \multicolumn{1}{r}{1.53E$-$01}    & \multicolumn{1}{r}{146.004}   & \multicolumn{1}{r}{\textbf{<0.001}} \\
+    Inoculation (I)   & \multicolumn{1}{r}{1}       & \multicolumn{1}{r}{4.19E$-$01}    & \multicolumn{1}{r}{19.320}    & \multicolumn{1}{r}{\textbf{<0.001}} \\
+    Fertilization (N) & \multicolumn{1}{r}{1}       & \multicolumn{1}{r}{1.90E$-$03}    & \multicolumn{1}{r}{279.387}   & \multicolumn{1}{r}{\textbf{<0.001}} \\
+    CO$_2$*I             & \multicolumn{1}{r}{1}    & \multicolumn{1}{r}{1.03E$-$01}    & \multicolumn{1}{r}{0.007}     & \multicolumn{1}{r}{0.934}           \\
+    CO$_2$*N             & \multicolumn{1}{r}{1}    & \multicolumn{1}{r}{2.44E$-$03}    & \multicolumn{1}{r}{49.725}    & \multicolumn{1}{r}{\textbf{<0.001}} \\
+    I*N               & \multicolumn{1}{r}{1}       & \multicolumn{1}{r}{-6.90E$-$04}   & \multicolumn{1}{r}{9.006}     & \multicolumn{1}{r}{\textbf{0.003}}  \\
+    CO$_2$*I*N           & \multicolumn{1}{r}{1}    & \multicolumn{1}{r}{-4.95E$-$04}   & \multicolumn{1}{r}{0.640}     & \multicolumn{1}{r}{0.424} \\
+    \hline
+    \end{tabular}%}
+\end{table}
+\begin{singlespace}
+    \noindent \textsuperscript{$*$}Significance determined using Type II Wald $\chi^2$ tests ($\alpha$=0.05). \textit{P}-values less than 0.05 are in bold. Key: df=degrees of freedom; $\chi^2$=Wald Type II chi-square test statistic.
+\end{singlespace}
 \clearpage
 
 \newpage
 \begin{figure}
     \centering
+    \includegraphics[scale = 0.0625]{ch5_NxCO2xI/figs/NxCO2xI_figS1_leafN_chl_.png}
+    \caption[Relationships between area-based leaf nitrogen content, mass-based leaf nitrogen content, and leaf mass per unit leaf area measured on the focal leaf used to generate $A_\mathrm{net}$/$C_\mathrm{i}$ curves and leaf nitrogen content measured on the leaf used for chlorophyll extractions]{Relationships between area-based leaf nitrogen content (a), mass-based leaf nitrogen content (b), and leaf mass per unit leaf area (c) measured on the focal leaf used to generate $A_\mathrm{net}$/$C_\mathrm{i}$ curves (x-axis) and leaf nitrogen content measured on the leaf used for chlorophyll extractions (y-axis). Blue points refer to leaves grown under ambient CO$_2$ and red points refer leaves grown under elevated CO$_2$. Square points indicate uninoculated pots and circular points indicate inoculated pots. Pearson's correlation coefficient, associated \textit{p}-values, and the line of the regression line that described each bivariate are included in the top left corner of each plot. The solid black line visualizes the trend given a 1:1 bivariate relationship.}
+    \label{fig:figure.d1}
+\end{figure}
+\clearpage
+
+
+
+\newpage
+\begin{figure}
+    \centering
     \includegraphics[scale = 0.07]{ch5_NxCO2xI/figs/NxCO2xI_figS2_bvr.png}
-    \caption[Effects of CO$_2$, fertilization, and inoculation on the ratio of whole plant biomass to pot volume]{Effects of CO$_2$, fertilization, and inoculation on the ratio of whole plant biomass to pot volume. Soil nitrogen fertilization is represented on the x-axis in all panels. Yellow points and trendlines indicate inoculated individuals grown under ambient CO$_2$, blue points and trendlines indicate uninoculated individuals grown under ambient CO$_2$, red points and trendlines indicate inoculated individuals grown under elevated CO$_2$, and grey points indicate uninoculated individuals grown under elevated CO$_2$. Solid trendlines indicate regression slopes that are different from zero (\textit{p} < 0.05), while dashed trendlines indicate slopes that are not distinguishable from zero (\textit{p} > 0.05). The dotted horizontal line indicates the point where biomass:pot volume exceeds 1 g L$^{-1}$, and the dashed line indicates the point where biomass:pot volume exceeds 2 g L$^{-1}$.}
+    \caption[Effects of CO$_2$, fertilization, and inoculation on the ratio of whole plant biomass to pot volume]{Effects of CO$_2$, fertilization, and inoculation on the ratio of whole plant biomass to pot volume. Soil nitrogen fertilization is represented on the x-axis in all panels. Yellow points and trendlines indicate inoculated individuals grown under ambient CO$_2$, blue points and trendlines indicate uninoculated individuals grown under ambient CO$_2$, red points and trendlines indicate inoculated individuals grown under elevated CO$_2$, and grey points indicate uninoculated individuals grown under elevated CO$_2$. Solid trendlines indicate regression slopes that are different from zero (\textit{p}<0.05). The dotted horizontal line indicates the point where biomass:pot volume exceeds 1 g L$^{-1}$, and the dashed line indicates the point where biomass:pot volume exceeds 2 g L$^{-1}$.}
     \label{fig:figure.d2}
 \end{figure}
 \clearpage

@@ -10,8 +10,7 @@
 
 
 \section*{C.1 Calculations for soil water holding capacity}\label{appendix.c1}
-
-Water holding capacity ($\theta_\mathrm{WHC}$; mm) was calculated as a function of the volumetric soil water storage at field capacity ($W_\mathrm{FC}$; $\mathrm{m^3\ m^{-3}}$), and the volumetric soil water storage at wilting point ($W_\mathrm{PWP}$; $\mathrm{m^3\ m^{-3}}$):
+\noindent Water holding capacity ($\theta_\mathrm{WHC}$; mm) was calculated as a function of the volumetric soil water storage at field capacity ($W_\mathrm{FC}$; $\mathrm{m^3\ m^{-3}}$), and the volumetric soil water storage at wilting point ($W_\mathrm{PWP}$; $\mathrm{m^3\ m^{-3}}$):
 
 \begin{equation}
     \label{eqn_s4.1} \tag{C4.1}
@@ -50,7 +49,7 @@ Water holding capacity ($\theta_\mathrm{WHC}$; mm) was calculated as a function 
     \end{aligned}
 \end{equation}
 
-\noindent In Equations \ref{eqn_s4.4} and \ref{eqn_s4.5}, $f_\mathrm{sand}$ (\%) is the fraction of sand content in soil (\%), $f_\mathrm{clay}$ (\%) is the fraction of clay content in soil (\%), and $f_\mathrm{OM}$ is the fraction of organic matter in soil (\%). Organic matter in the soil was calculated in this study by converting soil organic carbon data extracted from SoilGrids 2.0 to soil organic matter using the van Bemmelen factor (1.724 conversion factor).
+\noindent In Equations \ref{eqn_s4.4} and \ref{eqn_s4.5}, $f_\mathrm{sand}$ (\%) is the fraction of sand content in soil (\%), $f_\mathrm{clay}$ (\%) is the fraction of clay content in soil (\%), and $f_\mathrm{OM}$ is the fraction of organic matter in soil (\%). Organic matter in the soil was calculated by converting soil organic carbon data extracted from SoilGrids 2.0 to soil organic matter using the van Bemmelen factor (1.724 conversion factor).
 \clearpage
 
 
@@ -93,6 +92,7 @@ Water holding capacity ($\theta_\mathrm{WHC}$; mm) was calculated as a function 
             GAPU   & \textit{Gaillardia pulchella}      & c3 & annual    & forb           & no  & c3\_nonlegume & 16 \\
             GLGO   & \textit{Glandularia gooddingii}    & c3 & perennial & forb           & no  & c3\_nonlegume & 2  \\
             HEAN3  & \textit{Helianthus annuus}         & c3 & annual    & forb           & no  & c3\_nonlegume & 6  \\
+            \hline
         \end{tabular}}
     \end{table}
 \end{landscape}
@@ -137,7 +137,8 @@ Water holding capacity ($\theta_\mathrm{WHC}$; mm) was calculated as a function 
         SODI   & \textit{Solanum dimidiatum}        & c3 & perennial & forb           & no  & c3\_nonlegume & 1  \\
         SOEL   & \textit{Solanum elaeagnifolium}    & c3 & perennial & forb           & no  & c3\_nonlegume & 53 \\
         SOHA   & \textit{Sorghum halapense}         & c4 & perennial & graminoid      & no  & c4\_nonlegume & 38 \\
-        STTE3  & \textit{Stillingia texana}         & c3 & perennial & forb           & no  & c3\_nonlegume & 3
+        STTE3  & \textit{Stillingia texana}         & c3 & perennial & forb           & no  & c3\_nonlegume & 3  \\
+        \hline
     \end{tabular}}
 \end{table}
 \end{landscape}
@@ -158,7 +159,8 @@ Water holding capacity ($\theta_\mathrm{WHC}$; mm) was calculated as a function 
             \hline
             VEOC   & \textit{Verbesina occidentalis}    & c3 & perennial & forb           & no  & c3\_nonlegume & 3  \\
             VEST   & \textit{Verbena stricta}           & c3 & perennial & forb           & no  & c3\_nonlegume & 3  \\
-            WEAC   & \textit{Wedelia acapulcensis}      & c3 & perennial & shrub          & no  & c3\_nonlegume & 6 
+            WEAC   & \textit{Wedelia acapulcensis}      & c3 & perennial & shrub          & no  & c3\_nonlegume & 6 \\
+            \hline
         \end{tabular}}
     \end{table}
 \end{landscape}
@@ -166,14 +168,15 @@ Water holding capacity ($\theta_\mathrm{WHC}$; mm) was calculated as a function 
 
 
 \newpage
-\begin{table}[]
-    \caption{Model selection results for soil moisture, air temperature, and vapor pressure deficit. Soil moisture was used in a bivariate regression against $\beta$, while vapor pressure deficit was used in bivariate regressions against leaf $C_\mathrm{i}$:$C_\mathrm{a}{}^*$}
+\begin{table}
+    \centering
+    \caption[Model selection results for soil moisture and vapor pressure deficit]{Model selection results for soil moisture and vapor pressure deficit. Soil moisture was used in a bivariate regression against log-transformed $\beta$, while vapor pressure deficit was used in bivariate regressions against leaf $C_\mathrm{i}$:$C_\mathrm{a}$}
     \label{tab:tab.c4}
-    \resizebox{\columnwidth}{!}{%
+    %\resizebox{\columnwidth}{!}{%
         \begin{tabular}{p{2cm}p{2cm}p{2cm}p{2cm}p{2cm}}
             & \multicolumn{2}{l}{Soil moisture} & \multicolumn{2}{l}{VPD} \\
             \hline
-            Day & AICc             & RMSE           & AICc        & RMSE      \\
+            Day & AICc             & RMSE           & AICc              & RMSE      \\
             \hline
             1   & 1431.77          & 0.8400         & -772.71           & 0.0853    \\
             2   & 1431.76          & 0.8400         & -775.47           & 0.0849    \\
@@ -189,9 +192,10 @@ Water holding capacity ($\theta_\mathrm{WHC}$; mm) was calculated as a function 
             20  & 1431.40          & 0.8401         & -769.77           & 0.0855    \\
             30  & 1431.23          & 0.8400         & -772.18           & 0.0853    \\
             60  & 1429.84          & 0.8391         & -779.06           & 0.0848    \\
-            90  & \textbf{1429.14} & \textbf{0.8385}& -773.99           & 0.0852    
-\end{tabular}%
-}
+            90  & \textbf{1429.14} & \textbf{0.8385}& -773.99           & 0.0852    \\
+            \hline
+\end{tabular}
+%}
 \end{table}
 \clearpage
 

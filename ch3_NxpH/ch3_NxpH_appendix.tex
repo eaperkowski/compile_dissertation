@@ -9,7 +9,7 @@
 \renewcommand{\thefigure}{B\arabic{figure}}
 
 \begin{table}[h!]
-    \caption{Sample sizes of each species, abbreviated by their USDA NRCS PLANTS database code, within each plot at each site}
+    \caption[Sample sizes of each species, abbreviated by their USDA NRCS PLANTS database code, within each plot at each site]{Sample sizes of each species, abbreviated by their USDA NRCS PLANTS database code, within each plot at each site$^*$}
     \label{table:tab.b1}
     \resizebox{\textwidth}{!}{%
     \begin{tabular}{p{0.5cm}p{2cm}|p{1cm}p{1cm}p{1cm}p{1cm}p{1cm}|p{1cm}}
@@ -50,12 +50,12 @@
 
     \newpage
     \begin{table}[]
-        \caption{Analysis of variance results exploring the linear effect of leaf temperature on net photosynthesis rate and stomatal conductance measured at 400 $\mu \mathrm{mol\ mol^{-1}\ CO_2}$}
+        \caption[Analysis of variance results exploring the linear effect of leaf temperature on net photosynthesis rate and stomatal conductance measured at 400 $\mu \mathrm{mol\ mol^{-1}\ CO_2}$]{Analysis of variance results exploring the linear effect of leaf temperature on net photosynthesis rate ($A_\mathrm{net}$; $\mathrm{\mu mol\ m^{-2}\ s^{-1}}$) and stomatal conductance ($g_\mathrm{sw}$; $\mathrm{\mu mol\ m^{-2}\ s^{-1}}$) measured at 400 $\mu \mathrm{mol\ mol^{-1}\ CO_2}$}
         \centering
         \label{table:tab.b2}
         %\resizebox{\textwidth}{!}{%
         \begin{tabular}{p{4cm}p{0.5cm}p{3cm}p{3m}p{3cm}p{3cm}}
-            && \multicolumn{2}{r}{$A_\mathrm{net}$} & \multicolumn{2}{r}{$g_\mathrm{s}$} \\
+            && \multicolumn{2}{r}{$A_\mathrm{net}$} & \multicolumn{2}{r}{$g_\mathrm{sw}$} \\
             \hline
             & df                    
             & \multicolumn{1}{r}{$\chi^2$}      & \multicolumn{1}{r}{\textit{p}}
@@ -71,14 +71,14 @@
 %}
 \end{table}
 \begin{singlespace}
-\noindent Results detail linear mixed effects model where temperature was regressed against net photosynthesis or stomatal conductance, with site and species designated as random intercept terms. Significance was determined using Type II Wald $\chi^2$ tests ($\alpha$ = 0.05). Key: $A_\mathrm{net}$ = net photosynthesis rate at 400 $\mu \mathrm{mol\ mol^{-1}\ CO_2}$; $g_\mathrm{s}$=stomatal conductance measured at 400 $\mu \mathrm{mol\ mol^{-1}\ CO_2}$
+\noindent $^*$Results detail linear mixed effects model where temperature was regressed against net photosynthesis or stomatal conductance, with site and species designated as random intercept terms. Significance was determined using Type II Wald $\chi^2$ tests ($\alpha$=0.05).
 \end{singlespace}
 \clearpage
 
 \newpage
 \begin{table}[]
     \centering
-    \caption{Second order log-polynomial regression coefficients that described the effect of leaf temperature on net photosynthesis and stomatal conductance measured at 400 $\mu \mathrm{mol\ mol^{-1}\ CO_2}$}
+    \caption[Second order log-polynomial regression coefficients that described the effect of leaf temperature on net photosynthesis and stomatal conductance measured at 400 $\mu \mathrm{mol\ mol^{-1}\ CO_2}$]{Second order log-polynomial regression coefficients that described the effect of leaf temperature on net photosynthesis ($A_\mathrm{net}$; $\mathrm{\mu mol\ m^{-2}\ s^{-1}}$) and stomatal conductance ($g_\mathrm{sw}$; $\mathrm{\mu mol\ m^{-2}\ s^{-1}}$) measured at 400 $\mu \mathrm{mol\ mol^{-1}\ CO_2}^*$}
     \label{table:tab.b3}
     %\resizebox{\textwidth}{!}{%
     \begin{tabular}{p{2cm}p{3cm}p{3cm}p{3m}}  
@@ -90,14 +90,14 @@
 \end{tabular}%}
 \end{table}
 \begin{singlespace}
-    \noindent Net photosynthesis and stomatal conductance values were fit to the log-polynomial equation log (y) = a + bx + cx$^2$, where x is leaf temperature. Key: $A_\mathrm{net}$ = net photosynthesis rate at 400 $\mu \mathrm{mol\ mol^{-1}\ CO_2}$; $g_\mathrm{s}$ = stomatal conductance measured at 400 $\mu \mathrm{mol\ mol^{-1}\ CO_2}$
+    \noindent $^*$Net photosynthesis and stomatal conductance values were fit to the log-polynomial equation log(y)= a + bx + cx$^2$, where x is leaf temperature in \textdegree{}C.
 \end{singlespace}
 \clearpage
 
 \newpage
 \begin{landscape}
 \begin{table}[]
-    \caption{Mean, standard error, and 95\% confidence interval ranges of soil nitrogen availability estimates across all measured plots. All units are expressed as $\mu \mathrm{g\ N\ g^{-1}\ resin\ d^{-1}}$}
+    \caption[Mean, standard error, and 95\% confidence interval ranges of soil nitrogen availability estimates across all measured plots]{Mean, standard error, and 95\% confidence interval ranges of soil nitrogen availability estimates across all measured plots. All units are expressed as $\mu \mathrm{g\ N\ g^{-1}\ resin\ d^{-1}}$}
     \centering
     \label{tab:table.b4}
     %\resizebox{\columnwidth}{!}{%
@@ -128,7 +128,7 @@
     \begin{figure}
         \centering
         \includegraphics[scale = 0.07]{ch3_NxpH/figs/NxS_figS1_leaftemp.png}
-        \caption[Effects of leaf temperature on net photosynthesis rate and stomatal conductance values when measured at 400 $\mu \mathrm{mol\ mol^{-1}\ CO_2}$]{Effects of leaf temperature on net photosynthesis rate (panel A) and stomatal conductance (panel B) values when measured at 400 $\mu \mathrm{mol\ mol^{-1}\ CO_2}$. Leaf temperature is represented continuously on the x-axis, while species are represented as colored points. Colored points and shapes are as explained in Figure \ref{fig:figure3.1}. The dashed blue trendline describes the linear relationship between leaf temperature and each response variable, while the dashed black trendline describes the same relationship with a log-polynomial regression equation.}
+        \caption[Effects of leaf temperature on net photosynthesis rate and stomatal conductance values when measured at 400 $\mu \mathrm{mol\ mol^{-1}\ CO_2}$]{Effects of leaf temperature on net photosynthesis rate (A) and stomatal conductance (B) values when measured at 400 $\mu \mathrm{mol\ mol^{-1}\ CO_2}$. Leaf temperature is represented on the x-axis, while species are represented as colored points. Colored points and shapes are as explained in Figure \ref{fig:figure3.1}. The dashed blue trendline describes the linear relationship between leaf temperature and each response variable, while the dashed black trendline describes the same relationship with a log-polynomial regression equation.}
         \label{fig:figure.b1}
     \end{figure}
 \end{landscape}

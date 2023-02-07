@@ -5,42 +5,44 @@
 \section{Introduction}
 \noindent Terrestrial ecosystems are regulated by complex carbon and nitrogen cycles. As a result, terrestrial biosphere models, which are beginning to include coupled carbon and nitrogen cycles \shortcite{Shi2016,Davies-Barnard2020,Braghiere2022}, must accurately represent these cycles under different environmental scenarios to reliably simulate carbon and nitrogen atmosphere-biosphere fluxes \shortcite{Hungate2003,Prentice2015}. While the inclusion of coupled carbon and nitrogen cycles tends to reduce model uncertainty \shortcite{Arora2020}, large uncertainty in role of soil nitrogen availability and nitrogen acquisition strategy on leaf and whole plant acclimation responses to CO$_2$ remains \shortcite{Smith2013,Terrer2018,Smith2020}. This source of uncertainty likely contributes to the widespread divergence in future carbon and nitrogen flux simulations across terrestrial biosphere models \shortcite{Friedlingstein2014,Zaehle2014,Meyerholt2020}.
 
-Plants grown under elevated CO$_2$ generally have less leaf nitrogen content than those grown under ambient CO$_2$, a response that often corresponds with reductions in photosynthetic capacity and stomatal conductance at the leaf-level and biomass stimulation over time at the whole plant level \shortcite{Curtis1996,Drake1997,Ainsworth2002,Makino2003,Morgan2004,Ainsworth2005,Ainsworth2007,Smith2013,Poorter2022}. As net primary productivity is generally limited by nitrogen availability \shortcite{Vitousek1991,LeBauer2008,Fay2015}, and soil nitrogen availability is often positively correlated with leaf nitrogen content and photosynthetic capacity \shortcite{Field1986,EvansSeemann1989,Evans1989_photoN,Walker2014,Firn2019,Liang2020}, some have hypothesized that leaf and whole plant acclimation responses to CO$_2$ are constrained by soil nitrogen availability. The progressive nitrogen limitation hypothesis predicts that elevated CO$_2$ will increase plant nitrogen demand, which will increase plant nitrogen uptake and progressively deplete soil nitrogen if soil nitrogen supply does not exceed plant nitrogen demand \shortcite{Luo2004}. The hypothesis predicts that this response should result in strong acute stimulations in whole plant growth and primary productivity that diminish over time as nitrogen becomes more limiting. Assuming a positive relationship between soil nitrogen availability, leaf nitrogen content, and photosynthetic capacity, this hypothesis also implies that progressive reductions in soil nitrogen availability should be the mechanism that drives the downregulation in leaf nitrogen content and photosynthetic capacity under elevated CO$_2$. This hypothesis has received some support from free air CO$_2$ enrichment experiments \shortcite{Reich2006,Norby2010}, although is not consistently observed across experiments \shortcite{Finzi2006,Moore2006,Liang2016}.
+Plants grown under elevated CO$_2$ generally have less leaf nitrogen content than those grown under ambient CO$_2$, a response that often corresponds with reductions in photosynthetic capacity and stomatal conductance at the leaf-level and biomass stimulation over time at the whole plant level \shortcite{Curtis1996,Drake1997,Ainsworth2002,Makino2003,Morgan2004,Ainsworth2005,Ainsworth2007,Smith2013,Poorter2022}. As net primary productivity is generally limited by nitrogen availability \shortcite{Vitousek1991,LeBauer2008,Fay2015}, and soil nitrogen availability is often positively correlated with leaf nitrogen content and photosynthetic capacity \shortcite{Field1986,EvansSeemann1989,Evans1989_photoN,Walker2014,Firn2019,Liang2020}, some have hypothesized that leaf and whole plant acclimation responses to CO$_2$ are constrained by soil nitrogen availability. 
+
+The progressive nitrogen limitation hypothesis predicts that elevated CO$_2$ will increase plant nitrogen demand, which will increase plant nitrogen uptake and progressively deplete soil nitrogen if soil nitrogen supply does not exceed plant nitrogen demand \shortcite{Luo2004}. The hypothesis predicts that this response should result in strong acute stimulations in whole plant growth and primary productivity that diminish over time as nitrogen becomes more limiting. Assuming a positive relationship between soil nitrogen availability, leaf nitrogen content, and photosynthetic capacity, this hypothesis also implies that progressive reductions in soil nitrogen availability should be the mechanism that drives the downregulation of leaf nitrogen content and photosynthetic capacity under elevated CO$_2$. This hypothesis has received some support from free air CO$_2$ enrichment experiments \shortcite{Reich2006,Norby2010}, although is not consistently observed across experiments \shortcite{Finzi2006,Moore2006,Liang2016}.
 
 While possible that progressive nitrogen limitation may determine leaf and whole plant acclimation responses to CO$_2$, growing evidence indicates that leaf nitrogen and photosynthetic capacity are more strongly determined through aboveground growing conditions than by soil resource availability \shortcite{Dong2017,Dong2020,Dong2022a,Smith2019,Smith2020,Paillassa2020,Peng2021,Querejeta2022,Westerband2023}, and satellite-derived chlorophyll fluorescence data indicate that increasing atmospheric CO$_2$ may decrease leaf and canopy demand for nitrogen \shortcite{Dong2022_eCO2}. Together, results from these studies suggest that the downregulation in leaf nitrogen content and photosynthetic capacity due to increasing CO$_2$ may not be as tightly linked to progressive nitrogen limitation as previously hypothesized.
 
-A unification of optimal coordination and photosynthetic least-cost theories predicts that leaves acclimate to elevated CO$_2$ by downregulating nitrogen allocation to Ribulose-1,5-bisphosphate (RuBP) carboxylase/oxygenase (Rubisco) to optimize resource use efficiencies at the leaf level, which allows for greater resource allocation to whole plant growth \shortcite{Drake1997,Wright2003,Prentice2014,Smith2019}. The theory predicts that the downregulation in nitrogen allocation to Rubisco results in a stronger downregulation in the maximum rate of Rubisco carboxylation ($V_\mathrm{cmax}$) than the maximum rate of RuBP regeneration ($J_\mathrm{max}$), which maximizes photosynthetic efficiency by allowing net photosynthesis rates to be equally co-limited by Rubisco carboxylation and RuBP regeneration \shortcite{Chen1993,Maire2012}. This acclimation response allows plants to make more efficient use of available light while avoiding overinvestment in Rubisco, which has high nitrogen and energetic costs of building and maintaining \shortcite{Evans1989_photoN,Evans2019}. Instead, additional acquired resources not needed to optimize leaf photosynthesis are allocated to the maintenance of structures that support whole plant growth (e.g., total leaf area, whole plant biomass, etc.) or to allocation processes not related to leaf photosynthesis or growth, such as plant defense mechanisms or leaf structural tissue. Regardless, optimized resource allocation at the leaf level should allow for greater resource allocation to whole plant growth. The theory indicates that leaf acclimation responses to CO$_2$ should be independent of changes in soil nitrogen availability. While this leaf acclimation response maximizes nitrogen allocation to structures that support whole plant growth, the theory suggests that the positive effect of elevated CO$_2$ on whole plant growth may be further stimulated by soil nitrogen availability through a reduction in the cost of acquiring nitrogen \shortcite{Bae2015,Perkowski2021,Lu2022}.
+A unification of optimal coordination and least-cost theories predicts that leaves acclimate to elevated CO$_2$ by downregulating nitrogen allocation to Ribulose-1,5-bisphosphate (RuBP) carboxylase/oxygenase (Rubisco) to optimize resource use efficiencies at the leaf level, which allows for greater resource allocation to whole plant growth \shortcite{Drake1997,Wright2003,Prentice2014,Smith2019}. The theory predicts that the downregulation in nitrogen allocation to Rubisco results in a stronger downregulation in the maximum rate of Rubisco carboxylation ($V_\mathrm{cmax}$) than the maximum rate of RuBP regeneration ($J_\mathrm{max}$), which maximizes photosynthetic efficiency by allowing net photosynthesis rates to be equally co-limited by Rubisco carboxylation and RuBP regeneration \shortcite{Chen1993,Maire2012}. This acclimation response allows plants to make more efficient use of available light while avoiding overinvestment in Rubisco, which has high nitrogen and energetic costs of building and maintaining \shortcite{Evans1989_photoN,Evans2019}. Instead, additional acquired resources not needed to optimize leaf photosynthesis are allocated to the maintenance of structures that support whole plant growth (e.g., total leaf area, whole plant biomass, etc.) or to allocation processes not related to leaf photosynthesis or growth, such as plant defense mechanisms. Regardless, optimized resource allocation at the leaf level should allow for greater resource allocation to whole plant growth. The theory indicates that leaf acclimation responses to CO$_2$ should be independent of changes in soil nitrogen availability. While this leaf acclimation response maximizes nitrogen allocation to structures that support whole plant growth, the theory suggests that the positive effect of elevated CO$_2$ on whole plant growth may be further stimulated by soil nitrogen availability through reductions in the cost of acquiring nitrogen \shortcite{Bae2015,Perkowski2021,Lu2022}.
 
-Plants acquire nitrogen by allocating photosynthetically derived carbon belowground in exchange for nitrogen through different nitrogen acquisition strategies. These nitrogen acquisition strategies can include direct uptake pathways such as mass flow or diffusion \shortcite{Barber1962}, symbioses with mycorrhizal fungi or symbiotic nitrogen-fixing bacteria \shortcite{Vance1991,Marschner1994,Smith2008,Udvardi2013}, or through the release of root exudates that prime free-living soil microbial communities \shortcite{Phillips2011,Wen2022}. Plants cannot acquire nitrogen without first allocating carbon belowground, which implies an inherent carbon cost to the plant for acquiring nitrogen regardless of nitrogen acquisition strategy. Carbon costs to acquire nitrogen often vary in species with different nitrogen acquisition strategies and are dependent on external environmental factors such as atmospheric CO$_2$, light availability, and soil nitrogen availability \shortcite{Brzostek2014FUN2,Terrer2016,Terrer2018,Allen2020,Perkowski2021,Lu2022}, which suggests that acquisition strategy may be an important factor in determining effects of soil nitrogen availability on leaf and whole plant acclimation responses to elevated CO$_2$.
+Plants acquire nitrogen by allocating photosynthetically derived carbon belowground in exchange for nitrogen through different nitrogen acquisition strategies. These nitrogen acquisition strategies can include direct uptake pathways such as mass flow or diffusion \shortcite{Barber1962}, symbioses with mycorrhizal fungi or symbiotic nitrogen-fixing bacteria \shortcite{Vance1991,Marschner1994,Smith2008,Udvardi2013}, or through the release of root exudates that prime free-living soil microbial communities \shortcite{Phillips2011,Wen2022}. Plants cannot acquire nitrogen without first allocating carbon belowground, which implies an inherent carbon cost to the plant for acquiring nitrogen regardless of nitrogen acquisition strategy. Carbon costs to acquire nitrogen often vary in species with different nitrogen acquisition strategies and are dependent on external environmental factors such as atmospheric CO$_2$, light availability, and soil nitrogen availability \shortcite{Brzostek2014FUN2,Terrer2016,Terrer2018,Allen2020,Perkowski2021,Lu2022}. These patterns suggest that acquisition strategy may at least partially determine the net effect of soil nitrogen availability on leaf and whole plant acclimation responses to elevated CO$_2$.
 
-A recent meta-analysis using data across 20 grassland and forest CO$_2$ enrichment experiments suggested that species which acquire nitrogen from symbiotic nitrogen-fixing bacteria had reduced costs of nitrogen acquisition under elevated CO$_2$ \shortcite{Terrer2018}. Findings from this meta-analysis indicated that reductions in costs of nitrogen acquisition in species that form associations with symbiotic nitrogen-fixing bacteria under elevated CO$_2$ may drive stronger stimulations in whole plant growth and downregulations in $V_\mathrm{cmax}$ than species that associate with arbuscular mycorrhizal fungi \shortcite{Smith2020}, which generally have higher costs of nitrogen acquisition under elevated CO$_2$ \shortcite{Terrer2018}. However, plant investments in symbiotic nitrogen fixation generally decline with increasing nitrogen availability \shortcite{Dovrat2018,Perkowski2021}, a response that has been previously inferred to be the result of a shift in the dominant mode of nitrogen acquisition to direct uptake pathways as costs of direct uptake decrease with increasing soil nitrogen availability \shortcite{Rastetter2001,Perkowski2021}. Thus, effects of symbiotic nitrogen fixation on plant acclimation responses to CO$_2$ should decline with increasing soil nitrogen availability, although manipulative experiments that directly test these patterns are rare.
+A recent meta-analysis using data across 20 grassland and forest CO$_2$ enrichment experiments suggested that species which acquire nitrogen from symbiotic nitrogen-fixing bacteria had reduced costs of nitrogen acquisition under elevated CO$_2$ \shortcite{Terrer2018}. Though these analyses only included data from two experimental sites, findings from this meta-analysis indicated that reductions in costs of nitrogen acquisition in species that form associations with symbiotic nitrogen-fixing bacteria under elevated CO$_2$ may drive stronger stimulations in whole plant growth and downregulations in $V_\mathrm{cmax}$ than species that associate with arbuscular mycorrhizal fungi \shortcite{Smith2020}, which generally have greater costs of nitrogen acquisition under elevated CO$_2$ \shortcite{Terrer2018}. However, plant investments in symbiotic nitrogen fixation generally decline with increasing nitrogen availability \shortcite{Dovrat2018,Perkowski2021}, a response that has been previously inferred to be the result of a shift in the dominant mode of nitrogen acquisition to direct uptake pathways as costs of direct uptake decrease with increasing soil nitrogen availability \shortcite{Rastetter2001,Perkowski2021}. Thus, effects of symbiotic nitrogen fixation on plant acclimation responses to CO$_2$ should decline with increasing soil nitrogen availability, although manipulative experiments that directly test these patterns are rare.
 
 Here, I conducted a 7-week growth chamber experiment using \textit{Glycine max} L. (Merr.) to examine the effects of soil nitrogen fertilization and inoculation with symbiotic nitrogen-fixing bacteria on leaf and whole plant acclimation responses to elevated CO$_2$. Following patterns expected from theory, I hypothesized that individual leaves should acclimate to elevated CO$_2$ by more strongly downregulating $V_\mathrm{cmax}$ relative to $J_\mathrm{max}$, allowing leaf photosynthesis to approach optimal coordination. I expected this response to correspond with a stronger downregulation in leaf nitrogen content than $V_\mathrm{cmax}$ and $J_\mathrm{max}$, which would increase the fraction of leaf nitrogen content allocated to photosynthesis and photosynthetic nitrogen use efficiency. At the whole-plant level, I hypothesized that plants would acclimate to elevated CO$_2$ by stimulating whole plant growth and productivity, a response that would be driven by a strong positive response of total leaf area and aboveground biomass to elevated CO$_2$. I predicted that leaf acclimation responses to elevated CO$_2$ would be independent of soil nitrogen fertilization and inoculation with symbiotic nitrogen-fixing bacteria; however, I expected that increasing soil nitrogen fertilization would increase the positive effect of elevated CO$_2$ on measures of whole plant growth due to a stronger reduction in the cost of acquiring nitrogen under elevated CO$_2$ with increasing fertilization. I also expected stronger stimulations in whole plant growth due to inoculation, but that this effect would only be apparent under low fertilization due to a reduction in root nodulation with increasing fertilization.
 
 \section{Methods}
 \subsection{\textit{Seed treatments and experimental design}}
-\noindent \textit{Glycine max} L. (Merr) seeds were planted in 144 6-liter surface sterilized pots (NS-600, Nursery Supplies, Orange, CA, USA) containing a steam-sterilized 70:30 v:v mix of Sphagnum peat moss (Premier Horticulture, Quakertown, PA, USA) to sand (Pavestone, subsidiary of Quikrete Companies, Atlanta, GA, USA). Before planting, all \textit{G. max} seeds were surface sterilized in 2\% sodium hypochlorite for 3 minutes, followed by three separate 3-minute washes with ultrapure water (MilliQ 7000; MilliporeSigma, Burlington, MA USA). A subset of surface sterilized seeds were inoculated with Bradyrhizobium japonicum (Verdesian N-Dure\texttrademark\ Soybean, Cary, NC, USA) in a slurry following manufacturer recommendations (3.12 g inoculant and 241 g deionized water per 1 kg seed).
+\noindent \textit{Glycine max} L. (Merr) seeds were planted in 144 6-liter surface sterilized pots (NS-600, Nursery Supplies, Orange, CA, USA) containing a steam-sterilized 70:30 v:v mix of Sphagnum peat moss (Premier Horticulture, Quakertown, PA, USA) to sand (Pavestone, subsidiary of Quikrete Companies, Atlanta, GA, USA). Before planting, all \textit{G. max} seeds were surface sterilized in 2\% sodium hypochlorite for 3 minutes, followed by three separate 3-minute washes with ultrapure water (MilliQ 7000; MilliporeSigma, Burlington, MA USA). A subset of surface sterilized seeds were inoculated with \textit{Bradyrhizobium japonicum} (Verdesian N-Dure\texttrademark\ Soybean, Cary, NC, USA) in a slurry following manufacturer recommendations (3.12 g inoculant and 241 g deionized water per 1 kg seed).
     
-Seventy-two pots were randomly planted with surface-sterilized seeds inoculated with \textit{B. japonicum}, while the remaining 72 pots were planted with surface-sterilized uninoculated seeds. Thirty-six pots within each inoculation treatment were randomly placed in one of two atmospheric CO$_2$ treatments (ambient and 1000 $\mathrm{\mu mol\ mol^{-1}}$ CO$_2$). Pots within each unique inoculation-by-CO$_2$ treatment combination randomly received one of nine soil nitrogen fertilization treatments equivalent to 0, 35, 70, 105, 140, 210, 280, 350, or 630 ppm N. Nitrogen fertilization treatments were created using a modified Hoagland solution \shortcite{Hoagland1950} designed to keep concentrations of other macronutrients and micronutrients equivalent across treatments (Table \ref{table:tab.d1}). Pots received the same fertilization treatment throughout the entire duration experiment, which were applied twice per week in 150 mL doses as topical agents to the soil surface throughout the duration of the experiment. This experimental design yielded a fully factorial experiment with four replicates per unique fertilization-by-inoculation-by-CO$_2$ combination.
+Seventy-two pots were randomly planted with surface-sterilized seeds inoculated with \textit{B. japonicum}, while the remaining 72 pots were planted with surface-sterilized uninoculated seeds. Thirty-six pots within each inoculation treatment were randomly placed in one of two atmospheric CO$_2$ treatments (ambient and 1000 $\mathrm{\mu mol\ mol^{-1}}$ CO$_2$). Pots within each unique inoculation-by-CO$_2$ treatment combination randomly received one of nine soil nitrogen fertilization treatments equivalent to 0, 35, 70, 105, 140, 210, 280, 350, or 630 ppm N. Nitrogen fertilization treatments were created using a modified Hoagland solution \shortcite{Hoagland1950} designed to keep concentrations of other macronutrients and micronutrients equivalent across treatments (Table \ref{table:tab.d1}). Pots received the same fertilization treatment throughout the entire duration experiment, which were applied twice per week in 150 mL doses as topical agents to the soil surface. This experimental design yielded a fully factorial experiment with four replicates per unique fertilization-by-inoculation-by-CO$_2$ combination.
 
 \subsection{\textit{Growth chamber conditions}}
-\noindent Upon experiment initiation, pots were randomly placed in one of six Percival LED-41L2 growth chambers (Percival Scientific Inc., Perry, IA, USA) over two experimental iterations due to chamber space limitation. Two iterations were conducted such that one iteration included all elevated CO$_2$ pots and the second iteration included all ambient CO$_2$ pots. Average ($\pm$ SD) CO$_2$ concentrations across chambers throughout the experiment were 439$\pm$5 $\mathrm{\mu mol\ mol^{-1}}$ for the ambient CO$_2$ treatment and 989$\pm$4 $\mathrm{\mu mol\ mol^{-1}}$ for the elevated CO$_2$ treatment.
+\noindent Upon experiment initiation, pots were randomly placed in one of six Percival LED-41L2 growth chambers (Percival Scientific Inc., Perry, IA, USA) over two experimental iterations due to chamber space limitation. Two iterations were conducted such that one iteration included all elevated CO$_2$ pots and the second iteration included all ambient CO$_2$ pots. Mean ($\pm$ SD) CO$_2$ concentrations across chambers throughout the experiment were 439$\pm$5 $\mathrm{\mu mol\ mol^{-1}}$ CO$_2$ for the ambient CO$_2$ treatment and 989$\pm$4 $\mathrm{\mu mol\ mol^{-1}}$ CO$_2$ for the elevated CO$_2$ treatment.
     
-Daytime growing conditions were simulated using a 16-hour photoperiod, with incoming light radiation set to chamber maximum (mean $\pm$ SD: 1240 $\pm$ 32 $\mathrm{\mu mol\ m^{-2}\ s^{-1}}$ across chambers), air temperature set to 25\textdegree{}C, and relative humidity set to 50\%. The remaining 8 hours simulated nighttime growing conditions, with incoming light radiation set to 0 $\mathrm{\mu mol\ m^{-2}\ s^{-1}}$, chamber temperature set to 17\textdegree{}C, and relative humidity set to 50\%. Transitions between daytime and nighttime growing conditions were simulated by ramping incoming light radiation in 45-minute increments and temperature in 90-minute increments over a 3-hour period (Table \ref{table:tab.d2}).
+Daytime growing conditions were simulated using a 16-hour photoperiod, with incoming light radiation set to chamber maximum (mean $\pm$ SD: 1240$\pm$32 $\mathrm{\mu mol\ m^{-2}\ s^{-1}}$ across chambers), air temperature set to 25\textdegree{}C, and relative humidity set to 50\%. The remaining 8 hours simulated nighttime growing conditions, with incoming light radiation set to 0 $\mathrm{\mu mol\ m^{-2}\ s^{-1}}$, chamber temperature set to 17\textdegree{}C, and relative humidity set to 50\%. Transitions between daytime and nighttime growing conditions were simulated by ramping incoming light radiation in 45-minute increments and temperature in 90-minute increments over a 3-hour period (Table \ref{table:tab.d2}).
     
-Including the two, 3-hour ramping periods, pots grew under average ($\pm$ SD) daytime light intensity of 1049$\pm$27 $\mathrm{\mu mol\ m^{-2}\ s^{-1}}$. In the elevated CO$_2$ iteration, pots grew under 24.0 $\pm$ 0.2\textdegree{}C during the day, 16.4$\pm$0.8\textdegree{}C during the night, and 51.6$\pm$0.4\% relative humidity. In the ambient CO$_2$ iteration, pots grew under 23.9$\pm$0.2\textdegree{}C during the day, 16.0 $\pm$ 1.4\textdegree{}C during the night, and 50.3 $\pm$ 0.2\% relative humidity. We accounted for climatic differences across the six chambers by shuffling the same group of pots daily throughout the growth chambers. This process was done by iteratively moving the group of pots on the top rack of a chamber to the bottom rack of the same chamber, while simultaneously moving the group of pots on the bottom rack of a chamber to the top rack of the adjacent chamber. I moved pots within and across chambers every day throughout the course of each experiment iteration.
+Including the two, 3-hour ramping periods, pots grew under average ($\pm$ SD) daytime light intensity of 1049$\pm$27 $\mathrm{\mu mol\ m^{-2}\ s^{-1}}$. In the elevated CO$_2$ iteration, pots grew under 24.0$\pm$0.2\textdegree{}C during the day, 16.4$\pm$0.8\textdegree{}C during the night, and 51.6$\pm$0.4\% relative humidity. In the ambient CO$_2$ iteration, pots grew under 23.9$\pm$0.2\textdegree{}C during the day, 16.0$\pm$1.4\textdegree{}C during the night, and 50.3$\pm$0.2\% relative humidity. I accounted for any climatic differences across the six chambers by shuffling the same group of pots daily throughout the growth chambers. This process was done by iteratively moving the group of pots on the top rack of a chamber to the bottom rack of the same chamber, while simultaneously moving the group of pots on the bottom rack of a chamber to the top rack of the adjacent chamber. I moved pots within and across chambers every day throughout the course of each experiment iteration.
 
 \subsection{\textit{Leaf gas exchange measurements}}
-\noindent Gas exchange measurements were collected for all individuals on the seventh week of development. All gas exchange measurements were collected on the center leaf of the most recent fully expanded trifoliate leaf set. Specifically, I measured net photosynthesis ($A_\mathrm{net}$; $\mathrm{\mu mol\ m^{-2}\ s^{-1}}$), stomatal conductance ($g_\mathrm{sw}$; $\mathrm{mol\ m^{-2}\ s^{-1}}$), and intercellular CO$_2$ ($C_\mathrm{i}$; $\mathrm{\mu mol\ mol^{-1}}$) concentrations across a range of atmospheric CO$_2$ concentrations (i.e., an $A_\mathrm{{net}}/C_\mathrm{i}$ curve) using the Dynamic Assimilation Technique\texttrademark. The Dynamic Assimilation Technique\texttrademark\ has been shown to correspond well with traditional steady-state CO$_2$ response curves in \textit{G. max} \shortcite{Saathoff2021}. $A_\mathrm{net}$:/$C_\mathrm{i}$ curves were generated along a reference CO$_2$ ramp down from 420 $\mathrm{\mu mol\ mol^{-1}}$ CO$_2$ to 20 $\mathrm{\mu mol\ mol^{-1}}$ CO$_2$, followed by a ramp up from 420 $\mathrm{\mu mol\ mol^{-1}}$ CO$_2$ to 1620 $\mathrm{\mu mol\ mol^{-1}}$ CO$_2$ after a 90-second wait period at 420 $\mathrm{\mu mol\ mol^{-1}}$ CO$_2$. The ramp rate for each curve was set to 200 $\mathrm{\mu mol\ mol^{-1}\ min^{1}}$, logging every five seconds, which generated 96 data points per response curve. All $A_\mathrm{net}$/$C_\mathrm{i}$ curves were generated after $A_\mathrm{net}$ and $g_\mathrm{sw}$ stabilized in a LI-6800 cuvette set to a 500 $\mathrm{mol\ s^{-1}}$, 10,000 rpm mixing fan speed, 1.5 kPa vapor pressure deficit, 25\textdegree{}C leaf temperature, 2000 $\mathrm{\mu mol\ m^{-2}\ s^{-1}}$ incoming light radiation, and initial reference CO$_2$ set to 420 $\mathrm{\mu mol\ mol^{-1}}$.
+\noindent Gas exchange measurements were collected for all individuals on the seventh week of development. All gas exchange measurements were collected on the center leaf of the most recent fully expanded trifoliate leaf set. Specifically, I measured net photosynthesis ($A_\mathrm{net}$; $\mathrm{\mu mol\ m^{-2}\ s^{-1}}$), stomatal conductance ($g_\mathrm{sw}$; $\mathrm{mol\ m^{-2}\ s^{-1}}$), and intercellular CO$_2$ ($C_\mathrm{i}$; $\mathrm{\mu mol\ mol^{-1}}$) concentrations across a range of atmospheric CO$_2$ concentrations (i.e., an $A_\mathrm{net}/C_\mathrm{i}$ curve) using the Dynamic Assimilation Technique\texttrademark. The Dynamic Assimilation Technique\texttrademark\ has been shown to correspond well with traditional steady-state CO$_2$ response curves in \textit{G. max} \shortcite{Saathoff2021}. $A_\mathrm{net}$/$C_\mathrm{i}$ curves were generated along a reference CO$_2$ ramp down from 420 $\mathrm{\mu mol\ mol^{-1}}$ CO$_2$ to 20 $\mathrm{\mu mol\ mol^{-1}}$ CO$_2$, followed by a ramp up from 420 $\mathrm{\mu mol\ mol^{-1}}$ CO$_2$ to 1620 $\mathrm{\mu mol\ mol^{-1}}$ CO$_2$ after a 90-second wait period at 420 $\mathrm{\mu mol\ mol^{-1}}$ CO$_2$. The ramp rate for each curve was set to 200 $\mathrm{\mu mol\ mol^{-1}\ min^{1}}$, logging every five seconds, which generated 96 data points per response curve. All $A_\mathrm{net}$/$C_\mathrm{i}$ curves were generated after $A_\mathrm{net}$ and $g_\mathrm{sw}$ stabilized in a LI-6800 cuvette set to a 500 $\mathrm{mol\ s^{-1}}$, 10,000 rpm mixing fan speed, 1.5 kPa vapor pressure deficit, 25\textdegree{}C leaf temperature, 2000 $\mathrm{\mu mol\ m^{-2}\ s^{-1}}$ incoming light radiation, and initial reference CO$_2$ set to 420 $\mathrm{\mu mol\ mol^{-1}}$.
 
 With the same focal leaf used to generate $A_\mathrm{net}$/$C_\mathrm{i}$ curves, I measured dark respiration ($R_\mathrm{d25}$; $\mathrm{\mu mol\ m^{-2}\ s^{-1}}$) following at least a 30-minute period of darkness. Measurements were collected on a 5-second log interval for 60 seconds after stabilizing in a LI-6800 cuvette set to a 500 $\mathrm{mol\ s^{-1}}$, 10,000 rpm mixing fan speed, 1.5 kPa vapor pressure deficit, 25\textdegree{}C leaf temperature, and 420 $\mathrm{\mu mol\ mol^{-1}}$ reference CO$_2$ concentration (for both CO$_2$ concentrations), with incoming light radiation set to 0 $\mathrm{\mu mol\ m^{-2}\ s^{-1}}$. A single dark respiration value was determined for each focal leaf by calculating the mean dark respiration value (i.e. the absolute value of $A_\mathrm{net}$ during the logging period) across the logging interval.
 
 \subsection{\textit{Leaf trait measurements}}
-\noindent The focal leaf used to generate $A_\mathrm{net}$/$C_\mathrm{i}$ curves and dark respiration was harvested immediately following gas exchange measurements. Images of each focal leaf were curated using a flat-bed scanner to determine wet leaf area using the 'LeafArea' R package \shortcite{Katabuchi2015}, which automates leaf area calculations using ImageJ software \shortcite{Schneider2012}. Each leaf was dried at 65\textdegree{}C for at least 48 hours, and subsequently weighed and ground until homogenized. Leaf mass per area ($M_\mathrm{area}$; g m$^{-2}$) was calculated as the ratio of dry leaf biomass to fresh leaf area. Using subsamples of ground and homogenized leaf tissue, I measured leaf nitrogen content ($N_\mathrm{mass}$; gN g$^{-1}$) through elemental combustion analysis (Costech-4010, Costech, Inc., Valencia, CA, USA). Leaf nitrogen content per unit leaf area ($N_\mathrm{area}$; gN m$^{-2}$) was calculated by multiplying $N_\mathrm{mass}$ and $M_\mathrm{area}$.
+\noindent The focal leaf used to generate $A_\mathrm{net}$/$C_\mathrm{i}$ curves and dark respiration was harvested immediately following gas exchange measurements. Images of each focal leaf were curated using a flat-bed scanner to determine wet leaf area using the `LeafArea' R package \shortcite{Katabuchi2015}, which automates leaf area calculations using ImageJ software \shortcite{Schneider2012}. Each leaf was dried at 65\textdegree{}C for at least 48 hours, and subsequently weighed and ground until homogenized. Leaf mass per area ($M_\mathrm{area}$; g m$^{-2}$) was calculated as the ratio of dry leaf biomass to fresh leaf area. Using subsamples of ground and homogenized leaf tissue, I measured leaf nitrogen content ($N_\mathrm{mass}$; gN g$^{-1}$) through elemental combustion analysis (Costech-4010, Costech, Inc., Valencia, CA, USA). Leaf nitrogen content per unit leaf area ($N_\mathrm{area}$; gN m$^{-2}$) was calculated by multiplying $N_\mathrm{mass}$ and $M_\mathrm{area}$.
 
-I extracted chlorophyll content from a second leaf in the same trifoliate leaf set as the focal leaf used to generate $A_\mathrm{net}$/$C_\mathrm{i}$ curves. Prior to chlorophyll extraction, I used a cork borer to punch between 3 and 5 0.6 cm$^2$ disks from the leaf. Separate images of each punched leaf and set of leaf disks were curated using a flat-bed scanner to determine wet leaf area, again quantified using the 'LeafArea' R package \shortcite{Katabuchi2015}. The punched leaf was dried and weighed after at least 65\textdegree{}C in the drying oven to determine $M_\mathrm{area}$ of the chlorophyll leaf.
+I extracted chlorophyll content from a second leaf in the same trifoliate leaf set as the focal leaf used to generate $A_\mathrm{net}$/$C_\mathrm{i}$ curves. Prior to chlorophyll extraction, I used a cork borer to punch between 3 and 5 0.6 cm$^2$ disks from the leaf. Separate images of each punched leaf and set of leaf disks were curated using a flat-bed scanner to determine wet leaf area, again quantified using the `LeafArea' R package \shortcite{Katabuchi2015}. The punched leaf was dried and weighed after at least 65\textdegree{}C in the drying oven to determine $M_\mathrm{area}$ of the chlorophyll leaf.
     
-Leaf disks were shuttled into a test tube containing 10mL dimethyl sulfoxide, vortexed, and incubated at 65\text degree{}C for 120 minutes \shortcite{Barnes1992}. Incubated test tubes were vortexed again before loaded in 150 $\mu$L triplicate aliquots to a 96-well plate. Dimethyl sulfoxide was also loaded in a 150 $\mu$L triplicate aliquot as a blank. Absorbance measurements at 649.1 nm ($A_{649.1}$) and 665.1 nm ($A_{665.1}$) were read in each well using a plate reader (Biotek Synergy H1; Biotek Instruments, Winooski, VT USA) \shortcite{Wellburn1994}, with triplicates subsequently averaged and corrected by the mean of the blank absorbance value. Blank-corrected absorbance values were used to estimate $Chl_\mathrm{a}$ ($\mathrm{\mu g\ mL^{-1}}$) and $Chl_\mathrm{b}$ ($\mathrm{\mu g\ mL^{-1}}$) following equations from \shortciteN{Wellburn1994}:
+Leaf disks were shuttled into a test tube containing 10mL dimethyl sulfoxide, vortexed, and incubated at 65\textdegree{}C for 120 minutes \shortcite{Barnes1992}. Incubated test tubes were vortexed again before loaded in 150 $\mu$L triplicate aliquots to a 96-well plate. Dimethyl sulfoxide was also loaded in a 150 $\mu$L triplicate aliquot as a blank. Absorbance measurements at 649.1 nm ($A_{649.1}$) and 665.1 nm ($A_{665.1}$) were read in each well using a plate reader (Biotek Synergy H1; Biotek Instruments, Winooski, VT USA) \shortcite{Wellburn1994}, with triplicates subsequently averaged and corrected by the mean of the blank absorbance value. Blank-corrected absorbance values were used to estimate $Chl_\mathrm{a}$ ($\mathrm{\mu g\ mL^{-1}}$) and $Chl_\mathrm{b}$ ($\mathrm{\mu g\ mL^{-1}}$) following equations from \shortciteN{Wellburn1994}:
 
 \begin{equation} \label{eq_5.1}
     Chl_{a}=12.47A_{665.1}-3.62A_{649.1}
@@ -53,9 +55,9 @@ Leaf disks were shuttled into a test tube containing 10mL dimethyl sulfoxide, vo
 \noindent $Chl_\mathrm{a}$ and $Chl_\mathrm{b}$ were converted to $\mathrm{mmol\ mL^{-1}}$ using the molar mass of chlorophyll a (893.51 $\mathrm{g\ mol^{-1}}$) and the molar mass of chlorophyll b (907.47 $\mathrm{g\ mol^{-1}}$), then added together to calculate total chlorophyll content in the dimethyl sulfoxide extractant ($\mathrm{mmol\ mL^{-1}}$). Total chlorophyll content was multiplied by the volume of the dimethyl sulfoxide extractant (10 mL) and converted to area-based chlorophyll content by dividing by the total area of the leaf disks ($Chl_\mathrm{area}$; $\mathrm{mmol\ m^{-2}}$). Mass-based chlorophyll content ($Chl_\mathrm{mass}$; $\mathrm{mmol\ g^{-1}}$) was calculated by dividing $Chl_\mathrm{area}$ by the leaf mass per area of the punched leaf.
 
 \subsection{\textit{A/C\textsubscript{i} curve fitting and parameter estimation}}
-\noindent I fit $A_\mathrm{net}$/$C_\mathrm{i}$ curves of each individual using the ‘fitaci’ function in the ‘plantecophys’ R package \shortcite{Duursma2015}. This function estimates the maximum rate of Rubisco carboxylation ($V_\mathrm{cmax}$; $\mathrm{\mu mol\ m^{-2}\ s^{-1}}$) and maximum rate of electron transport for RuBP regeneration ($J_\mathrm{max}$; $\mathrm{\mu mol\ m^{-2}\ s^{-1}}$) based on the Farquhar biochemical model of C$_{3}$ photosynthesis \shortcite{Farquhar1980}. Triose phosphate utilization (TPU) limitation was included in all curve fits, and all curve fits included measured dark respiration values. As $A_\mathrm{net}$/$C_\mathrm{i}$ curves were generated using a common leaf temperature, curves were fit using Michaelis-Menten coefficients for Rubisco affinity to CO$_2$ ($K_\mathrm{c}$; $\mathrm{\mu mol\ mol^{-1}}$) and $\mathrm{O_2}$ ($K_\mathrm{o}$; $\mathrm{\mu mol\ mol^{-1}}$), and the CO$_2$ compensation point ($\Gamma^*$; $\mathrm{\mu mol\ mol^{-1}}$) reported in \shortciteN{Bernacchi2001}. Specifically, $K_\mathrm{c}$ was set to 404.9 $\mathrm{\mu mol\ mol^{-1}}$, $K_\mathrm{o}$ was set to 278.4 $\mathrm{\mu mol\ mol^{-1}}$, and $\Gamma^*$ was set to 42.75 $\mathrm{\mu mol\ mol^{-1}}$. The use of a common leaf temperature across curves and dark respiration measurements also eliminated the need to manually temperature standardize rate estimates. For clarity, I reference $V_\mathrm{cmax}$, $J_\mathrm{max}$, and $R_\mathrm{d}$ estimates throughout the rest of the paper as $V_\mathrm{cmax25}$, $J_\mathrm{max25}$, and $R_\mathrm{d25}$.
+\noindent I fit $A_\mathrm{net}$/$C_\mathrm{i}$ curves of each individual using the `fitaci’ function in the `plantecophys’ R package \shortcite{Duursma2015}. This function estimates the maximum rate of Rubisco carboxylation ($V_\mathrm{cmax}$; $\mathrm{\mu mol\ m^{-2}\ s^{-1}}$) and maximum rate of electron transport for RuBP regeneration ($J_\mathrm{max}$; $\mathrm{\mu mol\ m^{-2}\ s^{-1}}$) based on the Farquhar biochemical model of C$_{3}$ photosynthesis \shortcite{Farquhar1980}. Triose phosphate utilization (TPU) limitation was included in all curve fits, and all curve fits included measured dark respiration values. As $A_\mathrm{net}$/$C_\mathrm{i}$ curves were generated using a common leaf temperature, curves were fit using Michaelis-Menten coefficients for Rubisco affinity to CO$_2$ ($K_\mathrm{c}$; $\mathrm{\mu mol\ mol^{-1}}$) and $\mathrm{O_2}$ ($K_\mathrm{o}$; $\mathrm{\mu mol\ mol^{-1}}$), and the CO$_2$ compensation point ($\Gamma^*$; $\mathrm{\mu mol\ mol^{-1}}$) reported in \shortciteN{Bernacchi2001}. Specifically, $K_\mathrm{c}$ was set to 404.9 $\mathrm{\mu mol\ mol^{-1}}$, $K_\mathrm{o}$ was set to 278.4 $\mathrm{\mu mol\ mol^{-1}}$, and $\Gamma^*$ was set to 42.75 $\mathrm{\mu mol\ mol^{-1}}$. All curve fits were visually examined for goodness-of-fit. The use of a common leaf temperature across curves and dark respiration measurements eliminated the need to temperature standardize rate estimates. For clarity, I reference $V_\mathrm{cmax}$, $J_\mathrm{max}$, and $R_\mathrm{d}$ estimates throughout the rest of the chapter as $V_\mathrm{cmax25}$, $J_\mathrm{max25}$, and $R_\mathrm{d25}$.
 
-\subsection{Stomatal limitation}
+\subsection{\textit{Stomatal limitation}}
 \noindent I quantified the extent by which stomatal conductance limited photosynthesis (l; unitless) following equations originally described in \shortciteN{Farquhar1982}. Stomatal limitation was calculated as:
 
 \begin{equation} \label{eq_5.3}
@@ -72,7 +74,7 @@ Leaf disks were shuttled into a test tube containing 10mL dimethyl sulfoxide, vo
 \noindent where $O_\mathrm{i}$ refers to leaf intercellular O$_2$ concentrations, set to 210 $\mathrm{\mu mol\ mol^{-1}}$.
 
 \subsection{\textit{Proportion of leaf nitrogen allocated to photosynthesis and structure}}
-\noindent I used equations from \shortciteN{Niinemets1997} to estimate the proportion of leaf nitrogen content allocated to Rubisco bioenergetics, and light harvesting proteins. The proportion of leaf N allocated to Rubisco ($\rho_\mathrm{rubisco}$; gN gN$^{-1}$) was calculated as a function of $V_\mathrm{cmax25}$ and $N_\mathrm{area}$: 
+\noindent I used equations from \shortciteN{Niinemets1997} to estimate the proportion of leaf nitrogen content allocated to Rubisco, bioenergetics, and light harvesting proteins. The proportion of leaf nitrogen allocated to Rubisco ($\rho_\mathrm{rubisco}$; gN gN$^{-1}$) was calculated as a function of $V_\mathrm{cmax25}$ and $N_\mathrm{area}$: 
 \begin{equation} \label{eqn_5.6}
     \rho_{rubisco}=\frac{V_{cmax25}N_r}{V_{cr}N_{area}}
 \end{equation}
@@ -86,9 +88,9 @@ The proportion of leaf nitrogen allocated to light harvesting proteins ($\rho_\m
 \begin{equation} \label{eqn_5.8}
     \rho_{light}=\frac{Chl_{mass}}{N_{mass}c_{b}}
 \end{equation}
-\noindent where $c_\mathrm{b}$ is the stoichiometry of the light-harvesting chlorophyll complexes of photosystem II, set to 2.75 $\mathrm{mmol}$ chlorophyll (gN in chlorophyll)\textsuperscript{-1}. We used the $N_\mathrm{mass}$ value of the focal leaf used to generate $A_\mathrm{net}$/$C_\mathrm{i}$ curves instead of the leaf used to extract chlorophyll content, as the two leaves are from the same trifoliate leaf set and are highly correlated with each other (Figure \ref{fig:figure.d1}).
+\noindent where $c_\mathrm{b}$ is the stoichiometry of the light-harvesting chlorophyll complexes of photosystem II, set to 2.75 $\mathrm{mmol}$ chlorophyll (gN in chlorophyll)\textsuperscript{-1}. I used the $N_\mathrm{mass}$ value of the focal leaf used to generate $A_\mathrm{net}$/$C_\mathrm{i}$ curves instead of the leaf used to extract chlorophyll content, as the two leaves are from the same trifoliate leaf set and are highly correlated with each other (Figure \ref{fig:figure.d1}).
 
-The proportion of leaf nitrogen content allocated to photosynthetic tissue ($\rho_\mathrm{photo}$; gN gN$^{-1}$) was estimated as the sum of $\rho_\mathrm{rubisco}$, $\rho_\mathrm{bioe}$, and $\rho_\mathrm{light}$. Finally, the proportion of leaf N content allocated to structural tissue ($\rho_\mathrm{structure}$; gN gN$^{-1}$) was estimated as:
+The proportion of leaf nitrogen content allocated to photosynthetic tissue ($\rho_\mathrm{photo}$; gN gN$^{-1}$) was estimated as the sum of $\rho_\mathrm{rubisco}$, $\rho_\mathrm{bioe}$, and $\rho_\mathrm{light}$. Finally, the proportion of leaf nitrogen content allocated to structural tissue ($\rho_\mathrm{structure}$; gN gN$^{-1}$) was estimated as:
 \begin{equation} \label{eqn_5.9}
     \rho_{structure}=\frac{N_{cw}}{N_{area}}
 \end{equation}
@@ -98,7 +100,7 @@ The proportion of leaf nitrogen content allocated to photosynthetic tissue ($\rh
 \end{equation}
 
 \subsection{\textit{Whole plant traits}}
-\noindent Seven weeks after experiment initiation and immediately following gas exchange measurements, I harvested all experimental individuals and separated biomass of each experimental individual into major organ types (leaves, stems, roots, and nodules when present). Fresh leaf area of all harvested leaves was measured using an LI-3100C (Li-COR Biosciences, Lincoln, Nebraska, USA). Total fresh leaf area (cm\textsuperscript{2}) was calculated as the sum of all leaf areas, including the focal leaf used to collect gas exchange data and the focal leaf used to extract chlorophyll content. All harvested material was dried in an oven set to 65\textdegree{}C for at least 48 hours, weighed, and ground to homogeneity. Leaves and nodules were manually ground either with a mortar and pestle, while stems and roots were ground using a Wiley mill (E3300 Mini Mill; Eberbach Corp., MI, USA). Total dry biomass (g) was calculated as the sum of dry leaf (including focal leaf for both the $A_\mathrm{net}$/$C_\mathrm{i}$ curve and leaf used to extract chlorophyll content), stem, root, and root nodule biomass. I quantified carbon and nitrogen content of each respective organ type through elemental combustion (Costech-4010, Costech, Inc., Valencia, CA, USA) using subsamples of ground and homogenized organ tissue. 
+\noindent Seven weeks after experiment initiation and immediately following gas exchange measurements, I harvested all experimental individuals and separated biomass of each experimental individual into major organ types (leaves, stems, roots, and nodules when present). Fresh leaf area of all harvested leaves was measured using an LI-3100C (Li-COR Biosciences, Lincoln, Nebraska, USA). Total fresh leaf area (cm$^2$) was calculated as the sum of all leaf areas, including the focal leaf used to collect gas exchange data and the focal leaf used to extract chlorophyll content. All harvested material was dried in an oven set to 65\textdegree{}C for at least 48 hours, weighed, and ground to homogeneity. Leaves and nodules were manually ground either with a mortar and pestle, while stems and roots were ground using a Wiley mill (E3300 Mini Mill; Eberbach Corp., MI, USA). Total dry biomass (g) was calculated as the sum of dry leaf (including focal leaf for both the $A_\mathrm{net}$/$C_\mathrm{i}$ curve and leaf used to extract chlorophyll content), stem, root, and root nodule biomass. I quantified carbon and nitrogen content of each respective organ type through elemental combustion (Costech-4010, Costech, Inc., Valencia, CA, USA) using subsamples of ground and homogenized organ tissue. 
 
 Following the approach explained in the first experimental chapter, I calculated structural carbon costs to acquire nitrogen as the ratio of total belowground carbon biomass to whole plant nitrogen biomass ($N_\mathrm{cost}$; gC\ gN$^{-1}$). Belowground carbon biomass ($C_\mathrm{bg}$; gC) was calculated as the sum of root carbon biomass and root nodule carbon biomass. Root carbon biomass and root nodule carbon biomass was calculated as the product of the organ biomass and the respective organ carbon content. Whole plant nitrogen biomass ($N_\mathrm{wp}$; gN) was similarly calculated as the sum of total leaf, stem, root, and root nodule nitrogen biomass, including the focal leaf used for $A_\mathrm{net}$/$C_\mathrm{i}$ curve and chlorophyll extractions. Leaf, stem, root, and root nodule nitrogen biomass was calculated as the product of the organ biomass and the respective organ nitrogen content. This calculation only quantifies plant structural carbon costs to acquire nitrogen and does not include any additional costs of nitrogen acquisition associated with respiration, root exudation, or root turnover. An explicit explanation of the limitations for interpreting this calculation can be found in \shortciteN{Perkowski2021} and \shortciteN{Terrer2018}.
 
@@ -108,26 +110,28 @@ Finally, plant investments in nitrogen fixation were calculated as the ratio of 
     \%N_{dfa} = \frac{\delta^{15}N{}_{reference} - \delta^{15}N{}_{sample}}{\delta^{15}N{}_{reference} - B}
 \end{equation}
     
-\noindent where $\delta\mathrm{^{15}{N}_{reference}}$ refers to a reference plant that exclusively acquires nitrogen via direct uptake, $\delta\mathrm{^{15}{N}_{sample}}$ refers to an individual’s leaf $\delta^{15}$N, and B refers to individuals that are entirely reliant on nitrogen fixation. Within each unique nitrogen fertilization treatment-by-CO$_2$ treatment combination, I calculated the mean leaf $\delta^{15}$N for individuals growing in the non-inoculated treatment for $\delta\mathrm{^{15}{N}_{reference}}$. Any individuals with visual confirmation of root nodule formation or nodule initiation were omitted from the calculation of $\delta\mathrm{^{15}{N}_{reference}}$. Following recommendations from \shortciteN{Andrews2011} I calculated B within each CO$_2$ treatment using the mean leaf $\delta\mathrm{^{15}{N}}$ of inoculated individuals that received 0 ppm N. I did not calculate B within each unique soil nitrogen-by-CO$_2$ treatment combination, as previous studies suggest decreased reliance on nitrogen fixation with increasing soil nitrogen availability \shortcite{Perkowski2021}. This approach for estimating nitrogen fixation standardizes values such that approaching 1 indicates increasing reliance on nitrogen fixation.
+\noindent where $\delta\mathrm{^{15}{N}_{reference}}$ refers to a reference plant that exclusively acquires nitrogen via direct uptake, $\delta\mathrm{^{15}{N}_{sample}}$ refers to an individual’s leaf $\delta^{15}$N, and B refers to individuals that are entirely reliant on nitrogen fixation. Within each unique nitrogen fertilization treatment-by-CO$_2$ treatment combination, I calculated the mean leaf $\delta^{15}$N for individuals growing in the non-inoculated treatment for $\delta\mathrm{^{15}{N}_{reference}}$. Any individuals with visual confirmation of root nodule formation were omitted from the calculation of $\delta\mathrm{^{15}{N}_{reference}}$. Following recommendations from \shortciteN{Andrews2011} I calculated B within each CO$_2$ treatment using the mean leaf $\delta\mathrm{^{15}{N}}$ of inoculated individuals that received 0 ppm N. I did not calculate B within each unique soil nitrogen-by-CO$_2$ treatment combination, as previous studies suggest decreased reliance on nitrogen fixation with increasing soil nitrogen availability \shortcite{Perkowski2021}.
 
 \subsection{\textit{Statistical analyses}}
-\noindent Any uninoculated pots that had substantial root nodule formation (nodule biomass: root biomass values greater than 0.05 g g$^{-1}$) were removed from analyses. This was because they were assumed to have been colonized by symbiotic nitrogen-fixing bacteria from outside sources. This decision resulted in the removal of sixteen pots from our analysis: two pots in the elevated CO$_2$ treatment that received 35 ppm N, three pots in the elevated CO$_2$ treatment that received 70 ppm N, one pot in the elevated CO$_2$ treatment that received 210 ppm N, two pots in the elevated CO$_2$ treatment that received 280 ppm N, two pots in the ambient CO$_2$ treatment that received 0 ppm N, three pots in the ambient CO$_2$ treatment that received 70 ppm N, two pots in the ambient CO$_2$ treatment that received 105 ppm N, and one pot in the ambient CO$_2$ treatment that received 280 ppm N.
+\noindent Uninoculated pots that had substantial root nodule formation (nodule biomass: root biomass values greater than 0.05 g g$^{-1}$) were removed from all analyses. This was because pots were assumed to have been colonized by symbiotic nitrogen-fixing bacteria from outside sources. This decision resulted in the removal of sixteen pots from analyses: two pots in the elevated CO$_2$ treatment that received 35 ppm N, three pots in the elevated CO$_2$ treatment that received 70 ppm N, one pot in the elevated CO$_2$ treatment that received 210 ppm N, two pots in the elevated CO$_2$ treatment that received 280 ppm N, two pots in the ambient CO$_2$ treatment that received 0 ppm N, three pots in the ambient CO$_2$ treatment that received 70 ppm N, two pots in the ambient CO$_2$ treatment that received 105 ppm N, and one pot in the ambient CO$_2$ treatment that received 280 ppm N.
 
-I built a series of linear mixed effects models to investigate the impacts of CO$_2$ concentration, soil nitrogen fertilization, and inoculation with \textit{B. japonicum} on \textit{G. max} gas exchange, tradeoffs between nitrogen and water use, whole plant growth, and investment in nitrogen fixation. All models included CO$_2$ treatment as a categorical fixed effect, inoculation treatment as a categorical fixed effect, soil nitrogen fertilization as a continuous fixed effect, with interaction terms between all three fixed effects. All models also accounted for climatic difference between chambers across experiment iterations by including a random intercept term that nested starting chamber rack by CO$_2$ treatment. Models with this independent variable structure were created for each of the following dependent variables: $N_\mathrm{area}$, $M_\mathrm{area}$, $N_\mathrm{mass}$, $Chl_\mathrm{area}$, $V_\mathrm{cmax25}$, $J_\mathrm{max25}$, $J_\mathrm{max25}$:$V_\mathrm{cmax25}$, $R_\mathrm{d25}$, $g_\mathrm{sw}$, stomatal limitation, $\rho_\mathrm{rubisco}$, $\rho_\mathrm{bioe}$, $\rho_\mathrm{light}$, $\rho_\mathrm{photo}$, $\rho_\mathrm{structure}$, $N_\mathrm{cost}$, $C_\mathrm{bg}$, $N_\mathrm{wp}$, total biomass, total leaf area, nodule biomass, and the ratio of nodule biomass to root biomass.
+I built a series of linear mixed effects models to investigate the impacts of CO$_2$ concentration, soil nitrogen fertilization, and inoculation with \textit{B. japonicum} on \textit{G. max} gas exchange, tradeoffs between nitrogen and water use, whole plant growth, and investment in nitrogen fixation. All models included CO$_2$ treatment as a categorical fixed effect, inoculation treatment as a categorical fixed effect, soil nitrogen fertilization as a continuous fixed effect, with interaction terms between all three fixed effects. All models also accounted for climatic difference between chambers across experiment iterations by including a random intercept term that nested starting chamber rack by CO$_2$ treatment. Models with this independent variable structure were created for each of the following dependent variables: $N_\mathrm{area}$, $M_\mathrm{area}$, $N_\mathrm{mass}$, $Chl_\mathrm{area}$, $V_\mathrm{cmax25}$, $J_\mathrm{max25}$, $J_\mathrm{max25}$:$V_\mathrm{cmax25}$, $R_\mathrm{d25}$, $g_\mathrm{sw}$, stomatal limitation, $\rho_\mathrm{rubisco}$, $\rho_\mathrm{bioe}$, $\rho_\mathrm{light}$, $\rho_\mathrm{photo}$, $\rho_\mathrm{structure}$, total biomass, total leaf area, $N_\mathrm{cost}$, $C_\mathrm{bg}$, $N_\mathrm{wp}$, nodule biomass, the ratio of nodule biomass to root biomass, and \%$N_\mathrm{dfa}$.
 
-I used Shapiro-Wilk tests of normality to determine whether linear mixed effects models satisfied residual normality assumptions. If residual normality assumptions were not met (Shapiro-Wilk: \textit{p} < 0.05), then models were fit using dependent variables that were natural log transformed. All residual normality assumptions that did not originally satisfy residual normality assumptions were met with either a natural log or square root data transformation (Shapiro-Wilk: \textit{p} > 0.05 in all cases). Specifically, models for $N_\mathrm{area}$, $N_\mathrm{mass}$, $Chl_\mathrm{area}$, $V_\mathrm{cmax25}$, $J_\mathrm{max25}$, $J_\mathrm{max25}$:$V_\mathrm{cmax25}$, $g_\mathrm{sw}$, stomatal limitation, $\rho_\mathrm{rubisco}$, $\rho_\mathrm{bioe}$, $\rho_\mathrm{light}$, $\rho_\mathrm{photo}$, and total leaf area satisfied residual normality assumptions without data transformation. Models for $M_\mathrm{area}$, $\rho_\mathrm{structure}$, $N_\mathrm{cost}$, $C_\mathrm{bg}$, $N_\mathrm{wp}$, and total biomass satisfied residual normality assumptions with a natural log data transformation, while models for nodule biomass and nodule biomass: root biomass satisfied residual normality assumptions with a square root data transformation.
+I used Shapiro-Wilk tests of normality to determine whether linear mixed effects models satisfied residual normality assumptions. If residual normality assumptions were not met (Shapiro-Wilk: \textit{p}<0.05), then models were fit using dependent variables that were natural log transformed. If residual normality assumptions were still not met (Shapiro-Wilk: \textit{p}<0.05), then models were fit using dependent variables that were square root transformed. All residual normality assumptions that did not originally satisfy residual normality assumptions were met with either a natural log or square root data transformation (Shapiro-Wilk: \textit{p}>0.05 in all cases). Specifically, models for $N_\mathrm{area}$, $N_\mathrm{mass}$, $Chl_\mathrm{area}$, $V_\mathrm{cmax25}$, $J_\mathrm{max25}$, $J_\mathrm{max25}$:$V_\mathrm{cmax25}$, $R_\mathrm{d25}$, $g_\mathrm{sw}$, stomatal limitation, $\rho_\mathrm{rubisco}$, $\rho_\mathrm{bioe}$, $\rho_\mathrm{light}$, $\rho_\mathrm{photo}$, total leaf area, $N_\mathrm{cost}$ satisfied residual normality assumptions without data transformation. Models for $M_\mathrm{area}$, $\rho_\mathrm{structure}$, $C_\mathrm{bg}$, and total biomass satisfied residual normality assumptions with a natural log data transformation, while models for $N_\mathrm{wp}$, nodule biomass, nodule biomass: root biomass, and \%$N_\mathrm{dfa}$ satisfied residual normality assumptions with a square root data transformation.
 
-In all statistical models, I used the 'lmer' function in the 'lme4' R package \shortcite{Bates2015} to fit each model and the 'Anova' function in the 'car' R package \shortcite{Fox2019} to calculate Type II Wald's $\chi^{2}$ and determine the significance ($\alpha$ = 0.05) of each fixed effect coefficient. I used the 'emmeans' R package \shortcite{Lenth2019} to conduct post-hoc comparisons using Tukey's tests, where degrees of freedom were approximated using the Kenward-Roger approach \shortcite{Kenward1997}. All analyses and plots were conducted in R version 4.2.0 \shortcite{RCoreTeam2021}.
+In all statistical models, I used the `lmer' function in the `lme4' R package \shortcite{Bates2015} to fit each model and the `Anova' function in the `car' R package \shortcite{Fox2019} to calculate Type II Wald's $\chi^{2}$ and determine the significance ($\alpha$=0.05) of each fixed effect coefficient. I used the `emmeans' R package \shortcite{Lenth2019} to conduct post-hoc comparisons using Tukey's tests, where degrees of freedom were approximated using the Kenward-Roger approach \shortcite{Kenward1997}. All analyses and plots were conducted in R version 4.2.0 \shortcite{RCoreTeam2021}.
 
 \section{Results}
 \subsection{\textit{Leaf nitrogen and chlorophyll content}}
-Elevated CO$_2$ reduced $N_\mathrm{area}$, $N_\mathrm{mass}$, and $Chl_\mathrm{area}$ by 29\%, 50\%, and 31\%, respectively, and stimulated $M_\mathrm{area}$ by 44\% (\textit{p} < 0.001 in all cases; Table \ref{tab:table5.1}). An interaction between fertilization and CO$_2$ (CO$_2$-by-fertilization interaction: $p_{N\mathrm{area}}$ = 0.017, $p_{N\mathrm{mass}}$ < 0.001, $p_{M\mathrm{area}}$ = 0.006, $p_{Chl\mathrm{area}}$ = 0.083; Table \ref{tab:table5.1}) indicated that the general positive effect of increasing fertilization on $N_\mathrm{area}$, $N_\mathrm{mass}$, and $Chl_\mathrm{area}$ (\textit{p} < 0.001 in all cases; Table \ref{tab:table5.1}) was generally stronger under ambient CO$_2$ (Tukey$_{N\mathrm{area}}$: \textit{p} = 0.026; Tukey$_{N\mathrm{mass}}$: \textit{p} < 0.001; Tukey$_{M\mathrm{area}}$: \textit{p} = 0.009; Tukey$_{Chl\mathrm{area}}$: \textit{p} = 0.065; Table \ref{tab:table5.1}; Figs. \ref{fig:figure5.1}a-d). This pattern resulted in a stronger reduction in $N_\mathrm{area}$, $N_\mathrm{mass}$, and $Chl_\mathrm{area}$  as well as a stronger stimulation in $M_\mathrm{area}$ under elevated CO$_2$ with increasing fertilization. An additional interaction between inoculation and CO$_2$ on $N_\mathrm{area}$ (CO$_2$-by-inoculation interaction: \textit{p} = 0.030; Table \ref{tab:table5.1}) indicated that the general positive effect of inoculation on $N_\mathrm{area}$ (\textit{p} < 0.001; Table \ref{tab:table5.1}) was stronger under elevated CO$_2$ (45\% increase; Tukey: \textit{p} < 0.001) than under ambient CO$_2$ (18\% increase; Tukey: \textit{p} < 0.001), a result that increased the reduction in $N_\mathrm{area}$ in inoculated pots under elevated CO$_2$. Inoculation treatment did not modify the downregulation in $N_\mathrm{mass}$ (CO$_2$-by-inoculation interaction: \textit{p} = 0.148; Table \ref{tab:table5.1}) and $Chl_\mathrm{area}$ (\textit{p} = 0.147; Table \ref{tab:table5.1}) or the stimulation in $M_\mathrm{area}$ (\textit{p} = 0.866; Table \ref{tab:table5.1}) under elevated CO$_2$. However, interactions between fertilization and inoculation on $N_\mathrm{area}$ (fertilization-by-inoculation interaction: \textit{p} < 0.001; Table \ref{tab:table5.1}; Fig. \ref{fig:figure5.1}a), $N_\mathrm{mass}$ (\textit{p} = 0.001; Table \ref{tab:table5.1}; Fig. \ref{fig:figure5.1}b), $M_\mathrm{area}$ (\textit{p} = 0.025; Table \ref{tab:table5.1}; Fig. \ref{fig:figure5.1}c), and $Chl_\mathrm{area}$ (\textit{p} < 0.001; Table \ref{tab:table5.1}; Fig. \ref{fig:figure5.1}d) indicated that the general positive effect of increasing fertilization on each trait was stronger in uninoculated pots (Tukey$_{N\mathrm{area}}$: \textit{p} < 0.001; Tukey$_{N\mathrm{mass}}$: \textit{p} = 0.001; Tukey$_{M\mathrm{area}}$: \textit{p} = 0.031; Tukey$_{Chl\mathrm{area}}$: \textit{p} < 0.001).
+\noindent Elevated CO$_2$ reduced $N_\mathrm{area}$, $N_\mathrm{mass}$, and $Chl_\mathrm{area}$ by 29\%, 50\%, and 31\%, respectively, and stimulated $M_\mathrm{area}$ by 44\% (\textit{p}<0.001 in all cases; Table \ref{tab:table5.1}). An interaction between fertilization and CO$_2$ (CO$_2$-by-fertilization interaction: $p_{N\mathrm{area}}$= 0.017, $p_{N\mathrm{mass}}$<0.001, $p_{Chl\mathrm{area}}$=0.083; Table \ref{tab:table5.1}) indicated that the positive effect of increasing fertilization on $N_\mathrm{area}$, $N_\mathrm{mass}$, and $Chl_\mathrm{area}$ (\textit{p}<0.001 in all cases; Table \ref{tab:table5.1}) was stronger under ambient CO$_2$ (Tukey$_{N\mathrm{area}}$: \textit{p}=0.026; Tukey$_{N\mathrm{mass}}$: \textit{p}<0.001; Tukey$_{Chl\mathrm{area}}$: \textit{p}=0.065; Table \ref{tab:table5.1}; Figs. \ref{fig:figure5.1}a, \ref{fig:figure5.1}b, \ref{fig:figure5.1}d). An interaction between fertilization and CO$_2$ on $M_\mathrm{area}$ (CO$_2$-by-fertilization interaction: \textit{p}=0.006; Table \ref{tab:table5.1}) indicated that the positive effect of increasing fertilization on $M_\mathrm{area}$ was stronger under elevated CO$_2$ (Tukey: \textit{p}=0.009; Fig. \ref{fig:figure5.1}c). Overall, interactions between fertilization and CO$_2$ resulted in stronger reductions in $N_\mathrm{area}$, $N_\mathrm{mass}$, and $Chl_\mathrm{area}$, and a stronger stimulation in $M_\mathrm{area}$ under elevated CO$_2$ with increasing fertilization. 
+
+An interaction between inoculation and CO$_2$ on $N_\mathrm{area}$ (CO$_2$-by-inoculation interaction: \textit{p}=0.030; Table \ref{tab:table5.1}) indicated that the positive effect of inoculation on $N_\mathrm{area}$ (\textit{p}<0.001; Table \ref{tab:table5.1}) was stronger under elevated CO$_2$ (45\% increase; Tukey: \textit{p}<0.001) than under ambient CO$_2$ (18\% increase; Tukey: \textit{p}<0.001), a result that increased the reduction in $N_\mathrm{area}$ in inoculated pots under elevated CO$_2$. Inoculation treatment did not modify the downregulation in $N_\mathrm{mass}$ (CO$_2$-by-inoculation interaction: \textit{p}=0.148; Table \ref{tab:table5.1}) and $Chl_\mathrm{area}$ (\textit{p} = 0.147; Table \ref{tab:table5.1}) or the stimulation in $M_\mathrm{area}$ (\textit{p}=0.866; Table \ref{tab:table5.1}) under elevated CO$_2$. However, interactions between fertilization and inoculation on $N_\mathrm{area}$, $N_\mathrm{mass}$, $M_\mathrm{area}$, and $Chl_\mathrm{area}$ (fertilization-by-inoculation interaction: $p_{N\mathrm{area}}$<0.001, $p_{N\mathrm{mass}}$=0.001, $p_{M\mathrm{area}}$=0.025, $p_{Chl\mathrm{area}}$=0.083; Table \ref{tab:table5.1}) indicated that the positive effect of increasing fertilization on each trait was stronger in uninoculated pots (Tukey$_{N\mathrm{area}}$: \textit{p}<0.001; Tukey$_{N\mathrm{mass}}$: \textit{p}=0.001; Tukey$_{M\mathrm{area}}$: \textit{p}=0.031; Tukey$_{Chl\mathrm{area}}$: \textit{p}<0.001; Figs. \ref{fig:figure5.1}a-d).
 
 \newpage
 \begin{landscape}
     \begin{table}
     \centering
-    \caption{Effects of soil nitrogen fertilization, inoculation, and CO$_2$ treatments on $N_\mathrm{area}$, $N_\mathrm{mass}$, $M_\mathrm{area}$, and $Chl_\mathrm{area}$}
+    \caption[Effects of soil nitrogen fertilization, inoculation, and CO$_2$ treatments on leaf nitrogen content per unit leaf area, leaf nitrogen content per unit leaf mass, leaf mass per unit leaf area, and chlorophyll content per unit leaf area]{Effects of soil nitrogen fertilization, inoculation, and CO$_2$ treatments on leaf nitrogen content per unit leaf area ($N_\mathrm{area}$; gN m$^{-2}$), leaf nitrogen content per unit leaf mass ($N_\mathrm{mass}$, gN g$^{-1}$), leaf mass per unit leaf area ($M_\mathrm{area}$; g m$^{-2}$), and chlorophyll content per unit leaf area ($Chl_\mathrm{area}$; mmol m$^{-2}$)$^*$}
     \resizebox{\columnwidth}{!}{
         \begin{tabular}{p{3cm}p{0.5cm}p{1.75cm}p{1.5cm}p{1.5cm}p{1.75cm}p{1.5cm}p{1.5cm}p{1.75cm}p{1.5cm}p{1.5cm}}
             && 
@@ -138,58 +142,58 @@ Elevated CO$_2$ reduced $N_\mathrm{area}$, $N_\mathrm{mass}$, and $Chl_\mathrm{a
             \hline 
             & 
             \multicolumn{1}{r}{df} 
-            & \multicolumn{1}{r}{Coefficient} & \multicolumn{1}{r}{$\chi^{2}$} & \multicolumn{1}{r}{\textit{p}} 
-            & \multicolumn{1}{r}{Coefficient} & \multicolumn{1}{r}{$\chi^{2}$} & \multicolumn{1}{r}{\textit{p}} 
-            & \multicolumn{1}{r}{Coefficient} & \multicolumn{1}{r}{$\chi^{2}$} & \multicolumn{1}{r}{\textit{p}} 
+            & \multicolumn{1}{r}{Coefficient} & \multicolumn{1}{r}{$\chi^2$} & \multicolumn{1}{r}{\textit{p}} 
+            & \multicolumn{1}{r}{Coefficient} & \multicolumn{1}{r}{$\chi^2$} & \multicolumn{1}{r}{\textit{p}} 
+            & \multicolumn{1}{r}{Coefficient} & \multicolumn{1}{r}{$\chi^2$} & \multicolumn{1}{r}{\textit{p}} 
             \\ 
             \hline
 
             (Intercept) & \multicolumn{1}{r}{-} 
             &  \multicolumn{1}{r}{1.10E+00} & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{-}
-            &  \multicolumn{1}{r}{3.05E-02} & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{-}
+            &  \multicolumn{1}{r}{3.05E$-$02} & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{-}
             &  \multicolumn{1}{r}{3.64E+00} & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{-} 
             \\
 
             CO$_2$ & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{-5.67E-01} & \multicolumn{1}{r}{155.908}  & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{-1.80E-02} & \multicolumn{1}{r}{272.362}  & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{ 3.04E-01} & \multicolumn{1}{r}{151.319}  & \multicolumn{1}{r}{\textbf{<0.001}} 
+            & \multicolumn{1}{r}{-5.67E$-$01} & \multicolumn{1}{r}{155.908}  & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{-1.80E$-$02} & \multicolumn{1}{r}{272.362}  & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{ 3.04E$-$01} & \multicolumn{1}{r}{151.319}  & \multicolumn{1}{r}{\textbf{<0.001}} 
             \\
 
             Inoculation (I) & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{6.21E-01}  & \multicolumn{1}{r}{ 86.029}  & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{7.54E-03}  & \multicolumn{1}{r}{ 15.576}  & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{1.81E-01}  & \multicolumn{1}{r}{ 19.158}  & \multicolumn{1}{r}{\textbf{<0.001}} 
+            & \multicolumn{1}{r}{6.21E$-$01}  & \multicolumn{1}{r}{ 86.029}  & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{7.54E$-$03}  & \multicolumn{1}{r}{ 15.576}  & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{1.81E$-$01}  & \multicolumn{1}{r}{ 19.158}  & \multicolumn{1}{r}{\textbf{<0.001}} 
             \\
 
             Fertilization (N) & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{3.06E-03}  & \multicolumn{1}{r}{316.408}  & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{5.78E-05}  & \multicolumn{1}{r}{106.659}  & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{3.10E-04}  & \multicolumn{1}{r}{ 21.440}  & \multicolumn{1}{r}{\textbf{<0.001}} 
+            & \multicolumn{1}{r}{3.06E$-$03}  & \multicolumn{1}{r}{316.408}  & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{5.78E$-$05}  & \multicolumn{1}{r}{106.659}  & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{3.10E$-$04}  & \multicolumn{1}{r}{ 21.440}  & \multicolumn{1}{r}{\textbf{<0.001}} 
             \\
 
             CO$_2$*I & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{ 2.63E-01} & \multicolumn{1}{r}{  4.729}  & \multicolumn{1}{r}{\textbf{ 0.030}}
-            & \multicolumn{1}{r}{ 3.96E-03} & \multicolumn{1}{r}{  2.025}  & \multicolumn{1}{r}{0.155}
-            & \multicolumn{1}{r}{-3.37E-02} & \multicolumn{1}{r}{  0.029}  & \multicolumn{1}{r}{0.866} 
+            & \multicolumn{1}{r}{ 2.63E$-$01} & \multicolumn{1}{r}{  4.729}  & \multicolumn{1}{r}{\textbf{ 0.030}}
+            & \multicolumn{1}{r}{ 3.96E$-$03} & \multicolumn{1}{r}{  2.025}  & \multicolumn{1}{r}{0.155}
+            & \multicolumn{1}{r}{-3.37E$-$02} & \multicolumn{1}{r}{  0.029}  & \multicolumn{1}{r}{0.866} 
             \\
 
             CO$_2$*N & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{-3.68E-04} & \multicolumn{1}{r}{  5.723}  & \multicolumn{1}{r}{\textbf{ 0.017}}
-            & \multicolumn{1}{r}{-2.85E-05} & \multicolumn{1}{r}{ 22.542}  & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{ 2.80E-04} & \multicolumn{1}{r}{  7.619}  & \multicolumn{1}{r}{\textbf{ 0.006}} 
+            & \multicolumn{1}{r}{-3.68E$-$04} & \multicolumn{1}{r}{  5.723}  & \multicolumn{1}{r}{\textbf{ 0.017}}
+            & \multicolumn{1}{r}{-2.85E$-$05} & \multicolumn{1}{r}{ 22.542}  & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{ 2.80E$-$04} & \multicolumn{1}{r}{  7.619}  & \multicolumn{1}{r}{\textbf{0.006}} 
             \\
 
             I*N & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{-1.36E-03}  & \multicolumn{1}{r}{ 43.381}  & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{-2.00E-05}  & \multicolumn{1}{r}{ 11.137}  & \multicolumn{1}{r}{\textbf{ 0.001}}
-            & \multicolumn{1}{r}{-3.36E-04}  & \multicolumn{1}{r}{  5.022}  & \multicolumn{1}{r}{\textbf{ 0.025}} 
+            & \multicolumn{1}{r}{-1.36E$-$03}  & \multicolumn{1}{r}{ 43.381}  & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{-2.00E$-$05}  & \multicolumn{1}{r}{ 11.137}  & \multicolumn{1}{r}{\textbf{ 0.001}}
+            & \multicolumn{1}{r}{-3.36E$-$04}  & \multicolumn{1}{r}{  5.022}  & \multicolumn{1}{r}{\textbf{ 0.025}} 
             \\
 
             CO$_2$*I*N & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{-3.23E-04}  & \multicolumn{1}{r}{  0.489}  & \multicolumn{1}{r}{0.484}
-            & \multicolumn{1}{r}{-2.59E-06}  & \multicolumn{1}{r}{  0.041}  & \multicolumn{1}{r}{0.839}
-            & \multicolumn{1}{r}{ 1.15E-04}  & \multicolumn{1}{r}{  0.208}  & \multicolumn{1}{r}{0.649} 
+            & \multicolumn{1}{r}{-3.23E$-$04}  & \multicolumn{1}{r}{  0.489}  & \multicolumn{1}{r}{0.484}
+            & \multicolumn{1}{r}{-2.59E$-$06}  & \multicolumn{1}{r}{  0.041}  & \multicolumn{1}{r}{0.839}
+            & \multicolumn{1}{r}{ 1.15E$-$04}  & \multicolumn{1}{r}{  0.208}  & \multicolumn{1}{r}{0.649} 
             \\
             \hline
 
@@ -199,55 +203,55 @@ Elevated CO$_2$ reduced $N_\mathrm{area}$, $N_\mathrm{mass}$, and $Chl_\mathrm{a
             && \multicolumn{3}{l}{$Chl_\mathrm{area}$} &&&&& \\
             \hline
             & \multicolumn{1}{r}{df}
-            & \multicolumn{1}{r}{Coefficient} & \multicolumn{1}{r}{$\chi^{2}$} & \multicolumn{1}{r}{\textit{p}} 
+            & \multicolumn{1}{r}{Coefficient} & \multicolumn{1}{r}{$\chi^2$} & \multicolumn{1}{r}{\textit{p}} 
             \\
             \hline
 
             (Intercept) & \multicolumn{1}{r}{-}
-            & \multicolumn{1}{r}{2.13E-02}  & \multicolumn{1}{r}{-}         & \multicolumn{1}{r}{-}
+            & \multicolumn{1}{r}{2.13E$-$02}  & \multicolumn{1}{r}{-}         & \multicolumn{1}{r}{-}
             & \multicolumn{1}{r}{}          & \multicolumn{1}{r}{}          & \multicolumn{1}{r}{}
             & \multicolumn{1}{r}{}          & \multicolumn{1}{r}{}          & \multicolumn{1}{r}{}
             \\
 
             CO$_2$ & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{-1.33E-02} & \multicolumn{1}{r}{ 69.233}   & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{-1.33E$-$02} & \multicolumn{1}{r}{ 69.233}   & \multicolumn{1}{r}{\textbf{<0.001}}
             & \multicolumn{1}{r}{}          & \multicolumn{1}{r}{}          & \multicolumn{1}{r}{}
             & \multicolumn{1}{r}{}          & \multicolumn{1}{r}{}          & \multicolumn{1}{r}{} 
             \\
 
 
             Inoculation (I) & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{1.24E-01}  & \multicolumn{1}{r}{136.341}   & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{1.24E$-$01}  & \multicolumn{1}{r}{136.341}   & \multicolumn{1}{r}{\textbf{<0.001}}
             & \multicolumn{1}{r}{}          & \multicolumn{1}{r}{}          & \multicolumn{1}{r}{}
             & \multicolumn{1}{r}{}          & \multicolumn{1}{r}{}          & \multicolumn{1}{r}{} 
             \\
 
             Fertilization (N) & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{3.35E-04}  & \multicolumn{1}{r}{163.111}   & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{3.35E$-$04}  & \multicolumn{1}{r}{163.111}   & \multicolumn{1}{r}{\textbf{<0.001}}
             & \multicolumn{1}{r}{}          & \multicolumn{1}{r}{}          & \multicolumn{1}{r}{}
             & \multicolumn{1}{r}{}          & \multicolumn{1}{r}{}          & \multicolumn{1}{r}{} 
             \\
 
             CO$_2$*I & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{-3.18E-02} & \multicolumn{1}{r}{  2.102}   & \multicolumn{1}{r}{0.147}
+            & \multicolumn{1}{r}{-3.18E$-$02} & \multicolumn{1}{r}{  2.102}   & \multicolumn{1}{r}{0.147}
             & \multicolumn{1}{r}{}          & \multicolumn{1}{r}{}          & \multicolumn{1}{r}{}
             & \multicolumn{1}{r}{}          & \multicolumn{1}{r}{}          & \multicolumn{1}{r}{} 
             \\
 
             CO$_2$*N & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{-8.79E-05} & \multicolumn{1}{r}{  2.999}   & \multicolumn{1}{r}{\textit{0.083}}
+            & \multicolumn{1}{r}{-8.79E$-$05} & \multicolumn{1}{r}{  2.999}   & \multicolumn{1}{r}{\textit{0.083}}
             & \multicolumn{1}{r}{}          & \multicolumn{1}{r}{}          & \multicolumn{1}{r}{}
             & \multicolumn{1}{r}{}          & \multicolumn{1}{r}{}          & \multicolumn{1}{r}{} 
             \\
 
             I*N & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{-2.65E-04} & \multicolumn{1}{r}{ 75.769}   & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{-2.65E$-$04} & \multicolumn{1}{r}{ 75.769}   & \multicolumn{1}{r}{\textbf{<0.001}}
             & \multicolumn{1}{r}{}          & \multicolumn{1}{r}{}          & \multicolumn{1}{r}{}
             & \multicolumn{1}{r}{}          & \multicolumn{1}{r}{}          & \multicolumn{1}{r}{} 
             \\
 
             CO$_2$*I*N & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{7.68E-05}  & \multicolumn{1}{r}{  2.144}   & \multicolumn{1}{r}{0.147}
+            & \multicolumn{1}{r}{7.68E$-$05}  & \multicolumn{1}{r}{  2.144}   & \multicolumn{1}{r}{0.147}
             & \multicolumn{1}{r}{}          & \multicolumn{1}{r}{}          & \multicolumn{1}{r}{}
             & \multicolumn{1}{r}{}          & \multicolumn{1}{r}{}          & \multicolumn{1}{r}{} 
             \\
@@ -256,7 +260,7 @@ Elevated CO$_2$ reduced $N_\mathrm{area}$, $N_\mathrm{mass}$, and $Chl_\mathrm{a
     \label{tab:table5.1}
     \end{table}
 \begin{singlespace}
-    \noindent \textsuperscript{$*$}Significance determined using Type II Wald $\chi^{2}$ tests ($\alpha$ = 0.05). \textit{P}-values < 0.05 are in bold, while \textit{p}-values between 0.05 and 0.1 are italicized. A superscript “a” is included after trait labels to indicate if models were fit with natural log transformed response variables. Key: df = degrees of freedom, $N_\mathrm{area}$ = leaf nitrogen content per unit leaf area, $N_\mathrm{mass}$ = leaf nitrogen content, $M_\mathrm{area}$ = leaf mass per unit leaf area.
+    \noindent \textsuperscript{$*$}Significance determined using Type II Wald $\chi^{2}$ tests ($\alpha$=0.05). \textit{P}-values less than 0.05 are in bold, while \textit{p}-values between 0.05 and 0.1 are italicized. A superscript “a” is included after trait labels to indicate if models were fit with natural log transformed response variables. Key: df=degrees of freedom, $\chi^2$=Wald Type II chi-square test statistic.
 \end{singlespace}
 \end{landscape}
 \clearpage
@@ -266,35 +270,35 @@ Elevated CO$_2$ reduced $N_\mathrm{area}$, $N_\mathrm{mass}$, and $Chl_\mathrm{a
     \begin{figure}
         \centering
         \includegraphics[scale = 0.0625]{ch5_NxCO2xI/figs/NxCO2xI_fig1_leafN.png}
-        \caption[Effects of CO$_2$, fertilization, and inoculation on leaf nitrogen per unit leaf area, leaf nitrogen content, leaf mass per unit leaf area, and chlorophyll content per unit leaf area.]{Effects of CO$_2$, fertilization, and inoculation on leaf nitrogen per unit leaf area (a), leaf nitrogen content (b), leaf mass per unit leaf area (c), and chlorophyll content per unit leaf area (d). Soil nitrogen fertilization is represented on the x-axis in all panels. Yellow points and trendlines indicate inoculated individuals grown under ambient CO$_2$, blue points and trendlines indicate uninoculated individuals grown under ambient CO$_2$, red points and trendlines indicate inoculated individuals grown under elevated CO2, and grey points indicate uninoculated individuals grown under elevated CO$_2$. Solid trendlines indicate regression slopes that are different from zero (\textit{p}<0.05), while dashed trendlines indicate slopes that are not distinguishable from zero (\textit{p}>0.05).}
+        \caption[Effects of CO$_2$, fertilization, and inoculation on leaf nitrogen per unit leaf area, leaf nitrogen content, leaf mass per unit leaf area, and chlorophyll content per unit leaf area]{Effects of CO$_2$, fertilization, and inoculation on leaf nitrogen per unit leaf area (a), leaf nitrogen content (b), leaf mass per unit leaf area (c), and chlorophyll content per unit leaf area (d). Soil nitrogen fertilization is represented on the x-axis in all panels. Yellow points and trendlines indicate inoculated individuals grown under ambient CO$_2$, blue points and trendlines indicate uninoculated individuals grown under ambient CO$_2$, red points and trendlines indicate inoculated individuals grown under elevated CO$_2$, and grey points indicate uninoculated individuals grown under elevated CO$_2$. Solid trendlines indicate regression slopes that are different from zero (\textit{p}<0.05), while dashed trendlines indicate slopes that are not distinguishable from zero (\textit{p}>0.05).}
         \label{fig:figure5.1}
     \end{figure}
 \end{landscape}
 \clearpage
 
 \subsection{\textit{Leaf biochemistry and stomatal conductance}}
-Elevated CO$_2$ resulted in plants with 16\% lower $V_\mathrm{cmax25}$ (\textit{p} < 0.001; Table \ref{tab:table5.2}) and 10\% lower $J_\mathrm{max25}$ (\textit{p} = 0.014; Table \ref{tab:table5.2}) as compared to those grown under ambient CO$_2$. However, CO$_2$ concentration did not influence $R_\mathrm{d25}$ (\textit{p} = 0.613; Table \ref{tab:table5.2}). A relatively stronger downregulation in $V_\mathrm{cmax25}$ than $J_\mathrm{max25}$ resulted in an 8\% stimulation in $J_\mathrm{max25}$:$V_\mathrm{cmax25}$ under elevated CO$_2$ (\textit{p} < 0.001; Table \ref{tab:table5.2}; Fig. 2E). The downregulatory effect of CO$_2$ on $V_\mathrm{cmax25}$ and $J_\mathrm{max25}$ was not modified across the fertilization gradient (CO$_2$-by-fertilization interaction: \textit{p} = 0.185, \textit{p} = 0.389 for $V_\mathrm{cmax25}$ and $J_\mathrm{max25}$, respectively; Table \ref{tab:table5.2}; Fig. \ref{fig:figure5.2}a-b) or between inoculation treatments (CO$_2$-by-inoculation interaction: \textit{p} = 0.799 and \textit{p} = 0.714 for $V_\mathrm{cmax25}$ and $J_\mathrm{max25}$, respectively; Table \ref{tab:table5.2}). However, a strong interaction between fertilization and inoculation (fertilization-by-inoculation interaction: p $\le$ 0.001 in all cases; Table \ref{tab:table5.2}) indicated that the general positive effect of increasing fertilization on $V_\mathrm{cmax25}$ (\textit{p} < 0.001; Table \ref{tab:table5.2}), $J_\mathrm{max25}$ (\textit{p} < 0.001; Table \ref{tab:table5.2}), and $R_\mathrm{d25}$ (\textit{p} = 0.015; Table 2) was only observed in uninoculated pots (Tukey: \textit{p} $\le$ 0.001 in all cases), as there was no apparent effect of fertilization on $V_\mathrm{cmax25}$ (Tukey: \textit{p} = 0.456), $J_\mathrm{max25}$ (Tukey: \textit{p} = 0.180), or $R_\mathrm{d25}$ (Tukey: \textit{p} = 0.443) in inoculated pots (Figs. \ref{fig:figure5.2}a-d). A relatively stronger positive effect of increasing fertilization on $V_\mathrm{cmax25}$ than $J_\mathrm{max25}$ resulted in a general reduction in $J_\mathrm{max25}$:$V_\mathrm{cmax25}$ with increasing fertilization (\textit{p} < 0.001), though this pattern was only seen in uninoculated pots (Tukey: \textit{p} = 0.003) and not inoculated plants (Tukey: \textit{p} > 0.05).
+\noindent Elevated CO$_2$ resulted in plants with 16\% lower $V_\mathrm{cmax25}$ (\textit{p}<0.001; Table \ref{tab:table5.2}) and 10\% lower $J_\mathrm{max25}$ (\textit{p}=0.014; Table \ref{tab:table5.2}) compared to those grown under ambient CO$_2$. However, CO$_2$ concentration did not influence $R_\mathrm{d25}$ (\textit{p}=0.613; Table \ref{tab:table5.2}; Fig. \ref{fig:figure5.2}d). A relatively stronger downregulation in $V_\mathrm{cmax25}$ than $J_\mathrm{max25}$ resulted in an 8\% stimulation in $J_\mathrm{max25}$:$V_\mathrm{cmax25}$ under elevated CO$_2$ (\textit{p}<0.001; Table \ref{tab:table5.2}). The downregulatory effect of CO$_2$ on $V_\mathrm{cmax25}$ and $J_\mathrm{max25}$ was not modified across the fertilization gradient (CO$_2$-by-fertilization interaction: \textit{p}=0.185 and \textit{p}=0.389 for $V_\mathrm{cmax25}$ and $J_\mathrm{max25}$, respectively; Table \ref{tab:table5.2}; Figs. \ref{fig:figure5.2}a, \ref{fig:figure5.2}b) or between inoculation treatments (CO$_2$-by-inoculation interaction: \textit{p}=0.799 and \textit{p}=0.714 for $V_\mathrm{cmax25}$ and $J_\mathrm{max25}$, respectively; Table \ref{tab:table5.2}). However, a strong interaction between fertilization and inoculation (fertilization-by-inoculation interaction: p$\le$0.001 in all cases; Table \ref{tab:table5.2}) indicated that the  positive effect of increasing fertilization on $V_\mathrm{cmax25}$ (\textit{p}<0.001; Table \ref{tab:table5.2}), $J_\mathrm{max25}$ (\textit{p}<0.001; Table \ref{tab:table5.2}), and $R_\mathrm{d25}$ (\textit{p}=0.015; Table \ref{tab:table5.2}) was only observed in uninoculated pots (Tukey: \textit{p}$\le$0.001 in all cases; Figs. \ref{fig:figure5.2}a, \ref{fig:figure5.2}b). A stronger positive effect of increasing fertilization on $V_\mathrm{cmax25}$ than $J_\mathrm{max25}$ resulted in a reduction in $J_\mathrm{max25}$:$V_\mathrm{cmax25}$ with increasing fertilization (\textit{p}<0.001; Table \ref{tab:table5.2}), though this pattern was only observed in uninoculated pots (fertilization-by-inoculation interaction: \textit{p}=0.002; Table \ref{tab:table5.2}; Fig. \ref{fig:figure5.2}c).
 
-Elevated CO$_2$ reduced stomatal conductance by 20\% (\textit{p} < 0.001; Table \ref{tab:table5.2}; Fig. \ref{fig:figure5.2}e) compared to ambient CO$_2$, but this downregulation did not influence stomatal limitation of photosynthesis (\textit{p} = 0.355; Table \ref{tab:table5.2}; Fig. \ref{fig:figure5.2}f). As with $V_\mathrm{cmax25}$ and $J_\mathrm{max25}$, the downregulation of stomatal conductance due to elevated CO$_2$ was not modified across the fertilization gradient (CO$_2$-by-fertilization interaction: \textit{p} = 0.141; Table \ref{tab:table5.2}) or between inoculation treatments (CO$_2$-by-inoculation interaction: \textit{p} = 0.179; Table \ref{tab:table5.2}). Fertilization also did not modify the general null effect of CO$_2$ on stomatal limitation (CO$_2$-by-fertilization interaction: \textit{p} = 0.554; Table \ref{tab:table5.2}), although an interaction between CO$_2$ and inoculation (CO$_2$-by-inoculation interaction: \textit{p} = 0.043; Table \ref{tab:table5.2}) indicated that inoculation increased stomatal limitation under ambient CO$_2$ (Tukey: \textit{p} = 0.021), but not under elevated CO$_2$ (Tukey: \textit{p} > 0.999). An interaction between inoculation and fertilization on stomatal conductance (fertilization-by-inoculation interaction: \textit{p} < 0.001; Table \ref{tab:table5.2}) indicated that increasing fertilization increased stomatal conductance in uninoculated pots (Tukey: \textit{p} = 0.003) but decreased stomatal conductance in inoculated pots (Tukey: \textit{p} = 0.021). The similar in magnitude, but opposite direction, trend in the effect of increasing fertilization on stomatal conductance between inoculation treatments likely drove a null general response of stomatal conductance to increasing fertilization (\textit{p} = 0.642; Table \ref{tab:table5.2}).
+Elevated CO$_2$ reduced stomatal conductance by 20\% (\textit{p}<0.001; Table \ref{tab:table5.2}; Fig. \ref{fig:figure5.2}e), but this downregulation did not influence stomatal limitation of photosynthesis (\textit{p}=0.355; Table \ref{tab:table5.2}; Fig. \ref{fig:figure5.2}f). As with $V_\mathrm{cmax25}$ and $J_\mathrm{max25}$, the downregulation of stomatal conductance due to elevated CO$_2$ was not modified across the fertilization gradient (CO$_2$-by-fertilization interaction: \textit{p}=0.141; Table \ref{tab:table5.2}) or between inoculation treatments (CO$_2$-by-inoculation interaction: \textit{p}=0.179; Table \ref{tab:table5.2}). Fertilization also did not modify the null effect of CO$_2$ on stomatal limitation (CO$_2$-by-fertilization interaction: \textit{p}=0.554; Table \ref{tab:table5.2}), although an interaction between CO$_2$ and inoculation (CO$_2$-by-inoculation interaction: \textit{p}=0.043; Table \ref{tab:table5.2}) indicated that inoculation increased stomatal limitation under ambient CO$_2$ (Tukey: \textit{p}=0.021), but not under elevated CO$_2$ (Tukey: \textit{p}>0.999). An interaction between inoculation and fertilization on stomatal conductance (fertilization-by-inoculation interaction: \textit{p}<0.001; Table \ref{tab:table5.2}) indicated that increasing fertilization increased stomatal conductance in uninoculated pots (Tukey: \textit{p}=0.003) but decreased stomatal conductance in inoculated pots (Tukey: \textit{p}=0.021). The similar in magnitude, but opposite direction, trend in the effect of increasing fertilization on stomatal conductance between inoculation treatments likely drove a null response of stomatal conductance to increasing fertilization (\textit{p}=0.642; Table \ref{tab:table5.2}).
 
 \newpage
 \begin{landscape}
     \begin{table}
     \centering
-    \caption{Effects of soil nitrogen fertilization, inoculation, and CO$_2$ on leaf biochemistry}
+    \caption[Effects of soil nitrogen fertilization, inoculation, and CO$_2$ on the maximum rate of Rubisco carboxylation, the maximum rate of RuBP regeneration, dark respiration, the ratio of the maximum rate of RuBP regeneration to the maximum rate of Rubisco carboxylation, stomatal conductance, and stomatal limitation]{Effects of soil nitrogen fertilization, inoculation, and CO$_2$ on the maximum rate of Rubisco carboxylation ($V_\mathrm{cmax25}$; $\mathrm{\mu mol\ m^{-2}\ s^{-1}}$), the maximum rate of RuBP regeneration ($J_\mathrm{max25}$; $\mathrm{\mu mol\ m^{-2}\ s^{-1}}$), dark respiration ($R_\mathrm{d25}$; $\mathrm{\mu mol\ m^{-2}\ s^{-1}}$), the ratio of the maximum rate of RuBP regeneration to the maximum rate of Rubisco carboxylation ($J_\mathrm{max25}$:$V_\mathrm{cmax25}$; unitless), stomatal conductance ($g_\mathrm{sw}$; $\mathrm{mol\ m^{-2}\ s^{-1}}$), and stomatal limitation (unitless)$^*$}
     \resizebox{\columnwidth}{!}{
         \begin{tabular}{p{3cm}p{0.5cm}p{1.75cm}p{1.5cm}p{1.5cm}p{1.75cm}p{1.5cm}p{1.5cm}p{1.75cm}p{1.5cm}p{1.5cm}}
             && 
-            \multicolumn{3}{l}{$V_{\mathrm{cmax25}}$} 
-            & \multicolumn{3}{l}{$J_{\mathrm{max25}}$} 
-            & \multicolumn{3}{l}{$R_{\mathrm{d25}}$} 
+            \multicolumn{3}{l}{$V_\mathrm{cmax25}$} 
+            & \multicolumn{3}{l}{$J_\mathrm{max25}$} 
+            & \multicolumn{3}{l}{$R_\mathrm{d25}$} 
             \\
             \hline 
             & 
             \multicolumn{1}{r}{df} 
-            & \multicolumn{1}{r}{Coefficient}   & \multicolumn{1}{r}{$\chi^{2}$}    & \multicolumn{1}{r}{\textit{p}} 
-            & \multicolumn{1}{r}{Coefficient}   & \multicolumn{1}{r}{$\chi^{2}$}    & \multicolumn{1}{r}{\textit{p}} 
-            & \multicolumn{1}{r}{Coefficient}   & \multicolumn{1}{r}{$\chi^{2}$}    & \multicolumn{1}{r}{\textit{p}} 
+            & \multicolumn{1}{r}{Coefficient}   & \multicolumn{1}{r}{$\chi^2$}    & \multicolumn{1}{r}{\textit{p}} 
+            & \multicolumn{1}{r}{Coefficient}   & \multicolumn{1}{r}{$\chi^2$}    & \multicolumn{1}{r}{\textit{p}} 
+            & \multicolumn{1}{r}{Coefficient}   & \multicolumn{1}{r}{$\chi^2$}    & \multicolumn{1}{r}{\textit{p}} 
             \\ 
             \hline
 
@@ -307,7 +311,7 @@ Elevated CO$_2$ reduced stomatal conductance by 20\% (\textit{p} < 0.001; Table 
             CO$_2$ & \multicolumn{1}{r}{1}
             & \multicolumn{1}{r}{-7.05E+00}     & \multicolumn{1}{r}{18.039}        & \multicolumn{1}{r}{\textbf{<0.001}}
             & \multicolumn{1}{r}{-9.11E+00}     & \multicolumn{1}{r}{ 6.042}        & \multicolumn{1}{r}{\textbf{0.014}}
-            & \multicolumn{1}{r}{ 4.53E-01}     & \multicolumn{1}{r}{ 0.256}        & \multicolumn{1}{r}{0.613} 
+            & \multicolumn{1}{r}{ 4.53E$-$01}     & \multicolumn{1}{r}{ 0.256}        & \multicolumn{1}{r}{0.613} 
             \\
 
 
@@ -318,33 +322,33 @@ Elevated CO$_2$ reduced stomatal conductance by 20\% (\textit{p} < 0.001; Table 
             \\
 
             Fertilization (N) & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{1.32E-01}      & \multicolumn{1}{r}{37.053}        & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{2.09E-01}      & \multicolumn{1}{r}{25.356}        & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{2.86E-03}      & \multicolumn{1}{r}{5.965}         & \multicolumn{1}{r}{\textbf{ 0.015}} 
+            & \multicolumn{1}{r}{1.32E$-$01}      & \multicolumn{1}{r}{37.053}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{2.09E$-$01}      & \multicolumn{1}{r}{25.356}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{2.86E$-$03}      & \multicolumn{1}{r}{5.965}         & \multicolumn{1}{r}{\textbf{ 0.015}} 
             \\
 
             CO$_2$*I & \multicolumn{1}{r}{1}
             & \multicolumn{1}{r}{-4.65E+00}     & \multicolumn{1}{r}{0.065}         & \multicolumn{1}{r}{0.799}
-            & \multicolumn{1}{r}{ 7.84E-01}     & \multicolumn{1}{r}{0.667}         & \multicolumn{1}{r}{0.414}
-            & \multicolumn{1}{r}{-5.71E-01}     & \multicolumn{1}{r}{2.563}         & \multicolumn{1}{r}{0.109} 
+            & \multicolumn{1}{r}{ 7.84E$-$01}     & \multicolumn{1}{r}{0.667}         & \multicolumn{1}{r}{0.414}
+            & \multicolumn{1}{r}{-5.71E$-$01}     & \multicolumn{1}{r}{2.563}         & \multicolumn{1}{r}{0.109} 
             \\
 
             CO$_2$*N & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{-3.58E-02}     & \multicolumn{1}{r}{1.758}         & \multicolumn{1}{r}{0.185}
-            & \multicolumn{1}{r}{-4.33E-02}     & \multicolumn{1}{r}{0.742}         & \multicolumn{1}{r}{0.389}
-            & \multicolumn{1}{r}{-1.55E-03}     & \multicolumn{1}{r}{2.675}         & \multicolumn{1}{r}{0.102} 
+            & \multicolumn{1}{r}{-3.58E$-$02}     & \multicolumn{1}{r}{1.758}         & \multicolumn{1}{r}{0.185}
+            & \multicolumn{1}{r}{-4.33E$-$02}     & \multicolumn{1}{r}{0.742}         & \multicolumn{1}{r}{0.389}
+            & \multicolumn{1}{r}{-1.55E$-$03}     & \multicolumn{1}{r}{2.675}         & \multicolumn{1}{r}{0.102} 
             \\
 
             I*N & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{-1.35E-01}     & \multicolumn{1}{r}{60.394}        & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{-2.30E-01}     & \multicolumn{1}{r}{57.410}        & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{-2.84E-03}     & \multicolumn{1}{r}{12.083}        & \multicolumn{1}{r}{\textbf{0.001}} 
+            & \multicolumn{1}{r}{-1.35E$-$01}     & \multicolumn{1}{r}{60.394}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{-2.30E$-$01}     & \multicolumn{1}{r}{57.410}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{-2.84E$-$03}     & \multicolumn{1}{r}{12.083}        & \multicolumn{1}{r}{\textbf{0.001}} 
             \\
 
             CO$_2$*I*N & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{2.73E-02}      & \multicolumn{1}{r}{0.748}         & \multicolumn{1}{r}{0.387}
-            & \multicolumn{1}{r}{3.46E-02}      & \multicolumn{1}{r}{0.377}         & \multicolumn{1}{r}{0.539}
-            & \multicolumn{1}{r}{7.21E-04}      & \multicolumn{1}{r}{0.244}         & \multicolumn{1}{r}{0.622} 
+            & \multicolumn{1}{r}{2.73E$-$02}      & \multicolumn{1}{r}{0.748}         & \multicolumn{1}{r}{0.387}
+            & \multicolumn{1}{r}{3.46E$-$02}      & \multicolumn{1}{r}{0.377}         & \multicolumn{1}{r}{0.539}
+            & \multicolumn{1}{r}{7.21E$-$04}      & \multicolumn{1}{r}{0.244}         & \multicolumn{1}{r}{0.622} 
             \\
 
             \hline
@@ -358,65 +362,65 @@ Elevated CO$_2$ reduced stomatal conductance by 20\% (\textit{p} < 0.001; Table 
             \\
             \hline
             & \multicolumn{1}{r}{df}
-            & \multicolumn{1}{r}{Coefficient}   & \multicolumn{1}{r}{$\chi^{2}$}    & \multicolumn{1}{r}{\textit{p}}
-            & \multicolumn{1}{r}{Coefficient}   & \multicolumn{1}{r}{$\chi^{2}$}    & \multicolumn{1}{r}{\textit{p}} 
-            & \multicolumn{1}{r}{Coefficient}   & \multicolumn{1}{r}{$\chi^{2}$}    & \multicolumn{1}{r}{\textit{p}}  
+            & \multicolumn{1}{r}{Coefficient}   & \multicolumn{1}{r}{$\chi^2$}    & \multicolumn{1}{r}{\textit{p}}
+            & \multicolumn{1}{r}{Coefficient}   & \multicolumn{1}{r}{$\chi^2$}    & \multicolumn{1}{r}{\textit{p}} 
+            & \multicolumn{1}{r}{Coefficient}   & \multicolumn{1}{r}{$\chi^2$}    & \multicolumn{1}{r}{\textit{p}}  
             \\
             \hline
 
             (Intercept) & \multicolumn{1}{r}{-}
             & \multicolumn{1}{r}{1.92E+00}      & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{-}
-            & \multicolumn{1}{r}{1.95E-01}      & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{-}
-            & \multicolumn{1}{r}{2.12E-01}      & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{-}
+            & \multicolumn{1}{r}{1.95E$-$01}      & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{-}
+            & \multicolumn{1}{r}{2.12E$-$01}      & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{-}
             \\
 
             CO$_2$ & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{ 5.71E-02}     & \multicolumn{1}{r}{92.010}        & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{-6.23E-02}     & \multicolumn{1}{r}{9.718}         & \multicolumn{1}{r}{\textbf{ 0.002}}
-            & \multicolumn{1}{r}{ 3.91E-02}     & \multicolumn{1}{r}{0.856}         & \multicolumn{1}{r}{0.355} 
+            & \multicolumn{1}{r}{ 5.71E$-$02}     & \multicolumn{1}{r}{92.010}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{-6.23E$-$02}     & \multicolumn{1}{r}{9.718}         & \multicolumn{1}{r}{\textbf{ 0.002}}
+            & \multicolumn{1}{r}{ 3.91E$-$02}     & \multicolumn{1}{r}{0.856}         & \multicolumn{1}{r}{0.355} 
             \\
 
             Inoculation (I) & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{-1.79E-01}     & \multicolumn{1}{r}{27.768}        & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{ 1.30E-01}     & \multicolumn{1}{r}{22.351}        & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{ 7.87E-02}     & \multicolumn{1}{r}{4.582}         & \multicolumn{1}{r}{\textbf{ 0.032}} 
+            & \multicolumn{1}{r}{-1.79E$-$01}     & \multicolumn{1}{r}{27.768}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{ 1.30E$-$01}     & \multicolumn{1}{r}{22.351}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{ 7.87E$-$02}     & \multicolumn{1}{r}{4.582}         & \multicolumn{1}{r}{\textbf{ 0.032}} 
             \\
 
             Fertilization (N) & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{-4.61E-04}     & \multicolumn{1}{r}{28.147}        & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{ 2.50E-04}     & \multicolumn{1}{r}{0.066}         & \multicolumn{1}{r}{0.797}
-            & \multicolumn{1}{r}{ 2.60E-04}     & \multicolumn{1}{r}{32.218}        & \multicolumn{1}{r}{\textbf{<0.001}} 
+            & \multicolumn{1}{r}{-4.61E$-$04}     & \multicolumn{1}{r}{28.147}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{ 2.50E$-$04}     & \multicolumn{1}{r}{0.066}         & \multicolumn{1}{r}{0.797}
+            & \multicolumn{1}{r}{ 2.60E$-$04}     & \multicolumn{1}{r}{32.218}        & \multicolumn{1}{r}{\textbf{<0.001}} 
             \\
 
             CO$_2$*I & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{ 8.94E-02}     & \multicolumn{1}{r}{2.916}         & \multicolumn{1}{r}{\textit{0.088}}
-            & \multicolumn{1}{r}{ 6.69E-02}     & \multicolumn{1}{r}{1.810}         & \multicolumn{1}{r}{0.179}
-            & \multicolumn{1}{r}{-7.84E-02}     & \multicolumn{1}{r}{4.093}         & \multicolumn{1}{r}{\textbf{0.043}} 
+            & \multicolumn{1}{r}{ 8.94E$-$02}     & \multicolumn{1}{r}{2.916}         & \multicolumn{1}{r}{\textit{0.088}}
+            & \multicolumn{1}{r}{ 6.69E$-$02}     & \multicolumn{1}{r}{1.810}         & \multicolumn{1}{r}{0.179}
+            & \multicolumn{1}{r}{-7.84E$-$02}     & \multicolumn{1}{r}{4.093}         & \multicolumn{1}{r}{\textbf{0.043}} 
             \\
 
             CO$_2$*N & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{ 2.35E-04}     & \multicolumn{1}{r}{3.210}         & \multicolumn{1}{r}{\textit{0.073}}
-            & \multicolumn{1}{r}{-8.50E-05}     & \multicolumn{1}{r}{2.165}         & \multicolumn{1}{r}{0.141}
-            & \multicolumn{1}{r}{-1.24E-04}     & \multicolumn{1}{r}{0.350}         & \multicolumn{1}{r}{0.554} 
+            & \multicolumn{1}{r}{ 2.35E$-$04}     & \multicolumn{1}{r}{3.210}         & \multicolumn{1}{r}{\textit{0.073}}
+            & \multicolumn{1}{r}{-8.50E$-$05}     & \multicolumn{1}{r}{2.165}         & \multicolumn{1}{r}{0.141}
+            & \multicolumn{1}{r}{-1.24E$-$04}     & \multicolumn{1}{r}{0.350}         & \multicolumn{1}{r}{0.554} 
             \\
 
             I*N & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{ 3.27E-04}     & \multicolumn{1}{r}{9.607}         & \multicolumn{1}{r}{\textbf{0.002}}
-            & \multicolumn{1}{r}{-3.09E-04}     & \multicolumn{1}{r}{14.696}        & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{-1.67E-04}     & \multicolumn{1}{r}{2.547}         & \multicolumn{1}{r}{0.110} 
+            & \multicolumn{1}{r}{ 3.27E$-$04}     & \multicolumn{1}{r}{9.607}         & \multicolumn{1}{r}{\textbf{0.002}}
+            & \multicolumn{1}{r}{-3.09E$-$04}     & \multicolumn{1}{r}{14.696}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{-1.67E$-$04}     & \multicolumn{1}{r}{2.547}         & \multicolumn{1}{r}{0.110} 
             \\
 
             CO$_2$*I*N & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{-1.66E-04}     & \multicolumn{1}{r}{1.102}         & \multicolumn{1}{r}{0.294}
-            & \multicolumn{1}{r}{-8.89E-05}     & \multicolumn{1}{r}{0.234}         & \multicolumn{1}{r}{0.629}
-            & \multicolumn{1}{r}{ 1.67E-04}     & \multicolumn{1}{r}{2.231}         & \multicolumn{1}{r}{0.135} 
+            & \multicolumn{1}{r}{-1.66E$-$04}     & \multicolumn{1}{r}{1.102}         & \multicolumn{1}{r}{0.294}
+            & \multicolumn{1}{r}{-8.89E$-$05}     & \multicolumn{1}{r}{0.234}         & \multicolumn{1}{r}{0.629}
+            & \multicolumn{1}{r}{ 1.67E$-$04}     & \multicolumn{1}{r}{2.231}         & \multicolumn{1}{r}{0.135} 
             \\
             \hline
     \end{tabular}}
     \label{tab:table5.2}
     \end{table}
 \begin{singlespace}
-\noindent \textsuperscript{$*$}Significance determined using Type II Wald $\chi^{2}$ tests ($\alpha$ = 0.05). \textit{P}-values < 0.05 are in bold, while \textit{p}-values between 0.05 and 0.1 are italicized. Key: $V_\mathrm{cmax25}$ = maximum rate of Rubisco carboxylation at 25\textdegree{}C; $J_\mathrm{max25}$ = maximum rate of electron transport for RuBP regeneration at 25\textdegree{}C, $R_\mathrm{d25}$ = dark respiration at 25\textdegree{}C; $J_{\mathrm{max25}}$:$V_\mathrm{cmax25}$ = the ratio of $J_\mathrm{max25}$ to $V_\mathrm{cmax25}$; $g_{sw}$ = stomatal conductance.
+\noindent $^*$Significance determined using Type II Wald $\chi^2$ tests ($\alpha$=0.05). \textit{P}-values less than 0.05 are in bold, while \textit{p}-values between 0.05 and 0.1 are italicized. Key: df=degrees of freedom; $\chi^2$=Wald Type II chi-square test statistic.
 \end{singlespace}
 \end{landscape}
 \clearpage
@@ -425,27 +429,27 @@ Elevated CO$_2$ reduced stomatal conductance by 20\% (\textit{p} < 0.001; Table 
 \begin{figure}
     \centering
     \includegraphics[scale = 0.057]{ch5_NxCO2xI/figs/NxCO2xI_fig2_photo.png}
-    \caption[Effects of CO$_2$, fertilization, and inoculation on maximum rate of Rubisco carboxylation, the maximum rate of RuBP regeneration, and the ratio of the maximum rate of RuBP regeneration to the maximum rate of Rubisco carboxylation leaf mass per unit leaf area, dark respiration, stomatal conductance, and stomatal limitation.]{Effects of CO$_2$, fertilization, and inoculation on maximum rate of Rubisco carboxylation (a), the maximum rate of RuBP regeneration (b), and the ratio of the maximum rate of RuBP regeneration to the maximum rate of Rubisco carboxylation leaf mass per unit leaf area (c), dark respiration (d), stomatal conductance (e), and stomatal limitation (f). Soil nitrogen fertilization is represented on the x-axis in all panels. Colored points and trendlines are as explained in Figure 1.}
+    \caption[Effects of CO$_2$, fertilization, and inoculation on maximum rate of Rubisco carboxylation, the maximum rate of RuBP regeneration, and the ratio of the maximum rate of RuBP regeneration to the maximum rate of Rubisco carboxylation leaf mass per unit leaf area, dark respiration, stomatal conductance, and stomatal limitation]{Effects of CO$_2$, fertilization, and inoculation on maximum rate of Rubisco carboxylation (a), the maximum rate of RuBP regeneration (b), and the ratio of the maximum rate of RuBP regeneration to the maximum rate of Rubisco carboxylation leaf mass per unit leaf area (c), dark respiration (d), stomatal conductance (e), and stomatal limitation (f). Soil nitrogen fertilization is represented on the x-axis in all panels. Colored points and trendlines are as explained in Figure \ref{fig:figure5.1}.}
     \label{fig:figure5.2}
 \end{figure}
 \clearpage
 
 \subsection{\textit{Leaf nitrogen allocation}}
-A relatively stronger downregulation in $N_\mathrm{area}$ than $V_\mathrm{cmax25}$ or $J_\mathrm{max25}$ resulted in an 20\% and 29\% respective stimulation in $\rho_\mathrm{rubisco}$ and $\rho_\mathrm{bioe}$ under elevated CO$_2$ (\textit{p} < 0.001 in both cases; Table \ref{tab:table5.3}). There was no apparent CO$_2$ effect on $\rho_\mathrm{light}$ (\textit{p} = 0.700; Table \ref{tab:table5.3}), but the strong stimulation in $\rho_\mathrm{rubisco}$ and $\rho_\mathrm{bioe}$ resulted in a 21\% stimulation of $\rho_\mathrm{photo}$ under elevated CO$_2$ (\textit{p} < 0.001; Table \ref{tab:table5.3}; Fig. \ref{fig:figure5.3}a). The stimulation of $\rho_\mathrm{rubisco}$, $\rho_\mathrm{bioe}$, and $\rho_\mathrm{photo}$ due to elevated CO$_2$ was not modified across the fertilization gradient (CO$_2$-by-fertilization interaction: $p_\mathrm{rubisco}$ = 0.269, $p_\mathrm{bioe}$ = 0.298, $p_\mathrm{photo}$ = 0.281; Table \ref{tab:table5.3}). A marginal interaction between inoculation and CO$_2$ on $\rho_\mathrm{rubisco}$ and $\rho_\mathrm{photo}$ (CO$_2$-by-inoculation interaction: $p_\mathrm{rubisco}$ = 0.057, $p_\mathrm{photo}$ = 0.057; Table \ref{tab:table5.3}) indicated that the general positive effect of inoculation on $\rho_\mathrm{rubisco}$ and $\rho_\mathrm{photo}$ (\textit{p} < 0.001 in both cases; Table \ref{tab:table5.3}) was only apparent under ambient CO$_2$ (Tukey: \textit{p} < 0.001 in both cases), with no apparent effect of inoculation under elevated CO$_2$ (Tukey\textsubscript{rubisco}: \textit{p} = 0.200; Tukey\textsubscript{photo}: \textit{p} = 0.147). Inoculation did not modify the stimulation of $\rho_\mathrm{bioe}$ under elevated CO$_2$ (CO$_2$-by-inoculation interaction: \textit{p} = 0.122; Table \ref{tab:table5.3}) or the null effect of CO$_2$ on $\rho_\mathrm{bioe}$ (CO$_2$-by-inoculation interaction: \textit{p} = 0.298; Table \ref{tab:table5.3}). Strong interactions between fertilization and inoculation on $\rho_\mathrm{rubisco}$, $\rho_\mathrm{bioe}$, and $\rho_\mathrm{photo}$ (fertilization-by-inoculation interaction: \textit{p} < 0.001 in all cases; Table \ref{tab:table5.3}) indicated that the general negative effect of increasing fertilization (\textit{p} < 0.001 in all cases; Table \ref{tab:table5.3}) was only observed in inoculated pots (Tukey: \textit{p} < 0.001 in all cases), with no apparent effect of fertilization on $\rho_\mathrm{rubisco}$ (Tukey: \textit{p} = 0.612), $\rho_\mathrm{bioe}$ (Tukey: p = 0.544), or $\rho_\mathrm{photo}$ (Tukey: \textit{p} = 0.521; Fig \ref{fig:figure5.3}a) in uninoculated pots. An additional interaction between fertilization and inoculation on $\rho_\mathrm{light}$ (fertilization-by-inoculation interaction: \textit{p} < 0.001; Table \ref{tab:table5.3}) indicated a negative effect of increasing fertilization on $\rho_\mathrm{light}$ in inoculated pots (Tukey: \textit{p} = 0.041), but a positive effect of increasing fertilization in uninoculated pots (Tukey: \textit{p} < 0.001).
+\noindent A relatively stronger downregulation in $N_\mathrm{area}$ than $V_\mathrm{cmax25}$ and $J_\mathrm{max25}$ resulted in an 20\% and 29\% respective stimulation in $\rho_\mathrm{rubisco}$ and $\rho_\mathrm{bioe}$ under elevated CO$_2$ (\textit{p}<0.001 in both cases; Table \ref{tab:table5.3}). There was no effect of CO$_2$ on $\rho_\mathrm{light}$ (\textit{p}=0.700; Table \ref{tab:table5.3}), but the stimulation in $\rho_\mathrm{rubisco}$ and $\rho_\mathrm{bioe}$ resulted in a 21\% stimulation of $\rho_\mathrm{photo}$ under elevated CO$_2$ (\textit{p}<0.001; Table \ref{tab:table5.3}; Fig. \ref{fig:figure5.3}a). The stimulation of $\rho_\mathrm{rubisco}$, $\rho_\mathrm{bioe}$, and $\rho_\mathrm{photo}$ under elevated CO$_2$ was not modified across the fertilization gradient (CO$_2$-by-fertilization interaction: $p_\mathrm{rubisco}$=0.269, $p_\mathrm{bioe}$=0.298, $p_\mathrm{photo}$=0.281; Table \ref{tab:table5.3}). A marginal interaction between inoculation and CO$_2$ on $\rho_\mathrm{rubisco}$ and $\rho_\mathrm{photo}$ (CO$_2$-by-inoculation interaction: $p_\mathrm{rubisco}$=0.057, $p_\mathrm{photo}$=0.055; Table \ref{tab:table5.3}) indicated that the  positive effect of inoculation on $\rho_\mathrm{rubisco}$ and $\rho_\mathrm{photo}$ (\textit{p}<0.001 in both cases; Table \ref{tab:table5.3}) was only apparent under ambient CO$_2$ (Tukey: \textit{p}<0.001 in both cases). Inoculation did not modify the stimulation of $\rho_\mathrm{bioe}$ under elevated CO$_2$ (CO$_2$-by-inoculation interaction: \textit{p}=0.122; Table \ref{tab:table5.3}) or the null effect of CO$_2$ on $\rho_\mathrm{bioe}$ (CO$_2$-by-inoculation interaction: \textit{p}=0.298; Table \ref{tab:table5.3}). An interaction between fertilization and inoculation on $\rho_\mathrm{rubisco}$, $\rho_\mathrm{bioe}$, and $\rho_\mathrm{photo}$ (fertilization-by-inoculation interaction: \textit{p}<0.001 in all cases; Table \ref{tab:table5.3}) indicated that the negative effect of increasing fertilization on each trait (\textit{p}<0.001 in all cases; Table \ref{tab:table5.3}) was only observed in inoculated pots (Tukey: \textit{p}<0.001 in all cases). An additional interaction between fertilization and inoculation on $\rho_\mathrm{light}$ (fertilization-by-inoculation interaction: \textit{p}<0.001; Table \ref{tab:table5.3}) indicated a negative effect of increasing fertilization on $\rho_\mathrm{light}$ in inoculated pots (Tukey: \textit{p}=0.041), but a positive effect of increasing fertilization in uninoculated pots (Tukey: \textit{p}<0.001).
 
-The stimulation in $M_\mathrm{area}$ resulted in an 133\% stimulation of $\rho_\mathrm{structure}$ under elevated CO$_2$ (\textit{p} < 0.001; Table \ref{tab:table5.3}; Fig \ref{fig:figure5.3}b). An interaction between fertilization and CO$_2$ (CO$_2$-by-fertilization interaction: \textit{p} = 0.039; Table \ref{tab:table5.3}) indicated that the general negative effect of increasing fertilization (p < 0.001; Table \ref{tab:table5.3}) on $\rho_\mathrm{structure}$ was marginally stronger under ambient CO$_2$ (Tukey: \textit{p} = 0.055), resulting in a stronger stimulation in $\rho_\mathrm{structure}$ under elevated CO$_2$ with increasing fertilization. A marginal interaction between inoculation and CO$_2$ (CO$_2$-by-inoculation interaction: \textit{p} = 0.057; Table \ref{tab:table5.3}) indicated that the general positive effect of inoculation on $\rho_\mathrm{structure}$ (\textit{p} < 0.001; Table \ref{tab:table5.3}) was only observed under elevated CO$_2$ (Tukey: \textit{p} < 0.001), with no apparent inoculation effect observed under ambient CO$_2$ (Tukey: \textit{p} = 0.513). Finally, an interaction between fertilization and inoculation (fertilization-by-inoculation interaction: \textit{p} < 0.001; Table \ref{tab:table5.3}) indicated that, while increasing fertilization generally increased $\rho_\mathrm{structure}$ (\textit{p} < 0.001; Table \ref{tab:table5.3}), this response was generally stronger in uninoculated pots (Tukey: \textit{p} = 0.001; Fig. \ref{fig:figure5.3}b).
+The stimulation in $M_\mathrm{area}$ under elevated CO$_2$ resulted in an 133\% stimulation of $\rho_\mathrm{structure}$ (\textit{p}<0.001; Table \ref{tab:table5.3}; Fig \ref{fig:figure5.3}b). An interaction between fertilization and CO$_2$ (CO$_2$-by-fertilization interaction: \textit{p}=0.039; Table \ref{tab:table5.3}) indicated that the negative effect of increasing fertilization (\textit{p}<0.001; Table \ref{tab:table5.3}) on $\rho_\mathrm{structure}$ was marginally stronger under ambient CO$_2$ (Tukey: \textit{p}=0.055). A marginal interaction between inoculation and CO$_2$ (CO$_2$-by-inoculation interaction: \textit{p}=0.057; Table \ref{tab:table5.3}) indicated that the positive effect of inoculation on $\rho_\mathrm{structure}$ (\textit{p}<0.001; Table \ref{tab:table5.3}) was only observed under elevated CO$_2$ (Tukey: \textit{p}<0.001), with no apparent inoculation effect observed under ambient CO$_2$ (Tukey: \textit{p}=0.513). Finally, an interaction between fertilization and inoculation (fertilization-by-inoculation interaction: \textit{p}<0.001; Table \ref{tab:table5.3}) indicated that, while increasing fertilization increased $\rho_\mathrm{structure}$ (\textit{p}<0.001; Table \ref{tab:table5.3}), this response was stronger in uninoculated pots (Tukey: \textit{p}=0.001; Fig. \ref{fig:figure5.3}b).
 
 \newpage
 \begin{landscape}
     \begin{table}
     \centering
-    \caption{Effects of soil N availability, soil pH, species, and $N_\mathrm{area}$ on leaf nitrogen allocation}
+    \caption[Effects of soil nitrogen fertilization, inoculation, and CO$_2$ on the fraction of leaf nitrogen allocated to Rubisco, bioenergetics, light harvesting proteins, photosynthesis, and structure]{Effects of soil nitrogen fertilization, inoculation, and CO$_2$ on the fraction of leaf nitrogen allocated to Rubisco ($\rho_\mathrm{rubisco}$; gN gN$^{-1}$), bioenergetics ($\rho_\mathrm{bioe}$; gN gN$^{-1}$), light harvesting proteins ($\rho_\mathrm{light}$; gN gN$^{-1}$), photosynthesis ($\rho_\mathrm{photo}$; gN gN$^{-1}$), and structure ($\rho_\mathrm{structure}$; gN gN$^{-1}$)$^*$}
     \resizebox{\columnwidth}{!}{
         \begin{tabular}{p{3cm}p{0.5cm}p{1.75cm}p{1.5cm}p{1.5cm}p{1.75cm}p{1.5cm}p{1.5cm}p{1.75cm}p{1.5cm}p{1.5cm}}
             && 
-            \multicolumn{3}{l}{$\rho_{\mathrm{rubisco}}$} 
-            & \multicolumn{3}{l}{$\rho_{\mathrm{bioe}}$} 
-            & \multicolumn{3}{l}{$\rho_{\mathrm{light}}$} 
+            \multicolumn{3}{l}{$\rho_\mathrm{rubisco}$} 
+            & \multicolumn{3}{l}{$\rho_\mathrm{bioe}$} 
+            & \multicolumn{3}{l}{$\rho_\mathrm{light}$} 
             \\
             \hline 
             & 
@@ -457,51 +461,51 @@ The stimulation in $M_\mathrm{area}$ resulted in an 133\% stimulation of $\rho_\
             \hline
 
             (Intercept) & \multicolumn{1}{r}{-} 
-            &  \multicolumn{1}{r}{2.70E-01}     & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{-}
-            &  \multicolumn{1}{r}{5.26E-02}     & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{-}
-            &  \multicolumn{1}{r}{8.48E-03}     & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{-} 
+            &  \multicolumn{1}{r}{2.70E$-$01}     & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{-}
+            &  \multicolumn{1}{r}{5.26E$-$02}     & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{-}
+            &  \multicolumn{1}{r}{8.48E$-$03}     & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{-} 
             \\
 
             CO$_2$ & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{1.42E-01}      & \multicolumn{1}{r}{23.510}        & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{3.00E-02}      & \multicolumn{1}{r}{53.899}        & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{2.03E-03}      & \multicolumn{1}{r}{0.149}         & \multicolumn{1}{r}{0.700} 
+            & \multicolumn{1}{r}{1.42E$-$01}      & \multicolumn{1}{r}{23.510}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{3.00E$-$02}      & \multicolumn{1}{r}{53.899}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{2.03E$-$03}      & \multicolumn{1}{r}{0.149}         & \multicolumn{1}{r}{0.700} 
             \\
 
             Inoculation (I) & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{1.83E-01}      & \multicolumn{1}{r}{23.475}        & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{2.80E-02}      & \multicolumn{1}{r}{13.860}        & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{2.04E-02}      & \multicolumn{1}{r}{147.234}       & \multicolumn{1}{r}{\textbf{<0.001}} 
+            & \multicolumn{1}{r}{1.83E$-$01}      & \multicolumn{1}{r}{23.475}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{2.80E$-$02}      & \multicolumn{1}{r}{13.860}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{2.04E$-$02}      & \multicolumn{1}{r}{147.234}       & \multicolumn{1}{r}{\textbf{<0.001}} 
             \\
 
             Fertilization (N) & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{1.35E-04}      & \multicolumn{1}{r}{16.609}        & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{1.22E-05}      & \multicolumn{1}{r}{26.827}        & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{3.22E-05}      & \multicolumn{1}{r}{19.378}        & \multicolumn{1}{r}{\textbf{<0.001}} 
+            & \multicolumn{1}{r}{1.35E$-$04}      & \multicolumn{1}{r}{16.609}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{1.22E$-$05}      & \multicolumn{1}{r}{26.827}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{3.22E$-$05}      & \multicolumn{1}{r}{19.378}        & \multicolumn{1}{r}{\textbf{<0.001}} 
             \\
 
             CO$_2$*I & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{-1.07E-01}     & \multicolumn{1}{r}{3.629}         & \multicolumn{1}{r}{\textit{0.057}}
-            & \multicolumn{1}{r}{-1.67E-02}     & \multicolumn{1}{r}{2.390}         & \multicolumn{1}{r}{0.122}
-            & \multicolumn{1}{r}{-5.33E-03}     & \multicolumn{1}{r}{0.684}         & \multicolumn{1}{r}{0.408} 
+            & \multicolumn{1}{r}{-1.07E$-$01}     & \multicolumn{1}{r}{3.629}         & \multicolumn{1}{r}{\textit{0.057}}
+            & \multicolumn{1}{r}{-1.67E$-$02}     & \multicolumn{1}{r}{2.390}         & \multicolumn{1}{r}{0.122}
+            & \multicolumn{1}{r}{-5.33E$-$03}     & \multicolumn{1}{r}{0.684}         & \multicolumn{1}{r}{0.408} 
             \\
 
             CO$_2$*N & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{-2.16E-04}     & \multicolumn{1}{r}{1.223}         & \multicolumn{1}{r}{0.269}
-            & \multicolumn{1}{r}{-3.59E-05}     & \multicolumn{1}{r}{1.085}         & \multicolumn{1}{r}{0.298}
-            & \multicolumn{1}{r}{-7.01E-06}     & \multicolumn{1}{r}{0.351}         & \multicolumn{1}{r}{0.553} 
+            & \multicolumn{1}{r}{-2.16E$-$04}     & \multicolumn{1}{r}{1.223}         & \multicolumn{1}{r}{0.269}
+            & \multicolumn{1}{r}{-3.59E$-$05}     & \multicolumn{1}{r}{1.085}         & \multicolumn{1}{r}{0.298}
+            & \multicolumn{1}{r}{-7.01E$-$06}     & \multicolumn{1}{r}{0.351}         & \multicolumn{1}{r}{0.553} 
             \\
 
             I*N & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{-4.26E-04}     & \multicolumn{1}{r}{20.045}        & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{-6.87E-05}     & \multicolumn{1}{r}{15.458}        & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{-4.37E-05}     & \multicolumn{1}{r}{64.042}        & \multicolumn{1}{r}{\textbf{<0.001}} 
+            & \multicolumn{1}{r}{-4.26E$-$04}     & \multicolumn{1}{r}{20.045}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{-6.87E$-$05}     & \multicolumn{1}{r}{15.458}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{-4.37E$-$05}     & \multicolumn{1}{r}{64.042}        & \multicolumn{1}{r}{\textbf{<0.001}} 
             \\
 
             CO$_2$*I*N & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{2.50E-04}      & \multicolumn{1}{r}{3.327}         & \multicolumn{1}{r}{\textit{0.068}}
-            & \multicolumn{1}{r}{4.08E-05}      & \multicolumn{1}{r}{2.651}         & \multicolumn{1}{r}{0.103}
-            & \multicolumn{1}{r}{1.74E-05}      & \multicolumn{1}{r}{3.735}         & \multicolumn{1}{r}{\textit{0.053}} 
+            & \multicolumn{1}{r}{2.50E$-$04}      & \multicolumn{1}{r}{3.327}         & \multicolumn{1}{r}{\textit{0.068}}
+            & \multicolumn{1}{r}{4.08E$-$05}      & \multicolumn{1}{r}{2.651}         & \multicolumn{1}{r}{0.103}
+            & \multicolumn{1}{r}{1.74E$-$05}      & \multicolumn{1}{r}{3.735}         & \multicolumn{1}{r}{\textit{0.053}} 
             \\
             \hline
 
@@ -519,50 +523,50 @@ The stimulation in $M_\mathrm{area}$ resulted in an 133\% stimulation of $\rho_\
             \hline
 
             (Intercept) & \multicolumn{1}{r}{-}
-            & \multicolumn{1}{r}{3.32E-01}      & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{-}
+            & \multicolumn{1}{r}{3.32E$-$01}      & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{-}
             & \multicolumn{1}{r}{-2.93E+00}     & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{-}
             & \multicolumn{1}{r}{}              & \multicolumn{1}{r}{}              & \multicolumn{1}{r}{}
             \\
 
             CO$_2$ & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{1.81E-01}      & \multicolumn{1}{r}{27.651}        & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{8.77E-01}      & \multicolumn{1}{r}{229.571}       & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{1.81E$-$01}      & \multicolumn{1}{r}{27.651}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{8.77E$-$01}      & \multicolumn{1}{r}{229.571}       & \multicolumn{1}{r}{\textbf{<0.001}}
             & \multicolumn{1}{r}{}              & \multicolumn{1}{r}{}              & \multicolumn{1}{r}{} 
             \\
 
             Inoculation (I) & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{2.31E-01}      & \multicolumn{1}{r}{26.238}        & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{-2.55E-01}     & \multicolumn{1}{r}{13.872}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{2.31E$-$01}      & \multicolumn{1}{r}{26.238}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{-2.55E$-$01}     & \multicolumn{1}{r}{13.872}        & \multicolumn{1}{r}{\textbf{<0.001}}
             & \multicolumn{1}{r}{}              & \multicolumn{1}{r}{}              & \multicolumn{1}{r}{} 
             \\
 
             Fertilization (N) & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{1.76E-04}      & \multicolumn{1}{r}{15.899}        & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{-1.51E-03}     & \multicolumn{1}{r}{38.128}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{1.76E$-$04}      & \multicolumn{1}{r}{15.899}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{-1.51E$-$03}     & \multicolumn{1}{r}{38.128}        & \multicolumn{1}{r}{\textbf{<0.001}}
             & \multicolumn{1}{r}{}              & \multicolumn{1}{r}{}              & \multicolumn{1}{r}{} 
             \\
 
             CO$_2$*I & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{-1.36E-01}     & \multicolumn{1}{r}{3.671}         & \multicolumn{1}{r}{\textit{0.055}}
-            & \multicolumn{1}{r}{-2.99E-01}     & \multicolumn{1}{r}{3.622}         & \multicolumn{1}{r}{\textit{0.057}}
+            & \multicolumn{1}{r}{-1.36E$-$01}     & \multicolumn{1}{r}{3.671}         & \multicolumn{1}{r}{\textit{0.055}}
+            & \multicolumn{1}{r}{-2.99E$-$01}     & \multicolumn{1}{r}{3.622}         & \multicolumn{1}{r}{\textit{0.057}}
             & \multicolumn{1}{r}{}              & \multicolumn{1}{r}{}              & \multicolumn{1}{r}{} 
             \\
 
             CO$_2$*N & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{-2.72E-04}     & \multicolumn{1}{r}{1.163}         & \multicolumn{1}{r}{0.281}
-            & \multicolumn{1}{r}{3.14E-04}      & \multicolumn{1}{r}{4.266}         & \multicolumn{1}{r}{\textbf{0.039}}
+            & \multicolumn{1}{r}{-2.72E$-$04}     & \multicolumn{1}{r}{1.163}         & \multicolumn{1}{r}{0.281}
+            & \multicolumn{1}{r}{3.14E$-$04}      & \multicolumn{1}{r}{4.266}         & \multicolumn{1}{r}{\textbf{0.039}}
             & \multicolumn{1}{r}{}              & \multicolumn{1}{r}{}              & \multicolumn{1}{r}{} 
             \\
 
             I*N & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{-5.37E-04}     & \multicolumn{1}{r}{21.355}        & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{7.00E-04}      & \multicolumn{1}{r}{11.025}        & \multicolumn{1}{r}{\textbf{0.001}}
+            & \multicolumn{1}{r}{-5.37E$-$04}     & \multicolumn{1}{r}{21.355}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{7.00E$-$04}      & \multicolumn{1}{r}{11.025}        & \multicolumn{1}{r}{\textbf{0.001}}
             & \multicolumn{1}{r}{}              & \multicolumn{1}{r}{}              & \multicolumn{1}{r}{} 
             \\
 
             CO$_2$*I*N & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{3.29E-04}      & \multicolumn{1}{r}{4.009}         & \multicolumn{1}{r}{\textbf{0.045}}
-            & \multicolumn{1}{r}{4.52E-04}      & \multicolumn{1}{r}{0.669}         & \multicolumn{1}{r}{0.413}
+            & \multicolumn{1}{r}{3.29E$-$04}      & \multicolumn{1}{r}{4.009}         & \multicolumn{1}{r}{\textbf{0.045}}
+            & \multicolumn{1}{r}{4.52E$-$04}      & \multicolumn{1}{r}{0.669}         & \multicolumn{1}{r}{0.413}
             & \multicolumn{1}{r}{}              & \multicolumn{1}{r}{}              & \multicolumn{1}{r}{} 
             \\
             \hline
@@ -570,7 +574,7 @@ The stimulation in $M_\mathrm{area}$ resulted in an 133\% stimulation of $\rho_\
     \label{tab:table5.3}
     \end{table}
 \begin{singlespace}
-    \noindent \textsuperscript{$*$}Significance determined using Type II Wald $\chi^{2}$ tests ($\alpha$ = 0.05). \textit{P}-values < 0.05 are in bold, while \textit{p}-values between 0.05 and 0.1 are italicized. A superscript “a” is included after trait labels to indicate if models were fit with natural log transformed response variables. Key: df=degrees of freedom, $\rho_\mathrm{rubisco}$ = proportion of leaf N allocated to photosynthesis, $\rho_\mathrm{bioe}$ = proportion of leaf N allocated to bioenergetics, $\rho_\mathrm{light}$ = proportion of leaf N allocated to light harvesting proteins, $\rho_\mathrm{photo}$ = proportion of leaf N allocated to photosynthesis, $\rho_\mathrm{structure}$ = proportion of leaf N allocated to cell wall structural tissue
+    \noindent $^*$Significance determined using Type II Wald $\chi^2$ tests ($\alpha$=0.05). \textit{P}-values less than 0.05 are in bold, while \textit{p}-values between 0.05 and 0.1 are italicized. A superscript “a” is included after trait labels to indicate if models were fit with natural log transformed response variable. Key: df=degrees of freedom; $\chi^2$=Wald Type II chi-square test statistic.
 \end{singlespace}
 \end{landscape}
 \clearpage
@@ -580,154 +584,154 @@ The stimulation in $M_\mathrm{area}$ resulted in an 133\% stimulation of $\rho_\
     \begin{figure}
         \centering
         \includegraphics[scale = 0.075]{ch5_NxCO2xI/figs/NxCO2xI_fig3_propN.png}
-        \caption[Effects of CO$_2$, fertilization, and inoculation on the relative fraction of leaf nitrogen allocated to photosynthesis and the fraction of leaf nitrogen allocated to structure.]{Effects of CO$_2$, fertilization, and inoculation on the relative fraction of leaf nitrogen allocated to photosynthesis (a) and the fraction of leaf nitrogen allocated to structure (b). Soil nitrogen fertilization is represented on the x-axis in both panels. Colored points and trendlines are as explained in Figure 1.}
+        \caption[Effects of CO$_2$, fertilization, and inoculation on the relative fraction of leaf nitrogen allocated to photosynthesis and the fraction of leaf nitrogen allocated to structure]{Effects of CO$_2$, fertilization, and inoculation on the relative fraction of leaf nitrogen allocated to photosynthesis (a) and the fraction of leaf nitrogen allocated to structure (b). Soil nitrogen fertilization is represented on the x-axis in both panels. Colored points and trendlines are as explained in Figure \ref{fig:figure5.1}.}
         \label{fig:figure5.3}
     \end{figure}
 \end{landscape}
 \clearpage
 
 \subsection{\textit{Whole plant traits}}
-Total leaf area was 51\% greater and total biomass was 102\% greater under elevated CO$_2$ (\textit{p} < 0.001 in both cases; Table \ref{tab:table5.4}), a pattern that was enhanced by fertilization (CO$_2$-by-fertilization interaction: \textit{p} < 0.001 in both cases; Table \ref{tab:table5.4}; Figs. \ref{fig:figure5.4}a-b) but was not modified across inoculation treatments (CO$_2$-by-inoculation interaction: $p_{total\_leaf\_area}$ = 0.151, $p_{total\_biomass}$: 0.472; Table \ref{tab:table5.4}). Specifically, the general positive effect of increasing fertilization on total leaf area and whole plant biomass (\textit{p} < 0.001 in both cases; Table \ref{tab:table5.4}) was stronger under elevated CO$_2$ (Tukey: \textit{p} < 0.001 in both cases). The general positive effect of increasing fertilization on total leaf area was modified by inoculation treatment (fertilization-by-inoculation interaction: \textit{p} < 0.001 in both cases; Table \ref{tab:table5.4}), indicating a stronger positive effect of increasing fertilization in uninoculated pots (Tukey: $p_{total\_leaf\_area}$ = 0.002, $p_{total\_biomass}$ = 0.001, Fig. \ref{fig:figure5.4}a).
+\noindent Total leaf area and total biomass were 51\% and 102\% greater under elevated CO$_2$, respectively (\textit{p}<0.001 in both cases; Table \ref{tab:table5.4}). The stimulation in total leaf area and total biomass under elevated CO$_2$ was enhanced by increasing fertilization (CO$_2$-by-fertilization interaction: \textit{p}<0.001 in both cases; Table \ref{tab:table5.4}; Figs. \ref{fig:figure5.4}a, \ref{fig:figure5.4}b) but was not modified across inoculation treatments (CO$_2$-by-inoculation interaction: $p_{total\_leaf\_area}$=0.151, $p_{total\_biomass}$=0.472; Table \ref{tab:table5.4}). The positive effect of increasing fertilization on total leaf area and total biomass was modified by inoculation treatment (fertilization-by-inoculation interaction: \textit{p}<0.001 in both cases; Table \ref{tab:table5.4}), indicating a stronger positive effect of increasing fertilization in uninoculated pots (Tukey: $p_{total\_leaf\_area}$=0.002, $p_{total\_biomass}$=0.001, Figs. \ref{fig:figure5.4}a, \ref{fig:figure5.4}b).
 
-A 62\% stimulation in $N_\mathrm{cost}$ under elevated CO$_2$ was modified through a strong three-way interaction between CO$_2$, fertilization, and inoculation (CO$_2$-by-inoculation-by-fertilization interaction: \textit{p} < 0.001; Table \ref{tab:table5.4}; Fig. \ref{fig:figure5.4}). This interaction revealed a general negative effect of increasing fertilization on $N_\mathrm{cost}$ (\textit{p} < 0.001; Table \ref{tab:table5.4}) that was observed in all treatment combinations (Tukey: \textit{p} < 0.001 in all cases) except for inoculated pots grown under elevated CO$_2$ (Tukey: \textit{p} = 0.779; Fig. \ref{fig:figure5.4}c). This response also resulted in generally stronger negative effects of increasing fertilization on $N_\mathrm{cost}$ in uninoculated pots grown under elevated CO$_2$ than uninoculated pots grown under ambient CO$_2$ (Tukey: \textit{p} = 0.001) and inoculated pots grown under either ambient CO$_2$ (Tukey: \textit{p} < 0.001) or elevated CO$_2$ (Tukey: \textit{p} < 0.001), while uninoculated pots grown under ambient CO$_2$ had generally stronger negative effects of increasing fertilization on $N_\mathrm{cost}$ than inoculated pots grown under elevated CO$_2$ (Tukey: \textit{p} = 0.002), but not inoculated pots grown under ambient CO$_2$ (Tukey: \textit{p} = 0.216; Fig. \ref{fig:figure5.4}). The general reduction in $N_\mathrm{cost}$ with increasing fertilization and in uninoculated pots were driven by a stronger positive effect of increasing fertilization on $N_\mathrm{wp}$ (denominator of $N_\mathrm{cost}$) than $C_\mathrm{bg}$ (numerator of $N_\mathrm{cost}$), while the general stimulation in $N_\mathrm{cost}$ under elevated CO$_2$ was driven by a stronger positive effect of elevated CO$_2$ on $C_\mathrm{bg}$ than $N_\mathrm{wp}$ (Table \ref{tab:table5.4}).
+A 62\% stimulation in $N_\mathrm{cost}$ under elevated CO$_2$ was modified through a strong three-way interaction between CO$_2$, fertilization, and inoculation (CO$_2$-by-inoculation-by-fertilization interaction: \textit{p}<0.001; Table \ref{tab:table5.4}; Fig. \ref{fig:figure5.4}). This interaction revealed a general negative effect of increasing fertilization on $N_\mathrm{cost}$ (\textit{p}<0.001; Table \ref{tab:table5.4}) that was observed in all treatment combinations (Tukey: \textit{p}<0.001 in all cases) except for inoculated pots grown under elevated CO$_2$ (Tukey: \textit{p}=0.779; Fig. \ref{fig:figure5.4}c). This response also resulted in stronger negative effects of increasing fertilization on $N_\mathrm{cost}$ in uninoculated pots grown under elevated CO$_2$ than uninoculated pots grown under ambient CO$_2$ (Tukey: \textit{p}=0.001) and inoculated pots grown under either ambient CO$_2$ (Tukey: \textit{p}<0.001) or elevated CO$_2$ (Tukey: \textit{p}<0.001), while uninoculated pots grown under ambient CO$_2$ had stronger negative effects of increasing fertilization on $N_\mathrm{cost}$ than inoculated pots grown under elevated CO$_2$ (Tukey: \textit{p}=0.002), but not inoculated pots grown under ambient CO$_2$ (Tukey: \textit{p}=0.216; Fig. \ref{fig:figure5.4}). The reduction in $N_\mathrm{cost}$ with increasing fertilization and in uninoculated pots were driven by a stronger positive effect of increasing fertilization on $N_\mathrm{wp}$ (denominator of $N_\mathrm{cost}$) than $C_\mathrm{bg}$ (numerator of $N_\mathrm{cost}$), while the stimulation in $N_\mathrm{cost}$ under elevated CO$_2$ was driven by a stronger positive effect of elevated CO$_2$ on $C_\mathrm{bg}$ than $N_\mathrm{wp}$ (Table \ref{tab:table5.4}).
 
 \newpage
 \begin{landscape}
     \begin{table}
     \centering
-    \caption{Effects of soil N availability, soil pH, species, and $N_\mathrm{area}$ on total leaf area, whole plant biomass, and carbon costs to acquire nitrogen}
+    \caption[Effects of CO$_2$, fertilization, and inoculation on total leaf area, whole plant biomass, carbon costs to acquire nitrogen, belowground carbon biomass, and whole plant nitrogen biomass]{Effects of CO$_2$, fertilization, and inoculation on total leaf area (cm$^2$), whole plant biomass (g), carbon costs to acquire nitrogen ($N_\mathrm{cost}$; gC gN$^{-1}$), belowground carbon biomass ($C_\mathrm{bg}$; gC), and whole plant nitrogen biomass ($N_\mathrm{wp}$; gN)$^*$}
     \resizebox{\columnwidth}{!}{
         \begin{tabular}{p{3cm}p{0.5cm}p{1.75cm}p{1.5cm}p{1.5cm}p{1.75cm}p{1.5cm}p{1.5cm}p{1.75cm}p{1.5cm}p{1.5cm}}
             && 
             \multicolumn{3}{l}{Total leaf area} 
-            & \multicolumn{3}{l}{Total biomass} 
+            & \multicolumn{3}{l}{Total biomass$^\mathrm{b}$} 
             & \multicolumn{3}{l}{$N_\mathrm{cost}$} 
             \\
             \hline 
             & 
             \multicolumn{1}{r}{df} 
-            & \multicolumn{1}{r}{Coefficient}   & \multicolumn{1}{r}{$\chi^{2}$}    & \multicolumn{1}{r}{\textit{p}} 
-            & \multicolumn{1}{r}{Coefficient}   & \multicolumn{1}{r}{$\chi^{2}$}    & \multicolumn{1}{r}{\textit{p}} 
-            & \multicolumn{1}{r}{Coefficient}   & \multicolumn{1}{r}{$\chi^{2}$}    & \multicolumn{1}{r}{\textit{p}} 
+            & \multicolumn{1}{r}{Coefficient}   & \multicolumn{1}{r}{$\chi^2$}    & \multicolumn{1}{r}{\textit{p}} 
+            & \multicolumn{1}{r}{Coefficient}   & \multicolumn{1}{r}{$\chi^2$}    & \multicolumn{1}{r}{\textit{p}} 
+            & \multicolumn{1}{r}{Coefficient}   & \multicolumn{1}{r}{$\chi^2$}    & \multicolumn{1}{r}{\textit{p}} 
             \\ 
             \hline
 
             (Intercept) & \multicolumn{1}{r}{-} 
             &  \multicolumn{1}{r}{8.78E+01}     & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{-}
-            &  \multicolumn{1}{r}{9.96E-01}     & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{-}
+            &  \multicolumn{1}{r}{9.96E$-$01}     & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{-}
             &  \multicolumn{1}{r}{8.67E+00}     & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{-} 
             \\
 
             CO$_2$ & \multicolumn{1}{r}{1}
             & \multicolumn{1}{r}{3.36E+01}      & \multicolumn{1}{r}{69.291}        & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{5.07E-01}      & \multicolumn{1}{r}{131.477}       & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{5.07E$-$01}    & \multicolumn{1}{r}{131.477}       & \multicolumn{1}{r}{\textbf{<0.001}}
             & \multicolumn{1}{r}{8.75E+00}      & \multicolumn{1}{r}{88.189}        & \multicolumn{1}{r}{\textbf{<0.001}} 
             \\
 
             Inoculation (I) & \multicolumn{1}{r}{1}
             & \multicolumn{1}{r}{1.88E+02}      & \multicolumn{1}{r}{35.715}        & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{7.96E-01}      & \multicolumn{1}{r}{34.264}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{7.96E$-$01}    & \multicolumn{1}{r}{34.264}        & \multicolumn{1}{r}{\textbf{<0.001}}
             & \multicolumn{1}{r}{-1.68E+00}     & \multicolumn{1}{r}{136.343}       & \multicolumn{1}{r}{\textbf{<0.001}} 
             \\
 
             Fertilization (N) & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{9.35E-01}      & \multicolumn{1}{r}{274.199}       & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{3.14E-03}      & \multicolumn{1}{r}{269.046}       & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{-8.50E-03}     & \multicolumn{1}{r}{80.501}        & \multicolumn{1}{r}{\textbf{<0.001}} 
+            & \multicolumn{1}{r}{9.35E$-$01}      & \multicolumn{1}{r}{274.199}       & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{3.14E$-$03}      & \multicolumn{1}{r}{269.046}       & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{-8.50E$-$03}     & \multicolumn{1}{r}{80.501}        & \multicolumn{1}{r}{\textbf{<0.001}} 
             \\
 
             CO$_2$*I & \multicolumn{1}{r}{1}
             & \multicolumn{1}{r}{6.44E+01}      & \multicolumn{1}{r}{2.064}         & \multicolumn{1}{r}{0.151}
-            & \multicolumn{1}{r}{-7.69E-02}     & \multicolumn{1}{r}{0.518}         & \multicolumn{1}{r}{0.472}
+            & \multicolumn{1}{r}{-7.69E$-$02}   & \multicolumn{1}{r}{0.518}         & \multicolumn{1}{r}{0.472}
             & \multicolumn{1}{r}{-8.38E+00}     & \multicolumn{1}{r}{85.237}        & \multicolumn{1}{r}{\textbf{<0.001}} 
             \\
 
             CO$_2$*N & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{5.05E-01}      & \multicolumn{1}{r}{18.655}        & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{1.61E-03}      & \multicolumn{1}{r}{16.877}        & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{-9.17E-03}     & \multicolumn{1}{r}{1.050}         & \multicolumn{1}{r}{0.306} 
+            & \multicolumn{1}{r}{5.05E$-$01}      & \multicolumn{1}{r}{18.655}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{1.61E$-$03}      & \multicolumn{1}{r}{16.877}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{-9.17E$-$03}     & \multicolumn{1}{r}{1.050}         & \multicolumn{1}{r}{0.306} 
             \\
 
             I*N & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{-3.84E-01}     & \multicolumn{1}{r}{10.804}        & \multicolumn{1}{r}{\textbf{0.001}}
-            & \multicolumn{1}{r}{-1.45E-03}     & \multicolumn{1}{r}{15.779}        & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{4.20E-03}      & \multicolumn{1}{r}{46.489}        & \multicolumn{1}{r}{\textbf{<0.001}} 
+            & \multicolumn{1}{r}{-3.84E$-$01}     & \multicolumn{1}{r}{10.804}        & \multicolumn{1}{r}{\textbf{0.001}}
+            & \multicolumn{1}{r}{-1.45E$-$03}     & \multicolumn{1}{r}{15.779}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{4.20E$-$03}      & \multicolumn{1}{r}{46.489}        & \multicolumn{1}{r}{\textbf{<0.001}} 
             \\
 
             CO$_2$*I*N & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{-2.97E-03}     & \multicolumn{1}{r}{<0.001}        & \multicolumn{1}{r}{0.990}
-            & \multicolumn{1}{r}{-1.14E-04}     & \multicolumn{1}{r}{0.023}         & \multicolumn{1}{r}{0.880}
-            & \multicolumn{1}{r}{1.32E-02}      & \multicolumn{1}{r}{18.125}        & \multicolumn{1}{r}{\textbf{<0.001}} 
+            & \multicolumn{1}{r}{-2.97E$-$03}     & \multicolumn{1}{r}{<0.001}        & \multicolumn{1}{r}{0.990}
+            & \multicolumn{1}{r}{-1.14E$-$04}     & \multicolumn{1}{r}{0.023}         & \multicolumn{1}{r}{0.880}
+            & \multicolumn{1}{r}{1.32E$-$02}      & \multicolumn{1}{r}{18.125}        & \multicolumn{1}{r}{\textbf{<0.001}} 
             \\
             \hline
 
             &&&&&&&&&&
             \\
 
-            &&  \multicolumn{3}{l}{$C_\mathrm{bg}$} 
-            &   \multicolumn{3}{l}{$N_\mathrm{wp}$} 
+            &&  \multicolumn{3}{l}{$C_\mathrm{bg}{}^\mathrm{a}$} 
+            &   \multicolumn{3}{l}{$N_\mathrm{wp}{}^\mathrm{b}$} 
             &&& \\
             \hline
             & \multicolumn{1}{r}{df}
-            & \multicolumn{1}{r}{Coefficient}   & \multicolumn{1}{r}{$\chi^{2}$}    & \multicolumn{1}{r}{\textit{p}} 
-            & \multicolumn{1}{r}{Coefficient}   & \multicolumn{1}{r}{$\chi^{2}$}    & \multicolumn{1}{r}{\textit{p}} 
+            & \multicolumn{1}{r}{Coefficient}   & \multicolumn{1}{r}{$\chi^2$}    & \multicolumn{1}{r}{\textit{p}} 
+            & \multicolumn{1}{r}{Coefficient}   & \multicolumn{1}{r}{$\chi^2$}    & \multicolumn{1}{r}{\textit{p}} 
             \\
             \hline
 
             (Intercept) & \multicolumn{1}{r}{-}
             & \multicolumn{1}{r}{-1.70E+00}     & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{-}
-            & \multicolumn{1}{r}{1.24E-01}      & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{-}
-            & \multicolumn{1}{r}{}              & \multicolumn{1}{r}{}              & \multicolumn{1}{r}{}
+            & \multicolumn{1}{r}{1.24E$-$01}    & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{-}
+            &&&
             \\
 
             CO$_2$ & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{9.21E-01}      & \multicolumn{1}{r}{84.134}        & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{-3.41E-03}     & \multicolumn{1}{r}{23.890}        & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{}              & \multicolumn{1}{r}{}              & \multicolumn{1}{r}{} 
+            & \multicolumn{1}{r}{9.21E$-$01}    & \multicolumn{1}{r}{84.134}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{-3.41E$-$03}   & \multicolumn{1}{r}{23.890}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            &&&
             \\
 
             Inoculation (I) & \multicolumn{1}{r}{1}
             & \multicolumn{1}{r}{1.18E+00}      & \multicolumn{1}{r}{41.030}        & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{1.68E-01}      & \multicolumn{1}{r}{134.460}       & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{}              & \multicolumn{1}{r}{}              & \multicolumn{1}{r}{} 
+            & \multicolumn{1}{r}{1.68E$-$01}    & \multicolumn{1}{r}{134.460}       & \multicolumn{1}{r}{\textbf{<0.001}}
+            &&&
             \\
 
             N fertilization (N) & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{3.38E-03}      & \multicolumn{1}{r}{152.248}       & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{6.69E-04}      & \multicolumn{1}{r}{529.021}       & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{}              & \multicolumn{1}{r}{}              & \multicolumn{1}{r}{} 
+            & \multicolumn{1}{r}{3.38E$-$03}    & \multicolumn{1}{r}{152.248}       & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{6.69E$-$04}    & \multicolumn{1}{r}{529.021}       & \multicolumn{1}{r}{\textbf{<0.001}}
+            &&&
             \\
 
             CO$_2$ * I & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{-6.18E-01}     & \multicolumn{1}{r}{8.965}         & \multicolumn{1}{r}{\textbf{0.003}}
-            & \multicolumn{1}{r}{3.68E-02}      & \multicolumn{1}{r}{1.190}         & \multicolumn{1}{r}{0.275}
-            & \multicolumn{1}{r}{}              & \multicolumn{1}{r}{}              & \multicolumn{1}{r}{} 
+            & \multicolumn{1}{r}{-6.18E$-$01}   & \multicolumn{1}{r}{8.965}         & \multicolumn{1}{r}{\textbf{0.003}}
+            & \multicolumn{1}{r}{3.68E$-$02}    & \multicolumn{1}{r}{1.190}         & \multicolumn{1}{r}{0.275}
+            &&& \multicolumn{1}{r}{}
             \\
 
             CO$_2$ * N & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{-3.66E-05}     & \multicolumn{1}{r}{1.188}         & \multicolumn{1}{r}{0.276}
-            & \multicolumn{1}{r}{1.58E-04}      & \multicolumn{1}{r}{5.915}         & \multicolumn{1}{r}{\textbf{0.015}}
-            & \multicolumn{1}{r}{}              & \multicolumn{1}{r}{}              & \multicolumn{1}{r}{} 
+            & \multicolumn{1}{r}{-3.66E$-$05}   & \multicolumn{1}{r}{1.188}         & \multicolumn{1}{r}{0.276}
+            & \multicolumn{1}{r}{1.58E$-$04}    & \multicolumn{1}{r}{5.915}         & \multicolumn{1}{r}{\textbf{0.015}}
+            &&&
             \\
 
             I * N & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{-2.22E-03}     & \multicolumn{1}{r}{22.648}        & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{-3.20E-04}     & \multicolumn{1}{r}{55.562}        & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{}              & \multicolumn{1}{r}{}              & \multicolumn{1}{r}{} 
+            & \multicolumn{1}{r}{-2.22E$-$03}   & \multicolumn{1}{r}{22.648}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{-3.20E$-$04}   & \multicolumn{1}{r}{55.562}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            &&&
             \\
 
             CO$_2$ * I * N & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{8.09E-04}      & \multicolumn{1}{r}{1.109}         & \multicolumn{1}{r}{0.292}
-            & \multicolumn{1}{r}{-7.54E-05}     & \multicolumn{1}{r}{0.620}         & \multicolumn{1}{r}{0.431}
-            & \multicolumn{1}{r}{}              & \multicolumn{1}{r}{}              & \multicolumn{1}{r}{} 
+            & \multicolumn{1}{r}{8.09E$-$04}    & \multicolumn{1}{r}{1.109}         & \multicolumn{1}{r}{0.292}
+            & \multicolumn{1}{r}{-7.54E$-$05}   & \multicolumn{1}{r}{0.620}         & \multicolumn{1}{r}{0.431}
+            &&&
             \\
             \hline
     \end{tabular}}
     \label{tab:table5.4}
     \end{table}
-\begin{singlespace}
-    \noindent \textsuperscript{$*$}Significance determined using Type II Wald $\chi^{2}$ tests ($\alpha$ = 0.05). \textit{P}-values < 0.05 are in bold, while \textit{p}-values between 0.05 and 0.1 are italicized. Key: df = degrees of freedom; $N_\mathrm{cost}$ = structural carbon cost to acquire nitrogen; $C_\mathrm{bg}$ = belowground carbon biomass; $N_\mathrm{wp}$ = whole plant nitrogen biomass
-\end{singlespace}
+    \begin{singlespace}
+        \noindent $^*$Significance determined using Type II Wald $\chi^2$ tests ($\alpha$=0.05). \textit{P}-values less than 0.05 are in bold. Superscripts included after trait labels indicate if models were fit with natural log (\textsuperscript{a}) or square root (\textsuperscript{b}) transformed response variables. Key: df=degrees of freedom; $\chi^2$=Wald Type II chi-square test statistic.
+    \end{singlespace}
 \end{landscape}
 \clearpage
 
@@ -735,36 +739,36 @@ A 62\% stimulation in $N_\mathrm{cost}$ under elevated CO$_2$ was modified throu
 \begin{figure}
     \centering
     \includegraphics[scale = 0.074]{ch5_NxCO2xI/figs/NxCO2xI_fig4_wholePlant.png}
-    \caption[Effects of CO$_2$, fertilization, and inoculation on total leaf area, total biomass, and structural carbon costs to acquire nitrogen.]{Effects of CO$_2$, fertilization, and inoculation on total leaf area (a), total biomass (b), and structural carbon costs to acquire nitrogen (c). Soil nitrogen fertilization is represented continuously on the x-axis in all panels. Colored points and trendlines are as explained in Figure 1.}
+    \caption[Effects of CO$_2$, fertilization, and inoculation on total leaf area, total biomass, and structural carbon costs to acquire nitrogen]{Effects of CO$_2$, fertilization, and inoculation on total leaf area (a), total biomass (b), and structural carbon costs to acquire nitrogen (c). Soil nitrogen fertilization is represented on the x-axis in all panels. Colored points and trendlines are as explained in Figure \ref{fig:figure5.1}.}
     \label{fig:figure5.4}
 \end{figure}
 \clearpage
 
 \subsection{\textit{Nitrogen fixation}}
-Nodule biomass was stimulated by 30\% under elevated CO$_2$ (\textit{p} < 0.001; Table \ref{tab:table5.5}), a pattern that was modified across the fertilization gradient (CO$_2$-by-fertilization interaction: \textit{p} = 0.479; Table \ref{tab:table5.5}), but not between inoculation treatments (CO$_2$-by-inoculation interaction: p = 0.404; Table \ref{tab:table5.5}). Specifically, the general negative effect of increasing fertilization on nodule biomass (\textit{p} < 0.001; Table \ref{tab:table5.5}) was stronger under elevated CO$_2$ than ambient CO$_2$ (Tukey: \textit{p} < 0.001; Fig. \ref{fig:figure5.5}a), which reduced the stimulation in nodule biomass under elevated CO$_2$ with increasing fertilization. A strong interaction between fertilization and inoculation (fertilization-by-inoculation interaction: \textit{p} < 0.001; Table \ref{tab:table5.5}) was driven by a stronger negative effect of increasing fertilization in inoculated pots (Tukey: \textit{p} < 0.001; Fig. \ref{fig:figure5.5}a).
+\noindent Nodule biomass was stimulated by 30\% under elevated CO$_2$ (\textit{p}<0.001; Table \ref{tab:table5.5}), a pattern that was modified across the fertilization gradient (CO$_2$-by-fertilization interaction: \textit{p}=0.479; Table \ref{tab:table5.5}), but not between inoculation treatments (CO$_2$-by-inoculation interaction: p=0.404; Table \ref{tab:table5.5}). Specifically, the negative effect of increasing fertilization on nodule biomass (\textit{p}<0.001; Table \ref{tab:table5.5}) was stronger under elevated CO$_2$ (Tukey: \textit{p}<0.001; Fig. \ref{fig:figure5.5}a). An interaction between fertilization and inoculation (fertilization-by-inoculation interaction: \textit{p}<0.001; Table \ref{tab:table5.5}) indicated a stronger negative effect of increasing fertilization in inoculated pots (Tukey: \textit{p}<0.001; Fig. \ref{fig:figure5.5}a).
 
-There was no effect of CO$_2$ on nodule: root biomass (\textit{p} = 0.767; Table \ref{tab:table5.5}), although an interaction between CO$_2$ and inoculation (CO$_2$-by-inoculation interaction: \textit{p} < 0.001; Table \ref{tab:table5.5}) indicated that the general positive effect of inoculation on nodule: root biomass (\textit{p} < 0.001; Table \ref{tab:table5.5}) was stronger under ambient CO$_2$ (3129\% increase; Tukey: \textit{p} < 0.001) than elevated CO$_2$ (379\% increase; Tukey: \textit{p} < 0.001; Fig. \ref{fig:figure5.5}b). The null effect of CO$_2$ on nodule: root biomass was consistently observed across the fertilization gradient (\textit{p} = 0.183; Table \ref{tab:table5.5}; Fig. \ref{fig:figure5.5}b). An interaction between fertilization and inoculation (fertilization-by-inoculation interaction: \textit{p} < 0.001; Table \ref{tab:table5.5}) indicated that the general negative effect of increasing fertilization on nodule: root biomass (\textit{p} < 0.001; Table \ref{tab:table5.5}) was stronger in inoculated pots (Tukey: \textit{p} < 0.001; Fig. \ref{fig:figure5.5}b). 
+There was no effect of CO$_2$ on nodule: root biomass (\textit{p}=0.767; Table \ref{tab:table5.5}), although an interaction between CO$_2$ and inoculation (CO$_2$-by-inoculation interaction: \textit{p}<0.001; Table \ref{tab:table5.5}) indicated that the positive effect of inoculation on nodule: root biomass (\textit{p}<0.001; Table \ref{tab:table5.5}) was stronger under ambient CO$_2$ (3129\% increase; Tukey: \textit{p}<0.001) than elevated CO$_2$ (379\% increase; Tukey: \textit{p}<0.001; Fig. \ref{fig:figure5.5}b). The null effect of CO$_2$ on nodule: root biomass was consistently observed across the fertilization gradient (CO$_2$-by-fertilization interaction: \textit{p}=0.183; Table \ref{tab:table5.5}; Fig. \ref{fig:figure5.5}b). An interaction between fertilization and inoculation (fertilization-by-inoculation interaction: \textit{p}<0.001; Table \ref{tab:table5.5}) indicated that the negative effect of increasing fertilization on nodule: root biomass (\textit{p}<0.001; Table \ref{tab:table5.5}) was stronger in inoculated pots (Tukey: \textit{p}<0.001; Fig. \ref{fig:figure5.5}b). 
 
-There was no effect of CO$_2$ on \%$N_\mathrm{dfa}$ (\textit{p} = 0.472; Table \ref{tab:table5.5}), a pattern that was not modified by inoculation (CO$_2$-by-inoculation interaction: \textit{p} = 0.156; Table \ref{tab:table5.5}) or fertilization (CO$_2$-by-fertilization interaction: \textit{p} = 0.099; Table \ref{tab:table5.5}). An interaction between fertilization and inoculation (fertilization-by-inoculation interaction: \textit{p} < 0.001; Table \ref{tab:table5.5}) indicated that the general negative effect of increasing fertilization on \%$N_\mathrm{dfa}$ (\textit{p} < 0.001; Table \ref{tab:table5.5}) was only observed in inoculated pots (Tukey: \textit{p} < 0.001), with no apparent effect of fertilization on \%$N_\mathrm{dfa}$ in uninoculated pots (Tukey: \textit{p} = 0.651; Table \ref{tab:table5.5}; Fig. \ref{fig:figure5.5}c).
+There was no effect of CO$_2$ on \%$N_\mathrm{dfa}$ (\textit{p}=0.472; Table \ref{tab:table5.5}), a pattern that was not modified by inoculation (CO$_2$-by-inoculation interaction: \textit{p}=0.156; Table \ref{tab:table5.5}) or fertilization (CO$_2$-by-fertilization interaction: \textit{p}=0.099; Table \ref{tab:table5.5}). An interaction between fertilization and inoculation (fertilization-by-inoculation interaction: \textit{p}<0.001; Table \ref{tab:table5.5}) indicated that the negative effect of increasing fertilization on \%$N_\mathrm{dfa}$ (\textit{p}<0.001; Table \ref{tab:table5.5}) was only observed in inoculated pots (Tukey: \textit{p}<0.001; Fig. \ref{fig:figure5.5}c).
 
 \newpage
 \begin{landscape}
     \begin{table}
     \centering
-    \caption{Effects of soil N availability, soil pH, species, and $N_\mathrm{area}$ on root nodule biomass and plant investments in symbiotic nitrogen fixation}
+    \caption[Effects of CO$_2$, fertilization, and inoculation on root nodule biomass, plant investments in symbiotic nitrogen fixation, and percent nitrogen fixed from the atmosphere]{Effects of CO$_2$, fertilization, and inoculation on root nodule biomass (g), plant investments in symbiotic nitrogen fixation (unitless), and percent nitrogen fixed from the atmosphere (\%$N_\mathrm{dfa}$; unitless)$^*$}
     \resizebox{\columnwidth}{!}{
         \begin{tabular}{p{3.5cm}p{0.5cm}p{1.75cm}p{1.5cm}p{1.5cm}p{1.75cm}p{1.5cm}p{1.5cm}p{1.75cm}p{1.5cm}p{1.5cm}}
             && 
-            \multicolumn{3}{l}{Root nodule biomass\textsuperscript{b}} 
-            & \multicolumn{3}{l}{Root nodule: root biomass\textsuperscript{b}} 
-            & \multicolumn{3}{l}{$\%N_{\mathrm{dfa}}{}^b$} 
+            \multicolumn{3}{l}{Root nodule biomass$^\mathrm{b}$} 
+            & \multicolumn{3}{l}{Root nodule: root biomass$^\mathrm{b}$} 
+            & \multicolumn{3}{l}{$\%N_{\mathrm{dfa}}{}^\mathrm{b}$} 
             \\
             \hline 
             &
             \multicolumn{1}{r}{df} 
-            & \multicolumn{1}{r}{Coefficient}       & \multicolumn{1}{r}{$\chi^{2}$}    & \multicolumn{1}{r}{\textit{p}} 
-            & \multicolumn{1}{r}{Coefficient}       & \multicolumn{1}{r}{$\chi^{2}$}    & \multicolumn{1}{r}{\textit{p}} 
-            & \multicolumn{1}{r}{Coefficient}       & \multicolumn{1}{r}{$\chi^{2}$}    & \multicolumn{1}{r}{\textit{p}} 
+            & \multicolumn{1}{r}{Coefficient}       & \multicolumn{1}{r}{$\chi^2$}    & \multicolumn{1}{r}{\textit{p}} 
+            & \multicolumn{1}{r}{Coefficient}       & \multicolumn{1}{r}{$\chi^2$}    & \multicolumn{1}{r}{\textit{p}} 
+            & \multicolumn{1}{r}{Coefficient}       & \multicolumn{1}{r}{$\chi^2$}    & \multicolumn{1}{r}{\textit{p}} 
             \\ 
             \hline
 
@@ -821,7 +825,7 @@ There was no effect of CO$_2$ on \%$N_\mathrm{dfa}$ (\textit{p} = 0.472; Table \
     \label{tab:table5.5}
     \end{table}
 \begin{singlespace}
-    \noindent \textsuperscript{$*$}Significance determined using Type II Wald $\chi^{2}$ tests ($\alpha$ = 0.05). \textit{P}-values < 0.05 are in bold, while \textit{p}-values between 0.05 and 0.1 are italicized. Superscript letters indicate model coefficients fit to square-root (\textsuperscript{b}) transformed data. Key: df = degrees of freedom \%$N_\mathrm{dfa}$ = percent nitrogen fixed from the atmosphere.
+    \noindent \textsuperscript{$*$}Significance determined using Type II Wald $\chi^2$ tests ($\alpha$=0.05). \textit{P}-values less than 0.05 are in bold, while \textit{p}-values between 0.05 and 0.1 are italicized. Superscript letters indicate model coefficients fit to square-root (\textsuperscript{b}) transformed data.  Key: df=degrees of freedom; $\chi^2$=Wald Type II chi-square test statistic.
 \end{singlespace}
 \end{landscape}
 \clearpage
@@ -830,34 +834,43 @@ There was no effect of CO$_2$ on \%$N_\mathrm{dfa}$ (\textit{p} = 0.472; Table \
 \begin{figure}
     \centering
     \includegraphics[scale = 0.074]{ch5_NxCO2xI/figs/NxCO2xI_fig5_nFix.png}
-    \caption[Effects of CO$_2$, fertilization, and inoculation on nodule biomass, nodule: root biomass, and percent nitrogen fixed from the atmosphere.]{Effects of CO$_2$, fertilization, and inoculation on nodule biomass (a), nodule: root biomass (b), and percent nitrogen fixed from the atmosphere (c). Soil nitrogen fertilization is represented on the x-axis. Yellow points and trendlines indicate inoculated individuals grown under ambient CO$_2$, blue points and trendlines indicate uninoculated individuals grown under ambient CO$_2$, red points and trendlines indicate inoculated individuals grown under elevated CO$_2$, and grey points indicate uninoculated individuals grown under elevated CO$_2$. Solid trendlines indicate slopes that are different from zero (\textit{p} < 0.05), while dashed trendlines indicate slopes that are not different from zero (\textit{p} > 0.05). Curvilinear trendlines occur as a result of back-transforming models where response variables received either a natural log or square root transformation prior to fitting. }
+    \caption[Effects of CO$_2$, fertilization, and inoculation on nodule biomass, nodule biomass: root biomass, and percent nitrogen fixed from the atmosphere]{Effects of CO$_2$, fertilization, and inoculation on nodule biomass (a), nodule biomass: root biomass (b), and percent nitrogen fixed from the atmosphere (c). Soil nitrogen fertilization is represented on the x-axis. Colored points and trendlines are as explained in Figure \ref{fig:figure5.1}. Curvilinear trendlines occur as a result of back-transforming models where response variables received either a natural log or square root transformation prior to fitting.}
     \label{fig:figure5.5}
 \end{figure}
 \clearpage
 
 \section{Discussion}
-In this study, I determined leaf and whole plant acclimation responses of 7-week \textit{G. max} seedlings grown under two CO$_2$ concentrations, two inoculation treatments, and nine soil nitrogen fertilization treatments in a full-factorial growth chamber experiment. In support of my hypotheses and patterns expected from theory, elevated CO$_2$ reduced $N_\mathrm{area}$, $V_\mathrm{cmax25}$, and $J_\mathrm{max25}$. The relatively stronger downregulation in $V_\mathrm{cmax25}$ than $J_\mathrm{max25}$ under elevated CO$_2$ resulted in a stimulation in $J_\mathrm{max25}$:$V_\mathrm{cmax25}$ under elevated CO$_2$. The downregulation of $V_\mathrm{cmax25}$ and $J_\mathrm{max25}$ under elevated CO$_2$ was similar across fertilization and inoculation treatments, indicating that the CO$_2$ responses were not due to nitrogen limitation. Interestingly, results indicate that elevated CO$_2$ increased the fraction of leaf nitrogen allocated to photosynthesis and structure, leading to a stimulation in nitrogen use efficiency under elevated CO$_2$ despite the apparent downregulation in $N_\mathrm{area}$, $V_\mathrm{cmax25}$, and $J_\mathrm{max25}$. The downregulation in leaf photosynthetic processes under elevated CO$_2$ also corresponded with a strong stimulation in total leaf area and total biomass. Strong stimulations in whole plant growth due to elevated CO$_2$ were generally enhanced with increasing fertilization and were negatively related to structural carbon costs to acquire nitrogen. Inoculation generally did not modify whole plant responses to elevated CO$_2$ across the fertilization gradient, likely due to a strong reduction in root nodulation with increasing fertilization. However, strong positive effects of inoculation on whole plant growth were observed under low fertilization, consistent with our hypothesis. Overall, observed leaf and whole plant acclimation responses to CO$_2$ support hypotheses and patterns expected from photosynthetic least-cost theory, showing that leaf acclimation responses to CO$_2$ were decoupled from soil nitrogen availability and ability to acquire nitrogen via symbiotic nitrogen fixation. Instead, leaf and whole plant acclimation responses to CO$_2$ were driven by optimal resource investment to photosynthetic capacity, where optimal resource investment at the leaf level maximized nitrogen allocation to structures that support whole plant growth.
+\noindent In this study, I determined leaf and whole plant acclimation responses of 7-week \textit{G. max} seedlings grown under two CO$_2$ concentrations, two inoculation treatments, and nine soil nitrogen fertilization treatments in a full-factorial growth chamber experiment. In support of hypotheses and patterns expected from theory, elevated CO$_2$ reduced $N_\mathrm{area}$, $V_\mathrm{cmax25}$, and $J_\mathrm{max25}$. The relatively stronger downregulation in $V_\mathrm{cmax25}$ than $J_\mathrm{max25}$ under elevated CO$_2$ resulted in a stimulation in $J_\mathrm{max25}$:$V_\mathrm{cmax25}$ under elevated CO$_2$. The downregulation of $V_\mathrm{cmax25}$ and $J_\mathrm{max25}$ under elevated CO$_2$ was similar across fertilization and inoculation treatments, indicating that the CO$_2$ responses were not associated with nitrogen limitation. Interestingly, results indicate that elevated CO$_2$ increased the fraction of leaf nitrogen allocated to photosynthesis and structure, leading to a stimulation in nitrogen use efficiency under elevated CO$_2$ despite the apparent downregulation in $N_\mathrm{area}$, $V_\mathrm{cmax25}$, and $J_\mathrm{max25}$.
 
-\subsection{\textit{Soil nitrogen fertilization has divergent effects on leaf and whole plant acclimation responses to CO$_2$}}
-Elevated CO$_2$ reduced $N_\mathrm{area}$, $V_\mathrm{cmax25}$, $J_\mathrm{max25}$, and stomatal conductance by 29\%, 16\%, 10\%, and 20\%, respectively (Table \ref{tab:table5.2}). The larger downregulation in $V_\mathrm{cmax25}$ than $J_\mathrm{max25}$ led to an 8\% stimulation in $J_\mathrm{max25}$:$V_\mathrm{cmax25}$ (Table \ref{tab:table5.2}), while the larger downregulation in Narea than $V_\mathrm{cmax25}$ resulted in a 21\% stimulation in the fraction of leaf nitrogen allocated to photosynthesis under elevated CO$_2$. These acclimation responses are directionally consistent with previous studies that have investigated or reviewed leaf acclimation responses to CO$_2$ \shortcite{Drake1997,Makino1997,Ainsworth2002,Ainsworth2005,Ainsworth2007,Smith2013,Smith2020,Poorter2022}, and follow patterns expected from photosynthetic least-cost theory \shortcite{Wright2003,Prentice2014,Smith2019,Smith2020}. Together, the stimulation in $J_\mathrm{max25}$:$V_\mathrm{cmax25}$ and the fraction of leaf nitrogen allocated to photosynthesis, and nitrogen use efficiency under elevated CO$_2$ provide strong support for the idea that leaves were downregulating $V_\mathrm{cmax25}$ in response to elevated CO$_2$ in order to optimally coordinate photosynthesis such that net photosynthesis rates approached becoming equally co-limited by Rubisco carboxylation and RuBP regeneration \shortcite{Chen1993,Maire2012}.
+The downregulation in leaf photosynthetic processes under elevated CO$_2$ corresponded with a strong stimulation in total leaf area and total biomass. Strong stimulations in whole plant growth due to elevated CO$_2$ were generally enhanced with increasing fertilization and were negatively related to structural carbon costs to acquire nitrogen. Inoculation generally did not modify whole plant responses to elevated CO$_2$ across the fertilization gradient, likely due to a strong reduction in root nodulation with increasing fertilization. However, strong positive effects of inoculation on whole plant growth were observed under low fertilization, consistent with hypotheses. Overall, observed leaf and whole plant acclimation responses to CO$_2$ support hypotheses and patterns expected from photosynthetic least-cost theory, showing that leaf acclimation responses to CO$_2$ were decoupled from soil nitrogen availability and ability to acquire nitrogen via symbiotic nitrogen fixation. Instead, leaf and whole plant acclimation responses to CO$_2$ were driven by optimal resource investment to photosynthetic capacity, where optimal resource investment at the leaf level maximized nitrogen allocation to structures that support whole plant growth.
 
-Increasing fertilization and inoculation induced strong positive effects on $N_\mathrm{area}$ (Fig. 1a), $V_\mathrm{cmax25}$ (Fig. \ref{fig:figure5.2}a), $J_\mathrm{max25}$ (Fig. \ref{fig:figure5.2}b). The general positive response of $N_\mathrm{area}$ to increasing fertilization and in inoculated pots was enhanced under ambient CO$_2$, which, paired with the general downregulation in $N_\mathrm{area}$ under elevated CO$_2$, resulted in a stronger downregulation of $N_\mathrm{area}$ under elevated CO$_2$ with increasing fertilization and in inoculated pots (Fig. \ref{fig:figure5.1}a). These patterns suggest that $N_\mathrm{area}$ responses to CO$_2$ were at least partially dependent on soil nitrogen fertilization and nitrogen acquisition strategy. However, the general stimulation in the fraction of leaf nitrogen allocated to Rubisco, bioenergetics, or photosynthesis under elevated CO$_2$ was not modified across the fertilization gradient and was only marginally enhanced in inoculated pots. These patterns suggest that the increased downregulation of $\mathrm{Narea}$ under elevated CO$_2$ with increasing fertilization was not associated with a change in relative investment to photosynthetic tissue. Instead, a stronger downregulation in the fraction of leaf nitrogen allocated to structure under ambient CO$_2$ resulted in a stronger stimulation in $\rho_\mathrm{structure}$ under elevated CO$_2$ with increasing fertilization (Fig. \ref{fig:figure5.3}b), indicating that fertilization shifted relative investment in leaf structural tissue under elevated CO$_2$. These results, combined with a stimulation in PNUE (Fig. SX) and iWUE (Fig. SX) under elevated CO$_2$ that was independent of fertilization or inoculation treatment, provide additional support for the hypothesis that leaf acclimation photosynthetic responses to CO$_2$ were independent of fertilization; though fertilization may contribute to changes in leaf morphology under elevated CO$_2$ through shifts in $M_\mathrm{area}$ \shortcite{Onoda2017,Wang2017,Dong2022a}.
+\begin{singlespace}
+    \subsection{\textit{Soil nitrogen fertilization has divergent effects on leaf and whole plant acclimation responses to CO$_2$}}
+\end{singlespace}
+\noindent Elevated CO$_2$ reduced $N_\mathrm{area}$, $V_\mathrm{cmax25}$, $J_\mathrm{max25}$, and stomatal conductance by 29\%, 16\%, 10\%, and 20\%, respectively. The larger downregulation of $V_\mathrm{cmax25}$ than $J_\mathrm{max25}$ led to an 8\% stimulation in $J_\mathrm{max25}$:$V_\mathrm{cmax25}$, while the larger downregulation of $N_\mathrm{area}$ than $V_\mathrm{cmax25}$ resulted in a 21\% stimulation in the fraction of leaf nitrogen allocated to photosynthesis under elevated CO$_2$. These acclimation responses are directionally consistent with previous studies that have investigated or reviewed leaf acclimation responses to CO$_2$ \shortcite{Drake1997,Makino1997,Ainsworth2002,Ainsworth2005,Ainsworth2007,Smith2013,Smith2020,Poorter2022}, and follow patterns expected from photosynthetic least-cost theory \shortcite{Wright2003,Prentice2014,Smith2019,Smith2020}. Together, the stimulation in $J_\mathrm{max25}$:$V_\mathrm{cmax25}$ and the fraction of leaf nitrogen allocated to photosynthesis under elevated CO$_2$ provide strong support for the idea that leaves were downregulating $V_\mathrm{cmax25}$ in response to elevated CO$_2$ in order to optimally coordinate photosynthesis such that net photosynthesis rates approached becoming equally co-limited by Rubisco carboxylation and RuBP regeneration \shortcite{Chen1993,Maire2012} while optimizing resource use efficiency.
 
-The downregulation in $N_\mathrm{area}$, $V_\mathrm{cmax25}$, and $J_\mathrm{max25}$ under elevated CO$_2$ corresponded with a respective 62\% and 100\% stimulation in total leaf area (Fig. \ref{fig:figure5.4}a) and total biomass (Fig. \ref{fig:figure5.4}b). The stimulation in total leaf area and total biomass under elevated CO$_2$ also corresponded with generally higher structural carbon costs to acquire nitrogen (Fig. \ref{fig:figure5.4}c), a pattern driven by a stimulation in belowground carbon biomass and reduction in whole plant nitrogen biomass. Alone, this result suggests that elevated CO$_2$ reduces plant nitrogen uptake efficiency, which does not explain why plants grown under elevated CO$_2$ generally had higher biomass and total leaf area. However, a strong negative effect of increasing fertilization on structural carbon costs to acquire nitrogen, which were generally similar between CO$_2$ concentrations, was driven by a stronger increase in whole plant nitrogen biomass than belowground carbon biomass. Thus, increases in the positive response of whole plant growth and total leaf area under elevated CO$_2$ with increasing fertilization were likely driven by an increase in nitrogen uptake efficiency, allowing plants to satisfy any increase in whole plant nitrogen demand associated with increased CO$_2$.
+Increasing fertilization and inoculation induced strong positive effects on $N_\mathrm{area}$, $V_\mathrm{cmax25}$, $J_\mathrm{max25}$. The general positive response of $N_\mathrm{area}$ to increasing fertilization and in inoculated pots was enhanced under ambient CO$_2$, which, paired with the general downregulation of $N_\mathrm{area}$ under elevated CO$_2$, resulted in a stronger downregulation of $N_\mathrm{area}$ under elevated CO$_2$ with increasing fertilization and in inoculated pots. These patterns suggest that $N_\mathrm{area}$ responses to CO$_2$ were at least partially dependent on soil nitrogen fertilization and nitrogen acquisition strategy. However, the general stimulation in the fraction of leaf nitrogen allocated to Rubisco, bioenergetics, or photosynthesis under elevated CO$_2$ was not modified across the fertilization gradient and was only marginally enhanced in inoculated pots. These patterns suggest that the increased downregulation of $N_\mathrm{area}$ under elevated CO$_2$ with increasing fertilization was not necessarily associated with a change in relative investment to photosynthetic tissue, providing another line of evidence suggesting that leaf acclimation responses tot CO$_2$ are decoupled from changes in soil nitrogen availability.
 
-Interestingly, these results indicate that the general stimulation in total leaf area and whole plant growth under elevated CO$_2$ was not modified by inoculation despite an apparent general negative effect of inoculation on $N_\mathrm{cost}$. This response could have been due to strong negative effect of increasing fertilization on nodulation (Fig. \ref{fig:figure5.5}), which may have caused the strong increase in the positive effect of elevated CO$_2$ on whole plant growth with increasing fertilization to mask any increase in the positive effect of elevated CO$_2$ on whole plant growth due to inoculation. Reductions in nodulation with increasing fertilization are commonly observed patterns that have been inferred to be a response that allows species optimize nitrogen uptake efficiency as costs to acquire nitrogen via direct uptake become more similar (Fig. \ref{fig:figure5.4}c) \shortcite{Gibson1985,Rastetter2001}. In this study, pairwise comparisons indicated strong positive effects of inoculation on total leaf area and total biomass (158\% increase in total leaf area, 119\% increase in total biomass) under elevated CO$_2$ at 0 ppm N, but no observable inoculation effect on total leaf area or total biomass under elevated CO$_2$ at 350 ppm N or 630 ppm N. While these responses did not generally differ from those observed under ambient CO$_2$, they do confirm the hypothesis that positive effects of inoculation on whole plant growth responses to elevated CO$_2$ would decrease with increasing fertilization.
+Leaf acclimation responses to elevated CO$_2$ corresponded with a 62\% and 100\% stimulation in total leaf area and total biomass, respectively. The stimulation in total leaf area and total biomass under elevated CO$_2$ corresponded with generally larger structural carbon costs to acquire nitrogen, a pattern driven by a stimulation in belowground carbon biomass and reduction in whole plant nitrogen biomass. This result suggests that elevated CO$_2$ reduces plant nitrogen uptake efficiency, which does not explain why plants grown under elevated CO$_2$ generally had higher biomass and total leaf area, unless growth stimulations under elevated CO$_2$ were driven by reductions in per-tissue nitrogen demand \shortcite{Dong2022_eCO2}. Interestingly, strong negative effects of increasing fertilization on structural carbon costs to acquire nitrogen, which were generally similar between CO$_2$ concentrations, were driven by stronger increases in whole plant nitrogen biomass than belowground carbon biomass. This response allowed plants to increase nitrogen uptake efficiency with increasing fertilization, which could be the mechanism that drove the enhanced growth stimulation under elevated CO$_2$ with increasing fertilization.
 
-Combined, results reported here suggest that soil nitrogen availability has a divergent role in modifying leaf and whole plant acclimation responses to CO$_2$. Leaf acclimation responses were generally decoupled from fertilization, while whole plant acclimation responses relied heavily on an increase in nitrogen uptake efficiency and consequent reduction in costs of acquiring nitrogen associated with increasing fertilization. However, whole plant responses to CO$_2$ indicated that fertilization may play a more important role in determining whole plant acclimation responses to CO$_2$ than nitrogen acquisition strategy, although these patterns were likely driven by reductions in nodulation with increasing fertilization. These results suggest that plants acclimate to CO$_2$ in nitrogen-limited systems by minimizing the number of optimally coordinated leaves, and that the downregulation in leaf nitrogen content under elevated CO$_2$ is not a direct response to changes in soil nitrogen availability as previously implied.
+Interestingly, results indicate that the stimulation in total leaf area and whole plant growth under elevated CO$_2$ was not modified by inoculation despite an apparent general negative effect of inoculation on $N_\mathrm{cost}$. This response could have been due to strong negative effect of increasing fertilization on nodulation, which may have caused the strong increase in the positive effect of elevated CO$_2$ on whole plant growth with increasing fertilization to mask any increase in the positive effect of elevated CO$_2$ on whole plant growth due to inoculation. Reductions in nodulation with increasing fertilization are commonly observed patterns that have been inferred to be a response that allows species optimize nitrogen uptake efficiency as costs to acquire nitrogen via direct uptake become more similar \shortcite{Gibson1985,Rastetter2001}. In this study, pairwise comparisons indicated strong positive effects of inoculation on total leaf area and total biomass (158\% increase in total leaf area, 119\% increase in total biomass) under elevated CO$_2$ at 0 ppm N (\textit{p}<0.05 in both cases), but no observable inoculation effect on total leaf area or total biomass under elevated CO$_2$ at 350 ppm N or 630 ppm N (\textit{p}>0.05 in both cases). While these responses did not generally differ from those observed under ambient CO$_2$, they do confirm the hypothesis that positive effects of inoculation on whole plant growth responses to elevated CO$_2$ would decrease with increasing fertilization.
+
+Combined, results reported here suggest that soil nitrogen availability has a divergent role in shaping leaf and whole plant acclimation responses to CO$_2$. Leaf acclimation responses were generally decoupled from fertilization, while whole plant acclimation responses relied heavily on an increase in nitrogen uptake efficiency and consequent reduction in costs of acquiring nitrogen associated with increasing fertilization. Whole plant responses to CO$_2$ indicated that fertilization may play a more important role in determining whole plant acclimation responses to CO$_2$ than nitrogen acquisition strategy, although any inoculation effect was likely masked by the strong reduction in root nodulation with increasing fertilization. These results suggest that plants acclimate to CO$_2$ in nitrogen-limited systems by minimizing the number of optimally coordinated leaves, and that downregulations in leaf nitrogen content under elevated CO$_2$ are not driven by changes in soil nitrogen availability as has been previously implied.
 
 \subsection{\textit{Implications for future model development}}
-Many terrestrial biosphere models predict photosynthetic capacity through plant functional group-specific linear regressions between $N_\mathrm{area}$ and $V_\mathrm{cmax}$ \shortcite{Rogers2014,Rogers2017a}, which assumes that leaf nitrogen-photosynthesis relationships are constant across growing environments. Our results build on previous work suggesting that leaf nitrogen-photosynthesis relationships dynamically change across growing environments \shortcite{Luo2021,Dong2022a}. Specifically, results from this experiment indicate that CO$_2$ concentration increased the fraction of leaf nitrogen content allocated to photosynthesis, while a general negative effect of increasing fertilization on the fraction of leaf nitrogen content allocated to photosynthesis was dependent on inoculation treatment. Similar increases in $N_\mathrm{area}$, $V_\mathrm{cmax25}$, and $J_\mathrm{max25}$ with increasing fertilization resulted in no change in the fraction of leaf nitrogen allocated to photosynthesis in uninoculated pots, while larger increases in $N_\mathrm{area}$ than $V_\mathrm{cmax25}$ and $J_\mathrm{max25}$ with increasing fertilization decreased the fraction of leaf nitrogen allocated to photosynthesis in inoculated pots (Fig. \ref{fig:figure5.3}a). As inoculated pots were able to access less finite supply of nitrogen across the fertilization gradient, these patterns suggest that constant leaf nitrogen-photosynthesis relationships may only apply in environments where nitrogen is limiting and will likely change with increasing CO$_2$ concentrations. Thus, terrestrial biosphere models that parameterize photosynthetic capacity through linear relationships between $N_\mathrm{area}$ and $V_\mathrm{cmax}$ \shortcite{Rogers2014,Rogers2017a} may be overestimating photosynthetic capacity in systems where nitrogen is not as limiting and may contribute to erroneous model simulations under future CO$_2$ concentrations.
+\noindent Many terrestrial biosphere models predict photosynthetic capacity through plant functional group-specific linear regressions between $N_\mathrm{area}$ and $V_\mathrm{cmax}$ \shortcite{Rogers2014,Rogers2017a}, which assumes that leaf nitrogen-photosynthesis relationships are constant across growing environments. These results build on previous work suggesting that leaf nitrogen-photosynthesis relationships dynamically change across growing environments \shortcite{Luo2021,Dong2022a}, showing that CO$_2$ concentration increases the fraction of leaf nitrogen content allocated to photosynthesis independent of fertilization or acquisition strategy. Additionally, increasing fertilization strongly decreased the fraction of leaf nitrogen allocated to photosynthesis, a response that was largely determined by acquisition strategy. Specifically, reductions in the fraction of leaf nitrogen allocated to photosynthesis with increasing fertilization were only observed in inoculated pots that had less finite access to nitrogen, suggesting that constant leaf nitrogen-photosynthesis relationships may only be apparent in environments where nitrogen is limiting. Terrestrial biosphere models that parameterize photosynthetic capacity through linear relationships between $N_\mathrm{area}$ and $V_\mathrm{cmax}$ \shortcite{Rogers2014,Rogers2017a} may therefore be overestimating photosynthetic capacity in systems where nitrogen is not as limiting. Such models are also not capable of detecting stimulations in the fraction of leaf nitrogen allocated to photosynthesis with increasing CO$_2$ concentration. The inability of models to predict these responses likely contributes to the widespread divergence of model simulations under future environmental scenarios \shortcite{Friedlingstein2014,Davies-Barnard2020}, and should therefore be a target for resolving in future generations of terrestrial biosphere models.
 
-These results also demonstrate that optimal resource investment to photosynthetic capacity defines leaf acclimation responses to elevated CO$_2$, and that these responses were independent of fertilization or inoculation treatment. Current approaches for simulating photosynthetic responses to CO$_2$ generally invoke patterns expected from progressive nitrogen limitation, where the downregulation in $N_\mathrm{area}$, and therefore photosynthetic capacity, due to elevated CO$_2$ are commonly a function of progressive reductions in soil nitrogen availability. Results reported here contradict this formulation, suggesting that the leaf acclimation response is driven by optimal resource investment to photosynthetic capacity and is independent of soil resource supply. Optimality models that leverage principles from optimal coordination and photosynthetic least-cost theories \shortcite{Wang2017,Stocker2020,Scott2022} are capable of capturing such acclimation responses to CO$_2$ \shortcite{Smith2020}, suggesting that the implementation of these models may improve the simulation of photosynthetic processes in terrestrial biosphere models under increasing CO$_2$ concentrations.
+These results demonstrate that optimal resource investment to photosynthetic capacity defines leaf acclimation responses to elevated CO$_2$, and that these responses were independent of fertilization or inoculation treatment. Current model approaches for simulating photosynthetic responses to CO$_2$ generally invoke patterns expected from progressive nitrogen limitation, where the downregulation in $N_\mathrm{area}$, and therefore photosynthetic capacity, due to elevated CO$_2$ is formulated as a function of progressive reductions in soil nitrogen availability. Results reported here contradict this formulation, suggesting that the leaf acclimation response is driven by optimal resource investment to photosynthetic capacity and is independent of soil resource supply. Optimality models that leverage principles from optimal coordination and photosynthetic least-cost theories \shortcite{Wang2017,Stocker2020,Scott2022} are capable of capturing such acclimation responses to CO$_2$ \shortcite{Smith2020}, suggesting that the implementation of these models may improve the simulation of photosynthetic processes in terrestrial biosphere models under increasing CO$_2$ concentrations.
 
-\subsection{\textit{Study limitations and future directions}}
-There are two study limitations that must be addressed to contextualize patterns observed in this study. First, restricting the volume of belowground substrate via a potted experiment does not adequately replicate belowground environments of natural systems, and therefore may modify effects of soil resource availability and inoculation on plant nitrogen uptake, particularly if pot size limits whole plant growth \shortcite{Poorter2012}. I attempted to minimize the extent of pot size limitation experienced in the first experimental chapters while accounting for the expected stimulation in whole plant growth under elevated CO$_2$ by using 6-liter pots. Despite attempts to minimize growth limitation imposed by pot volume, fertilization and CO$_2$ treatments increased the biomass: pot volume ratio such that all treatment combinations to exceed 1 $\mathrm{g\ L^{-1}}$ biomass: pot volume under high fertilization. The 1 $\mathrm{g\ L^{-1}}$ biomass: pot volume recommendation from \shortciteN{Poorter2012} was designated to avoid growth limitation imposed by pot volume. However, if pot size limitation indeed limited whole plant growth, then structural carbon costs to acquire nitrogen, belowground carbon biomass, whole plant nitrogen biomass, and whole plant biomass should each exhibit strong saturation points with increasing fertilization, which was not observed here. Additionally, a second set of photosynthetic measurements from one week prior to the harvest (6 weeks post-germination) revealed … As pot limitation is expected to decrease net photosynthesis, and focal leaves were of similar ages between the sixth and seventh week, one might expect growth limitation induced by constricted pot volume to result in a dampened effect of inoculation and fertilization on net photosynthesis, $V_\mathrm{cmax}$, and $J_\mathrm{max25}$. Analyses from the sixth week of development revealed … Additionally, analyses revealed a stronger/weaker downregulation in $V_\mathrm{cmax25}$ and $J_\mathrm{max25}$ on week 7, though disentangling the causality of this response (i.e. whether due to pot size limitation or simply a stronger acclimation response) would be difficult.
+\begin{singlespace}
+    \subsection{\textit{Study limitations and future directions}}
+\end{singlespace}
+\noindent There are two study limitations that must be addressed to contextualize patterns observed in this study. First, restricting the volume of belowground substrate via a potted experiment does not adequately replicate belowground environments of natural systems, and therefore may modify effects of soil resource availability and inoculation on plant nitrogen uptake. This limitation may be particularly relevant if pot size limits whole plant growth \shortcite{Poorter2012}. I attempted to minimize the extent of pot size limitation experienced in the first experimental chapter while accounting for the expected stimulation in whole plant growth under elevated CO$_2$ by using 6-liter pots. Despite attempts to minimize growth limitation imposed by pot volume, fertilization and CO$_2$ treatments increased the biomass: pot volume ratio such that all treatment combinations to exceed 1 g L$^{-1}$ biomass: pot volume under high fertilization (Table \ref{table:tab.d3}; Fig. \ref{fig:figure.d2}). The 1 g\ L$^{-1}$ biomass: pot volume recommendation from \shortciteN{Poorter2012} was designated to avoid growth limitation imposed by pot volume. However, if pot size limitation indeed limited whole plant growth, then structural carbon costs to acquire nitrogen, belowground carbon biomass, whole plant nitrogen biomass, and whole plant biomass should each exhibit strong saturation points with increasing fertilization, which was not observed here.  Importantly, leaf acclimation responses to CO$_2$ observed in this study are consistent with findings reported in \shortcite{Smith2020}, who used data from field manipulation experiments that did not restrict belowground volume.
 
-Second, this study evaluated leaf and whole plant responses to CO$_2$ in 7-week seedlings. Given the long-term scale of the progressive nitrogen limitation hypothesis, patterns observed here should be validated in longer-term nitrogen manipulation experiments. Previous work in free air CO$_2$ enrichment experiments show some support for patterns expected from the progressive nitrogen limitation hypothesis \shortcite{Reich2006,Norby2010}, although results are not consistent across experimental sites \shortcite{Finzi2006,Moore2006,Liang2016}. We found some support for patterns expected by the progressive nitrogen limitation hypothesis, namely an increase in plant nitrogen uptake under elevated CO$_2$ \shortcite{Luo2004}, though leaf acclimation responses to CO$_2$ were strongly indicative of optimal resource investment to photosynthetic capacity as expected from photosynthetic least-cost theory \shortcite{Prentice2014,Smith2019,Smith2020}.
+Second, this study evaluated leaf and whole plant responses to CO$_2$ in 7-week seedlings. Given the long-term scale of the progressive nitrogen limitation hypothesis, patterns observed here should be validated in longer-term nitrogen manipulation experiments. Previous work in free air CO$_2$ enrichment experiments show some support for patterns expected from the progressive nitrogen limitation hypothesis \shortcite{Reich2006,Norby2010}, although results are not consistent across experimental sites \shortcite{Finzi2006,Moore2006,Liang2016}. I found some support for patterns expected by the progressive nitrogen limitation hypothesis, namely the increase in plant nitrogen uptake under elevated CO$_2$ \shortcite{Luo2004}, though leaf acclimation responses to CO$_2$ were strongly indicative of optimal resource investment to photosynthetic capacity as expected from photosynthetic least-cost theory \shortcite{Prentice2014,Smith2019,Smith2020}.
 
-\subsection{\textit{Conclusions}}
-This study provides strong evidence suggesting that leaf acclimation responses to elevated CO$_2$ did not vary with soil nitrogen fertilization or ability to acquire nitrogen through symbiotic nitrogen fixation. However, whole plant acclimation responses to CO$_2$ were dependent on fertilization, where increasing fertilization increased the positive effect of whole plant growth under elevated CO$_2$. Results also indicate that fertilization played a relatively more important role in modifying whole plant responses to CO$_2$, perhaps due to a reduction in nodulation across the fertilization gradient. These patterns strongly support the hypothesis that leaf and whole plant acclimation responses are driven by optimal resource investment to photosynthetic capacity, and that leaf acclimation responses to CO$_2$ were not modified by changes in soil nitrogen availability. Additionally, strong interactions between fertilization and inoculation on leaf and whole plant traits indicated positive effects of fertilization on leaf and whole plant traits in uninoculated pots, but null effects of fertilization on leaf and whole plant traits in inoculated pots. These results build on previous work suggesting that constant leaf nitrogen-photosynthesis relationships are dynamic and change across growing environments, calling the use of constant relationships by terrestrial biosphere models into question.
+
+\begin{singlespace}
+    \subsection{\textit{Conclusions}}
+\end{singlespace}
+\noindent This study provides strong evidence suggesting that leaf acclimation responses to elevated CO$_2$ did not vary with soil nitrogen fertilization or ability to acquire nitrogen through symbiotic nitrogen fixation. However, whole plant acclimation responses to CO$_2$ were dependent on fertilization, where increasing fertilization increased the positive effect of whole plant growth under elevated CO$_2$. Results also indicate that fertilization played a relatively more important role in modifying whole plant responses to CO$_2$ than inoculation with symbiotic nitrogen-fixing bacteria, perhaps due to a reduction in nodulation across the fertilization gradient. These patterns strongly support the hypothesis that leaf and whole plant acclimation responses are driven by optimal resource investment to photosynthetic capacity, and that leaf acclimation responses to CO$_2$ were not modified by changes in soil nitrogen availability. Additionally, strong interactions between fertilization and inoculation on leaf and whole plant traits indicated positive effects of fertilization on leaf and whole plant traits in uninoculated pots, but null effects of fertilization on leaf and whole plant traits in inoculated pots. These results build on previous work suggesting that constant leaf nitrogen-photosynthesis relationships are dynamic and change across growing environments, calling the use of constant relationships by terrestrial biosphere models into question.
