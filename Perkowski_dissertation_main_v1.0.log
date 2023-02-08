@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.18)  7 FEB 2023 12:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.18)  8 FEB 2023 15:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -612,11 +612,11 @@ File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) [11] [12] [13] [14] [15] [16
 
 ]
-<ch2_LxN_Greenhouse/figs/fig1_ncost.png, id=1187, 9636.0pt x 4215.75pt>
+<ch2_LxN_Greenhouse/figs/fig1_ncost.png, id=1187, 578.16pt x 252.945pt>
 File: ch2_LxN_Greenhouse/figs/fig1_ncost.png Graphic file (type png)
 <use ch2_LxN_Greenhouse/figs/fig1_ncost.png>
 Package pdftex.def Info: ch2_LxN_Greenhouse/figs/fig1_ncost.png  used on input line 141.
-(pdftex.def)             Requested size: 587.83926pt x 257.17967pt.
+(pdftex.def)             Requested size: 578.15858pt x 252.94438pt.
  [17 <./ch2_LxN_Greenhouse/figs/fig1_ncost.png>] [18
 
 
@@ -624,21 +624,21 @@ Package pdftex.def Info: ch2_LxN_Greenhouse/figs/fig1_ncost.png  used on input l
 
 
 ]
-<ch2_LxN_Greenhouse/figs/fig2_nacq.png, id=1205, 9636.0pt x 4215.75pt>
+<ch2_LxN_Greenhouse/figs/fig2_nacq.png, id=1205, 578.16pt x 252.945pt>
 File: ch2_LxN_Greenhouse/figs/fig2_nacq.png Graphic file (type png)
 <use ch2_LxN_Greenhouse/figs/fig2_nacq.png>
 Package pdftex.def Info: ch2_LxN_Greenhouse/figs/fig2_nacq.png  used on input line 158.
-(pdftex.def)             Requested size: 587.83926pt x 257.17967pt.
+(pdftex.def)             Requested size: 578.15858pt x 252.94438pt.
  [19 <./ch2_LxN_Greenhouse/figs/fig2_nacq.png>] [20
 
 
 
 ]
-<ch2_LxN_Greenhouse/figs/fig3_rootCarbon.png, id=1238, 9636.0pt x 4215.75pt>
+<ch2_LxN_Greenhouse/figs/fig3_rootCarbon.png, id=1238, 578.16pt x 252.945pt>
 File: ch2_LxN_Greenhouse/figs/fig3_rootCarbon.png Graphic file (type png)
 <use ch2_LxN_Greenhouse/figs/fig3_rootCarbon.png>
 Package pdftex.def Info: ch2_LxN_Greenhouse/figs/fig3_rootCarbon.png  used on input line 177.
-(pdftex.def)             Requested size: 587.83926pt x 257.17967pt.
+(pdftex.def)             Requested size: 578.15858pt x 252.94438pt.
  [21 <./ch2_LxN_Greenhouse/figs/fig3_rootCarbon.png>] [22
 
 
@@ -650,11 +650,11 @@ Package pdftex.def Info: ch2_LxN_Greenhouse/figs/fig3_rootCarbon.png  used on in
 
 
 ]
-<ch2_LxN_Greenhouse/figs/fig4_nodwgt.png, id=1276, 9636.0pt x 4215.75pt>
+<ch2_LxN_Greenhouse/figs/fig4_nodwgt.png, id=1276, 578.16pt x 252.945pt>
 File: ch2_LxN_Greenhouse/figs/fig4_nodwgt.png Graphic file (type png)
 <use ch2_LxN_Greenhouse/figs/fig4_nodwgt.png>
 Package pdftex.def Info: ch2_LxN_Greenhouse/figs/fig4_nodwgt.png  used on input line 332.
-(pdftex.def)             Requested size: 587.83926pt x 257.17967pt.
+(pdftex.def)             Requested size: 578.15858pt x 252.94438pt.
  [25 <./ch2_LxN_Greenhouse/figs/fig4_nodwgt.png>] [26
 
 
@@ -1176,11 +1176,11 @@ LaTeX Warning: No positions in optional float specifier.
 
 
 ]
-<ch2_LxN_Greenhouse/figs/figs1_bvr.png, id=3317, 9636.0pt x 4215.75pt>
+<ch2_LxN_Greenhouse/figs/figs1_bvr.png, id=3317, 578.16pt x 252.945pt>
 File: ch2_LxN_Greenhouse/figs/figs1_bvr.png Graphic file (type png)
 <use ch2_LxN_Greenhouse/figs/figs1_bvr.png>
 Package pdftex.def Info: ch2_LxN_Greenhouse/figs/figs1_bvr.png  used on input line 161.
-(pdftex.def)             Requested size: 587.83926pt x 257.17967pt.
+(pdftex.def)             Requested size: 35.27036pt x 15.43077pt.
  [207 <./ch2_LxN_Greenhouse/figs/figs1_bvr.png>]) (./ch3_NxpH/ch3_NxpH_appendix.tex [208
 
 
@@ -1360,7 +1360,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  68i,17n,77p,2684b,502s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmbx8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmmi6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmri8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsy6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on Perkowski_dissertation_main_v1.0.pdf (242 pages, 49514641 bytes).
+Output written on Perkowski_dissertation_main_v1.0.pdf (242 pages, 46399285 bytes).
 PDF statistics:
  3649 PDF objects out of 4296 (max. 8388607)
  3271 compressed objects within 33 object streams

@@ -6,7 +6,7 @@
     \noindent Perkowski EA, EF Waring, NG Smith, ``Root mass carbon costs to acquire nitrogen are determined by nitrogen and light availability in two species with different nitrogen acquisition strategies'', \textit{Journal of Experimental Botany}, 2021, Volume 72, Issue 15, Pages 5766-5776, by permission of Oxford University Press
 \end{singlespace}
 
-\section{Introduction}
+\section{Introduction} 
 \noindent Carbon and nitrogen cycles are tightly coupled in terrestrial ecosystems. This tight coupling influences photosynthesis \shortcite{Walker2014,Rogers2017a}, net primary productivity \shortcite{LeBauer2008,Thomas2013}, decomposition \shortcite{Cornwell2008,Bonan2013,Sulman2019}, and plant resource competition \shortcite{Gill2016,Xu-Ri2017}. Terrestrial biosphere models are beginning to include connected carbon and nitrogen cycles to improve the realism of their simulations \shortcite{Fisher2010,Brzostek2014FUN2,Wieder2015_NPP,Shi2016,Zhu2019}. Simulations from these models indicate that coupling carbon and nitrogen cycles can drastically influence future biosphere-atmosphere feedbacks under global change, such as elevated carbon dioxide or nitrogen deposition \shortcite{Thornton2007,Goll2012,Wieder2015_NPP,Wieder2019}. Nonetheless, there are still limitations in our quantitative understanding of connected carbon and nitrogen dynamics \shortcite{Thomas2015,Meyerholt2016,Rogers2017a,Exbrayat2018,Shi2019}, forcing models to make potentially unreliable assumptions.
 
 Plant nitrogen acquisition is a process in terrestrial ecosystems by which carbon and nitrogen are tightly coupled \shortcite{Vitousek1991,Delaire2005,Brzostek2014FUN2}. Plants must allocate photosynthetically derived carbon belowground to produce and maintain root systems or exchange with symbiotic soil microbes in order to acquire nitrogen \shortcite{Hogberg2007,Hogberg2010}. Thus, plants have an inherent carbon cost associated with acquiring nitrogen, which can include both direct energetic costs associated with nitrogen acquisition and indirect costs associated with building structures that support nitrogen acquisition \shortcite{Gutschick1981,Rastetter2001,Vitousek2002,Menge2008}. Model simulations \shortcite{Fisher2010,Brzostek2014FUN2,Shi2016,Allen2020} and meta-analyses \shortcite{Terrer2018} suggest that these carbon costs vary between species, particularly those with different nitrogen acquisition strategies. For example, simulations using iterations of the Fixation and Uptake of Nitrogen (FUN) model indicate that species that acquire nitrogen from non-symbiotic active uptake pathways (e.g. mass flow) generally have larger carbon costs to acquire nitrogen than species that acquire nitrogen through symbiotic associations with nitrogen-fixing bacteria \shortcite{Brzostek2014FUN2,Allen2020}.
@@ -138,7 +138,7 @@ Carbon costs to acquire nitrogen in \textit{G. max} also increased with increasi
 \newpage
 \begin{landscape}
 \begin{figure}
-    \includegraphics[scale = 0.061]{ch2_LxN_Greenhouse/figs/fig1_ncost.png}
+    \includegraphics[scale = 1]{ch2_LxN_Greenhouse/figs/fig1_ncost.png}
     \centering
     \caption[Relationships between soil nitrogen fertilization and light availability on carbon costs to acquire nitrogen in \textit{G. hirsutum} and \textit{G. max}]{Relationships between soil nutrient fertilization and light availability on carbon costs to acquire nitrogen in \textit{G. hirsutum} and \textit{G. max}. Nitrogen fertilization treatments are represented on the x-axis. Shade cover treatments are represented through colored points and trendlines. Trendlines were created by back-transforming marginal mean slopes and intercepts from species-specific linear mixed-effects models. These values were calculated using the ‘emtrends’ and ‘emmeans’ functions in the ‘emmeans’ R package (Lenth, 2019). Yellow points and trendlines represent the 0\% shade cover treatment, red points and trendlines represent the 30\% shade cover treatment, blue points and trendlines represent the 50\% shade cover treatment, and gray points and trendlines represent the 80\% shade cover treatment. Solid trendlines indicate slopes that are significantly different from zero (Tukey: \textit{p}<0.05), while dashed trendlines indicate slopes that are not statistically different from zero.}
     \label{fig:figure2.1}
@@ -155,7 +155,7 @@ Whole plant nitrogen biomass in \textit{G. max} increased with increasing light 
 \newpage
 \begin{landscape}
 \begin{figure}
-    \includegraphics[scale = 0.061]{ch2_LxN_Greenhouse/figs/fig2_nacq.png}
+    \includegraphics[scale = 1]{ch2_LxN_Greenhouse/figs/fig2_nacq.png}
     \centering
     \caption[Relationships between soil nitrogen fertilization and light availability on whole-plant nitrogen biomass in \textit{G. hirsutum} and \textit{G. max}]{Relationships between soil nutrient fertilization and light availability on whole-plant nitrogen biomass in \textit{G. hirsutum} and \textit{G. max}. Whole-plant nitrogen biomass is the denominator of the carbon cost to acquire nitrogen calculation. Nitrogen fertilization treatments are represented on the x-axis. Shade cover treatments are represented through colored points and trendlines. Trendlines were created by back-transforming marginal mean slopes and intercepts from species-specific linear mixed-effects models. These values were calculated using the ‘emtrends’ and ‘emmeans’ functions in the ‘emmeans’ R package \shortcite{Lenth2019}. Points are jittered for visibility. Colored points and trendlines are as explained in Fig. \ref{fig:figure2.1}. Solid trendlines indicate slopes that are significantly different from zero (Tukey: \textit{p}<0.05), while dashed trendlines indicate slopes that are not statistically different from zero.}
     \label{fig:figure2.2}
@@ -174,7 +174,7 @@ There was an interaction between light availability and nitrogen fertilization o
 \begin{landscape}
 \begin{figure}
     \centering
-    \includegraphics[scale = 0.061]{ch2_LxN_Greenhouse/figs/fig3_rootCarbon.png}
+    \includegraphics[scale = 1]{ch2_LxN_Greenhouse/figs/fig3_rootCarbon.png}
     \caption[Relationships between soil nitrogen fertilization and light availability on root carbon biomass in \textit{G. hirsutum} and \textit{G. max}]{Relationships between soil nutrient fertilization and light availability on root carbon biomass in \textit{G. hirsutum} and \textit{G. max}. Root carbon biomass is the numerator of the carbon cost to acquire nitrogen calculation. Nitrogen fertilization treatments are represented on the x-axis. Colored points and trendlines are as explained in Fig. \ref{fig:figure2.1}. Trendlines were created by back-transforming marginal mean slopes and intercepts from species-specific linear mixed-effects models. These values were calculated using the `emtrends’ and `emmeans’ functions in the `emmeans’ R package \shortcite{Lenth2019}. Points are jittered for visibility. Colored points and trendlines are as explained in Fig. \ref{fig:figure2.1}.}
     \label{fig:figure2.3}
 \end{figure}
@@ -329,7 +329,7 @@ There was an interaction between light availability and nitrogen fertilization o
 
 \begin{figure}
     \centering
-    \includegraphics[scale = 0.061]{ch2_LxN_Greenhouse/figs/fig4_nodwgt.png}
+    \includegraphics[scale = 1]{ch2_LxN_Greenhouse/figs/fig4_nodwgt.png}
     \caption[Effects of shade cover and nitrogen fertilization on root nodule biomass and the ratio of root nodule biomass to root biomass in \textit{G. max}.]{Effects of shade cover and nitrogen fertilization on root nodule biomass (a) and the ratio of root nodule biomass to root biomass (b) in \textit{G. max}. Nitrogen fertilization treatments are represented on the x-axis. Shade cover treatments are represented through colored points and trendlines. Trendlines were created by back-transforming marginal mean slopes and intercepts from species-specific linear mixed-effects models. These values were calculated using the ‘emtrends’ and ‘emmeans’ functions in the ‘emmeans’ R package \shortcite{Lenth2019}. Points are jittered for visibility. Yellow points and trendlines represent the 0\% shade cover treatment, blue points and trendlines represent the 30\% shade cover treatment, green points and trendlines represent the 50\% shade cover treatment, and purple points and trendlines represent the 80\% shade cover treatment. Solid trendlines indicate slopes that are significantly different from zero (Tukey: \textit{p}<0.05), while dashed trendlines indicate slopes that are not statistically different from zero.}
     \label{fig:figure2.4}
 \end{figure}
