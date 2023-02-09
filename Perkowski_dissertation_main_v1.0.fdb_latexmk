@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex Perkowski_dissertation_main_v1.0"] 1675792257 "Perkowski_dissertation_main_v1.0.aux" "Perkowski_dissertation_main_v1.0.bbl" "Perkowski_dissertation_main_v1.0" 1675893859
+["bibtex Perkowski_dissertation_main_v1.0"] 1675792257 "Perkowski_dissertation_main_v1.0.aux" "Perkowski_dissertation_main_v1.0.bbl" "Perkowski_dissertation_main_v1.0" 1675895375
   "/usr/local/texlive/2022/texmf-dist/bibtex/bst/chicago/chicago.bst" 1198629289 37416 2ae04276c51f11eda70770f4081293b7 ""
-  "Perkowski_dissertation_main_v1.0.aux" 1675893859 89826 50ea3c3170445f593ff1092f6a4244cb "pdflatex"
+  "Perkowski_dissertation_main_v1.0.aux" 1675895374 89826 50ea3c3170445f593ff1092f6a4244cb "pdflatex"
   "reference_list.bib" 1675203626 103721 468fcc218000e5818736ce33d36491a4 ""
   (generated)
   "Perkowski_dissertation_main_v1.0.bbl"
   "Perkowski_dissertation_main_v1.0.blg"
-["pdflatex"] 1675893816 "/Users/eaperkowski/git/compile_dissertation/Perkowski_dissertation_main_v1.0.tex" "Perkowski_dissertation_main_v1.0.pdf" "Perkowski_dissertation_main_v1.0" 1675893859
+["pdflatex"] 1675895332 "/Users/eaperkowski/git/compile_dissertation/Perkowski_dissertation_main_v1.0.tex" "Perkowski_dissertation_main_v1.0.pdf" "Perkowski_dissertation_main_v1.0" 1675895375
   "/Users/eaperkowski/git/compile_dissertation/Perkowski_dissertation_main_v1.0.tex" 1675782115 16826 e0d013814e481e147bdfc8063014fb7c ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1254269338 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc" 1202520719 3486 c7eadf5dcc57b3b2d11736679f6636ba ""
@@ -170,13 +170,13 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1674085453 2826446 381a76df57d32fcce15d437cf05d121c ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "Perkowski_dissertation_main_v1.0.aux" 1675893859 89826 50ea3c3170445f593ff1092f6a4244cb "pdflatex"
+  "Perkowski_dissertation_main_v1.0.aux" 1675895374 89826 50ea3c3170445f593ff1092f6a4244cb "pdflatex"
   "Perkowski_dissertation_main_v1.0.bbl" 1675792257 96559 607eaa01b72191561eeaa4681d036ecd "bibtex Perkowski_dissertation_main_v1.0"
-  "Perkowski_dissertation_main_v1.0.lof" 1675893859 5450 74f1cf0add9da8995b5e7bfc5aae6034 "pdflatex"
-  "Perkowski_dissertation_main_v1.0.lot" 1675893859 7380 51d501eb1b9788ab64fea02f9ca5fa8b "pdflatex"
-  "Perkowski_dissertation_main_v1.0.out" 1675893859 26375 e19b2a81b53275e9d4b0ddf8c05c676c "pdflatex"
+  "Perkowski_dissertation_main_v1.0.lof" 1675895374 5450 74f1cf0add9da8995b5e7bfc5aae6034 "pdflatex"
+  "Perkowski_dissertation_main_v1.0.lot" 1675895374 7380 51d501eb1b9788ab64fea02f9ca5fa8b "pdflatex"
+  "Perkowski_dissertation_main_v1.0.out" 1675895374 26375 e19b2a81b53275e9d4b0ddf8c05c676c "pdflatex"
   "Perkowski_dissertation_main_v1.0.tex" 1675782115 16826 e0d013814e481e147bdfc8063014fb7c ""
-  "Perkowski_dissertation_main_v1.0.toc" 1675893859 11095 99a7dcd5ce9567d1991863bb6d677e54 "pdflatex"
+  "Perkowski_dissertation_main_v1.0.toc" 1675895374 11095 99a7dcd5ce9567d1991863bb6d677e54 "pdflatex"
   "ch1_intro/ch1_intro_main.tex" 1675782074 10082 9fe1a554fdd7baa48fc6549b8bd8b04f ""
   "ch2_LxN_Greenhouse/ch2_LxN_Greenhouse_appendix.tex" 1675722950 9694 186d532ba401571a8157be940e8e46e8 ""
   "ch2_LxN_Greenhouse/ch2_LxN_main.tex" 1675869610 50446 7650f543a03d00db7e6e2d0fd746cbe5 ""
@@ -193,7 +193,7 @@
   "ch3_NxpH/figs/NxS_fig4_pnueiwue.png" 1675443101 5699201 a4a567274dc626efd870670bcf076572 ""
   "ch3_NxpH/figs/NxS_figS1_leaftemp.png" 1675184098 1343926 b8d84fb2cb775b30305767a13ed21ef7 ""
   "ch4_TXeco/ch4_TXeco_appendix.tex" 1675723514 14510 f3e938b6af6b2172966729e810108adc ""
-  "ch4_TXeco/ch4_TXeco_main.tex" 1675893816 83891 1111c4215b0bc6460c211351902edf62 ""
+  "ch4_TXeco/ch4_TXeco_main.tex" 1675895332 83952 06455e1a65543a0f80ec018b5637f980 ""
   "ch4_TXeco/figs/TXeco_fig1_site_map.png" 1675789438 2032210 f1df5d847b4de70e16c12a082ee65a04 ""
   "ch4_TXeco/figs/TXeco_fig2_beta.png" 1674765360 2658922 88e183b988f9f8e24d2d9d2505797b23 ""
   "ch4_TXeco/figs/TXeco_fig3_chi.png" 1674765323 4227906 3e4d564f3e2ea64a15b08690a598e5a5 ""
