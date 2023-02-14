@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.18)  14 FEB 2023 09:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.18)  14 FEB 2023 13:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -922,120 +922,119 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 [103]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 761.
+(hyperref)                removing `math shift' on input line 760.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 761.
+(hyperref)                removing `subscript' on input line 760.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 761.
+(hyperref)                removing `math shift' on input line 760.
 
 [104]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 766.
+(hyperref)                removing `math shift' on input line 765.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 766.
+(hyperref)                removing `subscript' on input line 765.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 766.
+(hyperref)                removing `math shift' on input line 765.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 766.
+(hyperref)                removing `math shift' on input line 765.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 766.
+(hyperref)                removing `subscript' on input line 765.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 766.
+(hyperref)                removing `math shift' on input line 765.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 766.
+(hyperref)                removing `math shift' on input line 765.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 766.
+(hyperref)                removing `subscript' on input line 765.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 766.
+(hyperref)                removing `math shift' on input line 765.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 766.
+(hyperref)                removing `math shift' on input line 765.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\beta' on input line 766.
+(hyperref)                removing `\beta' on input line 765.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 766.
-
-[105]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 772.
+(hyperref)                removing `math shift' on input line 765.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\beta' on input line 772.
+(hyperref)                removing `math shift' on input line 771.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 772.
+(hyperref)                removing `\beta' on input line 771.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 772.
+(hyperref)                removing `math shift' on input line 771.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 772.
+(hyperref)                removing `math shift' on input line 771.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 772.
+(hyperref)                removing `subscript' on input line 771.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 772.
+(hyperref)                removing `math shift' on input line 771.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 772.
+(hyperref)                removing `math shift' on input line 771.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 772.
+(hyperref)                removing `subscript' on input line 771.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 772.
+(hyperref)                removing `math shift' on input line 771.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 772.
+(hyperref)                removing `math shift' on input line 771.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 772.
+(hyperref)                removing `subscript' on input line 771.
 
 
-Overfull \hbox (1.0402pt too wide) in paragraph at lines 774--775
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 771.
+
+
+Overfull \hbox (1.0402pt too wide) in paragraph at lines 773--774
 \T1/lmr/m/n/12 N-fixing species had greater $\OML/lmm/m/it/12 N[]$ \T1/lmr/m/n/12 val-ues on av-er-age com-pared to non-fixing species,
  []
 
-[106] [107]) [108] (./ch5_NxCO2xI/ch5_NxCO2xI_main.tex [109]
+[105] [106] [107]) (./ch5_NxCO2xI/ch5_NxCO2xI_main.tex [108]
 Chapter 5.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -1049,14 +1048,14 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 2.
 
-[110
+[109
 
-] [111]
+] [110]
 Overfull \hbox (4.655pt too wide) in paragraph at lines 14--15
 \T1/lmr/m/n/12 leaves ac-cli-mate to el-e-vated CO$[]$ by down-reg-u-lat-ing ni-tro-gen al-lo-ca-tion to Ribulose-
  []
 
-[112] [113] [114] [115] [116] [117] [118] [119] [120]
+[111] [112] [113] [114] [115] [116] [117] [118] [119]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\mathsurround' on input line 57.
@@ -1069,72 +1068,72 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `subscript' on input line 57.
 
-[121] [122] [123] [124] [125] [126] [127] [128] [129] [130
+[120] [121] [122] [123] [124] [125] [126] [127] [128] [129
 
 ]
-<ch5_NxCO2xI/figs/NxCO2xI_fig1_leafN.png, id=2783, 7227.0pt x 4818.0pt>
+<ch5_NxCO2xI/figs/NxCO2xI_fig1_leafN.png, id=2779, 7227.0pt x 4818.0pt>
 File: ch5_NxCO2xI/figs/NxCO2xI_fig1_leafN.png Graphic file (type png)
 <use ch5_NxCO2xI/figs/NxCO2xI_fig1_leafN.png>
 Package pdftex.def Info: ch5_NxCO2xI/figs/NxCO2xI_fig1_leafN.png  used on input line 272.
 (pdftex.def)             Requested size: 451.6864pt x 301.12427pt.
- [131 <./ch5_NxCO2xI/figs/NxCO2xI_fig1_leafN.png>] [132
+ [130 <./ch5_NxCO2xI/figs/NxCO2xI_fig1_leafN.png>] [131
 
 
 
 
 
-] [133] [134
+] [132] [133
 
 ]
-<ch5_NxCO2xI/figs/NxCO2xI_fig2_photo.png, id=2830, 7227.0pt x 7227.0pt>
+<ch5_NxCO2xI/figs/NxCO2xI_fig2_photo.png, id=2826, 7227.0pt x 7227.0pt>
 File: ch5_NxCO2xI/figs/NxCO2xI_fig2_photo.png Graphic file (type png)
 <use ch5_NxCO2xI/figs/NxCO2xI_fig2_photo.png>
 Package pdftex.def Info: ch5_NxCO2xI/figs/NxCO2xI_fig2_photo.png  used on input line 431.
 (pdftex.def)             Requested size: 411.9874pt x 411.9874pt.
- [135 <./ch5_NxCO2xI/figs/NxCO2xI_fig2_photo.png>] [136
+ [134 <./ch5_NxCO2xI/figs/NxCO2xI_fig2_photo.png>] [135
 
 
 
-] [137] [138
+] [136] [137
 
 ]
-<ch5_NxCO2xI/figs/NxCO2xI_fig3_propN.png, id=2872, 7227.0pt x 2409.0pt>
+<ch5_NxCO2xI/figs/NxCO2xI_fig3_propN.png, id=2868, 7227.0pt x 2409.0pt>
 File: ch5_NxCO2xI/figs/NxCO2xI_fig3_propN.png Graphic file (type png)
 <use ch5_NxCO2xI/figs/NxCO2xI_fig3_propN.png>
 Package pdftex.def Info: ch5_NxCO2xI/figs/NxCO2xI_fig3_propN.png  used on input line 586.
 (pdftex.def)             Requested size: 542.00162pt x 180.6672pt.
- [139 <./ch5_NxCO2xI/figs/NxCO2xI_fig3_propN.png>] [140
+ [138 <./ch5_NxCO2xI/figs/NxCO2xI_fig3_propN.png>] [139
 
 
 
 
 
-] [141]
+] [140]
 Underfull \hbox (badness 10000) in paragraph at lines 729--729
 []\T1/lmr/m/n/12 N fer-til-iza-tion
  []
 
-[142
+[141
 
 ]
-<ch5_NxCO2xI/figs/NxCO2xI_fig4_wholePlant.png, id=2907, 5582.8575pt x 4786.88374pt>
+<ch5_NxCO2xI/figs/NxCO2xI_fig4_wholePlant.png, id=2903, 5582.8575pt x 4786.88374pt>
 File: ch5_NxCO2xI/figs/NxCO2xI_fig4_wholePlant.png Graphic file (type png)
 <use ch5_NxCO2xI/figs/NxCO2xI_fig4_wholePlant.png>
 Package pdftex.def Info: ch5_NxCO2xI/figs/NxCO2xI_fig4_wholePlant.png  used on input line 741.
 (pdftex.def)             Requested size: 413.15907pt x 354.25307pt.
- [143 <./ch5_NxCO2xI/figs/NxCO2xI_fig4_wholePlant.png>] [144
+ [142 <./ch5_NxCO2xI/figs/NxCO2xI_fig4_wholePlant.png>] [143
 
 
 
-] [145] [146
+] [144] [145
 
 ]
-<ch5_NxCO2xI/figs/NxCO2xI_fig5_nFix.png, id=2951, 5606.9475pt x 4804.95125pt>
+<ch5_NxCO2xI/figs/NxCO2xI_fig5_nFix.png, id=2946, 5606.9475pt x 4804.95125pt>
 File: ch5_NxCO2xI/figs/NxCO2xI_fig5_nFix.png Graphic file (type png)
 <use ch5_NxCO2xI/figs/NxCO2xI_fig5_nFix.png>
 Package pdftex.def Info: ch5_NxCO2xI/figs/NxCO2xI_fig5_nFix.png  used on input line 836.
 (pdftex.def)             Requested size: 414.94185pt x 355.59016pt.
- [147 <./ch5_NxCO2xI/figs/NxCO2xI_fig5_nFix.png>] [148
+ [146 <./ch5_NxCO2xI/figs/NxCO2xI_fig5_nFix.png>] [147
 
 
 
@@ -1151,37 +1150,37 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 848.
 
-[149] [150] [151] [152] [153] [154]) [155] (./ch6_conclusions/ch6_conclusions_main.tex [156]
+[148] [149] [150] [151] [152] [153]) [154] (./ch6_conclusions/ch6_conclusions_main.tex [155]
 Chapter 6.
-[157
+[156
 
-] [158] [159] [160] [161] [162] [163] [164] [165]) [166] (./Perkowski_dissertation_main_v1.0.bbl [167
+] [157] [158] [159] [160] [161] [162] [163] [164]) [165] (./Perkowski_dissertation_main_v1.0.bbl [166
 
 
-] [168] [169] [170] [171] [172] [173] [174] [175] [176] [177] [178] [179]
+] [167] [168] [169] [170] [171] [172] [173] [174] [175] [176] [177] [178]
 Underfull \hbox (badness 1910) in paragraph at lines 689--697
 []\T1/lmr/m/n/12 Harrison, S. P., W. Cramer, O. Franklin, I. C. Pren-tice, H. Wang,
  []
 
-[180] [181] [182] [183] [184] [185] [186] [187] [188] [189] [190] [191] [192] [193] [194] [195] [196] [197] [198] [199] [200] [201] [202]) (./ch2_LxN_Greenhouse/ch2_LxN_Greenhouse_appendix.tex [203] [204
+[179] [180] [181] [182] [183] [184] [185] [186] [187] [188] [189] [190] [191] [192] [193] [194] [195] [196] [197] [198] [199] [200] [201]) (./ch2_LxN_Greenhouse/ch2_LxN_Greenhouse_appendix.tex [202] [203
 
 ]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 37.
 
-[205
+[204
 
-] [206
+] [205
 
 
 ]
-<ch2_LxN_Greenhouse/figs/figs1_bvr.png, id=3307, 578.16pt x 252.945pt>
+<ch2_LxN_Greenhouse/figs/figs1_bvr.png, id=3303, 578.16pt x 252.945pt>
 File: ch2_LxN_Greenhouse/figs/figs1_bvr.png Graphic file (type png)
 <use ch2_LxN_Greenhouse/figs/figs1_bvr.png>
 Package pdftex.def Info: ch2_LxN_Greenhouse/figs/figs1_bvr.png  used on input line 161.
 (pdftex.def)             Requested size: 462.52863pt x 202.35626pt.
- [207 <./ch2_LxN_Greenhouse/figs/figs1_bvr.png>]) (./ch3_NxpH/ch3_NxpH_appendix.tex [208
+ [206 <./ch2_LxN_Greenhouse/figs/figs1_bvr.png>]) (./ch3_NxpH/ch3_NxpH_appendix.tex [207
 
 
 
@@ -1193,7 +1192,7 @@ Package pdftex.def Info: ch2_LxN_Greenhouse/figs/figs1_bvr.png  used on input li
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 52.
 
-[209
+[208
 
 ]
 
@@ -1205,20 +1204,20 @@ Overfull \hbox (3.70728pt too wide) in paragraph at lines 93--94
 $[]$\T1/lmr/m/n/12 Net pho-to-syn-the-sis and stom-atal con-duc-tance val-ues were fit to the log-polynomial
  []
 
-[210
+[209
 
 ]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 99.
 
-[211]
-<ch3_NxpH/figs/NxS_figS1_leaftemp.png, id=3332, 7227.0pt x 2710.125pt>
+[210]
+<ch3_NxpH/figs/NxS_figS1_leaftemp.png, id=3327, 7227.0pt x 2710.125pt>
 File: ch3_NxpH/figs/NxS_figS1_leaftemp.png Graphic file (type png)
 <use ch3_NxpH/figs/NxS_figS1_leaftemp.png>
 Package pdftex.def Info: ch3_NxpH/figs/NxS_figS1_leaftemp.png  used on input line 130.
 (pdftex.def)             Requested size: 505.9417pt x 189.72813pt.
- [212 <./ch3_NxpH/figs/NxS_figS1_leaftemp.png>]) (./ch4_TXeco/ch4_TXeco_appendix.tex [213
+ [211 <./ch3_NxpH/figs/NxS_figS1_leaftemp.png>]) (./ch4_TXeco/ch4_TXeco_appendix.tex [212
 
 
 
@@ -1257,7 +1256,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.6.0.1
 <to be read again> 
                    \relax 
 l.45 \begin{equation}
-                      [214
+                      [213
 pdfTeX warning (ext4): destination with the same identifier (name{equation.6.0.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
@@ -1272,7 +1271,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 93--93
 []\T1/lmr/bx/n/12 Growth
  []
 
-[215]
+[214]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 100.
@@ -1282,13 +1281,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 137--137
 []\T1/lmr/bx/n/12 Growth
  []
 
-[216] [217]
-<ch4_TXeco/figs/TXeco_figS2_aicc.png, id=3369, 578.16pt x 216.81pt>
+[215] [216]
+<ch4_TXeco/figs/TXeco_figS2_aicc.png, id=3364, 578.16pt x 216.81pt>
 File: ch4_TXeco/figs/TXeco_figS2_aicc.png Graphic file (type png)
 <use ch4_TXeco/figs/TXeco_figS2_aicc.png>
 Package pdftex.def Info: ch4_TXeco/figs/TXeco_figS2_aicc.png  used on input line 178.
 (pdftex.def)             Requested size: 40.47533pt x 15.17824pt.
- [218 <./ch4_TXeco/figs/TXeco_figS2_aicc.png>]) (./ch5_NxCO2xI/ch5_NxCO2xI_appendix.tex
+ [217 <./ch4_TXeco/figs/TXeco_figS2_aicc.png>]) (./ch5_NxCO2xI/ch5_NxCO2xI_appendix.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 2.
@@ -1301,7 +1300,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 2.
 
-[219
+[218
 
 
 
@@ -1319,43 +1318,43 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 62.
 
-[220]
+[219]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 87.
 
-[221
+[220
 
 
 ]
-<ch5_NxCO2xI/figs/NxCO2xI_figS1_leafN_chl_.png, id=3388, 5982.35pt x 4796.92125pt>
+<ch5_NxCO2xI/figs/NxCO2xI_figS1_leafN_chl_.png, id=3383, 5982.35pt x 4796.92125pt>
 File: ch5_NxCO2xI/figs/NxCO2xI_figS1_leafN_chl_.png Graphic file (type png)
 <use ch5_NxCO2xI/figs/NxCO2xI_figS1_leafN_chl_.png>
 Package pdftex.def Info: ch5_NxCO2xI/figs/NxCO2xI_figS1_leafN_chl_.png  used on input line 116.
 (pdftex.def)             Requested size: 373.89597pt x 299.80684pt.
- [222 <./ch5_NxCO2xI/figs/NxCO2xI_figS1_leafN_chl_.png>]
-<ch5_NxCO2xI/figs/NxCO2xI_figS2_bvr.png, id=3394, 4818.0pt x 2710.125pt>
+ [221 <./ch5_NxCO2xI/figs/NxCO2xI_figS1_leafN_chl_.png>]
+<ch5_NxCO2xI/figs/NxCO2xI_figS2_bvr.png, id=3390, 4818.0pt x 2710.125pt>
 File: ch5_NxCO2xI/figs/NxCO2xI_figS2_bvr.png Graphic file (type png)
 <use ch5_NxCO2xI/figs/NxCO2xI_figS2_bvr.png>
 Package pdftex.def Info: ch5_NxCO2xI/figs/NxCO2xI_figS2_bvr.png  used on input line 127.
 (pdftex.def)             Requested size: 337.29446pt x 189.72813pt.
- [223 <./ch5_NxCO2xI/figs/NxCO2xI_figS2_bvr.png>]) (./Perkowski_dissertation_main_v1.0.aux)
+ [222 <./ch5_NxCO2xI/figs/NxCO2xI_figS2_bvr.png>]) (./Perkowski_dissertation_main_v1.0.aux)
 Package rerunfilecheck Info: File `Perkowski_dissertation_main_v1.0.out' has not changed.
 (rerunfilecheck)             Checksum: C3ABD2F73BA6F9DF6B7134CE4E39F332;26375.
  ) 
 Here is how much of TeX's memory you used:
- 15820 strings out of 478268
- 274677 string characters out of 5846347
- 619742 words of memory out of 5000000
+ 15819 strings out of 478268
+ 274669 string characters out of 5846347
+ 619676 words of memory out of 5000000
  32999 multiletter control sequences out of 15000+600000
  523054 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,17n,77p,2684b,502s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmbx8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmmi6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmri8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsy6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on Perkowski_dissertation_main_v1.0.pdf (241 pages, 46361018 bytes).
+Output written on Perkowski_dissertation_main_v1.0.pdf (240 pages, 46360441 bytes).
 PDF statistics:
- 3635 PDF objects out of 4296 (max. 8388607)
- 3258 compressed objects within 33 object streams
- 674 named destinations out of 1000 (max. 500000)
+ 3630 PDF objects out of 4296 (max. 8388607)
+ 3254 compressed objects within 33 object streams
+ 673 named destinations out of 1000 (max. 500000)
  868 words of extra memory for PDF output out of 10000 (max. 10000000)
 

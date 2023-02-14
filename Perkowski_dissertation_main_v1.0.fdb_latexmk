@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex Perkowski_dissertation_main_v1.0"] 1676313302 "Perkowski_dissertation_main_v1.0.aux" "Perkowski_dissertation_main_v1.0.bbl" "Perkowski_dissertation_main_v1.0" 1676388900
+["bibtex Perkowski_dissertation_main_v1.0"] 1676403214 "Perkowski_dissertation_main_v1.0.aux" "Perkowski_dissertation_main_v1.0.bbl" "Perkowski_dissertation_main_v1.0" 1676403354
   "/usr/local/texlive/2022/texmf-dist/bibtex/bst/chicago/chicago.bst" 1198629289 37416 2ae04276c51f11eda70770f4081293b7 ""
-  "Perkowski_dissertation_main_v1.0.aux" 1676388900 89435 2c38ac4037351e1c74c3bdf31c5b5754 "pdflatex"
+  "Perkowski_dissertation_main_v1.0.aux" 1676403354 89522 4efe7c911ba4378cf60a151305b7c364 "pdflatex"
   "reference_list.bib" 1676310614 103721 468fcc218000e5818736ce33d36491a4 ""
   (generated)
   "Perkowski_dissertation_main_v1.0.bbl"
   "Perkowski_dissertation_main_v1.0.blg"
-["pdflatex"] 1676388856 "/Users/eaperkowski/git/compile_dissertation/Perkowski_dissertation_main_v1.0.tex" "Perkowski_dissertation_main_v1.0.pdf" "Perkowski_dissertation_main_v1.0" 1676388900
+["pdflatex"] 1676403309 "/Users/eaperkowski/git/compile_dissertation/Perkowski_dissertation_main_v1.0.tex" "Perkowski_dissertation_main_v1.0.pdf" "Perkowski_dissertation_main_v1.0" 1676403354
   "/Users/eaperkowski/git/compile_dissertation/Perkowski_dissertation_main_v1.0.tex" 1676310613 16826 e0d013814e481e147bdfc8063014fb7c ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1254269338 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc" 1202520719 3486 c7eadf5dcc57b3b2d11736679f6636ba ""
@@ -170,13 +170,13 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1674085453 2826446 381a76df57d32fcce15d437cf05d121c ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "Perkowski_dissertation_main_v1.0.aux" 1676388900 89435 2c38ac4037351e1c74c3bdf31c5b5754 "pdflatex"
-  "Perkowski_dissertation_main_v1.0.bbl" 1676313302 96559 607eaa01b72191561eeaa4681d036ecd "bibtex Perkowski_dissertation_main_v1.0"
-  "Perkowski_dissertation_main_v1.0.lof" 1676388900 5450 773e65c465f5000c01efcf42b3e40031 "pdflatex"
-  "Perkowski_dissertation_main_v1.0.lot" 1676388900 7218 6c90ed9bba708531ca277b2e37eafb8f "pdflatex"
-  "Perkowski_dissertation_main_v1.0.out" 1676388900 26375 c3abd2f73ba6f9df6b7134ce4e39f332 "pdflatex"
+  "Perkowski_dissertation_main_v1.0.aux" 1676403354 89522 4efe7c911ba4378cf60a151305b7c364 "pdflatex"
+  "Perkowski_dissertation_main_v1.0.bbl" 1676403214 96559 607eaa01b72191561eeaa4681d036ecd "bibtex Perkowski_dissertation_main_v1.0"
+  "Perkowski_dissertation_main_v1.0.lof" 1676403354 5450 01526a7a2c1999fe32b7153e13b06846 "pdflatex"
+  "Perkowski_dissertation_main_v1.0.lot" 1676403354 7218 b158dbdf82550cf0c31e786a9495abe8 "pdflatex"
+  "Perkowski_dissertation_main_v1.0.out" 1676403354 26375 c3abd2f73ba6f9df6b7134ce4e39f332 "pdflatex"
   "Perkowski_dissertation_main_v1.0.tex" 1676310613 16826 e0d013814e481e147bdfc8063014fb7c ""
-  "Perkowski_dissertation_main_v1.0.toc" 1676388900 11095 b4a1d040b33ec160e2db70e185013b05 "pdflatex"
+  "Perkowski_dissertation_main_v1.0.toc" 1676403354 11095 4ad7d07251f4d180aff83d8a7a6deb0d "pdflatex"
   "ch1_intro/ch1_intro_main.tex" 1676310613 10082 9fe1a554fdd7baa48fc6549b8bd8b04f ""
   "ch2_LxN_Greenhouse/ch2_LxN_Greenhouse_appendix.tex" 1676313781 9692 b2b24787d65f81d9da794fbdfc8a406c ""
   "ch2_LxN_Greenhouse/ch2_LxN_main.tex" 1676310613 50446 7650f543a03d00db7e6e2d0fd746cbe5 ""
@@ -193,7 +193,7 @@
   "ch3_NxpH/figs/NxS_fig4_pnueiwue.png" 1676310614 5699201 a4a567274dc626efd870670bcf076572 ""
   "ch3_NxpH/figs/NxS_figS1_leaftemp.png" 1676310614 1343926 b8d84fb2cb775b30305767a13ed21ef7 ""
   "ch4_TXeco/ch4_TXeco_appendix.tex" 1676313358 12717 d19408d116478e5b10525fb11d8895fa ""
-  "ch4_TXeco/ch4_TXeco_main.tex" 1676388856 83319 ece35a1739476ee08872d842722cce03 ""
+  "ch4_TXeco/ch4_TXeco_main.tex" 1676403309 83048 8b28814e0199812e40c343db26443048 ""
   "ch4_TXeco/figs/TXeco_fig1_site_map.png" 1676315333 2032210 f1df5d847b4de70e16c12a082ee65a04 ""
   "ch4_TXeco/figs/TXeco_fig2_beta.png" 1676388701 2601842 9fa6fc9238e968a1f2b96dbf782e8d1d ""
   "ch4_TXeco/figs/TXeco_fig3_chi.png" 1676313533 4169455 5cc6e68bc167c2ec766afc53353d3bbd ""
