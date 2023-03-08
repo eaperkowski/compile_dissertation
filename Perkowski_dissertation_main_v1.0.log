@@ -1,0 +1,1365 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.18)  8 MAR 2023 11:15
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/eaperkowski/git/compile_dissertation/Perkowski_dissertation_main_v1.0.tex
+(/Users/eaperkowski/git/compile_dissertation/Perkowski_dissertation_main_v1.0.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24> (./ttuthes2007.cls
+Document Class: ttuthes2007 2007/6/23 1.2 LaTeX document class.
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and footers
+\f@nch@headwidth=\skip49
+\f@nch@O@elh=\skip50
+\f@nch@O@erh=\skip51
+\f@nch@O@olh=\skip52
+\f@nch@O@orh=\skip53
+\f@nch@O@elf=\skip54
+\f@nch@O@erf=\skip55
+\f@nch@O@olf=\skip56
+\f@nch@O@orf=\skip57
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/chicago/chicago.sty
+Using Chicago Manual of Style bibliography: 31 August 1992
+\bibhang=\skip58
+\bibindent=\dimen139
+)) (/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip59
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen140
+)) (/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen141
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count194
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count195
+\leftroot@=\count196
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count197
+\DOTSCASE@=\count198
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen142
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count199
+\c@MaxMatrixCols=\count266
+\dotsspace@=\muskip16
+\c@parentequation=\count267
+\dspbrk@lvl=\count268
+\tag@help=\toks17
+\row@=\count269
+\column@=\count270
+\maxfields@=\count271
+\andhelp@=\toks18
+\eqnshift@=\dimen143
+\alignsep@=\dimen144
+\tagshift@=\dimen145
+\tagwidth@=\dimen146
+\totwidth@=\dimen147
+\lineht@=\dimen148
+\@envbody=\toks19
+\multlinegap=\skip60
+\multlinetaggap=\skip61
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2021/04/25 v1.2e Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup4
+\symboldletters=\mathgroup5
+\symboldsymbols=\mathgroup6
+Package bm Info: No bold for \OMX/cmex/m/n, using \pmb.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2022/02/07 v1.28a mathematical typesetting tools
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count272
+\calc@Bcount=\count273
+\calc@Adimen=\dimen151
+\calc@Bdimen=\dimen152
+\calc@Askip=\skip62
+\calc@Bskip=\skip63
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count274
+\calc@Cskip=\skip64
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+)
+\g_MT_multlinerow_int=\count275
+\l_MT_multwidth_dim=\dimen153
+\origjot=\skip65
+\l_MT_shortvdotswithinadjustabove_dim=\dimen154
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen155
+\l_MT_above_intertext_sep=\dimen156
+\l_MT_below_intertext_sep=\dimen157
+\l_MT_above_shortintertext_sep=\dimen158
+\l_MT_below_shortintertext_sep=\dimen159
+\xmathstrut@box=\box52
+\xmathstrut@dim=\dimen160
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks22
+\inpenc@posthook=\toks23
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/lmodern.sty
+Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen161
+\captionmargin=\dimen162
+\caption@leftmargin=\dimen163
+\caption@rightmargin=\dimen164
+\caption@width=\dimen165
+\caption@indent=\dimen166
+\caption@parindent=\dimen167
+\caption@hangindent=\dimen168
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count276
+\c@continuedfloat=\count277
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip66
+\multirow@cntb=\count278
+\multirow@dima=\skip67
+\bigstrutjot=\dimen169
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2022-02-21 v7.00n Hypertext links for LaTeX
+ (/usr/local/texlive/2022/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+) (/usr/local/texlive/2022/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/local/texlive/2022/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (/usr/local/texlive/2022/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (/usr/local/texlive/2022/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/local/texlive/2022/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen170
+\Hy@linkcounter=\count279
+\Hy@pagecounter=\count280
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2022-02-21 v7.00n Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (/usr/local/texlive/2022/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (/usr/local/texlive/2022/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count281
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2022-02-21 v7.00n Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4018.
+Package hyperref Info: Hyper figures OFF on input line 4137.
+Package hyperref Info: Link nesting OFF on input line 4142.
+Package hyperref Info: Hyper index ON on input line 4145.
+Package hyperref Info: Plain pages OFF on input line 4152.
+Package hyperref Info: Backreferencing OFF on input line 4157.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4390.
+\c@Hy@tempcnt=\count282
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4749.
+\XeTeXLinkMargin=\dimen171
+ (/usr/local/texlive/2022/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (/usr/local/texlive/2022/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count283
+\Field@Width=\dimen172
+\Fld@charsize=\dimen173
+Package hyperref Info: Hyper figures OFF on input line 6027.
+Package hyperref Info: Link nesting OFF on input line 6032.
+Package hyperref Info: Hyper index ON on input line 6035.
+Package hyperref Info: backreferencing OFF on input line 6042.
+Package hyperref Info: Link coloring ON on input line 6045.
+Package hyperref Info: Link coloring with OCG OFF on input line 6052.
+Package hyperref Info: PDF/A mode OFF on input line 6057.
+LaTeX Info: Redefining \ref on input line 6097.
+LaTeX Info: Redefining \pageref on input line 6101.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count284
+\c@Item=\count285
+\c@Hfootnote=\count286
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2022-02-21 v7.00n Hyperref driver for pdfTeX
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+)
+\Fld@listcount=\count287
+\c@bookmark@seq@number=\count288
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ (/usr/local/texlive/2022/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+)
+\Hy@SectionHShift=\skip68
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/tools/afterpage.sty
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks24
+\AP@partial=\box53
+\AP@footins=\box54
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/tools/hhline.sty
+Package: hhline 2020/01/04 v2.04 Table rule package (DPC)
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip69
+\enit@outerparindent=\dimen174
+\enit@toks=\toks25
+\enit@inbox=\box55
+\enit@count@id=\count289
+\enitdp@description=\count290
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count291
+\output=\toks26
+\linenoprevgraf=\count292
+\linenumbersep=\dimen175
+\linenumberwidth=\dimen176
+\c@linenumber=\count293
+\c@pagewiselinenumber=\count294
+\c@LN@truepage=\count295
+\c@internallinenumber=\count296
+\c@internallinenumbers=\count297
+\quotelinenumbersep=\dimen177
+\bframerule=\dimen178
+\bframesep=\dimen179
+\bframebox=\box56
+LaTeX Info: Redefining \\ on input line 3056.
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count298
+\c@Blindtext=\count299
+\c@blind@countparstart=\count300
+\blind@countxx=\count301
+\blindtext@numBlindtext=\count302
+\blind@countyy=\count303
+\c@blindlist=\count304
+\c@blindlistlevel=\count305
+\c@blindlist@level=\count306
+\blind@listitem=\count307
+\c@blind@listcount=\count308
+\c@blind@levelcount=\count309
+\blind@mathformula=\count310
+\blind@Mathformula=\count311
+\c@blind@randomcount=\count312
+\c@blind@randommax=\count313
+\c@blind@pangramcount=\count314
+\c@blind@pangrammax=\count315
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/csvsimple/csvsimple.sty (/usr/local/texlive/2022/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty (/usr/local/texlive/2022/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-02-24 L3 programming layer (loader) 
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count316
+\l__pdf_internal_box=\box57
+))
+Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
+)
+Package: csvsimple 2022/02/01 v2.3.0 LaTeX CSV file processing
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/csvsimple/csvsimple-legacy.sty
+Package: csvsimple-legacy 2022/02/01 version 2.3.0 LaTeX2e CSV file processing
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks27
+\pgfutil@tempdima=\dimen180
+\pgfutil@tempdimb=\dimen181
+ (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box58
+) (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+)) (/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks28
+\pgfkeys@temptoks=\toks29
+ (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks30
+))) (/usr/local/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count317
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+)
+\csv@file=\read2
+\c@csvinputline=\count318
+\c@csvrow=\count319
+\c@csvcol=\count320
+\csv@out=\write3
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/docmute/docmute.sty
+Package: docmute 2012/03/22 v1.4 Input stand-alone documents
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip70
+\LTright=\skip71
+\LTpre=\skip72
+\LTpost=\skip73
+\LTchunksize=\count321
+\LTcapwidth=\dimen182
+\LT@head=\box59
+\LT@firsthead=\box60
+\LT@foot=\box61
+\LT@lastfoot=\box62
+\LT@gbox=\box63
+\LT@cols=\count322
+\LT@rows=\count323
+\c@LT@tables=\count324
+\c@LT@chunks=\count325
+\LT@p@ftn=\toks31
+)
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 70.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) (./Perkowski_dissertation_main_v1.0.aux)
+\openout1 = `Perkowski_dissertation_main_v1.0.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+ (/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count326
+\scratchdimen=\dimen183
+\scratchbox=\box64
+\nofMPsegments=\count327
+\nofMParguments=\count328
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count329
+\MPscratchDim=\dimen184
+\MPnumerator=\count330
+\makeMPintoPDFobject=\count331
+\everyMPtoPDFconversion=\toks33
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)
+Package caption Info: End \AtBeginDocument code.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2021/12/07 v1.3c Standard LaTeX Color (DPC)
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+)
+Package hyperref Info: Link coloring ON on input line 70.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/usr/local/texlive/2022/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count332
+)
+LaTeX Info: Redefining \ref on input line 70.
+LaTeX Info: Redefining \pageref on input line 70.
+LaTeX Info: Redefining \nameref on input line 70.
+ (./Perkowski_dissertation_main_v1.0.out) (./Perkowski_dissertation_main_v1.0.out)
+\@outlinefile=\write4
+\openout4 = `Perkowski_dissertation_main_v1.0.out'.
+
+\docmute@nestinglevel=\count333
+
+Overfull \vbox (8.88918pt too high) detected at line 108
+ []
+
+[1
+
+
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.136 \frontmatter
+                   [1] [2
+
+
+] [3] (./Perkowski_dissertation_main_v1.0.toc
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 1.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 1.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 1.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 1.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 1.
+ [4
+
+] [5]
+Overfull \hbox (2.27718pt too wide) in paragraph at lines 66--66
+ [][] [][]\T1/lmr/m/n/12 5. \T1/lmr/bx/n/12 Op-ti-mal re-source in-vest-ment to pho-to-syn-thetic ca-pac-ity max- 
+ []
+
+[6]
+Overfull \hbox (4.5197pt too wide) in paragraph at lines 91--91
+ [][] [][]\T1/lmr/bx/n/12 Ap-pendix A: Sup-ple-men-tal ma-te-rial for "Struc-tural car-bon costs 
+ []
+
+[7])
+\tf@toc=\write5
+\openout5 = `Perkowski_dissertation_main_v1.0.toc'.
+
+ [8] [9
+
+] [10] (./Perkowski_dissertation_main_v1.0.lot [11
+
+] [12]
+Overfull \hbox (2.82779pt too wide) in paragraph at lines 17--17
+ [][] [][][]\T1/lmr/m/n/12 Effects of CO$[]$, fer-til-iza-tion, and in-oc-u-la-tion on root nod-ule biomass, 
+ []
+
+[13]
+Overfull \hbox (3.15427pt too wide) in paragraph at lines 30--30
+ [][] [][][]\T1/lmr/m/n/12 Effects of CO$[]$, fer-til-iza-tion, and in-oc-u-la-tion on whole plant biomass: 
+ []
+
+)
+\tf@lot=\write6
+\openout6 = `Perkowski_dissertation_main_v1.0.lot'.
+
+ [14] (./Perkowski_dissertation_main_v1.0.lof [15
+
+] [16])
+\tf@lof=\write7
+\openout7 = `Perkowski_dissertation_main_v1.0.lof'.
+
+ [17] (./ch1_intro/ch1_intro_main.tex
+Chapter 1.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.8 
+     [1
+
+
+] [2] [3] [4] [5]) (./ch2_LxN_Greenhouse/ch2_LxN_main.tex [6]
+Chapter 2.
+[7
+
+] [8] [9] [10]
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 30.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) [11] [12] [13] [14] [15] [16
+
+]
+<ch2_LxN_Greenhouse/figs/fig1_ncost.png, id=1174, 578.16pt x 252.945pt>
+File: ch2_LxN_Greenhouse/figs/fig1_ncost.png Graphic file (type png)
+<use ch2_LxN_Greenhouse/figs/fig1_ncost.png>
+Package pdftex.def Info: ch2_LxN_Greenhouse/figs/fig1_ncost.png  used on input line 144.
+(pdftex.def)             Requested size: 578.15858pt x 252.94438pt.
+ [17 <./ch2_LxN_Greenhouse/figs/fig1_ncost.png>] [18
+
+
+
+
+
+]
+<ch2_LxN_Greenhouse/figs/fig2_nacq.png, id=1191, 578.16pt x 252.945pt>
+File: ch2_LxN_Greenhouse/figs/fig2_nacq.png Graphic file (type png)
+<use ch2_LxN_Greenhouse/figs/fig2_nacq.png>
+Package pdftex.def Info: ch2_LxN_Greenhouse/figs/fig2_nacq.png  used on input line 161.
+(pdftex.def)             Requested size: 578.15858pt x 252.94438pt.
+ [19 <./ch2_LxN_Greenhouse/figs/fig2_nacq.png>] [20
+
+
+
+]
+<ch2_LxN_Greenhouse/figs/fig3_rootCarbon.png, id=1225, 578.16pt x 252.945pt>
+File: ch2_LxN_Greenhouse/figs/fig3_rootCarbon.png Graphic file (type png)
+<use ch2_LxN_Greenhouse/figs/fig3_rootCarbon.png>
+Package pdftex.def Info: ch2_LxN_Greenhouse/figs/fig3_rootCarbon.png  used on input line 180.
+(pdftex.def)             Requested size: 578.15858pt x 252.94438pt.
+ [21 <./ch2_LxN_Greenhouse/figs/fig3_rootCarbon.png>] [22
+
+
+
+] [23
+
+] [24
+
+
+
+]
+<ch2_LxN_Greenhouse/figs/fig4_nodwgt.png, id=1263, 578.16pt x 252.945pt>
+File: ch2_LxN_Greenhouse/figs/fig4_nodwgt.png Graphic file (type png)
+<use ch2_LxN_Greenhouse/figs/fig4_nodwgt.png>
+Package pdftex.def Info: ch2_LxN_Greenhouse/figs/fig4_nodwgt.png  used on input line 335.
+(pdftex.def)             Requested size: 578.15858pt x 252.94438pt.
+ [25 <./ch2_LxN_Greenhouse/figs/fig4_nodwgt.png>] [26
+
+
+
+
+
+] [27] [28] [29] [30] [31]) [32] (./ch3_NxpH/ch3_NxpH_main.tex [33]
+Chapter 3.
+
+Overfull \hbox (4.4006pt too wide) in paragraph at lines 8--9
+[]\T1/lmr/m/n/12 Terrestrial bio-sphere mod-els com-monly rep-re-sent C$[]$ pho-to-syn-the-sis through
+ []
+
+[34
+
+] [35] [36] [37] [38] [39] [40] [41]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 46.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 46.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 46.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 46.
+
+[42] [43] [44] [45] [46] [47] [48] [49] [50]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 144.
+
+[51
+
+
+]
+<ch3_NxpH/figs/NxS_fig1_leafn.png, id=1691, 7227.0pt x 7227.0pt>
+File: ch3_NxpH/figs/NxS_fig1_leafn.png Graphic file (type png)
+<use ch3_NxpH/figs/NxS_fig1_leafn.png>
+Package pdftex.def Info: ch3_NxpH/figs/NxS_fig1_leafn.png  used on input line 202.
+(pdftex.def)             Requested size: 397.43109pt x 397.43109pt.
+ [52 <./ch3_NxpH/figs/NxS_fig1_leafn.png>] [53
+
+
+
+]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 314.
+ [54
+
+
+]
+<ch3_NxpH/figs/NxS_fig2_leafbiochem.png, id=1721, 9636.0pt x 7227.0pt>
+File: ch3_NxpH/figs/NxS_fig2_leafbiochem.png Graphic file (type png)
+<use ch3_NxpH/figs/NxS_fig2_leafbiochem.png>
+Package pdftex.def Info: ch3_NxpH/figs/NxS_fig2_leafbiochem.png  used on input line 321.
+(pdftex.def)             Requested size: 415.55249pt x 311.63715pt.
+ [55 <./ch3_NxpH/figs/NxS_fig2_leafbiochem.png>] [56
+
+
+
+] [57
+
+
+]
+<ch3_NxpH/figs/NxS_fig3_leafn_allocation.png, id=1750, 7227.0pt x 9636.0pt>
+File: ch3_NxpH/figs/NxS_fig3_leafn_allocation.png Graphic file (type png)
+<use ch3_NxpH/figs/NxS_fig3_leafn_allocation.png>
+Package pdftex.def Info: ch3_NxpH/figs/NxS_fig3_leafn_allocation.png  used on input line 419.
+(pdftex.def)             Requested size: 354.09302pt x 472.12404pt.
+ [58 <./ch3_NxpH/figs/NxS_fig3_leafn_allocation.png>] [59
+
+
+
+] [60
+
+
+]
+<ch3_NxpH/figs/NxS_fig4_pnueiwue.png, id=1784, 8387.335pt x 9613.9175pt>
+File: ch3_NxpH/figs/NxS_fig4_pnueiwue.png Graphic file (type png)
+<use ch3_NxpH/figs/NxS_fig4_pnueiwue.png>
+Package pdftex.def Info: ch3_NxpH/figs/NxS_fig4_pnueiwue.png  used on input line 542.
+(pdftex.def)             Requested size: 415.55249pt x 476.32315pt.
+ [61 <./ch3_NxpH/figs/NxS_fig4_pnueiwue.png>] [62
+
+
+
+] [63] [64] [65] [66] [67] [68]) (./ch4_TXeco/ch4_TXeco_main.tex [69]
+Chapter 4.
+[70
+
+] [71] [72] [73] [74] [75] [76] [77] [78] [79] [80
+
+]
+<ch4_TXeco/figs/TXeco_fig1_site_map.png, id=2104, 12045.0pt x 4818.0pt>
+File: ch4_TXeco/figs/TXeco_fig1_site_map.png Graphic file (type png)
+<use ch4_TXeco/figs/TXeco_fig1_site_map.png>
+Package pdftex.def Info: ch4_TXeco/figs/TXeco_fig1_site_map.png  used on input line 329.
+(pdftex.def)             Requested size: 590.15504pt x 236.06201pt.
+ [81 <./ch4_TXeco/figs/TXeco_fig1_site_map.png>]
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 337.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) [82
+
+
+
+
+] [83] [84] [85] [86] [87] [88
+
+] [89] [90
+
+]
+<ch4_TXeco/figs/TXeco_fig2_beta.png, id=2232, 7227.0pt x 2710.125pt>
+File: ch4_TXeco/figs/TXeco_fig2_beta.png Graphic file (type png)
+<use ch4_TXeco/figs/TXeco_fig2_beta.png>
+Package pdftex.def Info: ch4_TXeco/figs/TXeco_fig2_beta.png  used on input line 462.
+(pdftex.def)             Requested size: 542.00162pt x 203.25061pt.
+ [91 <./ch4_TXeco/figs/TXeco_fig2_beta.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 469.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 469.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 469.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 469.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 469.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 469.
+
+[92
+
+
+
+] [93]
+<ch4_TXeco/figs/TXeco_fig3_chi.png, id=2256, 5935.17375pt x 5519.62125pt>
+File: ch4_TXeco/figs/TXeco_fig3_chi.png Graphic file (type png)
+<use ch4_TXeco/figs/TXeco_fig3_chi.png>
+Package pdftex.def Info: ch4_TXeco/figs/TXeco_fig3_chi.png  used on input line 569.
+(pdftex.def)             Requested size: 415.50462pt x 386.41296pt.
+ [94 <./ch4_TXeco/figs/TXeco_fig3_chi.png>] [95
+
+
+] [96] [97
+
+]
+<ch4_TXeco/figs/TXeco_fig4_narea.png, id=2298, 9636.0pt x 7227.0pt>
+File: ch4_TXeco/figs/TXeco_fig4_narea.png Graphic file (type png)
+<use ch4_TXeco/figs/TXeco_fig4_narea.png>
+Package pdftex.def Info: ch4_TXeco/figs/TXeco_fig4_narea.png  used on input line 677.
+(pdftex.def)             Requested size: 404.78276pt x 303.58707pt.
+ [98 <./ch4_TXeco/figs/TXeco_fig4_narea.png>] [99
+
+
+
+] [100]
+<ch4_TXeco/figs/TXeco_fig5_SEM.png, id=2327, 1757.56625pt x 1127.21124pt>
+File: ch4_TXeco/figs/TXeco_fig5_SEM.png Graphic file (type png)
+<use ch4_TXeco/figs/TXeco_fig5_SEM.png>
+Package pdftex.def Info: ch4_TXeco/figs/TXeco_fig5_SEM.png  used on input line 740.
+(pdftex.def)             Requested size: 395.46216pt x 253.62878pt.
+ [101 <./ch4_TXeco/figs/TXeco_fig5_SEM.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 750.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 750.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 750.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 750.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 750.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 750.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 750.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 750.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 750.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 750.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 750.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 750.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 750.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 750.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 750.
+
+[102
+
+
+] [103]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 757.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 757.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 757.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 757.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\beta' on input line 757.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 757.
+
+[104]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 762.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 762.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 762.
+
+[105]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 767.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 767.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 767.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 767.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 767.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 767.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 767.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 767.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 767.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 767.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\beta' on input line 767.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 767.
+
+[106]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 773.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\beta' on input line 773.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 773.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 773.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 773.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 773.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 773.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 773.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 773.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 773.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 773.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 773.
+
+
+Overfull \hbox (1.0402pt too wide) in paragraph at lines 775--776
+\T1/lmr/m/n/12 N-fixing species had greater $\OML/lmm/m/it/12 N[]$ \T1/lmr/m/n/12 val-ues on av-er-age com-pared to non-fixing species,
+ []
+
+[107] [108]) [109] (./ch5_NxCO2xI/ch5_NxCO2xI_main.tex [110]
+Chapter 5.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 2.
+
+[111
+
+] [112]
+Overfull \hbox (4.655pt too wide) in paragraph at lines 14--15
+\T1/lmr/m/n/12 leaves ac-cli-mate to el-e-vated CO$[]$ by down-reg-u-lat-ing ni-tro-gen al-lo-ca-tion to Ribulose-
+ []
+
+[113] [114] [115] [116] [117] [118] [119] [120] [121]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mathsurround' on input line 57.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 57.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 57.
+
+[122] [123] [124] [125] [126] [127] [128] [129] [130] [131
+
+]
+<ch5_NxCO2xI/figs/NxCO2xI_fig1_leafN.png, id=2767, 7227.0pt x 4818.0pt>
+File: ch5_NxCO2xI/figs/NxCO2xI_fig1_leafN.png Graphic file (type png)
+<use ch5_NxCO2xI/figs/NxCO2xI_fig1_leafN.png>
+Package pdftex.def Info: ch5_NxCO2xI/figs/NxCO2xI_fig1_leafN.png  used on input line 272.
+(pdftex.def)             Requested size: 451.6864pt x 301.12427pt.
+ [132 <./ch5_NxCO2xI/figs/NxCO2xI_fig1_leafN.png>] [133
+
+
+
+
+
+] [134] [135
+
+]
+<ch5_NxCO2xI/figs/NxCO2xI_fig2_photo.png, id=2814, 7227.0pt x 7227.0pt>
+File: ch5_NxCO2xI/figs/NxCO2xI_fig2_photo.png Graphic file (type png)
+<use ch5_NxCO2xI/figs/NxCO2xI_fig2_photo.png>
+Package pdftex.def Info: ch5_NxCO2xI/figs/NxCO2xI_fig2_photo.png  used on input line 431.
+(pdftex.def)             Requested size: 411.9874pt x 411.9874pt.
+ [136 <./ch5_NxCO2xI/figs/NxCO2xI_fig2_photo.png>] [137
+
+
+
+] [138] [139
+
+]
+<ch5_NxCO2xI/figs/NxCO2xI_fig3_propN.png, id=2857, 7227.0pt x 2409.0pt>
+File: ch5_NxCO2xI/figs/NxCO2xI_fig3_propN.png Graphic file (type png)
+<use ch5_NxCO2xI/figs/NxCO2xI_fig3_propN.png>
+Package pdftex.def Info: ch5_NxCO2xI/figs/NxCO2xI_fig3_propN.png  used on input line 586.
+(pdftex.def)             Requested size: 542.00162pt x 180.6672pt.
+ [140 <./ch5_NxCO2xI/figs/NxCO2xI_fig3_propN.png>] [141
+
+
+
+
+
+] [142]
+Underfull \hbox (badness 10000) in paragraph at lines 729--729
+[]\T1/lmr/m/n/12 N fer-til-iza-tion
+ []
+
+[143
+
+]
+<ch5_NxCO2xI/figs/NxCO2xI_fig4_wholePlant.png, id=2891, 5582.8575pt x 4786.88374pt>
+File: ch5_NxCO2xI/figs/NxCO2xI_fig4_wholePlant.png Graphic file (type png)
+<use ch5_NxCO2xI/figs/NxCO2xI_fig4_wholePlant.png>
+Package pdftex.def Info: ch5_NxCO2xI/figs/NxCO2xI_fig4_wholePlant.png  used on input line 741.
+(pdftex.def)             Requested size: 413.15907pt x 354.25307pt.
+ [144 <./ch5_NxCO2xI/figs/NxCO2xI_fig4_wholePlant.png>] [145
+
+
+
+] [146] [147
+
+]
+<ch5_NxCO2xI/figs/NxCO2xI_fig5_nFix.png, id=2934, 5606.9475pt x 4804.95125pt>
+File: ch5_NxCO2xI/figs/NxCO2xI_fig5_nFix.png Graphic file (type png)
+<use ch5_NxCO2xI/figs/NxCO2xI_fig5_nFix.png>
+Package pdftex.def Info: ch5_NxCO2xI/figs/NxCO2xI_fig5_nFix.png  used on input line 836.
+(pdftex.def)             Requested size: 414.94185pt x 355.59016pt.
+ [148 <./ch5_NxCO2xI/figs/NxCO2xI_fig5_nFix.png>] [149
+
+
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 848.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 848.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 848.
+
+[150] [151] [152] [153] [154] [155]) [156] (./ch6_conclusions/ch6_conclusions_main.tex [157]
+Chapter 6.
+[158
+
+] [159] [160] [161] [162] [163] [164] [165] [166]) [167] (./Perkowski_dissertation_main_v1.0.bbl [168
+
+
+] [169] [170] [171] [172] [173] [174] [175] [176] [177] [178] [179] [180]
+Underfull \hbox (badness 1910) in paragraph at lines 697--705
+[]\T1/lmr/m/n/12 Harrison, S. P., W. Cramer, O. Franklin, I. C. Pren-tice, H. Wang,
+ []
+
+[181] [182] [183] [184] [185] [186] [187] [188] [189] [190] [191] [192] [193] [194] [195] [196] [197] [198] [199] [200] [201] [202] [203]) (./ch2_LxN_Greenhouse/ch2_LxN_Greenhouse_appendix.tex [204] [205
+
+]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 37.
+
+[206
+
+] [207
+
+
+]
+<ch2_LxN_Greenhouse/figs/figs1_bvr.png, id=3291, 578.16pt x 252.945pt>
+File: ch2_LxN_Greenhouse/figs/figs1_bvr.png Graphic file (type png)
+<use ch2_LxN_Greenhouse/figs/figs1_bvr.png>
+Package pdftex.def Info: ch2_LxN_Greenhouse/figs/figs1_bvr.png  used on input line 161.
+(pdftex.def)             Requested size: 462.52863pt x 202.35626pt.
+ [208 <./ch2_LxN_Greenhouse/figs/figs1_bvr.png>]) (./ch3_NxpH/ch3_NxpH_appendix.tex [209
+
+
+
+
+
+
+]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 52.
+
+[210
+
+]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 79.
+
+
+Overfull \hbox (3.70728pt too wide) in paragraph at lines 93--94
+$[]$\T1/lmr/m/n/12 Net pho-to-syn-the-sis and stom-atal con-duc-tance val-ues were fit to the log-polynomial
+ []
+
+[211
+
+]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 99.
+
+[212]
+<ch3_NxpH/figs/NxS_figS1_leaftemp.png, id=3316, 7227.0pt x 2710.125pt>
+File: ch3_NxpH/figs/NxS_figS1_leaftemp.png Graphic file (type png)
+<use ch3_NxpH/figs/NxS_figS1_leaftemp.png>
+Package pdftex.def Info: ch3_NxpH/figs/NxS_figS1_leaftemp.png  used on input line 130.
+(pdftex.def)             Requested size: 505.9417pt x 189.72813pt.
+ [213 <./ch3_NxpH/figs/NxS_figS1_leaftemp.png>]) (./ch4_TXeco/ch4_TXeco_appendix.tex [214
+
+
+
+
+
+
+
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{equation.6.0.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.41 \end{equation}
+                   
+pdfTeX warning (ext4): destination with the same identifier (name{equation.6.0.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.41 \end{equation}
+                   ]
+pdfTeX warning (ext4): destination with the same identifier (name{equation.6.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.45 \begin{equation}
+                     
+pdfTeX warning (ext4): destination with the same identifier (name{equation.6.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.45 \begin{equation}
+                     
+pdfTeX warning (ext4): destination with the same identifier (name{equation.6.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.45 \begin{equation}
+                     
+pdfTeX warning (ext4): destination with the same identifier (name{equation.6.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.45 \begin{equation}
+                      [215
+pdfTeX warning (ext4): destination with the same identifier (name{equation.6.0.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.53 \clearpage
+               ]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 57.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--93
+[]\T1/lmr/bx/n/12 Growth
+ []
+
+[216]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 100.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--137
+[]\T1/lmr/bx/n/12 Growth
+ []
+
+[217] [218]
+<ch4_TXeco/figs/TXeco_figS2_aicc.png, id=3353, 578.16pt x 216.81pt>
+File: ch4_TXeco/figs/TXeco_figS2_aicc.png Graphic file (type png)
+<use ch4_TXeco/figs/TXeco_figS2_aicc.png>
+Package pdftex.def Info: ch4_TXeco/figs/TXeco_figS2_aicc.png  used on input line 178.
+(pdftex.def)             Requested size: 40.47533pt x 15.17824pt.
+ [219 <./ch4_TXeco/figs/TXeco_figS2_aicc.png>]) (./ch5_NxCO2xI/ch5_NxCO2xI_appendix.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 2.
+
+[220
+
+
+
+
+
+
+
+
+
+
+
+
+]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 62.
+
+[221]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 87.
+
+[222
+
+
+]
+<ch5_NxCO2xI/figs/NxCO2xI_figS1_leafN_chl_.png, id=3371, 5982.35pt x 4796.92125pt>
+File: ch5_NxCO2xI/figs/NxCO2xI_figS1_leafN_chl_.png Graphic file (type png)
+<use ch5_NxCO2xI/figs/NxCO2xI_figS1_leafN_chl_.png>
+Package pdftex.def Info: ch5_NxCO2xI/figs/NxCO2xI_figS1_leafN_chl_.png  used on input line 116.
+(pdftex.def)             Requested size: 373.89597pt x 299.80684pt.
+ [223 <./ch5_NxCO2xI/figs/NxCO2xI_figS1_leafN_chl_.png>]
+<ch5_NxCO2xI/figs/NxCO2xI_figS2_bvr.png, id=3378, 4818.0pt x 2710.125pt>
+File: ch5_NxCO2xI/figs/NxCO2xI_figS2_bvr.png Graphic file (type png)
+<use ch5_NxCO2xI/figs/NxCO2xI_figS2_bvr.png>
+Package pdftex.def Info: ch5_NxCO2xI/figs/NxCO2xI_figS2_bvr.png  used on input line 127.
+(pdftex.def)             Requested size: 337.29446pt x 189.72813pt.
+ [224 <./ch5_NxCO2xI/figs/NxCO2xI_figS2_bvr.png>]) (./Perkowski_dissertation_main_v1.0.aux)
+Package rerunfilecheck Info: File `Perkowski_dissertation_main_v1.0.out' has not changed.
+(rerunfilecheck)             Checksum: C3ABD2F73BA6F9DF6B7134CE4E39F332;26375.
+ ) 
+Here is how much of TeX's memory you used:
+ 15825 strings out of 478268
+ 274733 string characters out of 5846347
+ 619618 words of memory out of 5000000
+ 33001 multiletter control sequences out of 15000+600000
+ 523054 words of font info for 67 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 68i,17n,77p,2684b,502s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmbx8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmmi6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmri8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsy6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
+Output written on Perkowski_dissertation_main_v1.0.pdf (242 pages, 46245548 bytes).
+PDF statistics:
+ 3619 PDF objects out of 4296 (max. 8388607)
+ 3241 compressed objects within 33 object streams
+ 677 named destinations out of 1000 (max. 500000)
+ 868 words of extra memory for PDF output out of 10000 (max. 10000000)
+
