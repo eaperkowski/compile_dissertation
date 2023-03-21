@@ -3,30 +3,28 @@
 \end{singlespace}
 
 \section{Introduction}
-\noindent Terrestrial biosphere models, which comprise the land surface component of Earth system models, are sensitive to the formulation of photosynthetic processes \shortcite{KnorrHeimann2001,Ziehn2011,Booth2012,Walker2021}. This is because photosynthesis is the largest carbon flux between the atmosphere and terrestrial biosphere \shortcite{IPCC2021}, and is constrained by ecosystem carbon and nutrient cycles \shortcite{Hungate2003,LeBauer2008,Fay2015}. Many terrestrial biosphere models formulate photosynthesis by parameterizing photosynthetic capacity within plant functional groups through empirical linear relationships between area-based leaf nitrogen content ($N_\mathrm{area}$) and the maximum carboxylation rate of Ribulose-1,5-bisphosphate carboxylase/oxygenase ($V_\mathrm{cmax}$) \shortcite{Kattge2009,Rogers2014,Rogers2017a}. Models are also beginning to include connected carbon-nitrogen cycles \shortcite{Wieder2015_NPP,Shi2016,Davies-Barnard2020,Braghiere2022}, which allows leaf photosynthesis to be predicted directly through changes in $N_\mathrm{area}$ and indirectly through changes in soil nitrogen availability (e.g., LPJ-GUESS, CLM5.0) \shortcite{Smith2014,Lawrence2019}. Despite recent model developments, open questions remain regarding the generality of ecological relationships between soil nitrogen availability, leaf nitrogen content, and leaf photosynthesis across edaphic and climatic gradients.
+\noindent Terrestrial biosphere models, which comprise the land surface component of Earth system models, are sensitive to the formulation of photosynthetic processes \shortcite{KnorrHeimann2001,Ziehn2011,Booth2012,Walker2021}. This is because photosynthesis is the largest carbon flux between the atmosphere and terrestrial biosphere \shortcite{IPCC2021}, and is constrained by ecosystem carbon and nutrient cycles \shortcite{Hungate2003,LeBauer2008,Fay2015}. Many terrestrial biosphere models parameterize photosynthetic capacity through plant functional group specific empirical linear relationships between area-based leaf nitrogen content ($N_\mathrm{area}$) and the maximum carboxylation rate of Ribulose-1,5-bisphosphate carboxylase/oxygenase ($V_\mathrm{cmax}$) \shortcite{Kattge2009,Rogers2014,Rogers2017a}. Models are beginning to include connected carbon-nitrogen cycles \shortcite{Wieder2015_NPP,Shi2016,Davies-Barnard2020,Braghiere2022}, which allows models to predict leaf photosynthesis directly through changes in $N_\mathrm{area}$ and indirectly through changes in soil nitrogen availability (e.g., LPJ-GUESS, CLM5.0) \shortcite{Smith2014,Lawrence2019}. Despite recent model developments, open questions remain regarding the generality of ecological relationships between soil nitrogen availability, leaf nitrogen content, and leaf photosynthesis across edaphic and climatic gradients.
 
-Empirical support for positive relationships between soil nitrogen availability and $N_\mathrm{area}$ is abundant \shortcite{Firn2019,Liang2020}, and is a result often attributed to the high nitrogen cost of building and maintaining Rubisco \shortcite{Evans1989_photoN,EvansSeemann1989,Onoda2004,Walker2014,Onoda2017,Dong2020}. Such patterns imply that positive relationships between soil nitrogen availability and $N_\mathrm{area}$ should increase leaf photosynthesis and photosynthetic capacity by increasing the maximum rate of Rubisco carboxylation through increased investments to Rubisco construction and maintenance. This integrated $N_\mathrm{area}$-photosynthesis response to soil nitrogen availability has been observed both in manipulative experiments and across environmental gradients \shortcite{Field1986,Evans1989_photoN,Walker2014,Li2020}, and is thought to be driven by ecosystem nitrogen limitation, which limits primary productivity globally \shortcite{LeBauer2008,Fay2015}. However, this response is not consistently observed, as recent studies note variable $N_\mathrm{area}$-photosynthesis relationships across edaphic and climatic gradients \shortcite{Liang2020,Luo2021} and that aboveground growing conditions (e.g., light availability, temperature, vapor pressure deficit) or species identity traits (e.g., photosynthetic pathway, nitrogen acquisition strategy) may be more important for explaining variance in $N_\mathrm{area}$ and photosynthetic capacity across environmental gradients \shortcite{Adams2016,Dong2017,Smith2019,Dong2020,Peng2021,Dong2022a,Westerband2023}.
+Empirical support for positive relationships between soil nitrogen availability and $N_\mathrm{area}$ is abundant \shortcite{Firn2019,Liang2020}, and is a result often attributed to the high nitrogen cost of building and maintaining Rubisco \shortcite{Evans1989_photoN,EvansSeemann1989,Onoda2004,Walker2014,Onoda2017,Dong2020}. Such patterns imply that positive relationships between soil nitrogen availability and $N_\mathrm{area}$ should increase net photosynthesis by increasing nutrient allocation to photosynthetic enzyme construction and maintenance. This integrated $N_\mathrm{area}$-photosynthesis response to soil nitrogen availability has been observed both in manipulative experiments and across environmental gradients \shortcite{Field1986,Evans1989_photoN,Walker2014,Li2020}, and is thought to be driven by ecosystem nitrogen limitation, which limits primary productivity globally \shortcite{LeBauer2008,Fay2015}. However, recent studies note variable $N_\mathrm{area}$-photosynthesis relationships across edaphic and climatic gradients \shortcite{Liang2020,Luo2021} and that aboveground growing conditions (e.g., light availability, temperature, vapor pressure deficit) or species identity traits (e.g., photosynthetic pathway, dominant mode of nutrient acquisition) may be more important for explaining variance in $N_\mathrm{area}$ and photosynthetic capacity across environmental gradients \shortcite{Adams2016,Dong2017,Smith2019,Dong2020,Peng2021,Dong2022a,Westerband2023}.
 
-One hypothesized mechanism to explain variance in $N_\mathrm{area}$ across environmental gradients has been proposed via photosynthetic least-cost theory \shortcite{Wright2003,Prentice2014,Paillassa2020,Harrison2021}. The theory predicts that plants acclimate to environments by optimizing photosynthetic assimilation rates at the lowest summed cost of nitrogen and water use \shortcite{Wright2003,Prentice2014}. In a given environment, the theory suggests that nitrogen and water use can be substituted for each other to maintain the lowest summed cost of resource use, such that optimal photosynthetic rates are achieved with less efficient use of the more abundant and less costly resource to acquire in exchange for more efficient use of the less abundant and more costly resource to acquire.
+Photosynthetic least-cost theory provides a possible mechanism to explain variance in $N_\mathrm{area}$ across environmental gradients \shortcite{Wright2003,Prentice2014,Paillassa2020,Harrison2021}. The theory predicts that plants acclimate to environments by optimizing photosynthetic assimilation rates at the lowest summed cost of nitrogen and water use \shortcite{Wright2003,Prentice2014}. In a given environment, nitrogen and water use can be substituted for each other to maintain the lowest summed cost of resource use, which alters the cost of acquiring and using nitrogen relative to water, a ratio herein referred to as $\beta$. All else equal, the theory predicts that increasing soil nitrogen availability should decrease $\beta$, resulting in optimal photosynthetic rates achieved with greater $N_\mathrm{area}$ at decreased stomatal conductance and reduced leaf $C_\mathrm{i}$:$C_\mathrm{a}$ \shortcite{Wright2003,Prentice2014,Paillassa2020}. Alternatively, increasing soil moisture should reduce costs of water acquisition and use, therefore increasing $\beta$ \shortcite{Lavergne2020}, stomatal conductance, and leaf $C_\mathrm{i}$:$C_\mathrm{a}$, resulting in optimal photosynthetic rates achieved with decreased $N_\mathrm{area}$. The theory also predicts nitrogen-water use tradeoffs in response to climatic factors, suggesting that the optimal response to increased vapor pressure deficit should be a reduction in stomatal conductance and leaf $C_\mathrm{i}$:$C_\mathrm{a}$ that is counterbalanced by an increase in $N_\mathrm{area}$ to support the greater photosynthetic capacity needed to maintain high assimilation at decreased conductance \shortcite{Grossiord2020,Dong2020,Lopez2021,Westerband2023}.
 
-Photosynthetic least-cost theory predicts that, all else equal, an increase in soil nitrogen availability should decrease the cost of acquiring and using nitrogen relative to water (a ratio referred to herein as $\beta$), resulting in optimal photosynthetic rates achieved with greater $N_\mathrm{area}$ at lower stomatal conductance and lower leaf $C_\mathrm{i}$:$C_\mathrm{a}$ \shortcite{Wright2003,Prentice2014,Paillassa2020}. Alternatively, an increase in soil moisture should reduce costs of water acquisition and use, increasing $\beta$ \shortcite{Lavergne2020}, stomatal conductance, and leaf $C_\mathrm{i}$:$C_\mathrm{a}$, resulting in optimal photosynthetic rates achieved with decreased $N_\mathrm{area}$. The theory also predicts variability in stomatal conductance and $N_\mathrm{area}$ in response to climatic factors, suggesting that the optimal response to increased vapor pressure deficit should be a reduction in stomatal conductance and leaf $C_\mathrm{i}$:$C_\mathrm{a}$ that is counterbalanced by an increase in $N_\mathrm{area}$ to support the greater photosynthetic capacity needed to maintain high assimilation at lower conductance \shortcite{Grossiord2020,Dong2020,Lopez2021,Westerband2023}.
+Leaf nitrogen allocation responses to changing climates or soil resource availability may depend on species' dominant mode of nutrient acquisition. For example, species that form associations with symbiotic nitrogen-fixing bacteria (referred as “N-fixing species” from this point forward) should, in theory, have access to less finite nitrogen supply than species not capable of forming such associations (referred as “non-fixing species” from this point forward), which may result in decreased $\beta$ values in N-fixing species than non-fixing species. This result was previously shown in a greenhouse experiment, where a leguminous species generally had decreased costs of nitrogen acquisition compared to a non-leguminous species, although these differences were generally stronger under increased nitrogen limitation \shortcite{Perkowski2021}. Reduced $\beta$ values could be an explanation for why N-fixing species commonly have greater leaf nitrogen content than non-fixing species \shortcite{Adams2016,Dong2017}.
 
-Leaf nitrogen allocation responses to changing climates or soil resource availability may also depend on their mode of nutrient acquisition or photosynthetic pathway. For example, species that form associations with symbiotic nitrogen-fixing bacteria (referred as “N-fixing species” from this point forward) should, in theory, have access to less finite nitrogen supply than species not capable of forming such associations (referred as “non-fixing species” from this point forward), which may result in lower $\beta$ values in N-fixing species than non-fixing species. This result was previously shown in a greenhouse experiment, where a leguminous species generally had lower costs of nitrogen acquisition compared to a non-leguminous species, although these differences were generally stronger under increased nitrogen limitation \shortcite{Perkowski2021}. Lower $\beta$ values could be an explanation for why N-fixing species commonly have greater leaf nitrogen content than non-fixing species \shortcite{Adams2016,Dong2017}.
-
-Similarly, leaf nitrogen allocation patterns across environmental gradients may be dependent on photosynthetic pathway. Lower leaf $C_\mathrm{i}$:$C_\mathrm{a}$ values in C$_4$ species suggests that C$_4$ species should have lower $\beta$ values than C$_3$ species \shortcite{Scott2022}, a pattern that could be the result of increased costs associated with water acquisition and use or reduced costs of nitrogen acquisition and use relative to C$_3$ species. Theory predicts that this response in C$_4$ species will cause C$_4$ species to have higher leaf nitrogen content on average compared to C$_3$ species, though ample evidence exists documenting general lower leaf nitrogen content in C$_4$ species \shortcite{Schmitt1981,Sage1987_c3c4,Ghannoum2011}. No study to date has directly quantified $\beta$ in C$_4$ species aside from the initial parameterization of $\beta$ in an optimality model for C$_4$ species \shortcite{Scott2022} using a global dataset of leaf $\delta^{13}$C values \shortcite{Cornwell2018}.
+Similarly, leaf nitrogen allocation patterns across environmental gradients may be depend on photosynthetic pathway. Reduced leaf $C_\mathrm{i}$:$C_\mathrm{a}$ values in C$_4$ species suggests that C$_4$ species should have reduced $\beta$ values compared to C$_3$ species \shortcite{Scott2022}, a pattern that could be the result of increased costs associated with water acquisition and use or reduced costs of nitrogen acquisition and use relative to C$_3$ species. Theory predicts that this response in C$_4$ species will cause C$_4$ species to have higher leaf nitrogen content on average compared to C$_3$ species, though several studies document decreased leaf nitrogen content in C$_4$ species \shortcite{Schmitt1981,Sage1987_c3c4,Ghannoum2011}. No study to date has directly quantified $\beta$ in C$_4$ species aside from the initial parameterization of $\beta$ in an optimality model for C$_4$ species \shortcite{Scott2022} using a global dataset of leaf $\delta^{13}$C values \shortcite{Cornwell2018}.
 
 While photosynthetic least-cost theory provides a unified framework for understanding integrated effects of climate and soil resource availability on $N_\mathrm{area}$, empirical tests of the theory are sparse. Previous work shows that increasing soil nitrogen availability decreases costs of acquiring nutrients \shortcite{Bae2015,Perkowski2021,Lu2022}, which can induce predictable nutrient-water use tradeoffs expected from the theory across broad environmental gradients \shortcite{Paillassa2020,Querejeta2022,Westerband2023} and in manipulation experiments \shortcite{BialicMurphy2021}. Additionally, increasing vapor pressure deficit has been shown to have a positive effect on $N_\mathrm{area}$, which is commonly associated with reduced leaf $C_\mathrm{i}$:$C_\mathrm{a}$ \shortcite{Dong2017,Dong2020,Firn2019,Lopez2021}.
 
 Despite evidence for patterns expected from photosynthetic least-cost theory, studies have been restricted to exploring these patterns in C$_3$ species and, while variance in $N_\mathrm{area}$ across environmental gradients has been shown to be driven by strong negative relationships with leaf $C_\mathrm{i}$:$C_\mathrm{a}$ \shortcite{Dong2017,Paillassa2020,Westerband2023}, no study has explicitly investigated effects of soil resource availability or species identity on $N_\mathrm{area}$ using $\beta$ as a direct predictor of leaf $C_\mathrm{i}$:$C_\mathrm{a}$. Furthermore, as $N_\mathrm{area}$ can be broken down into structural (leaf mass per area; $M_\mathrm{area}$; g m$^{-2}$) and metabolic (mass-based leaf nitrogen content; $N_\mathrm{mass}$; gN g$^{-1}$) components \shortcite{Dong2017}, no study has investigated which component of $N_\mathrm{area}$ drives the hypothesized response of $N_\mathrm{area}$ to leaf $C_\mathrm{i}$:$C_\mathrm{a}$, which limits our ability to assess whether changes in $N_\mathrm{area}$ across environmental gradients are driven by changes in leaf morphology (i.e. $M_\mathrm{area}$), leaf stoichiometry (i.e. $N_\mathrm{mass}$), or both. 
 
-In this study, I measured $N_\mathrm{area}$, $N_\mathrm{mass}$, $M_\mathrm{area}$, leaf $\delta^{13}$C-derived estimates of leaf $C_\mathrm{i}$:$C_\mathrm{a}$, and leaf $\delta^{13}$C-derived estimates of $\beta$ in 504 individuals spanning 52 species scattered across 24 grassland sites in Texas, USA. The state of Texas contains a diverse climatic gradient, indicated by 2006-2020 mean annual precipitation totals ranging from 204 to 1803 mm and 2006-2020 mean annual temperature ranging from 11.8\textdegree{} to 24.6\textdegree{}C within state boundaries (Fig. \ref{fig:figure4.1}). Variability in soil nitrogen availability and soil moisture was expected across sites, owing to differences in soil texture and aboveground climate that would drive differential rates of water retention and nitrogen transformations to plant-available nitrogen substrate. I leveraged the expected climatic and soil resource variability across sites to test the following hypotheses:
+In this study, I measured $N_\mathrm{area}$, $N_\mathrm{mass}$, $M_\mathrm{area}$, leaf $\delta^{13}$C-derived estimates of leaf $C_\mathrm{i}$:$C_\mathrm{a}$, and $\beta$ in 504 individuals spanning 52 species scattered across 24 grassland sites in Texas, USA. The state of Texas contains a diverse climatic gradient, indicated by 2006-2020 mean annual precipitation totals ranging from 204 to 1803 mm and 2006-2020 mean annual temperature ranging from 11.8\textdegree{} to 24.6\textdegree{}C within state boundaries (Fig. \ref{fig:figure4.1}). Variability in soil nitrogen availability and soil moisture was expected across sites, owing to differences in soil texture and aboveground climate that would drive differential rates of water retention and nitrogen transformations to plant-available nitrogen substrate. I leveraged the expected climatic and soil resource variability across sites to test the following hypotheses:
 
 \begin{enumerate}
-    \item Soil nitrogen availability will decrease $\beta$ through a reduction in costs of nitrogen acquisition and use, while soil moisture will increase $\beta$ through a reduction in costs of water acquisition and use. Following previous results, I expected that N-fixing species would have lower $\beta$ values and that C$_4$ species would have lower $\beta$ values.
+    \item Soil nitrogen availability will decrease $\beta$ through a reduction in costs of nitrogen acquisition and use, while soil moisture will increase $\beta$ through a reduction in costs of water acquisition and use. Following previous results, I expected that N-fixing species and C$_4$ species would each have reduced $\beta$ values.
     
-    \item Leaf $C_\mathrm{i}$:$C_\mathrm{a}$ will be positively related to $\beta$, a pattern that will result in a negative indirect effect of increasing soil nitrogen availability on leaf $C_\mathrm{i}$:$C_\mathrm{a}$, a positive indirect effect of increasing soil moisture on leaf $C_\mathrm{i}$:$C_\mathrm{a}$, and lower leaf $C_\mathrm{i}$:$C_\mathrm{a}$ in both N-fixing species and C$_4$ species. I expected that leaf $C_\mathrm{i}$:$C_\mathrm{a}$ would be negatively related to vapor pressure deficit, as increasing atmospheric dryness would cause plants to close stomata to minimize water loss.
+    \item Leaf $C_\mathrm{i}$:$C_\mathrm{a}$ will be positively related to $\beta$, a pattern that will result in a negative indirect effect of increasing soil nitrogen availability on leaf $C_\mathrm{i}$:$C_\mathrm{a}$, a positive indirect effect of increasing soil moisture on leaf $C_\mathrm{i}$:$C_\mathrm{a}$, and reduced leaf $C_\mathrm{i}$:$C_\mathrm{a}$ in both N-fixing species and C$_4$ species. I expected that leaf $C_\mathrm{i}$:$C_\mathrm{a}$ would be negatively related to vapor pressure deficit, as increasing atmospheric dryness would cause plants to close stomata to minimize water loss.
 
-    \item $N_\mathrm{area}$ will be negatively related to leaf $C_\mathrm{i}$:$C_\mathrm{a}$. This response will result in an indirect positive and negative effect of increasing soil nitrogen availability and soil moisture, respectively, on $N_\mathrm{area}$, and larger $N_\mathrm{area}$ values in N-fixing species. While theory predicts that lower $\beta$ values in C$_4$ species should yield larger $N_\mathrm{area}$ in C$_4$ species, I expected that C$_4$ species would have lower $N_\mathrm{area}$ than $C_3$ species due to greater nitrogen use efficiency in C$_4$ species. Additionally, I expected vapor pressure deficit to increase $N_\mathrm{area}$, a pattern that would be directly mediated through the reduction in leaf $C_\mathrm{i}$:$C_\mathrm{a}$ with increasing vapor pressure deficit.
+    \item $N_\mathrm{area}$ will be negatively related to leaf $C_\mathrm{i}$:$C_\mathrm{a}$. This response will result in an indirect positive and negative effect of increasing soil nitrogen availability and soil moisture, respectively, on $N_\mathrm{area}$, and larger $N_\mathrm{area}$ values in N-fixing species. While theory predicts that reduced $\beta$ values in C$_4$ species should yield larger $N_\mathrm{area}$ in C$_4$ species, I expected that C$_4$ species would have decreased $N_\mathrm{area}$ than $C_3$ species due to greater nitrogen use efficiency in C$_4$ species. Additionally, I expected vapor pressure deficit to increase $N_\mathrm{area}$, a pattern that would be directly mediated through the reduction in leaf $C_\mathrm{i}$:$C_\mathrm{a}$ with increasing vapor pressure deficit.
 \end{enumerate}
 
 \section{Methods}
@@ -50,14 +48,7 @@ Subsamples of dried and homogenized leaf tissue were sent to the University of C
     \Delta^{13}C = \frac{\delta^{13}C_{air} - \delta^{13}C_{leaf}}{1 + \delta^{13}C_{leaf}}
 \end{equation}
 
-\noindent $\delta^{13}\mathrm{C_{air}}$, which is commonly assumed to be -8‰ \shortcite{Keeling1979,Farquhar1989}, was calculated as a function of calendar year \textit{t} using an empirical equation derived in \shortciteN{Feng1999}:
-
-\begin{equation}
-    \label{eq_4.3}
-    \delta^{13}C_{air} = -6.429 - 0.006e^{0.0217(t-1740)}
-\end{equation}
-    
- \noindent Using this equation, $\delta^{13}\mathrm{C_{air}}$ values were set to -9.04‰ and -9.09‰ for 2020 and 2021, respectively. The parameter \textit{a} represents the fractionation between $^{12}$C and $^{13}$C due to diffusion in air, assumed to be 4.4‰, while \textit{b} represents the fractionation caused by Rubisco carboxylation, assumed to be 27‰ \shortcite{Farquhar1989}. For C$_4$ species, \textit{b} in Eqn. \ref{eq_4.1} was set to 6.3‰, and was derived from:
+\noindent $\delta^{13}\mathrm{C_{air}}$ was assumed to be -8‰ \shortcite{Keeling1979,Farquhar1989}. The parameter \textit{a} represents the fractionation between $^{12}$C and $^{13}$C due to diffusion in air, assumed to be 4.4‰, while \textit{b} represents the fractionation caused by Rubisco carboxylation, assumed to be 27‰ \shortcite{Farquhar1989}. For C$_4$ species, \textit{b} in Eqn. \ref{eq_4.1} was set to 6.3‰, and was derived from:
 
 \begin{equation}
     \label{eq_4.4}
@@ -73,7 +64,7 @@ I derived the unit cost of resource use ($\beta$) using leaf $C_\mathrm{i}$:$C_\
     \beta = 1.6\eta^{*} VPD \frac{\chi - (\frac{\Gamma^*}{C_{a}})^{2}}{(1 - \chi)^{2}(K_{m} + \Gamma^{*})}
 \end{equation}
     
-\noindent where $\eta^{*}$ is the viscosity of water relative to 25\textdegree{}C, calculated using elevation and mean air temperature of the seven days leading up to each site visit following equations in \shortciteN{Huber2009}. VPD (Pa) was set to the mean vapor pressure deficit of the seven days leading up to each site visit, $C_\mathrm{a}$ represents atmospheric CO$_2$ concentration, arbitrarily set to 420 $\mathrm{\mu mol\ mol^{-1}}$ CO$_2$. $K_\mathrm{m}$ (Pa) is the Michaelis-Menten coefficient for Rubisco affinity to CO$_2$ and O$_2$, calculated as:
+\noindent where $\eta^{*}$ is the viscosity of water relative to 25\textdegree{}C, calculated using elevation and mean air temperature of the seven days leading up to each site visit following equations in \shortciteN{Huber2009}. VPD (Pa) was set to the mean vapor pressure deficit of the seven days leading up to each site visit, $C_\mathrm{a}$ represents atmospheric CO$_2$ concentration, arbitrarily set to 420 $\mathrm{\mu mol\ mol^{-1}}$ CO$_2$. $C_\mathrm{a}$ was converted to partial pressure (Pa) and corrected by site elevation. $K_\mathrm{m}$ (Pa) is the Michaelis-Menten coefficient for Rubisco affinity to CO$_2$ and O$_2$, calculated as:
     
 \begin{equation} \label{eq_4.6}
     K_{m} = K_{c} \cdot \left ( 1 + \frac{O_i}{K_o} \right )
@@ -339,19 +330,19 @@ I derived the unit cost of resource use ($\beta$) using leaf $C_\mathrm{i}$:$C_\
 \subsection{\textit{Site edaphic characteristics}}
 \noindent Composited soil samples were sent to the Texas A\&M Soil, Water and Forage Laboratory to quantify soil nitrate concentration (NO$_3$-N; ppm). Soil NO$_3$-N was determined by extracting composite soil samples in 1 M KCl, measuring absorbance values of extracts at 520 nm using the end product of a NO$_3$-N to NO$_2$-N cadmium reduction reaction \shortcite{Kachurina2000,Keeney1983}. Soil texture data from 0-15 cm below the soil surface were accessed using the SoilGrids2.0 data product \shortcite{Poggio2021} through the `fetchSoilGrids’ function in the ‘soilDB’ R package \shortcite{Beaudette2022}. I used SoilGrids2.0 to access soil texture data in lieu of analyses using the composite soil sample due to a lack of soil material from some sites after sending samples for soil NO$_3$-N.
 
-Soil moisture was not measured in the field, but was estimated using the `Simple Process-Led Algorithms for Simulating Habitats’ model (SPLASH) \shortcite{Davis2017}. This model, derived from the STASH model \shortcite{Cramer1988}, spins up a bucket model using Priestley-Taylor equations \shortcite{Priestley1972} to calculate daily soil moisture ($W_\mathrm{n}$; mm) as a function of the previous day’s soil moisture ($W_\mathrm{n}{}_{-1}$; mm), daily precipitation ($P_\mathrm{n}$; mm), condensation ($C_\mathrm{n}$; mm), actual evapotranspiration ($E_{n}^a$; mm), and runoff (RO; mm):
+Soil moisture was estimated using the `Simple Process-Led Algorithms for Simulating Habitats’ model (SPLASH) \shortcite{Davis2017}. This model, derived from the STASH model \shortcite{Cramer1988}, initiates a bucket model using Priestley-Taylor equations \shortcite{Priestley1972} to calculate daily soil moisture ($W_\mathrm{n}$; mm) as a function of the previous day’s soil moisture ($W_\mathrm{n}{}_{-1}$; mm), daily precipitation ($P_\mathrm{n}$; mm), condensation ($C_\mathrm{n}$; mm), actual evapotranspiration ($E_{n}^a$; mm), and runoff (RO; mm):
 
 \begin{equation}
     \label{eq_4.7}
     W_n = W_{n-1} + P_n + C_n - E_{n}^{a} - RO
 \end{equation}
 
-\noindent Models were spun up by equilibrating the previous day's soil moisture using successive model iterations with daily mean air temperature, daily precipitation total, the number of daily sunlight hours, and latitude as model inputs \shortcite{Davis2017}. Daily sunlight hours were estimated for each day at each site using the `getSunlightTimes’ function in the `suncalc’ R package, which estimated sunrise and sunset times of each property using date and site coordinates \shortcite{Thieurmel2019}. Water holding capacity (mm), or bucket size, was estimated as a function of soil texture using pedotransfer equations explained in \shortciteN{Saxton2006}, as done in \shortciteN{Stocker2020} and \shortciteN{Bloomfield2022}. A summary of these equations is included in \hyperref[appendix.c1]{Appendix C.1}.
+\noindent Models were initiated by equilibrating the previous day's soil moisture using successive model iterations with daily mean air temperature, daily precipitation total, the number of daily sunlight hours, and latitude as model inputs \shortcite{Davis2017}. Daily sunlight hours were estimated for each day at each site using the `getSunlightTimes’ function in the `suncalc’ R package, which estimated sunrise and sunset times of each property using date and site coordinates \shortcite{Thieurmel2019}. Water holding capacity (mm), or bucket size, was estimated as a function of soil texture using pedotransfer equations explained in \shortciteN{Saxton2006}, as done in \shortciteN{Stocker2020} and \shortciteN{Bloomfield2022}. A summary of these equations is included in \hyperref[appendix.c1]{Appendix C.1}.
 
 Daily soil moisture outputs from the SPLASH model for each site were used to calculate mean daily soil moisture for the prior 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 15, 20, 25, 30, 60, and 90 days leading up to each site visit. Mean daily soil moisture values were then expressed as a fraction of water holding capacity to normalize across sites with different bucket depths, as done in \shortciteN{Stocker2018}. Site water holding capacity values are referenced in Table \ref{tab:table4.1}.
 
 \subsection{\textit{Plant functional group assignments}}
-\noindent Plant functional group was assigned to each species and used as the primary descriptor of species identity. Specifically, plant functional groups were assigned based on photosynthetic pathway (C$_3$, C$_4$) and ability to form associations with symbiotic nitrogen-fixing bacteria (N-fixer, non-fixer). The ability to form associations with symbiotic nitrogen-fixing bacteria was assigned based on whether species were in the \textit{Fabaceae} family, and photosynthetic pathway of each species was determined from past literature and confirmed through leaf $\delta^{13}$C values. I chose these plant functional groups based on \textit{a priori} hypotheses regarding the functional role of nitrogen fixation and photosynthetic pathway on the sensitivity of plant nitrogen uptake and leaf nitrogen allocation to soil nitrogen availability and aboveground growing conditions. These plant functional group classifications resulted in three distinct plant functional groups within our dataset: C$_3$ N-fixers (n=53), C$_3$ non-fixers (n=334), and C$_4$ non-fixers (n=117).
+\noindent Plant functional groups were assigned to each species and used as the primary descriptor of species identity. Specifically, plant functional groups were assigned based on photosynthetic pathway (C$_3$, C$_4$) and ability to form associations with symbiotic nitrogen-fixing bacteria (N-fixer, non-fixer). The ability to form associations with symbiotic nitrogen-fixing bacteria was assigned based on whether species were in the \textit{Fabaceae} family, and photosynthetic pathway of each species was determined from past literature and confirmed through leaf $\delta^{13}$C values. I chose these plant functional groups based on \textit{a priori} hypotheses regarding the functional role of nitrogen fixation and photosynthetic pathway on the sensitivity of plant nitrogen uptake and leaf nitrogen allocation to soil nitrogen availability and aboveground growing conditions. These plant functional group classifications resulted in three distinct plant functional groups within our dataset: C$_3$ N-fixers (n=53), C$_3$ non-fixers (n=334), and C$_4$ non-fixers (n=117).
 
 \subsection{\textit{Data analysis}}
 \noindent All analyses and plotting were conducted in R version 4.1.1 \shortcite{RCoreTeam2021}. I constructed a series of separate linear mixed-effects models to investigate environmental drivers of $\beta$, leaf $C_\mathrm{i}$:$C_\mathrm{a}$, $N_\mathrm{area}$, $N_\mathrm{mass}$, and $M_\mathrm{area}$, followed by a path analysis using a piecewise structural equation model to investigate direct and indirect effects of climate and soil resource availability on $N_\mathrm{area}$.
@@ -364,7 +355,7 @@ To explore environmental drivers of $N_\mathrm{area}$, $N_\mathrm{mass}$, and $M
 
 In all linear mixed-effects models explained above, including those to select relevant timescales, I used the `lmer' function in the `lme4' R package \shortcite{Bates2015} to fit each model and the `Anova' function in the `car' R package \shortcite{Fox2019} to calculate Type II Wald's $\chi^2$ and determine the significance level ($\alpha$=0.05) of each fixed effect coefficient. I used the `emmeans' R package \shortcite{Lenth2019} to conduct post-hoc comparisons using Tukey's tests, where degrees of freedom were approximated using the Kenward-Roger approach \shortcite{Kenward1997}. Trendlines and error ribbons for all plots were drawn using a series of `emmeans’ outputs across the range in plotted x-axis values.
 
-Finally, I conducted a path analysis using a piecewise structural equation model to examine direct and indirect pathways that determined variance in $N_\mathrm{area}$. Six separate linear mixed effects models were loaded into the piecewise structural equation model. Models were constructed per \textit{a priori} hypotheses following patterns expected from photosynthetic least-cost theory. The first model regressed $N_\mathrm{area}$ against $N_\mathrm{mass}$ and $M_\mathrm{area}$. The second model regressed $M_\mathrm{area}$ against leaf $C_\mathrm{i}$:$C_\mathrm{a}$ and soil nitrogen availability. The third model regressed $N_\mathrm{mass}$ against leaf $C_\mathrm{i}$:$C_\mathrm{a}$ and $M_\mathrm{area}$ \shortcite{Dong2017,Dong2020}. The fourth model regressed leaf $C_\mathrm{i}$:$C_\mathrm{a}$ against $\beta$ and vapor pressure deficit. The fifth model regressed $\beta$ against soil nitrogen availability, soil moisture, ability to associate with symbiotic nitrogen-fixing bacteria, and photosynthetic pathway. The sixth model regressed soil nitrogen availability against soil moisture. All models included the relevant timescale selected in the individual linear mixed effect models explained above. Models included species as a random intercept term, were built using the `lme’ function in the `nlme’ R package \shortcite{Pinheiro2022}, and subsequently loaded into the piecewise structural equation model using the `psem’ function in the `piecewiseSEM’ R package \shortcite{Lefcheck2016}.
+Finally, I conducted a path analysis using a piecewise structural equation model to examine direct and indirect pathways that determined variance in $N_\mathrm{area}$. Six separate linear mixed effects models were loaded into the piecewise structural equation model. Models were constructed per \textit{a priori} hypotheses following patterns expected from photosynthetic least-cost theory. The first model regressed $N_\mathrm{area}$ against $N_\mathrm{mass}$ and $M_\mathrm{area}$. The second model regressed $M_\mathrm{area}$ against leaf $C_\mathrm{i}$:$C_\mathrm{a}$ and soil nitrogen availability. The third model regressed $N_\mathrm{mass}$ against leaf $C_\mathrm{i}$:$C_\mathrm{a}$ and $M_\mathrm{area}$ \shortcite{Dong2017,Dong2020}. The fourth model regressed leaf $C_\mathrm{i}$:$C_\mathrm{a}$ against $\beta$ and vapor pressure deficit. The fifth model regressed $\beta$ against soil nitrogen availability, soil moisture, ability to associate with symbiotic nitrogen-fixing bacteria, and photosynthetic pathway. The sixth model regressed soil nitrogen availability against soil moisture and percent clay to evaluate likely contributors of soil nitrogen availability. All models included the relevant timescale selected in the individual linear mixed effect models explained above. Models included species as a random intercept term, were built using the `lme’ function in the `nlme’ R package \shortcite{Pinheiro2022}, and subsequently loaded into the piecewise structural equation model using the `psem’ function in the `piecewiseSEM’ R package \shortcite{Lefcheck2016}.
 \clearpage
 
 \newpage
@@ -390,21 +381,21 @@ Increasing soil nitrogen availability generally decreased $\beta$  (\textit{p}<0
             
             Intercept
             & \multicolumn{1}{r}{-}
-            & \multicolumn{1}{r}{3.39E+00}
+            & \multicolumn{1}{r}{$3.39*10^{0}$}
             & \multicolumn{1}{r}{-}
             & \multicolumn{1}{r}{-}
             \\
 
             Soil moisture (SM\textsubscript{90})
             & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{-1.96E$-$01}
+            & \multicolumn{1}{r}{$-1.96*10^{-1}$}
             & \multicolumn{1}{r}{0.026}
             & \multicolumn{1}{r}{0.872}
             \\
 
             Soil N (N)
             & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{-1.42E$-$02}
+            & \multicolumn{1}{r}{$-1.42*10^{-2}$}
             & \multicolumn{1}{r}{12.031}
             & \multicolumn{1}{r}{\textbf{<0.001}}
             \\
@@ -418,7 +409,7 @@ Increasing soil nitrogen availability generally decreased $\beta$  (\textit{p}<0
 
             SM\textsubscript{90}*N
             & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{-3.02E$-$03}
+            & \multicolumn{1}{r}{$-3.02*10^{-3}$}
             & \multicolumn{1}{r}{1.000}
             & \multicolumn{1}{r}{0.317}
             \\
@@ -452,14 +443,11 @@ Increasing soil nitrogen availability generally decreased $\beta$  (\textit{p}<0
 \end{singlespace}
 \clearpage
 
-[DWS: exponential notation not used correctly in these tables. Looks copied from a graphing calculator output]
-
-
 \newpage
 \begin{landscape}
     \begin{figure}
     \centering
-    \includegraphics[width=\textwidth]{ch4_TXeco/figs/TXeco_fig2_beta.png}
+    \includegraphics[width=\columnwidth]{ch4_TXeco/figs/TXeco_fig2_beta.png}
     \caption[Effects of soil nitrogen availability and soil moisture on the cost of acquiring and using nitrogen]{Effects of soil nitrogen availability (a) and soil moisture (b) on the cost of acquiring and using nitrogen ($\beta$; unitless). Soil nitrogen availability is represented on the x-axis in (a), soil moisture is represented on the x-axis in (b) as a percent of site water holding capacity, and natural-log transformed $\beta$ is represented on the y-axis for both panels. Yellow points represent C$_3$ N-fixers, blue points represent C$_3$ non-fixers, and red points represent C$_4$ non-fixers. Throughout, points are jittered for visibility. A black solid trendline is drawn to denote bivariate relationships where the slope is different from zero (\textit{p}<0.05), with error ribbons representing the upper and lower 95\% confidence intervals.}
     \label{fig:figure4.2}
 \end{figure}
@@ -487,28 +475,28 @@ Model results revealed that increasing vapor pressure deficit generally decrease
             
             Intercept
             & \multicolumn{1}{r}{-}
-            & \multicolumn{1}{r}{1.32E+00}
+            & \multicolumn{1}{r}{$1.32*10^{0}$}
             & \multicolumn{1}{r}{-}
             & \multicolumn{1}{r}{-}
             \\
 
             Vapor pressure deficit (VPD$_4$)
             & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{-4.53E$-$01}
+            & \multicolumn{1}{r}{$-4.53*10^{-1}$}
             & \multicolumn{1}{r}{10.987}
             & \multicolumn{1}{r}{\textbf{<0.001}}
             \\
 
             Soil moisture (SM$_{90}$)
             & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{-1.71E$-$01} %% DWS: Not correct notation
+            & \multicolumn{1}{r}{$-1.71*10^{-1}$}
             & \multicolumn{1}{r}{0.039}
             & \multicolumn{1}{r}{0.843}
             \\
 
             Soil N (N)
             & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{-1.71E$-$03}
+            & \multicolumn{1}{r}{$-1.71*10^{-3}$}
             & \multicolumn{1}{r}{0.043}
             & \multicolumn{1}{r}{0.549}
             \\
@@ -522,7 +510,7 @@ Model results revealed that increasing vapor pressure deficit generally decrease
 
             SM$_{90}$*N
             & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{7.29E$-$03} %% DWS: fix
+            & \multicolumn{1}{r}{$7.29*10^{-3}$}
             & \multicolumn{1}{r}{2.266}
             & \multicolumn{1}{r}{0.132}
             \\
@@ -601,28 +589,28 @@ Variance in $M_\mathrm{area}$ was driven by a three-way interaction between soil
             \hline
 
             (Intercept) & \multicolumn{1}{r}{-} 
-            &  \multicolumn{1}{r}{2.41E+00}     & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{-}
-            &  \multicolumn{1}{r}{7.72E$-$02}   & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{-}
-            &  \multicolumn{1}{r}{6.91E+00}     & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{-} 
+            &  \multicolumn{1}{r}{$2.41*10^{0}$}     & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{-}
+            &  \multicolumn{1}{r}{$7.72*10^{-2}$}   & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{-}
+            &  \multicolumn{1}{r}{$6.91*10^{0}$}     & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{-} 
             \\
 
             $C_\mathrm{i}$:$C_\mathrm{a}$ & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{-2.32E+00}     & \multicolumn{1}{r}{6.841}         & \multicolumn{1}{r}{\textbf{0.009}}
-            & \multicolumn{1}{r}{7.91E$-$01}    & \multicolumn{1}{r}{0.558}         & \multicolumn{1}{r}{0.455}
-            & \multicolumn{1}{r}{-3.13E+00}     & \multicolumn{1}{r}{15.913}        & \multicolumn{1}{r}{\textbf{<0.001}} 
+            & \multicolumn{1}{r}{$-2.32*10^{0}$}     & \multicolumn{1}{r}{6.841}         & \multicolumn{1}{r}{\textbf{0.009}}
+            & \multicolumn{1}{r}{$7.91*10^{-1}$}    & \multicolumn{1}{r}{0.558}         & \multicolumn{1}{r}{0.455}
+            & \multicolumn{1}{r}{$-3.13*10^{0}$}     & \multicolumn{1}{r}{15.913}        & \multicolumn{1}{r}{\textbf{<0.001}} 
             \\ % updated
 
 
             Soil N (N) & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{1.26E$-$02}    & \multicolumn{1}{r}{7.072}         & \multicolumn{1}{r}{\textbf{0.011}}
-            & \multicolumn{1}{r}{1.21E$-$02}    & \multicolumn{1}{r}{87.457}        & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{-2.66E$-$02}   & \multicolumn{1}{r}{41.791}        & \multicolumn{1}{r}{\textbf{<0.001}} 
+            & \multicolumn{1}{r}{$1.26*10^{-2}$}    & \multicolumn{1}{r}{7.072}         & \multicolumn{1}{r}{\textbf{0.011}}
+            & \multicolumn{1}{r}{$1.21*10^{-2}$}    & \multicolumn{1}{r}{87.457}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{$-2.66*10^{-2}$}   & \multicolumn{1}{r}{41.791}        & \multicolumn{1}{r}{\textbf{<0.001}} 
             \\ % updated
 
             Soil moisture (SM$_{90}$) & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{5.60E$-$01}      & \multicolumn{1}{r}{6.493}         & \multicolumn{1}{r}{\textbf{0.011}}
-            & \multicolumn{1}{r}{7.94E$-$01}      & \multicolumn{1}{r}{10.889}        & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{-2.54E$-$01}     & \multicolumn{1}{r}{0.605}         & \multicolumn{1}{r}{0.437} 
+            & \multicolumn{1}{r}{$5.60*10^{-1}$}      & \multicolumn{1}{r}{6.493}         & \multicolumn{1}{r}{\textbf{0.011}}
+            & \multicolumn{1}{r}{$7.94*10^{-1}$}      & \multicolumn{1}{r}{10.889}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{$-2.54*10^{-1}$}     & \multicolumn{1}{r}{0.605}         & \multicolumn{1}{r}{0.437} 
             \\ % updated
 
             PFT & \multicolumn{1}{r}{1}
@@ -632,9 +620,9 @@ Variance in $M_\mathrm{area}$ was driven by a three-way interaction between soil
             \\ % updated
 
             SM$_{90}$*N & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{5.45E$-$02}     & \multicolumn{1}{r}{0.482}         & \multicolumn{1}{r}{0.488}
-            & \multicolumn{1}{r}{-2.18E$-$02}     & \multicolumn{1}{r}{2.606}        & \multicolumn{1}{r}{0.106}
-            & \multicolumn{1}{r}{8.16E$-$02}      & \multicolumn{1}{r}{0.791}        & \multicolumn{1}{r}{0.374} 
+            & \multicolumn{1}{r}{$5.45*10^{-2}$}     & \multicolumn{1}{r}{0.482}         & \multicolumn{1}{r}{0.488}
+            & \multicolumn{1}{r}{$-2.18*10^{-2}$}     & \multicolumn{1}{r}{2.606}        & \multicolumn{1}{r}{0.106}
+            & \multicolumn{1}{r}{$8.16*10^{-2}$}      & \multicolumn{1}{r}{0.791}        & \multicolumn{1}{r}{0.374} 
             \\ % updated
 
             $C_\mathrm{i}$:$C_\mathrm{a}$*PFT & \multicolumn{1}{r}{1}
@@ -723,7 +711,8 @@ Variance in $M_\mathrm{area}$ was driven by a three-way interaction between soil
             \hline
 
             \multicolumn{2}{l}{Soil N ($R^2{}_\mathrm{c}$=0.35)} && \\
-            & \multicolumn{1}{l}{SM$_{90}$} & \multicolumn{1}{r}{-0.148} & \multicolumn{1}{r}{\textbf{0.003}} \\
+            & \multicolumn{1}{l}{SM$_{90}$} & \multicolumn{1}{r}{-0.262} & \multicolumn{1}{r}{\textbf{<0.001}} \\
+            & \multicolumn{1}{l}{\% clay} & \multicolumn{1}{r}{-0.292} & \multicolumn{1}{r}{\textbf{<0.001}} \\
             \hline
 
         \end{tabular}%}
