@@ -9,7 +9,7 @@ Terrestrial biosphere models commonly represent C$_{3}$ photosynthesis thr-ough 
 
 Recent work calls the generality of relationships between soil nutrient availability, leaf nutrient content, and photosynthetic capacity into question, suggesting instead that leaf nutrients and photosynthetic capacity are better predicted as an integrated product of aboveground climate, leaf traits, and soil nutrient availability, rather than soil nutrient availability alone \shortcite{Dong2017,Dong2020,Dong2022a,Firn2019,Smith2019,Peng2021}. It has been reasoned that this result is because plants allocate added nutrients to growth and storage rather than alterations in leaf chemistry \shortcite{Smith2019}, perhaps as a result of nutrient limitation of primary productivity \shortcite{LeBauer2008,Fay2015}. Additionally, recent work suggests that relationships between leaf nutrient content and photosynthesis vary across environments, and that the proportion of leaf nutrient content allocated to photosynthetic tissue varies over space and time with plant acclimation and adaptation responses to light availability, vapor pressure deficit, soil pH, soil nutrient availability, and environmental factors that influence leaf mass per area \shortcite{Pons1994,Niinemets1997,Evans2001,Hikosaka2009,Ghimire2017,Onoda2017,Luo2021}. The use of linear relationships between leaf nutrient content and $V_\mathrm{cmax}$ to predict photosynthetic capacity, as commonly used in terrestrial biosphere models \shortcite{Rogers2014}, is not capable of detecting such responses.
 
-Photosynthetic least-cost theory provides an alternative framework for understanding relationships between soil nutrient availability, leaf nutrient content, and photosynthetic capacity \shortcite{Harrison2021}. Using a two-input microeconomics approach \shortcite{Wright2003}, the theory posits that plants acclimate to a given environment by optimizing leaf photosynthesis rates at the lowest summed cost of using nutrients and water \shortcite{Prentice2014,Wang2017,Smith2019,Paillassa2020}. Across resource availability gradients, the theory predicts that optimal photosynthetic rates can be achieved by trading less efficient use of a more abundant (or less costly) resource to acquire for more efficient use of a less adundant (or more costly) resource to acquire. For example, an increase in soil nutrient availability should reduce the cost of acquiring and using nutrients \shortcite{Bae2015,Eastman2021,Perkowski2021}, which could increase leaf nutrient investments in photosynthetic proteins to allow similar photosynthetic rates to be achieved with greater nutrient use (reduced nutrient use efficiency) and reduced water use (greater water use efficiency). The theory suggests similar tradeoffs in response to increasing soil pH \shortcite{Paillassa2020}, specifically, that increasing soil pH should reduce the cost of acquiring soil nutrients due to an increase in plant-available nutrient concentration \shortcite{Paillassa2020,Dong2022a}. The theory is also capable of reconciling dynamic leaf nutrient-photosynthesis relationships at global scales \shortcite{Luo2021}.
+Photosynthetic least-cost theory provides an alternative framework for understanding relationships between soil nutrient availability, leaf nutrient content, and photosynthetic capacity \shortcite{Harrison2021}. Using a two-input microeconomics approach \shortcite{Wright2003}, the theory posits that plants acclimate to a given environment by optimizing leaf photosynthesis rates at the lowest summed cost of using nutrients and water \shortcite{Prentice2014,Wang2017,Smith2019,Paillassa2020}. Across resource availability gradients, the theory predicts that optimal photosynthetic rates can be achieved by trading less efficient use of a more abundant (or less costly) resource to acquire for more efficient use of a less abundant (or more costly) resource to acquire. For example, an increase in soil nutrient availability should reduce the cost of acquiring and using nutrients \shortcite{Bae2015,Eastman2021,Perkowski2021}, which could increase leaf nutrient investments in photosynthetic proteins to allow similar photosynthetic rates to be achieved with greater nutrient use (reduced nutrient use efficiency) and reduced water use (greater water use efficiency). The theory suggests similar tradeoffs in response to increasing soil pH \shortcite{Paillassa2020}, specifically, that increasing soil pH should reduce the cost of acquiring soil nutrients due to an increase in plant-available nutrient concentration \shortcite{Paillassa2020,Dong2022a}. The theory is also capable of reconciling dynamic leaf nutrient-photosynthesis relationships at global scales \shortcite{Luo2021}.
 
 Patterns expected from photosynthetic least-cost theory have recently received empirical support both in global environmental gradient \shortcite{Smith2019,Paillassa2020,Luo2021,Querejeta2022,Westerband2023} and local manipulative invasion \shortcite{BialicMurphy2021} studies. However, nutrient addition experiments that directly examine nutrient-water use tradeoffs expected from the theory are rare (but see Guerrieri et al. 2011), and only global gradient studies testing the theory have considered soil pH in their analyses. Therefore, empirical data collected from nutrient addition and soil pH manipulation experiments are critical to test mechanisms driving responses predicted by the theory.
 
@@ -86,33 +86,6 @@ I standardized $V_\mathrm{cmax}$ and $J_\mathrm{max}$ estimates to 25 \textdegre
 
 \noindent I estimated $T_\mathrm{g}$ in Equations \ref{eq_2.7} and \ref{eq_2.8} based on mean daily (24-hour) air temperature of the 30 days leading up to the day of each sample collection using the same weather station reported in the site description. I used $V_\mathrm{cmax25}$ and $J_\mathrm{max25}$ estimates to calculate the ratio of $J_\mathrm{max25}$ to $V_\mathrm{cmax25}$ ($J_\mathrm{max25}$:$V_\mathrm{cmax25}$; unitless).
 
-\subsection{\textit{Proportion of leaf nitrogen allocated to photosynthesis and structure}}
-\noindent I used equations from \shortciteN{Niinemets1997} to estimate the proportion of leaf nitrogen content allocated to Rubisco and bioenergetics. The proportion of leaf nitrogen allocated to Rubisco ($\rho_\mathrm{rubisco}$; gN gN$^{-1}$) was calculated as a function of $V_\mathrm{cmax25}$ and $N_\mathrm{area}$: 
-
-\begin{equation} \label{eqn_2.9}
-    \rho_{rubisco}=\frac{V_{cmax25}N_r}{V_{cr}N_{area}}
-\end{equation}
-
-\noindent where $N_\mathrm{r}$ is the amount of nitrogen in Rubisco, set to 0.16 $\mathrm{gN\ (gN\ in\ Rubisco)^{-1}}$ and $V_\mathrm{cr}$ is the maximum rate of RuBP carboxylation per unit Rubisco protein, set to 20.5 $\mathrm{\mu mol\ CO_2\ (g\ Rubisco)^{-1}}$. The proportion of leaf nitrogen allocated to bioenergetics ($\mathrm{\rho_{bioe}}$; gN gN$^{-1}$) was similarly calculated as a function of $J_\mathrm{max25}$ and $N_\mathrm{area}$:
-
-\begin{equation} \label{eqn_2.10}
-    \rho_{bioe}=\frac{J_{max25}N_b}{J_{mc}N_{area}}
-\end{equation}
-
-\noindent where $N_\mathrm{b}$ is the amount of nitrogen in cytochrome f, set to 0.12407 gN ($\mu\mathrm{mol}$ cytochrome f)$^{-1}$ assuming a constant 1: 1: 1.2 cytochrome f: ferredoxin NADP reductase: coupling factor molar ratio \shortcite{EvansSeemann1989,Niinemets1997}, and $J_\mathrm{mc}$ is the capacity of electron transport per cytochrome f, set to 156 $\mathrm{\mu mol\ electron\ (\mu mol\ cytochrome\ f)^{-1} s^{-1}}$.
-
-I estimated the proportion of leaf nitrogen content allocated to photosynthetic tissue ($\rho_\mathrm{photo}$; gN gN$^{-1}$) as the sum of $\rho_\mathrm{rubisco}$ and $\rho_\mathrm{bioe}$. This calculation is an underestimate of the proportion of leaf nitrogen allocated to photosynthetic tissue because it does not include nitrogen allocated to light harvesting proteins. This leaf nitrogen pool was not included because I did not perform chlorophyll extractions on focal leaves. However, the proportion of leaf nitrogen content allocated to light harvesting proteins tends to be small relative to $\rho_\mathrm{rubisco}$ and $\rho_\mathrm{bioe}$, and may scale with changes in $\rho_\mathrm{rubisco}$ and $\rho_\mathrm{bioe}$ \shortcite{Niinemets1997}.
-
-Finally, the proportion of leaf nitrogen content allocated to structural tissue ($\rho_\mathrm{structure}$; gN gN$^{-1}$) was estimated as:
-\begin{equation} \label{eqn_3.11}
-    \rho_{structure}=\frac{N_{cw}}{N_{area}}
-\end{equation}
-\noindent where $N_\mathrm{cw}$ is the leaf nitrogen content allocated to cell walls (gN m$^{-2}$), calculated as a function of $M_\mathrm{area}$ using an empirical equation from \shortciteN{Onoda2017}:
-\begin{equation} \label{eqn_3.12}
-    N_{cw}=0.000355*{M_{area}}^{1.39}
-\end{equation}
-
-
 \subsection{\textit{Tradeoffs between nitrogen and water use}}
 \noindent Photosynthetic nitrogen use efficiency (PNUE; $\mathrm{\mu mol\ CO_2\ mol^{-1}\ N\ s^{-1}}$) was calculated by dividing $A_\mathrm{net}$ by $N_\mathrm{area}$, first converting $N_\mathrm{area}$ to $\mathrm{mol\ N\ m^{-2}}$ using the molar mass of nitrogen (14 $\mathrm{g\ mol^{-1}}$). I used $\chi$ as an indicator of water use efficiency, which exploratory analyses suggest had similar responses to soil nitrogen availability and pH as intrinsic water use efficiency measured from gas exchange ($A_\mathrm{net}$/$g_\mathrm{sw}$). Tradeoffs between nitrogen and water use were determined by calculating the ratio of $N_\mathrm{area}$ to $\chi$ ($N_\mathrm{area}$:$\chi$; gN m$^{-2}$) and $V_\mathrm{cmax25}$ to $\chi$ ($V_\mathrm{cmax25}$:$\chi$; $\mathrm{\mu mol\ m^{-2}\ s^{-1}}$). This approach is similar to tradeoff calculations in which nitrogen-water use tradeoffs are measured as the ratio of $N_\mathrm{area}$ or $V_\mathrm{cmax25}$ to $g_\mathrm{sw}$ \shortcite{Paillassa2020,BialicMurphy2021}. In this chapter, I quantify these relationships using $\chi$ in lieu of $g_\mathrm{sw}$ because $g_\mathrm{sw}$ rapidly changes with environmental conditions and therefore may have been altered by recent tree branch severance and/or placement in the cuvette.
 
@@ -124,13 +97,13 @@ Prior to anion and cation extraction, each resin bag was rinsed with ultrapure w
 Soil pH was measured on 0-10 cm mineral soil samples collected prior to fertilization in 2019. Near each of the four plot corners, three 5.5 cm diameter soil cores were collected after first removing the forest floor where present. Each set of three cores was placed in a plastic bag, and later composited by hand mixing and sieved to 4 mm. Soil pH was determined for a 1:2 soil:water slurry (10 g field-moist soil to 20 mL DI water) of each sample using an Accumet AB15 pH meter with flushable junction probe (Fisher Scientific; Hampton, NH, USA), and was estimated at the plot level as the mean soil pH within each plot.
 
 \subsection{\textit{Statistical analyses}}
-\noindent I built two separate series of linear mixed-effects models to explore effects of soil nitrogen availability, soil pH, species, and leaf nitrogen content on leaf physiological traits. In the first series of linear mixed-effects models, I explored the effect of soil nitrogen availability, soil pH, and species on leaf nitrogen content, leaf photosynthesis, stomatal conductance, and nitrogen-water use tradeoffs. Models included plot-level soil nitrogen availability and plot-level soil pH as continuous fixed effects, species as a categorical fixed effect, and site as a categorical random intercept term. Interaction terms between fixed effects were not included due to the small number of experimental plots. I built a series of separate models with this independent variable structure to quantify individual effects of soil nitrogen availability, soil pH, and species on $N_\mathrm{area}$, $M_\mathrm{area}$, $N_\mathrm{mass}$, $A_\mathrm{net}$, $V_\mathrm{cmax25}$, $J_\mathrm{max25}$, $J_\mathrm{max25}$:$V_\mathrm{cmax25}$, $\rho_\mathrm{rubisco}$, $\rho_\mathrm{bioenergetics}$, $\rho_\mathrm{photo}$, $\rho_\mathrm{structure}$, $\chi$, PNUE, $N_\mathrm{area}$:$\chi$, and $V_\mathrm{cmax25}$:$\chi$.
+\noindent I built two separate series of linear mixed-effects models to explore effects of soil nitrogen availability, soil pH, species, and leaf nitrogen content on leaf physiological traits. In the first series of linear mixed-effects models, I explored the effect of soil nitrogen availability, soil pH, and species on leaf nitrogen content, leaf photosynthesis, stomatal conductance, and nitrogen-water use tradeoffs. Models included plot-level soil nitrogen availability and plot-level soil pH as continuous fixed effects, species as a categorical fixed effect, and site as a categorical random intercept term. Interaction terms between fixed effects were not included due to the small number of experimental plots. I built a series of separate models with this independent variable structure to quantify individual effects of soil nitrogen availability, soil pH, and species on $N_\mathrm{area}$, $M_\mathrm{area}$, $N_\mathrm{mass}$, $A_\mathrm{net}$, $V_\mathrm{cmax25}$, $J_\mathrm{max25}$, $J_\mathrm{max25}$:$V_\mathrm{cmax25}$, $\chi$, PNUE, $N_\mathrm{area}$:$\chi$, and $V_\mathrm{cmax25}$:$\chi$.
 
 A second series of linear mixed-effects models were built to investigate relationships between leaf nitrogen content and photosynthetic parameters. Statistical models included $N_\mathrm{area}$ as a single continuous fixed effect with species and site designated as individual random intercept terms. I used this independent variable structure to quantify individual effects of leaf nitrogen content on $A_\mathrm{net}$, $V_\mathrm{cmax25}$, $J_\mathrm{max25}$, $J_\mathrm{max25}$:$V_\mathrm{cmax25}$, and $\chi$.
 
 For all linear mixed-effects models, I used Shapiro-Wilk tests of normality to determine whether linear mixed-effects models satisfied residual normality assumptions. If residual normality assumptions were not met, then models were fit using dependent variables that were natural log transformed. If residual normality assumptions were still not met (Shapiro-Wilk: \textit{p}<0.05), then models were fit using dependent variables that were square root transformed. All residual normality assumptions for both sets of models that did not originally satisfy residual normality assumptions were met with either a natural log or square root data transformation (Shapiro-Wilk: \textit{p}>0.05 in all cases).
 
-In the first series of models, models for $N_\mathrm{area}$, $M_\mathrm{area}$, $N_\mathrm{mass}$, $V_\mathrm{cmax25}$, $J_\mathrm{max25}$, $\chi$, $N_{\mathrm{area}}$:$\chi$, and $V_\mathrm{cmax25}$:$\chi$, $\rho_\mathrm{rubisco}$, $\rho_\mathrm{bioenergetics}$, $\rho_\mathrm{photo}$, $\rho_\mathrm{structure}$ satisfied residual normality assumptions without data transformations (Shapiro-Wilk: \textit{p}>0.05 in all cases). The model for $J_\mathrm{max25}$:$V_\mathrm{cmax25}$ satisfied residual normality assumptions with a natural log data transformation, while models for $A_\mathrm{net}$ and PNUE each satisfied residual normality assumptions with square root data transformations. In the second series of models, models for $V_\mathrm{cmax25}$, $J_\mathrm{max25}$, $\chi$, and $V_\mathrm{cmax25}$:$\chi$ satisfied residual normality assumptions without data transformations (Shapiro-Wilk: \textit{p}>0.05 in all cases). The model for $J_\mathrm{max25}$:$V_\mathrm{cmax25}$ required a natural log data transformation and the model for $A_\mathrm{net}$ required a square root data transformation (Shapiro-Wilk: \textit{p}>0.05 in both cases).
+In the first series of models, models for $N_\mathrm{area}$, $M_\mathrm{area}$, $N_\mathrm{mass}$, $V_\mathrm{cmax25}$, $J_\mathrm{max25}$, $\chi$, $N_{\mathrm{area}}$:$\chi$, and $V_\mathrm{cmax25}$:$\chi$ satisfied residual normality assumptions without data transformations (Shapiro-Wilk: \textit{p}>0.05 in all cases). The model for $J_\mathrm{max25}$:$V_\mathrm{cmax25}$ satisfied residual normality assumptions with a natural log data transformation, while models for $A_\mathrm{net}$ and PNUE each satisfied residual normality assumptions with square root data transformations. In the second series of models, models for $V_\mathrm{cmax25}$, $J_\mathrm{max25}$, $\chi$, and $V_\mathrm{cmax25}$:$\chi$ satisfied residual normality assumptions without data transformations (Shapiro-Wilk: \textit{p}>0.05 in all cases). The model for $J_\mathrm{max25}$:$V_\mathrm{cmax25}$ required a natural log data transformation and the model for $A_\mathrm{net}$ required a square root data transformation (Shapiro-Wilk: \textit{p}>0.05 in both cases).
     
 In all models, I used the `lmer' function in the `lme4' R package \shortcite{Bates2015} to fit each model and the `Anova' function in the `car' R package \shortcite{Fox2019} to calculate Type II Wald’s $\chi^2$ and determine the significance level ($\alpha$=0.05) of each fixed effect coefficient. Finally, I used the `emmeans' R package \shortcite{Lenth2019} to conduct post-hoc comparisons using Tukey’s tests, where degrees of freedom were approximated using the Kenward-Roger approach \shortcite{Kenward1997}. All analyses and plots were conducted in R version 4.1.1 \shortcite{RCoreTeam2021}. All figure regression lines and associated 95\% confidence interval error bars were plotted using predictions generated across the soil nitrogen availability gradient using the `emmeans' R package \shortcite{Lenth2019}.
     
@@ -197,7 +170,7 @@ In all models, I used the `lmer' function in the `lme4' R package \shortcite{Bat
 
 \newpage
 \begin{figure}
-    \includegraphics[width=\textwidth]{ch3_NxpH/figs/NxS_fig1_leafn.png}
+    \includegraphics[width=\columnwidth]{ch3_NxpH/figs/NxS_fig1_leafn.jpg}
     \centering
     \caption[Effects of soil nitrogen availability and species on leaf nitrogen content per unit leaf area, leaf nitrogen content per unit leaf biomass, and leaf mass per leaf area]{Effects of soil N availability and species on leaf nitrogen content per unit leaf area (a-b), leaf nitrogen content per unit leaf biomass (c-d), and leaf mass per leaf area (e-f). Soil nitrogen availability is represented on the x-axis in the left column of panels, while species is represented on the x-axis in the right column of panels. Tree species are represented as colored points and treatment plots are represented as shaped points, jittered for visibility. Species are abbreviated in the right column of panels through their assigned NRCS PLANTS Database symbol \shortcite{USDANRCS2022}, grouped along the x-axis per common mycorrhizal association, where the first three species commonly associate with arbuscular mycorrhizae (ACRU, ASCA, FAGR) and the second two species with ectomycorrhizae (FAGR, QURU). Trendlines are only included when the regression slope is statistically different from zero (\textit{p}<0.05).}
     \label{fig:figure3.1}
@@ -316,109 +289,11 @@ In all models, I used the `lmer' function in the `lme4' R package \shortcite{Bat
 
 \newpage
 \begin{figure}
-    \includegraphics[width=\textwidth]{ch3_NxpH/figs/NxS_fig2_leafbiochem.png}
+    \includegraphics[width=\textwidth]{ch3_NxpH/figs/NxS_fig2_leafbiochem.jpg}
     \centering
     \caption[Effects of soil nitrogen availability, species, and leaf nitrogen content on net photosynthesis, maximum Rubisco carboxylation rate, and maximum RuBP regeneration rate]{Effects of soil nitrogen availability (left column of panels), species (middle column of panels), and leaf nitrogen content per unit leaf area (right column of panels) on net photosynthesis (a-c), maximum Rubisco carboxylation rate (d-f), and maximum RuBP regeneration rate (g-i). Soil nitrogen availability is represented on the x-axis in the left column of panels, species is represented on the x-axis in the middle column of panels, and leaf nitrogen content per unit leaf area is represented continuously on the x-axis in the right column of panels. Species abbreviations and position along the x-axis in the middle column of panels, colored points, shapes, and trendlines are as explained in Figure \ref{fig:figure3.1}.}
     \label{fig:figure3.2}
 \end{figure}
-\clearpage
-
-\newpage
-\subsection{\textit{Leaf nitrogen allocation}}
-\noindent Neither soil nitrogen availability nor soil pH affected the proportion of leaf nitrogen allocated to Rubisco or bioenergetics (Table \ref{tab:table3.3}; Fig. \ref{fig:figure3.3}a, Fig. \ref{fig:figure3.3}c). There was also no effect of soil nitrogen availability or soil pH on the proportion of leaf nitrogen allocated to photosynthesis (Table \ref{tab:table3.3}; Fig. \ref{fig:figure3.3}f). I found no effect of soil nitrogen availability or soil pH on the proportion of leaf nitrogen allocated to structure (Table \ref{tab:table3.3}; Fig \ref{fig:figure3.3}g). Species varied in the proportion of leaf nitrogen allocated to Rubisco, photosynthesis, and structure (Fig \ref{fig:figure3.3}b, Fig. \ref{fig:figure3.3}f, Fig \ref{fig:figure3.3}h), with no detectable species effect on the proportion of leaf nitrogen allocated to bioenergetics (Table \ref{tab:table3.3}, Fig. \ref{fig:figure3.3}d).
-\clearpage
-
-\newpage
-\begin{landscape}
-    \begin{table}
-    \centering
-    \caption[Effects of soil nitrogen availability, soil pH, and species on the proportion of leaf nitrogen content allocated to photosynthesis, Rubisco, bioenergetics, and structure]{Effects of soil nitrogen availability, soil pH, and species on the proportion of leaf nitrogen content allocated to photosynthesis ($\rho_\mathrm{photo}$; gN gN$^{-1}$), Rubisco ($\rho_\mathrm{rubisco}$; gN gN$^{-1}$), bioenergetics ($\rho_\mathrm{bioe}$; gN gN$^{-1}$), and structure ($\rho_\mathrm{structure}$; gN gN$^{-1}$)$^*$}
-    \resizebox{\columnwidth}{!}{
-    \begin{tabular}{p{2.5cm}p{0.5cm}p{2cm}p{1.5cm}p{1.5cm}p{2cm}p{1.5cm}p{1.5cm}p{2cm}p{1.5cm}p{1.5cm}}
-        && 
-        \multicolumn{3}{l}{$\rho_\mathrm{photo}$} 
-        & \multicolumn{3}{l}{$\rho_\mathrm{rubisco}$} 
-        & \multicolumn{3}{l}{$\rho_\mathrm{bioe}$} 
-        \\
-        \hline 
-        & 
-        \multicolumn{1}{r}{df} 
-        & \multicolumn{1}{r}{Coefficient} & \multicolumn{1}{r}{$\chi^{2}$} & \multicolumn{1}{r}{\textit{p}} 
-        & \multicolumn{1}{r}{Coefficient} & \multicolumn{1}{r}{$\chi^{2}$} & \multicolumn{1}{r}{\textit{p}} 
-        & \multicolumn{1}{r}{Coefficient} & \multicolumn{1}{r}{$\chi^{2}$} & \multicolumn{1}{r}{\textit{p}} 
-        \\ 
-        \hline
-
-        Intercept & \multicolumn{1}{r}{-} 
-        &  \multicolumn{1}{r}{$4.93*10^{-1}$} & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{-}
-        &  \multicolumn{1}{r}{$4.17*10^{-1}$} & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{-}
-        &  \multicolumn{1}{r}{$7.64*10^{-2}$} & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{-} 
-        \\
-
-        Soil N & \multicolumn{1}{r}{1}
-        & \multicolumn{1}{r}{$-1.23*10^{-3}$} & \multicolumn{1}{r}{0.521} & \multicolumn{1}{r}{0.470}
-        & \multicolumn{1}{r}{$-1.04*10^{-3}$}  & \multicolumn{1}{r}{0.501} & \multicolumn{1}{r}{0.479}
-        & \multicolumn{1}{r}{$-1.77*10^{-4}$}  & \multicolumn{1}{r}{0.557} & \multicolumn{1}{r}{0.455} 
-        \\
-
-        Soil pH & \multicolumn{1}{r}{1}
-        & \multicolumn{1}{r}{$-4.37*10^{-2}$} & \multicolumn{1}{r}{1.581} & \multicolumn{1}{r}{0.209}
-        & \multicolumn{1}{r}{$-3.70*10^{-2}$} & \multicolumn{1}{r}{1.511} & \multicolumn{1}{r}{0.219}
-        & \multicolumn{1}{r}{$-6.84*10^{-3}$} & \multicolumn{1}{r}{1.941} & \multicolumn{1}{r}{0.164} 
-        \\
-
-        Species & \multicolumn{1}{r}{4}
-        & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{13.106} & \multicolumn{1}{r}{\textbf{0.011}}
-        & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{14.152} & \multicolumn{1}{r}{\textbf{0.007}}
-        & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{7.300} & \multicolumn{1}{r}{0.121}
-        \\
-
-        &&&&&&&&&&
-        \\
-
-        && \multicolumn{3}{l}{$\rho_\mathrm{structure}$} &&&&& \\
-        \hline
-        & \multicolumn{1}{r}{df}
-        & \multicolumn{1}{r}{Coefficient} & \multicolumn{1}{r}{$\chi^{2}$} & \multicolumn{1}{r}{\textit{p}} 
-        \\
-        \hline
-
-        Intercept & \multicolumn{1}{r}{-}
-        & \multicolumn{1}{r}{$9.77*10^{-2}$} & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{-}
-        &&&&&&
-        \\
-
-        Soil N & \multicolumn{1}{r}{1}
-        & \multicolumn{1}{r}{$-2.29*10^{-4}$}  & \multicolumn{1}{r}{1.165} & \multicolumn{1}{r}{0.280}
-        &&&&&& 
-        \\
-
-        Soil pH & \multicolumn{1}{r}{1}
-        & \multicolumn{1}{r}{$-1.87*10^{-3}$} & \multicolumn{1}{r}{0.179} & \multicolumn{1}{r}{0.672}
-        &&&&&& 
-        \\
-
-        Species & \multicolumn{1}{r}{4}
-        & \multicolumn{1}{r}{-} & \multicolumn{1}{r}{16.428} & \multicolumn{1}{r}{\textbf{0.002}}
-        &&&&&&
-        \\
-        \hline
-    \end{tabular}}
-    \label{tab:table3.3}
-\end{table}
-\begin{singlespace}
-    \noindent $^*$Significance determined using Type II Wald $\chi^{2}$ tests ($\alpha$=0.05). \textit{P}-values less than 0.05 are in bold. 
-\end{singlespace}
-\end{landscape}
-\clearpage
-
-\newpage
-\begin{figure}
-    \includegraphics[scale = 0.4]{ch3_NxpH/figs/NxS_fig3_leafn_allocation.png}
-    \centering
-    \caption[Effects of soil nitrogen availability, species, and leaf nitrogen content on the fraction of leaf nitrogen allocated to photosynthesis and structure]{Effects of soil nitrogen availability and species on the proportion of leaf nitrogen content allocated to Rubisco (a-b), bioenergetics (c-d), photosynthesis (e-f), and structure (g-h). Soil nitrogen availability is represented on the x-axis in the left column of panels and species are represented on the x-axis in the right column of panels. Species abbreviations and position along the x-axis in the middle column of panels, colored points, shapes, trendlines, error bars, and compact lettering are as explained in Figure \ref{fig:figure3.1}.}
-    \label{fig:figure3.3}
-    \end{figure}
 \clearpage
 
 \newpage
@@ -537,7 +412,7 @@ In all models, I used the `lmer' function in the `lme4' R package \shortcite{Bat
 
 \newpage
 \begin{figure}
-    \includegraphics[width=\textwidth]{ch3_NxpH/figs/NxS_fig4_pnueiwue.png}
+    \includegraphics[width=\textwidth]{ch3_NxpH/figs/NxS_fig4_pnueiwue.jpg}
     \centering
     \caption[Effects of soil N availability, species, and leaf N content on tradeoffs between nitrogen and water use]{Effects of soil nitrogen availability and species on the proportion of leaf nitrogen content allocated to Rubisco (a-b), bioenergetics (c-d), photosynthesis (Rubisco + bioenergetics; e-f), and structure (g-h). Soil nitrogen availability is represented on the x-axis in the left column of panels and species are represented on the x-axis in the right column of panels. Species abbreviations and position along the x-axis in the middle column of panels, colored points, shapes, trendlines, error bars, and compact lettering are as explained in Figure \ref{fig:figure3.1}.}
     \label{fig:figure3.4}
@@ -552,7 +427,7 @@ Supporting the theory, increasing soil nitrogen availability was associated with
 \subsection{\textit{Soil nitrogen availability modifies tradeoffs between nitrogen and water use}}
 \noindent Supporting expected least-cost outcomes and past environmental gradient studies \shortcite{Dong2017,Paillassa2020}, increasing soil nitrogen availability was associated with increased leaf nitrogen content. Soil nitrogen availability had smaller impacts on net photosynthesis and $\chi$, reducing PNUE and increasing leaf nitrogen content per unit $\chi$, as expected from theory. Photosynthetic least-cost theory suggests that reductions in PNUE should be driven by increased proportions of leaf nitrogen allocated to photosynthetic tissue, a pattern that should allow plants to achieve optimal photosynthetic rates with greater photosynthetic capacity to make more efficient use of available light. Contrasting theory predictions, I found no effect of soil nitrogen availability on photosynthetic capacity. However, photosynthetic capacity did tend to increase with increasing soil nitrogen availability (\textit{p}<0.20; Table \ref{tab:table3.2}) resulting in no effect of soil nitrogen availability on the relative fraction of leaf nitrogen allocated to photosynthesis, Rubisco, or bioenergetics. These lines of evidence support the idea that trees use additional nitrogen to support increased leaf nitrogen allocation toward photosynthetic tissue and enhance photosynthetic capacity \shortcite{Wright2003}.
 
-Soil nitrogen availability had a stronger effect on leaf nitrogen than photosynthetic capacity, suggesting that additional plant nitrogen uptake due to increased soil nitrogen availability was being used to support non-photosynthetic nitrogen pools, possibly structural tissue or stress-induced amino acid and polyamine synthesis \shortcite{Minocha2000,Onoda2004,Bubier2011}. While I found no change in the proportion of leaf nitrogen allocated to leaf structural tissue, increased leaf nitrogen content with increasing soil nitrogen availability suggests that the net amount of nitrogen invested in leaf structural tissue increased with increasing soil nitrogen availability. Importantly, the proportion of leaf nitrogen allocated to leaf structural tissue was calculated using an empirical relationship between $M_\mathrm{area}$ and the amount of leaf nitrogen allocated to cell walls \shortcite{Onoda2017}. As the generality of relationships between $M_\mathrm{area}$ and the amount of leaf nitrogen allocated to cell walls has been called into question \shortcite{Harrison2009}, future work should consider explicitly measuring nitrogen allocation to cell wall tissue and stress-induced amino acid synthesis to confirm these patterns.
+Soil nitrogen availability had a stronger effect on leaf nitrogen than photosynthetic capacity, suggesting that additional plant nitrogen uptake due to increased soil nitrogen availability was being used to support non-photosynthetic nitrogen pools, possibly structural tissue or stress-induced amino acid and poly-amine synthesis \shortcite{Minocha2000,Onoda2004,Bubier2011}. This pattern is supported by the weak positive effect of increasing soil nitrogen availability on leaf mass per unit leaf area, suggesting that increasing soil nitrogen availability allowed plants to increase nitrogen investment to leaf structural tissue, perhaps as a mechanism to increase leaf longevity in deciduous leaves with finite growing seasons \shortcite{Wright2004,Reich2014,Wang2023}.
     
 Opposing patterns expected from least-cost theory, increasing soil nitrogen availability had a null effect on $\chi$. Despite this, I observed a strong negative effect of increasing $N_\mathrm{area}$ on $\chi$, consistent with the nitrogen-water use tradeoffs expected from theory. The null response of $\chi$ to increasing soil nitrogen availability may have been due to a lack of water limitation in the system, given that the area received approximately 20\% more precipitation (1167 mm) during the 12-month period leading up to our measurement period than normally expected (972 mm). However, droughts can and do occur in temperate forests of the northeastern United States \shortcite{Sweet2017}, so the observed increase in leaf nitrogen content with increasing soil nitrogen availability could be a strategy that allows trees to hedge bets against drier than normal growing seasons \shortcite{Onoda2004,Onoda2017,Hallik2009}. As suggested in \shortciteN{Paillassa2020} and more recently by \shortciteN{Querejeta2022}, negative effects of soil nitrogen availability on $\chi$ may increase with increasing aridity. This strategy would be especially advantageous if it allows individuals growing in arid regions to maintain carbon assimilation rates with reduced water loss. Future work should attempt to quantify interactive roles of climate and soil nitrogen availability on nitrogen-water use tradeoffs, which could be done using coordinated and multifactor nutrient \shortcite{Borer2014} and water \shortcite{Knapp2017} manipulation experiments across broad climatic gradients.
     

@@ -11,7 +11,7 @@ Photosynthetic least-cost theory provides a possible mechanism to explain varian
 
 Leaf nitrogen allocation responses to changing climates or soil resource availability may depend on species' dominant mode of nutrient acquisition. For example, species that form associations with symbiotic nitrogen-fixing bacteria (referred as “N-fixing species” from this point forward) should, in theory, have access to less finite nitrogen supply than species not capable of forming such associations (referred as “non-fixing species” from this point forward), which may result in decreased $\beta$ values in N-fixing species than non-fixing species. This result was previously shown in a greenhouse experiment, where a leguminous species generally had decreased costs of nitrogen acquisition compared to a non-leguminous species, although these differences were generally stronger under increased nitrogen limitation \shortcite{Perkowski2021}. Reduced $\beta$ values could be an explanation for why N-fixing species commonly have greater leaf nitrogen content than non-fixing species \shortcite{Adams2016,Dong2017}.
 
-Similarly, leaf nitrogen allocation patterns across environmental gradients may be depend on photosynthetic pathway. Reduced leaf $C_\mathrm{i}$:$C_\mathrm{a}$ values in C$_4$ species suggests that C$_4$ species should have reduced $\beta$ values compared to C$_3$ species \shortcite{Scott2022}, a pattern that could be the result of increased costs associated with water acquisition and use or reduced costs of nitrogen acquisition and use relative to C$_3$ species. Theory predicts that this response in C$_4$ species will cause C$_4$ species to have higher leaf nitrogen content on average compared to C$_3$ species, though several studies document decreased leaf nitrogen content in C$_4$ species \shortcite{Schmitt1981,Sage1987_c3c4,Ghannoum2011}. No study to date has directly quantified $\beta$ in C$_4$ species aside from the initial parameterization of $\beta$ in an optimality model for C$_4$ species \shortcite{Scott2022} using a global dataset of leaf $\delta^{13}$C values \shortcite{Cornwell2018}.
+Similarly, leaf nitrogen allocation patterns across environmental gradients may be dependent on photosynthetic pathway. Reduced leaf $C_\mathrm{i}$:$C_\mathrm{a}$ values in C$_4$ species suggests that C$_4$ species should have reduced $\beta$ values compared to C$_3$ species \shortcite{Scott2022}, a pattern that could be the result of increased costs associated with water acquisition and use or reduced costs of nitrogen acquisition and use relative to C$_3$ species. Theory predicts that this response in C$_4$ species will cause C$_4$ species to have higher leaf nitrogen content on average compared to C$_3$ species, though several studies document decreased leaf nitrogen content in C$_4$ species \shortcite{Schmitt1981,Sage1987_c3c4,Ghannoum2011}. No study to date has directly quantified $\beta$ in C$_4$ species aside from the initial parameterization of $\beta$ in an optimality model for C$_4$ species \shortcite{Scott2022} using a global dataset of leaf $\delta^{13}$C values \shortcite{Cornwell2018}.
 
 While photosynthetic least-cost theory provides a unified framework for understanding integrated effects of climate and soil resource availability on $N_\mathrm{area}$, empirical tests of the theory are sparse. Previous work shows that increasing soil nitrogen availability decreases costs of acquiring nutrients \shortcite{Bae2015,Perkowski2021,Lu2022}, which can induce predictable nutrient-water use tradeoffs expected from the theory across broad environmental gradients \shortcite{Paillassa2020,Querejeta2022,Westerband2023} and in manipulation experiments \shortcite{BialicMurphy2021}. Additionally, increasing vapor pressure deficit has been shown to have a positive effect on $N_\mathrm{area}$, which is commonly associated with reduced leaf $C_\mathrm{i}$:$C_\mathrm{a}$ \shortcite{Dong2017,Dong2020,Firn2019,Lopez2021}.
 
@@ -317,7 +317,7 @@ I derived the unit cost of resource use ($\beta$) using leaf $C_\mathrm{i}$:$C_\
 \begin{landscape}
     \begin{figure}
         \centering
-        \includegraphics[scale = 0.4]{ch4_TXeco/figs/TXeco_fig1_site_map.png}
+        \includegraphics[width=\columnwidth]{ch4_TXeco/figs/TXeco_fig1_site_map.jpg}
         \caption[Site locations along 2006-2020 mean annual precipitation and mean annual temperature gradients in Texas, USA.]{Site locations along 2006-2020 mean annual precipitation (a) and mean annual temperature (b) gradients in Texas, USA. Precipitation and temperature data were plotted using PRISM data at a 4-km grid resolution and are masked to include only grid cells that occur within the Texas state boundary of the United States. In both panels, addition signs refer to sites visited in 2020, multiplication signs to sites visited in 2021, and asterisks to sites visited in 2020 and 2021. The scale bar in (a) also applies to (b).}
         \label{fig:figure4.1}
     \end{figure}
@@ -361,9 +361,7 @@ Finally, I conducted a path analysis using a piecewise structural equation model
 \newpage
 \section{Results}
 \subsection{\textit{Cost to acquire nitrogen relative to water}}
-\noindent Model selection indicated that 90-day mean soil moisture conferred the best model fit for $\beta$ (AICc=1387.54; Table \ref{tab:tab.c4}; Fig. \ref{fig:figure.c1}).
-
-Increasing soil nitrogen availability generally decreased $\beta$  (\textit{p}<0.001; Table \ref{tab:table4.2}; Fig. \ref{fig:figure4.2}a), a pattern driven by a negative effect of increasing soil nitrogen on $\beta$  in C$_3$ non-fixers (Tukey: \textit{p}=0.005) and C$_3$ N-fixers (Tukey: \textit{p}=0.035) despite a null effect of increasing soil nitrogen on $\beta$ in C$_4$ non-fixers (Tukey: \textit{p}=0.856). There was no effect of soil moisture on $\beta$  (\textit{p}=0.872; Table \ref{tab:table4.2}; Fig. \ref{fig:figure4.2}b). A functional group effect (\textit{p}<0.001; Table \ref{tab:table4.2}) indicated that C$_4$ non-fixers generally had lower $\beta$ values than both C$_3$ N-fixers and C$_3$ non--fixers (Tukey: \textit{p}<0.001 in both cases), while $\beta$ values in C$_3$ N-fixers did not differ from C$_3$ non-fixers (Tukey: \textit{p}=0.854).
+\noindent Model selection indicated that 3-day mean soil moisture conferred the best model fit for $\beta$ (AICc=1870.10, RMSE=1.4135; Table \ref{tab:tab.c4}; Fig. \ref{fig:figure.c1}). An interaction between soil nitrogen availability and plant functional group (\textit{p}=0.005; Table \ref{tab:table4.2}) indicated that a negative effect of increasing soil nitrogen availability on $\beta$ was driven by a negative effect of increasing soil nitrogen on $\beta$ in C$_4$ non-fixers (Tukey: \textit{p}<0.001) and marginal negative effect in C$_3$ non-fixers (Tukey: \textit{p}=0.100), with no effect of soil nitrogen availability on $\beta$ in C$_3$ N-fixers (Tukey: \textit{p}=0.147; Table \ref{tab:table4.2}; Fig. \ref{fig:figure4.2}a). A second interaction between soil moisture and plant functional group (\textit{p}<0.001; Table \ref{tab:table4.2}) indicated that a negative effect of increasing soil moisture on $\beta$ (\textit{p}=0.002) was driven by C$_4$ non-fixers and null effects of soil moisture on $\beta$ in C$_3$ non-fixers (Tukey: \textit{p}=0.852) or C$_3$ N-fixers (Tukey: \textit{p}=0.650; Table \ref{tab:table4.2}; Fig. \ref{fig:figure4.2}b). A functional group effect (\textit{p}<0.001; Table \ref{tab:table4.2}) indicated that C$_4$ non-fixers had lower $\beta$ than both C$_3$ N-fixers and C$_3$ non-fixers (Tukey: \textit{p}<0.001 in both cases), while $\beta$ in C$_3$ N-fixers did not differ from C$_3$ non-fixers (Tukey: \textit{p}=0.628).
 
 \newpage
 \begin{table}
@@ -381,58 +379,58 @@ Increasing soil nitrogen availability generally decreased $\beta$  (\textit{p}<0
             
             Intercept
             & \multicolumn{1}{r}{-}
-            & \multicolumn{1}{r}{$3.39*10^{0}$}
+            & \multicolumn{1}{r}{$3.37*10^{0}$}
             & \multicolumn{1}{r}{-}
             & \multicolumn{1}{r}{-}
             \\
 
-            Soil moisture (SM\textsubscript{90})
+            Soil moisture (SM\textsubscript{3})
             & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{$-1.96*10^{-1}$}
-            & \multicolumn{1}{r}{0.026}
-            & \multicolumn{1}{r}{0.872}
+            & \multicolumn{1}{r}{$2.07*10^{-1}$}
+            & \multicolumn{1}{r}{9.254}
+            & \multicolumn{1}{r}{\textbf{0.002}}
             \\
 
             Soil N (N)
             & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{$-1.42*10^{-2}$}
-            & \multicolumn{1}{r}{12.031}
+            & \multicolumn{1}{r}{$-1.67*10^{-2}$}
+            & \multicolumn{1}{r}{14.547}
             & \multicolumn{1}{r}{\textbf{<0.001}}
             \\
 
             PFT
             & \multicolumn{1}{r}{2}
             & \multicolumn{1}{r}{-}
-            & \multicolumn{1}{r}{199.617}
+            & \multicolumn{1}{r}{408.426}
             & \multicolumn{1}{r}{\textbf{<0.001}}
             \\
 
-            SM\textsubscript{90}*N
+            SM\textsubscript{3}*N
             & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{$-3.02*10^{-3}$}
-            & \multicolumn{1}{r}{1.000}
-            & \multicolumn{1}{r}{0.317}
+            & \multicolumn{1}{r}{$-4.03*10^{-3}$}
+            & \multicolumn{1}{r}{0.134}
+            & \multicolumn{1}{r}{0.714}
             \\
 
-            SM\textsubscript{90}*PFT
+            SM\textsubscript{3}*PFT
             & \multicolumn{1}{r}{2}
             & \multicolumn{1}{r}{-}
-            & \multicolumn{1}{r}{0.623}
-            & \multicolumn{1}{r}{0.732}
+            & \multicolumn{1}{r}{36.746}
+            & \multicolumn{1}{r}{\textbf{<0.001}}
             \\
 
             N*PFT
             & \multicolumn{1}{r}{2}
             & \multicolumn{1}{r}{-}
-            & \multicolumn{1}{r}{5.271}
-            & \multicolumn{1}{r}{\textit{0.072}}
+            & \multicolumn{1}{r}{10.485}
+            & \multicolumn{1}{r}{\textbf{0.005}}
             \\
 
-            SM\textsubscript{90}*N*PFT
+            SM\textsubscript{3}*N*PFT
             & \multicolumn{1}{r}{2}
             & \multicolumn{1}{r}{-}
-            & \multicolumn{1}{r}{5.271}
-            & \multicolumn{1}{r}{0.182}
+            & \multicolumn{1}{r}{1.324}
+            & \multicolumn{1}{r}{0.516}
             \\
             \hline
         \end{tabular}%}
@@ -447,17 +445,17 @@ Increasing soil nitrogen availability generally decreased $\beta$  (\textit{p}<0
 \begin{landscape}
     \begin{figure}
     \centering
-    \includegraphics[width=\columnwidth]{ch4_TXeco/figs/TXeco_fig2_beta.png}
-    \caption[Effects of soil nitrogen availability and soil moisture on the cost of acquiring and using nitrogen]{Effects of soil nitrogen availability (a) and soil moisture (b) on the cost of acquiring and using nitrogen ($\beta$; unitless). Soil nitrogen availability is represented on the x-axis in (a), soil moisture is represented on the x-axis in (b) as a percent of site water holding capacity, and natural-log transformed $\beta$ is represented on the y-axis for both panels. Yellow points represent C$_3$ N-fixers, blue points represent C$_3$ non-fixers, and red points represent C$_4$ non-fixers. Throughout, points are jittered for visibility. A black solid trendline is drawn to denote bivariate relationships where the slope is different from zero (\textit{p}<0.05), with error ribbons representing the upper and lower 95\% confidence intervals.}
+    \includegraphics[width=\columnwidth]{ch4_TXeco/figs/TXeco_fig2_beta.jpg}
+    \caption[Effects of soil nitrogen availability and soil moisture on the cost of acquiring and using nitrogen relative to water]{Effects of soil nitrogen availability (a) and soil moisture (b) on the cost of acquiring and using nitrogen relative to water ($\beta$; unitless). Soil nitrogen availability is represented on the x-axis in (a), soil moisture is represented on the x-axis in (b) as a percent of site water holding capacity, and natural-log transformed $\beta$ is represented on the y-axis for both panels. Yellow points represent C$_3$ N-fixers, blue points represent C$_3$ non-fixers, and red points represent C$_4$ non-fixers. Points are jittered along the x-axis for visibility. Colored trendlines note bivariate relationships within plant functional groups and are only included when the regression line slope is different from zero (\textit{p}<0.05). Error ribbons represent the upper and lower 95\% confidence interval range.}
     \label{fig:figure4.2}
 \end{figure}
 \end{landscape}
 \clearpage
 
 \subsection{\textit{Leaf $C_\mathrm{i}$:$C_\mathrm{a}$}}
-\noindent Model selection indicated that 4-day mean vapor pressure deficit was the timescale that conferred the best model fit for leaf $C_\mathrm{i}$:$C_\mathrm{a}$ (AICc=-755.81; Table \ref{tab:tab.c4}; Fig. \ref{fig:figure.c1}).
+\noindent 
 
-Model results revealed that increasing vapor pressure deficit generally decreased leaf $C_\mathrm{i}$:$C_\mathrm{a}$ (\textit{p}<0.001; Table \ref{tab:table4.3}; Fig. \ref{fig:figure4.3}a). There was no effect of soil moisture (\textit{p}=0.549; Table \ref{tab:table4.3}; Fig. \ref{fig:figure4.3}b) or soil nitrogen availability (\textit{p}=0.549; Table \ref{tab:table4.3}; Fig. \ref{fig:figure4.3}c) on leaf $C_\mathrm{i}$:$C_\mathrm{a}$. A strong plant functional group effect (\textit{p}<0.001; Table \ref{tab:table4.3}) indicated that C$_4$ non-fixers had lower leaf $C_\mathrm{i}$:$C_\mathrm{a}$ than C$_3$ N-fixers and C$_3$ non-fixers (Tukey: \textit{p}<0.001 in both cases), with no difference between C$_3$ N-fixers and C$_3$ non-fixers (Tukey: \textit{p}=0.866).
+Model selection indicated that 4-day mean vapor pressure deficit conferred the best model fit for leaf $C_\mathrm{i}$:$C_\mathrm{a}$ (AICc=-867.19; Table \ref{tab:tab.c4}; Fig. \ref{fig:figure.c1}). An interaction between vapor pressure deficit and plant functional group (\textit{p}=0.034; Table \ref{tab:table4.3}) revealed that the negative effect of increasing vapor pressure deficit on leaf $C_\mathrm{i}$:$C_\mathrm{a}$ (\textit{p}<0.001; Table \ref{tab:table4.3}) was driven by C$_3$ non-fixers (Tukey: \textit{p}<0.001) and C$_3$ N-fixers (Tukey: \textit{p}=0.040; Table \ref{tab:table4.3}; Fig. \ref{fig:figure4.3}a). An additional interaction between soil nitrogen availability and plant functional group (\textit{p}=0.005; Table \ref{tab:table4.3}) indicated a negative effect of increasing soil nitrogen availability on leaf $C_\mathrm{i}$:$C_\mathrm{a}$ in C$_4$ non-fixers (Tukey: \textit{p}=0.007), with no effect in C$_3$ non-fixers (Tukey: \textit{p}=0.660) or C$_3$ N-fixers (Tukey: \textit{p}=0.231; Fig. \ref{fig:figure4.3}c). There was no effect of soil moisture on leaf $C_\mathrm{i}$:$C_\mathrm{a}$ (Table \ref{tab:table4.3}; Fig. \ref{fig:figure4.3}b). A plant functional group effect (\textit{p}<0.001; Table \ref{tab:table4.3}) indicated that C$_4$ non-fixers had lower leaf $C_\mathrm{i}$:$C_\mathrm{a}$ than C$_3$ N-fixers and C$_3$ non-fixers (Tukey: \textit{p}<0.001 in both cases), with no difference between C$_3$ N-fixers and C$_3$ non-fixers (Tukey: \textit{p}=0.866).
 
 \newpage
 \begin{table}
@@ -475,72 +473,72 @@ Model results revealed that increasing vapor pressure deficit generally decrease
             
             Intercept
             & \multicolumn{1}{r}{-}
-            & \multicolumn{1}{r}{$1.32*10^{0}$}
+            & \multicolumn{1}{r}{$1.08*10^{0}$}
             & \multicolumn{1}{r}{-}
             & \multicolumn{1}{r}{-}
             \\
 
             Vapor pressure deficit (VPD$_4$)
             & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{$-4.53*10^{-1}$}
-            & \multicolumn{1}{r}{10.987}
+            & \multicolumn{1}{r}{$-2.59*10^{-1}$}
+            & \multicolumn{1}{r}{14.042}
             & \multicolumn{1}{r}{\textbf{<0.001}}
             \\
 
-            Soil moisture (SM$_{90}$)
+            Soil moisture (SM$_{3}$)
             & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{$-1.71*10^{-1}$}
-            & \multicolumn{1}{r}{0.039}
-            & \multicolumn{1}{r}{0.843}
+            & \multicolumn{1}{r}{$-3.26*10^{-3}$}
+            & \multicolumn{1}{r}{1.398}
+            & \multicolumn{1}{r}{0.237}
             \\
 
             Soil N (N)
             & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{$-1.71*10^{-3}$}
-            & \multicolumn{1}{r}{0.043}
-            & \multicolumn{1}{r}{0.549}
+            & \multicolumn{1}{r}{$-1.40*10^{-3}$}
+            & \multicolumn{1}{r}{0.708}
+            & \multicolumn{1}{r}{0.400}
             \\
 
             PFT
             & \multicolumn{1}{r}{2}
             & \multicolumn{1}{r}{-}
-            & \multicolumn{1}{r}{205.274}
+            & \multicolumn{1}{r}{451.106}
             & \multicolumn{1}{r}{\textbf{<0.001}}
             \\
 
-            SM$_{90}$*N
+            SM$_{3}$*N
             & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{$7.29*10^{-3}$}
-            & \multicolumn{1}{r}{2.266}
-            & \multicolumn{1}{r}{0.132}
+            & \multicolumn{1}{r}{$1.47*10^{-3}$}
+            & \multicolumn{1}{r}{0.318}
+            & \multicolumn{1}{r}{0.573}
             \\
 
             VPD$_{4}$*PFT
             & \multicolumn{1}{r}{2}
             & \multicolumn{1}{r}{-}
-            & \multicolumn{1}{r}{0.887}
-            & \multicolumn{1}{r}{0.642}
+            & \multicolumn{1}{r}{6.737}
+            & \multicolumn{1}{r}{\textbf{0.034}}
             \\
 
-            SM$_{90}$*PFT
+            SM$_{3}$*PFT
             & \multicolumn{1}{r}{2}
             & \multicolumn{1}{r}{-}
-            & \multicolumn{1}{r}{0.814}
-            & \multicolumn{1}{r}{0.666}
+            & \multicolumn{1}{r}{3.890}
+            & \multicolumn{1}{r}{0.143}
             \\
 
             N*PFT
             & \multicolumn{1}{r}{2}
             & \multicolumn{1}{r}{-}
-            & \multicolumn{1}{r}{4.158}
-            & \multicolumn{1}{r}{0.125}
+            & \multicolumn{1}{r}{10.622}
+            & \multicolumn{1}{r}{\textbf{0.005}}
             \\
 
             SM$_{90}$*N*PFT
             & \multicolumn{1}{r}{2}
             & \multicolumn{1}{r}{-}
-            & \multicolumn{1}{r}{3.465}
-            & \multicolumn{1}{r}{0.177}
+            & \multicolumn{1}{r}{0.409}
+            & \multicolumn{1}{r}{0.815}
             \\
             \hline
         \end{tabular}%}
@@ -554,18 +552,18 @@ Model results revealed that increasing vapor pressure deficit generally decrease
 \newpage
 \begin{figure}
     \centering
-    \includegraphics[width=\textwidth]{ch4_TXeco/figs/TXeco_fig3_chi.png}
-    \caption[Effects of 4-day mean vapor pressure deficit, 2-day soil moisture (per water holding capacity), and soil nitrogen availability on leaf $C_\mathrm{i}$:$C_\mathrm{a}$]{Effects of 4-day mean vapor pressure deficit (a), 90-day soil moisture (per water holding capacity; b), and soil nitrogen availability (c) on leaf $C_\mathrm{i}$:$C_\mathrm{a}$. Shading and trendlines are as explained in Figure \ref{fig:figure4.2}. Points are jittered for visibility. Variably colored trendlines are only included if there is an interaction between the x-axis and plant functional group, where solid trendlines indicate slopes that are different from zero (\textit{p}<0.05) and dashed trendlines indicate slopes that are not different from zero (\textit{p}<0.05). Error ribbons represent the upper and lower 95\% confidence intervals of each fitted trendline.}
+    \includegraphics[width=\textwidth]{ch4_TXeco/figs/TXeco_fig3_chi.jpg}
+    \caption[Effects of 4-day mean vapor pressure deficit, 3-day soil moisture (per water holding capacity), and soil nitrogen availability on leaf $C_\mathrm{i}$:$C_\mathrm{a}$]{Effects of 4-day mean vapor pressure deficit (a), 3-day soil moisture (per water holding capacity; b), and soil nitrogen availability (c) on leaf $C_\mathrm{i}$:$C_\mathrm{a}$. Shading and trendlines are as explained in Figure \ref{fig:figure4.2}. Points are jittered for visibility. Variably colored trendlines are only included if there is an interaction between the x-axis and plant functional group, where solid trendlines indicate slopes that are different from zero (\textit{p}<0.05). Error ribbons represent the upper and lower 95\% confidence intervals of each fitted trendline.}
     \label{fig:figure4.3}
 \end{figure}
 \clearpage
 
 \subsection{\textit{Leaf nitrogen content}}
-\noindent An interaction between leaf $C_\mathrm{i}$:$C_\mathrm{a}$ and plant functional group (\textit{p}<0.001; Table \ref{tab:table4.4}) revealed that the negative effect of increasing leaf $C_\mathrm{i}$:$C_\mathrm{a}$ on $N_\mathrm{area}$ (\textit{p}<0.001; Table \ref{tab:table4.4}) was driven by a negative effect of increasing leaf $C_\mathrm{i}$:$C_\mathrm{a}$ on $N_\mathrm{area}$ in C$_3$ non-fixers and C$_3$ N-fixers (Tukey: \textit{p}<0.001 in both cases), but not C$_4$ non-fixers (Tukey: \textit{p}=0.786; Fig. \ref{fig:figure4.4}a). A marginal interaction between soil nitrogen availability and plant functional group (\textit{p}=0.057; Table \ref{tab:table4.4}) indicated that the positive effect of increasing soil nitrogen (\textit{p}=0.007; Table \ref{tab:table4.4}) was only apparent in C$_3$ N-fixers (Tukey: \textit{p}<0.001; Table \ref{tab:table4.4}; Fig. \ref{fig:figure4.4}d), but not C$_3$ non-fixers (Tukey: \textit{p}=0.329) or C$_4$ non-fixers (Tukey: \textit{p}=0.682). Increasing soil moisture increased $N_\mathrm{area}$ (\textit{p}=0.011, Table \ref{tab:table4.4}). A plant functional group effect (\textit{p}<0.001; Table \ref{tab:table4.4}) indicated that C$_4$ non-fixers had lower $N_\mathrm{area}$ compared to C$_3$ N-fixers and C$_3$ non-fixers (Tukey: \textit{p}<0.001 in both cases), while C$_3$ N-fixers had lower $N_\mathrm{area}$ compared to C$_3$ non-fixers (Tukey: \textit{p}=0.024).
+\noindent An interaction between leaf $C_\mathrm{i}$:$C_\mathrm{a}$ and plant functional group (\textit{p}<0.001; Table \ref{tab:table4.4}) revealed that the negative effect of increasing leaf $C_\mathrm{i}$:$C_\mathrm{a}$ on $N_\mathrm{area}$ (\textit{p}=0.003; Table \ref{tab:table4.4}) was driven by negative effects of increasing leaf $C_\mathrm{i}$:$C_\mathrm{a}$ on $N_\mathrm{area}$ in C$_3$ non-fixers (Tukey: \textit{p}<0.001) and marginal negative effect in C$_3$ N-fixers (Tukey: \textit{p}=0.089; Fig. \ref{fig:figure4.4}a). An interaction between soil nitrogen availability and soil moisture (\textit{p}=0.019; Table \ref{tab:table4.4}) indicated that the positive effect of increasing soil nitrogen availability on $N_\mathrm{area}$ (\textit{p}=0.046; Table \ref{tab:table4.4}; Fig. \ref{fig:figure4.4}d) declined with increasing soil moisture despite no individual effect of soil moisture on $N_\mathrm{area}$ (\textit{p}=0.858; Table \ref{tab:table4.4}; Fig. \ref{fig:figure4.4}g). Specifically, there was at least a marginal positive effect of increasing soil nitrogen availability on $N_\mathrm{area}$ when soil moisture was between 10\% and 60\% of water holding capacity (Tukey: \textit{p}<0.1 in all cases), with no effect of soil nitrogen availability on $N_\mathrm{area}$ when soil moisture was greater than 65\% of water holding capacity (Tukey: \textit{p}>0.1 in all cases). Finally, a plant functional group effect (\textit{p}<0.001; Table \ref{tab:table4.4}) indicated that C$_4$ non-fixers had lower $N_\mathrm{area}$ compared to C$_3$ N-fixers (Tukey: \textit{p}<0.001) and C$_3$ non-fixers (Tukey: \textit{p}=0.011), while C$_3$ N-fixers had lower $N_\mathrm{area}$ compared to C$_3$ non-fixers (Tukey: \textit{p}=0.020).
 
-Leaf $C_\mathrm{i}$:$C_\mathrm{a}$ had no effect on $N_\mathrm{mass}$ (\textit{p}=0.455; Table \ref{tab:table4.4}; Fig. \ref{fig:figure4.4}b). Increasing soil nitrogen availability and soil moisture each had a positive effect on $N_\mathrm{mass}$ (\textit{p}<0.001 in both cases; Table \ref{tab:table4.4}; Fig. \ref{fig:figure4.4}h). A plant functional group effect (\textit{p}<0.001; Table \ref{tab:table4.4}) indicated that C$_4$ non-fixers had lower $N_\mathrm{mass}$ compared to C$_3$ N-fixers and C$_3$ non-fixers (Tukey: \textit{p}=0.001 in both cases), while $N_\mathrm{mass}$ did not differ between C$_3$ N-fixers and C$_3$ non-fixers (Tukey: \textit{p}=0.323).
+Leaf $C_\mathrm{i}$:$C_\mathrm{a}$ had no effect on $N_\mathrm{mass}$ (\textit{p}=0.943; Table \ref{tab:table4.4}; Fig. \ref{fig:figure4.4}b), though a marginal interaction between leaf $C_\mathrm{i}$:$C_\mathrm{a}$ and plant functional group (\textit{p}=0.065; Table \ref{tab:table4.4}) indicated a marginal negative effect of increasing leaf $C_\mathrm{i}$:$C_\mathrm{a}$ in C$_3$ non-fixers (Tukey: \textit{p}=0.094). An interaction between soil nitrogen availability and soil moisture (\textit{p}<0.001; Table \ref{tab:table4.4}) revealed that the positive effect of increasing soil nitrogen availability (\textit{p}<0.001; Table \ref{tab:table4.4}; Fig. \ref{fig:figure4.4}e) declined with increasing soil moisture. Specifically, this interaction indicated that the positive effect of increasing soil nitrogen availability on $N_\mathrm{mass}$ was only apparent when soil moisture was equal to or less than 70\% of water holding capacity (Tukey: \textit{p}<0.05 in all cases). Increasing soil moisture also generally increased $N_\mathrm{mass}$ (\textit{p}<0.001; Table \ref{tab:table4.4}; Fig. \ref{fig:figure4.4}h). A plant functional group effect (\textit{p}<0.001; Table \ref{tab:table4.4}) indicated that C$_4$ non-fixers had lower $N_\mathrm{mass}$ compared to C$_3$ N-fixers (Tukey: \textit{p}=0.006) and C$_3$ non-fixers (Tukey: \textit{p}=0.026 in both cases), while $N_\mathrm{mass}$ did not differ between C$_3$ N-fixers and C$_3$ non-fixers (Tukey: \textit{p}=0.293).
 
-Variance in $M_\mathrm{area}$ was driven by a three-way interaction between soil nitrogen availability, soil moisture, and plant functional group (\textit{p}=0.018; Table \ref{tab:table4.4}). This interaction indicated that increasing soil moisture increased the positive effect of increasing soil nitrogen availability on $M_\mathrm{area}$ in C$_3$ N-fixers (Tukey: \textit{p}=0.028) but did not modify the negative effect of increasing soil nitrogen availability on $M_\mathrm{area}$ in C$_4$ non-fixers (Tukey: \textit{p}=0.806) or C$_3$ non-fixers (Tukey: \textit{p}=0.998). There was otherwise no effect of soil moisture on $M_\mathrm{area}$ (\textit{p}=0.436; Table \ref{tab:table4.4}). An interaction between leaf $C_\mathrm{i}$:$C_\mathrm{a}$ and plant functional group (\textit{p}<0.001; Table \ref{tab:table4.4}; Fig. \ref{fig:figure4.4}c) indicated that the negative effect of increasing leaf $C_\mathrm{i}$:$C_\mathrm{a}$ on $M_\mathrm{area}$ (\textit{p}<0.001; Table \ref{tab:table4.4}) was driven by a negative effect of increasing leaf $C_\mathrm{i}$:$C_\mathrm{a}$ on $M_\mathrm{area}$ in C$_3$ N-fixers (Tukey: \textit{p}<0.001) and C$_3$ non-fixers(Tukey: \textit{p}=0.003), but not C$_4$ non-fixers (Tukey: \textit{p}=0.257; Fig. \ref{fig:figure4.4}c).
+An interaction between leaf $C_\mathrm{i}$:$C_\mathrm{a}$ and plant functional group (\textit{p}<0.001; Table \ref{tab:table4.4}) revealed that the negative effect of increasing leaf $C_\mathrm{i}$:$C_\mathrm{a}$ on $M_\mathrm{area}$ (\textit{p}=0.002; Table \ref{tab:table4.4}) was driven by negative effects of increasing leaf $C_\mathrm{i}$:$C_\mathrm{a}$ on $M_\mathrm{area}$ in C$_3$ N-fixers (Tukey: \textit{p}<0.001) and C$_3$ non-fixers (Tukey: \textit{p}=0.004; Fig. \ref{fig:figure4.4}c). An interaction between soil nitrogen availability and plant functional group (\textit{p}=0.028; Table \ref{tab:table4.4}) indicated that the negative effect of increasing soil nitrogen availability on $M_\mathrm{area}$ (\textit{p}<0.001; Table \ref{tab:table4.4}) was driven by negative effects of increasing soil nitrogen availability on $M_\mathrm{area}$ in C$_4$ non-fixers (Tukey: \textit{p}=0.009) and C$_3$ non-fixers (Tukey: \textit{p}<0.001; Fig. \ref{fig:figure4.4}f). A third interaction between soil nitrogen availability and soil moisture (\textit{p}<0.001; Table \ref{tab:table4.4}) indicated that the negative effect of increasing soil nitrogen availability on $M_\mathrm{area}$ (\textit{p}<0.001; Table \ref{tab:table4.4}) diminished with increasing soil moisture due to a negative individual effect of increasing soil moisture on $M_\mathrm{area}$ (\textit{p}=0.006; Table \ref{tab:table4.4}; Fig. \ref{fig:figure4.4}i). This interaction indicated that the negative effect of increasing soil nitrogen availability on $M_\mathrm{area}$ was only apparent when soil moisture was equal to or less than 65\% of water holding capacity (Tukey: \textit{p}<0.05 in all cases). Increasing soil moisture generally 
 
 \newpage
 \begin{landscape}
@@ -589,64 +587,64 @@ Variance in $M_\mathrm{area}$ was driven by a three-way interaction between soil
             \hline
 
             (Intercept) & \multicolumn{1}{r}{-} 
-            &  \multicolumn{1}{r}{$2.41*10^{0}$}     & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{-}
-            &  \multicolumn{1}{r}{$7.72*10^{-2}$}   & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{-}
-            &  \multicolumn{1}{r}{$6.91*10^{0}$}     & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{-} 
+            &  \multicolumn{1}{r}{$1.96*10^{0}$}     & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{-}
+            &  \multicolumn{1}{r}{$1.772*10^{-1}$}   & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{-}
+            &  \multicolumn{1}{r}{$6.42*10^{0}$}     & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{-} 
             \\
 
             $C_\mathrm{i}$:$C_\mathrm{a}$ & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{$-2.32*10^{0}$}     & \multicolumn{1}{r}{6.841}         & \multicolumn{1}{r}{\textbf{0.009}}
-            & \multicolumn{1}{r}{$7.91*10^{-1}$}    & \multicolumn{1}{r}{0.558}         & \multicolumn{1}{r}{0.455}
-            & \multicolumn{1}{r}{$-3.13*10^{0}$}     & \multicolumn{1}{r}{15.913}        & \multicolumn{1}{r}{\textbf{<0.001}} 
+            & \multicolumn{1}{r}{$-1.31*10^{0}$}     & \multicolumn{1}{r}{4.387}         & \multicolumn{1}{r}{\textbf{0.036}}
+            & \multicolumn{1}{r}{$8.05*10^{-1}$}    & \multicolumn{1}{r}{0.005}         & \multicolumn{1}{r}{0.943}
+            & \multicolumn{1}{r}{$-2.21*10^{0}$}     & \multicolumn{1}{r}{9.673}        & \multicolumn{1}{r}{\textbf{0.002}} 
             \\ % updated
 
 
             Soil N (N) & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{$1.26*10^{-2}$}    & \multicolumn{1}{r}{7.072}         & \multicolumn{1}{r}{\textbf{0.011}}
-            & \multicolumn{1}{r}{$1.21*10^{-2}$}    & \multicolumn{1}{r}{87.457}        & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{$-2.66*10^{-2}$}   & \multicolumn{1}{r}{41.791}        & \multicolumn{1}{r}{\textbf{<0.001}} 
+            & \multicolumn{1}{r}{$1.18*10^{-2}$}    & \multicolumn{1}{r}{3.972}         & \multicolumn{1}{r}{\textbf{0.046}}
+            & \multicolumn{1}{r}{$1.35*10^{-2}$}    & \multicolumn{1}{r}{49.093}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{$-1.59*10^{-3}$}   & \multicolumn{1}{r}{24.314}        & \multicolumn{1}{r}{\textbf{<0.001}} 
             \\ % updated
 
-            Soil moisture (SM$_{90}$) & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{$5.60*10^{-1}$}      & \multicolumn{1}{r}{6.493}         & \multicolumn{1}{r}{\textbf{0.011}}
-            & \multicolumn{1}{r}{$7.94*10^{-1}$}      & \multicolumn{1}{r}{10.889}        & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{$-2.54*10^{-1}$}     & \multicolumn{1}{r}{0.605}         & \multicolumn{1}{r}{0.437} 
+            Soil moisture (SM$_{3}$) & \multicolumn{1}{r}{1}
+            & \multicolumn{1}{r}{$3.79*10^{-1}$}      & \multicolumn{1}{r}{0.032}         & \multicolumn{1}{r}{0.858}
+            & \multicolumn{1}{r}{$5.07*10^{-1}$}      & \multicolumn{1}{r}{11.443}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{$-9.92*10^{-2}$}     & \multicolumn{1}{r}{7.649}         & \multicolumn{1}{r}{\textbf{0.006}} 
             \\ % updated
 
             PFT & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{49.273}        & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{21.786}        & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{6.673}         & \multicolumn{1}{r}{\textbf{0.036}} 
+            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{43.761}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{19.758}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{10.168}         & \multicolumn{1}{r}{\textbf{0.006}} 
             \\ % updated
 
-            SM$_{90}$*N & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{$5.45*10^{-2}$}     & \multicolumn{1}{r}{0.482}         & \multicolumn{1}{r}{0.488}
-            & \multicolumn{1}{r}{$-2.18*10^{-2}$}     & \multicolumn{1}{r}{2.606}        & \multicolumn{1}{r}{0.106}
-            & \multicolumn{1}{r}{$8.16*10^{-2}$}      & \multicolumn{1}{r}{0.791}        & \multicolumn{1}{r}{0.374} 
+            SM$_{3}$*N & \multicolumn{1}{r}{1}
+            & \multicolumn{1}{r}{$-1.27*10^{-2}$}     & \multicolumn{1}{r}{5.521}         & \multicolumn{1}{r}{\textbf{0.019}}
+            & \multicolumn{1}{r}{$-1.80*10^{-2}$}     & \multicolumn{1}{r}{44.013}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{$4.79*10^{-3}$}      & \multicolumn{1}{r}{14.195}        & \multicolumn{1}{r}{\textbf{<0.001}} 
             \\ % updated
 
             $C_\mathrm{i}$:$C_\mathrm{a}$*PFT & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{24.380}        & \multicolumn{1}{r}{\textbf{<0.001}}
-            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{5.367}         & \multicolumn{1}{r}{\textit{ 0.068}}
-            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{30.073}        & \multicolumn{1}{r}{\textbf{<0.001}} 
+            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{17.302}        & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{5.471}         & \multicolumn{1}{r}{\textit{ 0.065}}
+            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{13.974}        & \multicolumn{1}{r}{\textbf{<0.001}} 
             \\ % updated
 
             N*PFT & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{5.713}         & \multicolumn{1}{r}{\textit{0.057}}
-            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{1.286}         & \multicolumn{1}{r}{0.526}
-            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{19.405}         & \multicolumn{1}{r}{\textbf{<0.001}}
+            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{1.540}         & \multicolumn{1}{r}{0.463}
+            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{1.047}         & \multicolumn{1}{r}{0.592}
+            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{7.182}         & \multicolumn{1}{r}{\textbf{0.028}}
             \\ % updated
 
-            SM\textsubscript{90}*PFT & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{3.487}         & \multicolumn{1}{r}{0.175}
-            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{0.889}         & \multicolumn{1}{r}{0.641}
-            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{2.998}         & \multicolumn{1}{r}{0.223} 
+            SM\textsubscript{3}*PFT & \multicolumn{1}{r}{1}
+            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{1.113}         & \multicolumn{1}{r}{0.573}
+            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{2.004}         & \multicolumn{1}{r}{0.367}
+            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{3.785}         & \multicolumn{1}{r}{0.151} 
             \\
 
-            SM$_{90}$*N*PFT & \multicolumn{1}{r}{1}
-            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{3.523}         & \multicolumn{1}{r}{0.172}
-            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{0.161}         & \multicolumn{1}{r}{0.923}
-            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{7.996}         & \multicolumn{1}{r}{\textbf{0.018}}
+            SM$_{3}$*N*PFT & \multicolumn{1}{r}{1}
+            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{0.632}         & \multicolumn{1}{r}{0.729}
+            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{0.895}         & \multicolumn{1}{r}{0.639}
+            & \multicolumn{1}{r}{-}             & \multicolumn{1}{r}{0.913}         & \multicolumn{1}{r}{0.634}
             \\
             \hline
 
@@ -662,14 +660,14 @@ Variance in $M_\mathrm{area}$ was driven by a three-way interaction between soil
 \newpage
     \begin{figure}
         \centering
-        \includegraphics[width=\textwidth]{ch4_TXeco/figs/TXeco_fig4_narea.png}
+        \includegraphics[width=\textwidth]{ch4_TXeco/figs/TXeco_fig4_narea.jpg}
         \caption[Effects of leaf $C_\mathrm{i}$:$C_\mathrm{a}$, soil nitrogen availability, and soil moisture on leaf nitrogen content per unit leaf area, leaf nitrogen content per unit leaf biomass, and leaf mass per area.]{Effects of leaf $C_\mathrm{i}$:$C_\mathrm{a}$ (a-c), soil nitrogen availability (d-f), and soil moisture (g-i) on leaf nitrogen content per unit leaf area (a, d, g), leaf nitrogen content per unit leaf biomass (b, e, h), and leaf mass per area (c, f, i). Yellow points and trendlines indicate C$_3$ N-fixers, blue points and trendlines indicate C$_3$ non-fixers, and red points and trendlines indicate C$_4$ non-fixers. Points are jittered for visibility. Variably colored trendlines are only included if there is an interaction between plant functional group and the x-axis. Black solid trendlines denote bivariate slopes that are different from zero (\textit{p}<0.05) where there is no apparent interaction between plant functional group and the x-axis.}
         \label{fig:figure4.4}
     \end{figure}
 \clearpage
 
 \subsection{\textit{Structural equation model}}
-\noindent The piecewise structural equation model explained 89\%, 55\%, 56\%, 82\%, and 38\% of variance in $N_\mathrm{area}$, $N_\mathrm{mass}$, $M_\mathrm{area}$, leaf $C_\mathrm{i}$:$C_\mathrm{a}$, and $\beta$, respectively (Table \ref{tab:table4.5}; Fig. \ref{fig:figure4.5}). Increasing $N_\mathrm{mass}$ and $M_\mathrm{area}$ were each positively related to $N_\mathrm{area}$ (\textit{p}<0.001 in both cases; Table \ref{tab:table4.5}; Fig. \ref{fig:figure4.5}). $N_\mathrm{mass}$ increased with increasing soil nitrogen availability (\textit{p}<0.001; Table \ref{tab:table4.5}) and leaf $C_\mathrm{i}$:$C_\mathrm{a}$ (\textit{p}=0.040; Table \ref{tab:table4.5}), and was generally larger in N-fixing species (\textit{p}<0.001; Table \ref{tab:table4.5}), but was negatively related to increasing $M_\mathrm{area}$ (\textit{p}<0.001; Table \ref{tab:table4.5}). $M_\mathrm{area}$ decreased with increasing leaf $C_\mathrm{i}$:$C_\mathrm{a}$ and soil nitrogen availability (\textit{p}<0.001 in both cases; Table \ref{tab:table4.5}). Leaf $C_\mathrm{i}$:$C_\mathrm{a}$ declined with increasing vapor pressure deficit, but was positively related to $\beta$ (\textit{p}<0.001 in both cases; Table \ref{tab:table4.5}). $\beta$ decreased with increasing soil nitrogen availability and was higher in C$_3$ species (\textit{p}<0.001 in both cases; Table \ref{tab:table4.5}), but did not change with soil moisture (\textit{p}=0.895; Table \ref{tab:table4.5}) or with ability to acquire nitrogen via symbiotic nitrogen fixation (\textit{p}=0.519; Table \ref{tab:table4.5}). Finally, soil nitrogen availability was positively associated with increasing soil moisture (\textit{p}=0.003; Table \ref{tab:table4.5}; Fig. \ref{fig:figure4.5}).
+\noindent The piecewise structural equation model explained 89\%, 56\%, 58\%, 93\%, and 28\% of variance in $N_\mathrm{area}$, $N_\mathrm{mass}$, $M_\mathrm{area}$, leaf $C_\mathrm{i}$:$C_\mathrm{a}$, and $\beta$, respectively (Table \ref{tab:table4.5}; Fig. \ref{fig:figure4.5}). Increasing $N_\mathrm{mass}$ and $M_\mathrm{area}$ were each positively related to $N_\mathrm{area}$ (\textit{p}<0.001 in both cases; Table \ref{tab:table4.5}; Fig. \ref{fig:figure4.5}). $N_\mathrm{mass}$ increased with increasing soil nitrogen availability (\textit{p}<0.001; Table \ref{tab:table4.5}) and leaf $C_\mathrm{i}$:$C_\mathrm{a}$ (\textit{p}=0.001; Table \ref{tab:table4.5}), and was generally larger in N-fixing species (\textit{p}<0.001; Table \ref{tab:table4.5}), but was negatively related to increasing $M_\mathrm{area}$ (\textit{p}<0.001; Table \ref{tab:table4.5}). $M_\mathrm{area}$ decreased with increasing leaf $C_\mathrm{i}$:$C_\mathrm{a}$ (\textit{p}=0.019 in both cases; Table \ref{tab:table4.5}) and soil nitrogen availability (\textit{p}<0.001; Table \ref{tab:table4.5}). Leaf $C_\mathrm{i}$:$C_\mathrm{a}$ declined with increasing vapor pressure deficit, but was positively related to $\beta$ (\textit{p}<0.001 in both cases; Table \ref{tab:table4.5}). $\beta$ decreased with increasing soil nitrogen availability (\textit{p}=0.001; Table \ref{tab:table4.5}) and was greater in C$_3$ species (\textit{p}<0.001; Table \ref{tab:table4.5}), but did not change with soil moisture (\textit{p}=0.915; Table \ref{tab:table4.5}) or with ability to acquire nitrogen via symbiotic nitrogen fixation (\textit{p}=0.306; Table \ref{tab:table4.5}). Finally, soil nitrogen availability was positively associated with increasing soil moisture (\textit{p}<0.001; Table \ref{tab:table4.5}; Fig. \ref{fig:figure4.5}), while soil moisture was negatively related to percent clay (\textit{p}<0.001; Table \ref{tab:table4.5}; Fig. \ref{fig:figure4.5}).
 
 \newpage
 \begin{table}
@@ -682,37 +680,40 @@ Variance in $M_\mathrm{area}$ was driven by a three-way interaction between soil
             \hline
 
             \multicolumn{2}{l}{$N_\mathrm{area}$ ($R^2{}_\mathrm{c}$=0.89)} && \\
-            & \multicolumn{1}{l}{$M_\mathrm{area}$} & \multicolumn{1}{r}{0.714}     & \multicolumn{1}{r}{\textbf{<0.001}} \\
-            & \multicolumn{1}{l}{$N_\mathrm{mass}$} & \multicolumn{1}{r}{0.778}     & \multicolumn{1}{r}{\textbf{<0.001}} \\
+            & \multicolumn{1}{l}{$M_\mathrm{area}$} & \multicolumn{1}{r}{0.713}     & \multicolumn{1}{r}{\textbf{<0.001}} \\
+            & \multicolumn{1}{l}{$N_\mathrm{mass}$} & \multicolumn{1}{r}{0.787}     & \multicolumn{1}{r}{\textbf{<0.001}} \\
             \hline
 
-            \multicolumn{2}{l}{$N_\mathrm{mass}$ ($R^2{}_\mathrm{c}$=0.55)} && \\
-            & \multicolumn{1}{l}{Leaf $C_\mathrm{i}$:$C_\mathrm{a}$}    & \multicolumn{1}{r}{0.113}     & \multicolumn{1}{r}{\textbf{0.040}} \\
-            & \multicolumn{1}{l}{$M_\mathrm{area}$}                     & \multicolumn{1}{r}{-0.201}    & \multicolumn{1}{r}{\textbf{<0.001}} \\
-            & \multicolumn{1}{l}{Soil N}                                & \multicolumn{1}{r}{0.246}     & \multicolumn{1}{r}{\textbf{<0.001}} \\
-            & \multicolumn{1}{l}{N-fixing ability}                      & \multicolumn{1}{r}{0.326}     & \multicolumn{1}{r}{\textbf{<0.001}} \\
+            \multicolumn{2}{l}{$N_\mathrm{mass}$ ($R^2{}_\mathrm{c}$=0.56)} && \\
+            & \multicolumn{1}{l}{Leaf $C_\mathrm{i}$:$C_\mathrm{a}$}    & \multicolumn{1}{r}{0.207}     & \multicolumn{1}{r}{\textbf{0.001}} \\
+            & \multicolumn{1}{l}{$M_\mathrm{area}$}                     & \multicolumn{1}{r}{-0.240}    & \multicolumn{1}{r}{\textbf{<0.001}} \\
+            & \multicolumn{1}{l}{Soil N}                                & \multicolumn{1}{r}{0.242}     & \multicolumn{1}{r}{\textbf{<0.001}} \\
+            & \multicolumn{1}{l}{N-fixing ability}                      & \multicolumn{1}{r}{0.335}     & \multicolumn{1}{r}{\textbf{<0.001}} \\
             \hline
 
-            \multicolumn{2}{l}{$M_\mathrm{area}$ ($R^2{}_\mathrm{c}$=0.56)} && \\
-            & \multicolumn{1}{l}{Leaf $C_\mathrm{i}$:$C_\mathrm{a}$}    & \multicolumn{1}{r}{-0.224}    & \multicolumn{1}{r}{\textbf{<0.001}} \\
-            & \multicolumn{1}{l}{Soil N}                                & \multicolumn{1}{r}{-0.199}    & \multicolumn{1}{r}{\textbf{<0.001}} \\
+            \multicolumn{2}{l}{$M_\mathrm{area}$ ($R^2{}_\mathrm{c}$=0.58)} && \\
+            & \multicolumn{1}{l}{Leaf $C_\mathrm{i}$:$C_\mathrm{a}$}    & \multicolumn{1}{r}{-0.187}    & \multicolumn{1}{r}{\textbf{0.019}} \\
+            & \multicolumn{1}{l}{Soil N}                                & \multicolumn{1}{r}{-0.209}    & \multicolumn{1}{r}{\textbf{<0.001}} \\
             \hline
 
-            \multicolumn{2}{l}{Leaf $C_\mathrm{i}$:$C_\mathrm{a}$ ($R^2{}_\mathrm{c}$=0.82)} && \\
-            & \multicolumn{1}{l}{$\beta$}                               & \multicolumn{1}{r}{0.308}     & \multicolumn{1}{r}{\textbf{<0.001}} \\
-            & \multicolumn{1}{l}{VPD$_4$}                               & \multicolumn{1}{r}{-0.111}    & \multicolumn{1}{r}{\textbf{<0.001}} \\
+            \multicolumn{2}{l}{Leaf $C_\mathrm{i}$:$C_\mathrm{a}$ ($R^2{}_\mathrm{c}$=0.93)} && \\
+            & \multicolumn{1}{l}{$\beta$}                               & \multicolumn{1}{r}{0.154}     & \multicolumn{1}{r}{\textbf{<0.001}} \\
+            & \multicolumn{1}{l}{VPD$_4$}                               & \multicolumn{1}{r}{-0.082}    & \multicolumn{1}{r}{\textbf{<0.001}} \\
             \hline
 
-            \multicolumn{2}{l}{$\beta$ ($R^2{}_\mathrm{c}$=0.38)} && \\
-            & \multicolumn{1}{l}{Soil N}                                & \multicolumn{1}{r}{-0.207}    & \multicolumn{1}{r}{\textbf{<0.001}} \\
-            & \multicolumn{1}{l}{SM$_{90}$}                             & \multicolumn{1}{r}{-0.006}    & \multicolumn{1}{r}{0.895} \\
-            & \multicolumn{1}{l}{Photo. pathway}                        & \multicolumn{1}{r}{0.446}     & \multicolumn{1}{r}{\textbf{<0.001}} \\
-            & \multicolumn{1}{l}{N-fixing ability}                      & \multicolumn{1}{r}{-0.059}    & \multicolumn{1}{r}{0.519} \\
+            \multicolumn{2}{l}{$\beta$ ($R^2{}_\mathrm{c}$=0.28)} && \\
+            & \multicolumn{1}{l}{Soil N}                                & \multicolumn{1}{r}{-0.161}    & \multicolumn{1}{r}{\textbf{0.001}} \\
+            & \multicolumn{1}{l}{SM$_{3}$}                             & \multicolumn{1}{r}{-0.006}    & \multicolumn{1}{r}{0.915} \\
+            & \multicolumn{1}{l}{Photo. pathway}                        & \multicolumn{1}{r}{0.417}     & \multicolumn{1}{r}{\textbf{<0.001}} \\
+            & \multicolumn{1}{l}{N-fixing ability}                      & \multicolumn{1}{r}{-0.082}    & \multicolumn{1}{r}{0.306} \\
             \hline
 
-            \multicolumn{2}{l}{Soil N ($R^2{}_\mathrm{c}$=0.35)} && \\
-            & \multicolumn{1}{l}{SM$_{90}$} & \multicolumn{1}{r}{-0.262} & \multicolumn{1}{r}{\textbf{<0.001}} \\
-            & \multicolumn{1}{l}{\% clay} & \multicolumn{1}{r}{-0.292} & \multicolumn{1}{r}{\textbf{<0.001}} \\
+            \multicolumn{2}{l}{Soil N ($R^2{}_\mathrm{c}$=0.41)} && \\
+            & \multicolumn{1}{l}{SM$_{3}$} & \multicolumn{1}{r}{-0.409} & \multicolumn{1}{r}{\textbf{<0.001}} \\
+            \hline
+
+            \multicolumn{2}{l}{Soil moisture ($R^2{}_\mathrm{c}$=0.51)} && \\
+            & \multicolumn{1}{l}{\% clay} & \multicolumn{1}{r}{-0.433} & \multicolumn{1}{r}{\textbf{<0.001}} \\
             \hline
 
         \end{tabular}%}
@@ -726,7 +727,7 @@ Variance in $M_\mathrm{area}$ was driven by a three-way interaction between soil
 \newpage
     \begin{figure}
         \centering
-        \includegraphics[width=\textwidth]{ch4_TXeco/figs/TXeco_fig5_SEM.png}
+        \includegraphics[width=\textwidth]{ch4_TXeco/figs/TXeco_fig5_SEM.jpg}
         \caption[Structural equation model results exploring drivers of $N_\mathrm{area}$]{Structural equation model results exploring drivers of $N_\mathrm{area}$. Boxes indicate measured edaphic factors, climatic factors, and leaf traits. Solid arrows indicate bivariate relationships where \textit{p}<0.05, while dashed arrows indicate relationships where \textit{p}>0.05. Positive model coefficients are indicated through blue arrows, negative model coefficients are indicated through red arrows, and insignificant coefficients are indicated through gray dashed arrows. Arrow thickness scales with the standardized model coefficient of each bivariate relationship. A positive coefficient for photosynthetic pathway indicates larger values in C$_3$ species, while a positive coefficient for N\textsubscript{fixer} indicates larger values in N-fixing species. Standardized model coefficients and associated \textit{p}-values are reported in Table \ref{tab:table4.5}, with conditional R$^2$ values for each response variable reported on the top right of each box.}
         \label{fig:figure4.5}
     \end{figure}
@@ -761,7 +762,7 @@ The negative relationship between leaf $C_\mathrm{i}$:$C_\mathrm{a}$ and $M_\mat
 \begin{singlespace}
 \subsection{\textit{Species identity traits modify effects of the environment on $\beta$, leaf $C_\mathrm{i}$:$C_\mathrm{a}$, and $N_\mathrm{area}$}}
 \end{singlespace}
-\noindent N-fixing species had greater $N_\mathrm{area}$ values on average compared to non-fixing species, a pattern driven by a stronger stimulation in $N_\mathrm{mass}$ in N-fixing species coupled with no change in $M_\mathrm{area}$ between species with different N-fixation ability. There was no evidence to suggest that N-fixing species had different $\beta$ or leaf $C_\mathrm{i}$:$C_\mathrm{a}$ values compared to non-fixing species across the environmental gradient. These results follow patterns from previous environmental gradient experiments that investigate variance in leaf nitrogen allocation in N-fixing species \shortcite{Adams2016,Dong2017,Dong2020}, and that increases in $N_\mathrm{mass}$ and $N_\mathrm{area}$ in N-fixing species are not necessarily correlated to increases in water use efficiency or reductions in leaf $C_\mathrm{i}$:$C_\mathrm{a}$ \shortcite{Adams2016}. While results are consistent with results from previous environmental gradient experiments, they do not support hypotheses presented here or patterns expected form theory, which predicts that stimulations in $N_\mathrm{area}$ by N-fixing species should be driven by a reduction in $\beta$ relative to non-fixing species, and that this response should decrease stomatal conductance and leaf $C_\mathrm{i}$:$C_\mathrm{a}$.
+\noindent N-fixing species had greater $N_\mathrm{area}$ values on average compared to non-fixing sp-ecies, a pattern driven by a stronger stimulation in $N_\mathrm{mass}$ in N-fixing species coupled with no change in $M_\mathrm{area}$ between species with different N-fixation ability. There was no evidence to suggest that N-fixing species had different $\beta$ or leaf $C_\mathrm{i}$:$C_\mathrm{a}$ values compared to non-fixing species across the environmental gradient. These results follow patterns from previous environmental gradient experiments that investigate variance in leaf nitrogen allocation in N-fixing species \shortcite{Adams2016,Dong2017,Dong2020}, and that increases in $N_\mathrm{mass}$ and $N_\mathrm{area}$ in N-fixing species are not necessarily correlated to increases in water use efficiency or reductions in leaf $C_\mathrm{i}$:$C_\mathrm{a}$ \shortcite{Adams2016}. While results are consistent with results from previous environmental gradient experiments, they do not support hypotheses presented here or patterns expected form theory, which predicts that stimulations in $N_\mathrm{area}$ by N-fixing species should be driven by a reduction in $\beta$ relative to non-fixing species, and that this response should decrease stomatal conductance and leaf $C_\mathrm{i}$:$C_\mathrm{a}$.
     
 C$_4$ species had reduced $\beta$, leaf $C_\mathrm{i}$:$C_\mathrm{a}$, and $N_\mathrm{area}$ than C$_3$ species. Reduced $\beta$ and leaf $C_\mathrm{i}$:$C_\mathrm{a}$ values in C$_4$ species follow hypotheses listed above, a pattern that could be the result of either reduced costs of nitrogen acquisition and use, increased costs of water acquisition and use, or both \shortcite{Wright2003,Prentice2014}. Results also indicate that $\beta$ in C$_4$ non-fixers was unresponsive to changes in soil nitrogen availability despite an apparent negative effect of increasing soil nitrogen availability on $\beta$ in C$_3$ N-fixers and C$_3$ non-fixers. Combined with a general null response of $\beta$ to soil moisture regardless of plant functional group, these patterns imply that reduced $\beta$ values in C$_4$ species may be the result of lower costs of nitrogen acquisition and use relative to C$_3$ species. While lower $\beta$ values in C$_4$ species provides a possible explanation for why C$_4$ species often have lower leaf $C_\mathrm{i}$:$C_\mathrm{a}$ and greater water use efficiency, theory predicts that this response should cause C$_4$ species to have greater $N_\mathrm{area}$ values compared to C$_3$ species, though C$_4$ species commonly exhibit lower $N_\mathrm{area}$ and higher nitrogen use efficiency than C$_3$ species \shortcite{Schmitt1981,Sage1987_c3c4,Ghannoum2011}. We speculate that lowered costs of nitrogen acquisition and use in C$_4$ species could be driven by more efficient Rubisco carboxylation efficiency in C$_4$ species associated with CO$_2$ concentrating mechanisms that eliminate photorespiration \shortcite{Ghannoum2011}, which could reduce or eliminate the need to sacrifice inefficient nitrogen use for efficient water use to achieve optimal photosynthesis rates.
 
