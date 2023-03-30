@@ -61,24 +61,21 @@
 \newpage
 \begin{table}[]
     \centering
-    \caption{Summary of the daily growth chamber growing condition program}
+    \caption[Summary of the daily growth chamber program]{Summary of the daily growth chamber program, including all time steps where air temperature ($T_\mathrm{set}$; $^{\circ}$C) and photosynthetically active radiation (PAR; $\mathrm{\mu mol\ m^{-2}}$ $\mathrm{{s}^{-1}}$) setpoints are ramped up or ramped down}
     \label{table:tab.d2}
     %\resizebox{\columnwidth}{!}{%
-    \begin{tabular}{|p{2cm}|p{4.5cm}|p{2cm}|}
+    \begin{tabular}{p{1cm}p{1.1cm}p{2.5cm}}
         \hline
-        Time  & Air temperature ($^{\circ}$C)   & Light (\%) \\
+        \multicolumn{1}{r}{Time}  & \multicolumn{1}{r}{$T_\mathrm{set}$}   & \multicolumn{1}{r}{PAR ($\pm$ SD)} \\
         \hline
-        09:00 & \multirow{2}{*}{21}             & 25         \\
-        09:45 &                                 & 50         \\
-        \hline
-        10:30 & \multirow{2}{*}{25}             & 75         \\
-        11:15 &                                 & 100        \\
-        \hline
-        22:45 & \multirow{2}{*}{21}             & 75         \\
-        23:30 &                                 & 50         \\
-        \hline
-        00:15 & \multirow{2}{*}{17}             & 25         \\
-        01:00 &                                 & 0          \\
+        \multicolumn{1}{r}{09:00} & \multicolumn{1}{r}{21}      & \multicolumn{1}{r}{278 $\pm$ 2}     \\
+        \multicolumn{1}{r}{09:45} & \multicolumn{1}{r}{21}      & \multicolumn{1}{r}{557 $\pm$ 4}    \\
+        \multicolumn{1}{r}{10:30} & \multicolumn{1}{r}{25}      & \multicolumn{1}{r}{797 $\pm$ 4}    \\
+        \multicolumn{1}{r}{11:15} & \multicolumn{1}{r}{25}      & \multicolumn{1}{r}{1230 $\pm$ 12}    \\
+        \multicolumn{1}{r}{22:45} & \multicolumn{1}{r}{21}      & \multicolumn{1}{r}{797 $\pm$ 4}    \\
+        \multicolumn{1}{r}{23:30} & \multicolumn{1}{r}{21}      & \multicolumn{1}{r}{557 $\pm$ 4}    \\
+        \multicolumn{1}{r}{00:15} & \multicolumn{1}{r}{17}      & \multicolumn{1}{r}{278 $\pm$ 2}     \\
+        \multicolumn{1}{r}{01:00} & \multicolumn{1}{r}{17}      & \multicolumn{1}{r}{0 $\pm$ 0}      \\
         \hline      
     \end{tabular}%}
 \end{table}
@@ -94,14 +91,14 @@
             & \multicolumn{1}{r}{df} & \multicolumn{1}{r}{Coefficient}    & \multicolumn{1}{r}{$\chi^2$}  & \multicolumn{1}{r}{\textit{p}}
             \\
             \hline
-    (Intercept)       & \multicolumn{1}{r}{-}       & \multicolumn{1}{r}{1.33E$-$01}    & \multicolumn{1}{r}{-}         & \multicolumn{1}{r}{-}               \\
-    CO$_2$               & \multicolumn{1}{r}{1}    & \multicolumn{1}{r}{1.53E$-$01}    & \multicolumn{1}{r}{146.004}   & \multicolumn{1}{r}{\textbf{<0.001}} \\
-    Inoculation (I)   & \multicolumn{1}{r}{1}       & \multicolumn{1}{r}{4.19E$-$01}    & \multicolumn{1}{r}{19.320}    & \multicolumn{1}{r}{\textbf{<0.001}} \\
-    Fertilization (N) & \multicolumn{1}{r}{1}       & \multicolumn{1}{r}{1.90E$-$03}    & \multicolumn{1}{r}{279.387}   & \multicolumn{1}{r}{\textbf{<0.001}} \\
-    CO$_2$*I             & \multicolumn{1}{r}{1}    & \multicolumn{1}{r}{1.03E$-$01}    & \multicolumn{1}{r}{0.007}     & \multicolumn{1}{r}{0.934}           \\
-    CO$_2$*N             & \multicolumn{1}{r}{1}    & \multicolumn{1}{r}{2.44E$-$03}    & \multicolumn{1}{r}{49.725}    & \multicolumn{1}{r}{\textbf{<0.001}} \\
-    I*N               & \multicolumn{1}{r}{1}       & \multicolumn{1}{r}{-6.90E$-$04}   & \multicolumn{1}{r}{9.006}     & \multicolumn{1}{r}{\textbf{0.003}}  \\
-    CO$_2$*I*N           & \multicolumn{1}{r}{1}    & \multicolumn{1}{r}{-4.95E$-$04}   & \multicolumn{1}{r}{0.640}     & \multicolumn{1}{r}{0.424} \\
+    (Intercept)       & \multicolumn{1}{r}{-}       & \multicolumn{1}{r}{$1.33*10^{-1}$}    & \multicolumn{1}{r}{-}         & \multicolumn{1}{r}{-}               \\
+    CO$_2$               & \multicolumn{1}{r}{1}    & \multicolumn{1}{r}{$1.53*10^{-1}$}    & \multicolumn{1}{r}{146.004}   & \multicolumn{1}{r}{\textbf{<0.001}} \\
+    Inoculation (I)   & \multicolumn{1}{r}{1}       & \multicolumn{1}{r}{$4.19*10^{-1}$}    & \multicolumn{1}{r}{19.320}    & \multicolumn{1}{r}{\textbf{<0.001}} \\
+    Fertilization (N) & \multicolumn{1}{r}{1}       & \multicolumn{1}{r}{$1.90*10^{-3}$}    & \multicolumn{1}{r}{279.387}   & \multicolumn{1}{r}{\textbf{<0.001}} \\
+    CO$_2$*I             & \multicolumn{1}{r}{1}    & \multicolumn{1}{r}{$1.03*10^{-1}$}    & \multicolumn{1}{r}{0.007}     & \multicolumn{1}{r}{0.934}           \\
+    CO$_2$*N             & \multicolumn{1}{r}{1}    & \multicolumn{1}{r}{$2.44*10^{-3}$}    & \multicolumn{1}{r}{49.725}    & \multicolumn{1}{r}{\textbf{<0.001}} \\
+    I*N               & \multicolumn{1}{r}{1}       & \multicolumn{1}{r}{$-6.90*10^{-4}$}   & \multicolumn{1}{r}{9.006}     & \multicolumn{1}{r}{\textbf{0.003}}  \\
+    CO$_2$*I*N           & \multicolumn{1}{r}{1}    & \multicolumn{1}{r}{$-4.95*10^{-4}$}   & \multicolumn{1}{r}{0.640}     & \multicolumn{1}{r}{0.424} \\
     \hline
     \end{tabular}%}
 \end{table}
@@ -113,7 +110,7 @@
 \newpage
 \begin{figure}
     \centering
-    \includegraphics[width=\linewidth]{ch5_NxCO2xI/figs/NxCO2xI_figS1_leafN_chl.jpg}
+    \includegraphics[width=\columnwidth]{ch5_NxCO2xI/figs/NxCO2xI_figS1_leafN_chl.jpg}
     \caption[Relationships between area-based leaf nitrogen content, mass-based leaf nitrogen content, and leaf mass per unit leaf area measured on the focal leaf used to generate $A_\mathrm{net}$/$C_\mathrm{i}$ curves and leaf nitrogen content measured on the leaf used for chlorophyll extractions]{Relationships between area-based leaf nitrogen content (a), mass-based leaf nitrogen content (b), and leaf mass per unit leaf area (c) measured on the focal leaf used to generate $A_\mathrm{net}$/$C_\mathrm{i}$ curves (x-axis) and leaf nitrogen content measured on the leaf used for chlorophyll extractions (y-axis). Blue points refer to leaves grown under ambient CO$_2$ and red points refer leaves grown under elevated CO$_2$. Square points indicate uninoculated pots and circular points indicate inoculated pots. Pearson's correlation coefficient, associated \textit{p}-values, and the line of the regression line that described each bivariate are included in the top left corner of each plot. The solid black line visualizes the trend given a 1:1 bivariate relationship.}
     \label{fig:figure.d1}
 \end{figure}
@@ -122,7 +119,7 @@
 \newpage
 \begin{figure}
     \centering
-    \includegraphics[width=\linewidth]{ch5_NxCO2xI/figs/NxCO2xI_figS2_bvr.jpg}
+    \includegraphics[width = \columnwidth]{ch5_NxCO2xI/figs/NxCO2xI_figS2_bvr.jpg}
     \caption[Effects of CO$_2$, fertilization, and inoculation on the ratio of whole plant biomass to pot volume]{Effects of CO$_2$, fertilization, and inoculation on the ratio of whole plant biomass to pot volume. Soil nitrogen fertilization is represented on the x-axis in all panels. Yellow points and trendlines indicate inoculated individuals grown under ambient CO$_2$, blue points and trendlines indicate uninoculated individuals grown under ambient CO$_2$, red points and trendlines indicate inoculated individuals grown under elevated CO$_2$, and gray points indicate uninoculated individuals grown under elevated CO$_2$. Solid trendlines indicate regression slopes that are different from zero (\textit{p}<0.05). The dotted horizontal line indicates the point where biomass:pot volume exceeds 1 g L$^{-1}$, and the dashed line indicates the point where biomass:pot volume exceeds 2 g L$^{-1}$.}
     \label{fig:figure.d2}
 \end{figure}
