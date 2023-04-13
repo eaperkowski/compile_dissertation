@@ -44,6 +44,7 @@
 \RequirePackage{setspace}
 \onehalfspacing  %(or use \onehalfspacing in the document preamble.)
 
+
 %The grad school doesn't like right-justification:
 % \raggedright
 \setlength{\parindent}{0.5in}
@@ -244,15 +245,9 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%
 \RequirePackage{chicago}
 \renewcommand{\refname}{\textbf{References}}
-
-    
-
     \renewcommand\floatpagefraction{.9}
     \renewcommand\textfraction{.1} %originally .1
     \setcounter{secnumdepth}{3}
     \setcounter{tocdepth}{3}
-
-
-
 \endinput
 

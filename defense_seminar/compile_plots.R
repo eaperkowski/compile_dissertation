@@ -82,97 +82,43 @@ blank.plot <- ggplot() +
 ## Make photosynthesis figure
 ##########################################################################
 photo.elv <- data.frame(type = "elv",
-                         Photosyn(Ca = c(50, 100, 200, 300, 400, 500, 600, 700,
-                                         800, 900, 1000, 1100, 1200, 1300, 1400,
-                                         1500, 1600, 1700, 1800, 1900, 2000),
+                         Photosyn(Ca = seq(50, 2000, 0.25),
                                   Vcmax = 50, Jmax = 110))
 
 photo.amb <- data.frame(type = "amb",
-                          Photosyn(Ca = c(50, 100, 200, 300, 400, 500, 600, 700,
-                                          800, 900, 1000, 1100, 1200, 1300, 1400,
-                                          1500, 1600, 1700, 1800, 1900, 2000),
+                          Photosyn(Ca = seq(50, 2000, 0.25),
                                    Vcmax = 100, Jmax = 125))
 
 photo.merged <- photo.elv %>% full_join(photo.amb) %>%
-  mutate(Anet = pmin(Ac, Aj))
+  mutate(Anet = pmin(Ac, Aj),
+         A_limiting = ifelse(Anet == Ac, "Ac", 
+                             ifelse(Anet == Aj, "Aj",
+                                    ifelse(Aj == Ac,
+                                    "Ac_Aj", NA))))
 
 
-aci <- ggplot(data = photo.merged, aes(x = Ci, y = Anet)) +
-  geom_line(aes(linetype = type, color = type), linewidth = 3) +
+aci <- ggplot(data = subset(photo.merged, type == "amb"), aes(x = Ci, y = Anet)) +
+  geom_line(aes(color = A_limiting), linewidth = 3) +
   scale_y_continuous(limits = c(-0.1, 30)) +
   scale_color_manual(values = c("#BB5566", "#004488"), 
-                     labels = c("ambient", "elevated")) +
-  scale_linetype_manual(values = c("solid", "dotted"),
-                        labels = c("ambient", "elevated")) +
+                     labels = c("Rubisco carboxylation",
+                                "RuBP regeneration")) +
   labs(x = expression(bold("Intercellular CO"["2"])),
        y = expression(bold("Net photosynthesis")),
-       color = expression("CO"["2"]), 
-       linetype = expression("CO"["2"])) +
+       color = "Rate-limiting step") +
   theme_bw(base_size = 18) +
   theme(axis.text = element_blank(),
         axis.ticks = element_blank(),
         panel.grid = element_blank(),
-        panel.border = element_rect(linewidth = 2))
+        panel.border = element_rect(linewidth = 2),
+        legend.title = element_text(face = "bold"))
 aci
 
-aci.elv <- ggplot(data = subset(photo.merged, type == "elv"),
-                          aes(x = Ci)) +
-  geom_line(aes(y = Anet), linewidth = 3) +
-  scale_y_continuous(limits = c(-0.1, 50)) +
-  labs(x = expression(bold("Intercellular CO"["2"])),
-       y = expression(bold("Net photosynthesis"))) +
-  theme_bw(base_size = 18) +
-  theme(axis.text = element_blank(),
-        axis.ticks = element_blank(),
-        panel.grid = element_blank(),
-        panel.border = element_rect(linewidth = 2))
 
-png("aci_bare.png", height = 4, width = 10, units = "in", res = 600)
-ggarrange(aci.amb, aci.elv, ncol = 2, align = "hv")
+png("aci_ratelimitingstep.png", height = 5, width = 8, units = "in", res = 600)
+aci
 dev.off()
 
-
-aci.amb.limiting <- ggplot(data = subset(photo.merged, type == "amb"),
-                      aes(x = Ci)) +
-  geom_line(aes(y = Anet), linewidth = 3) +
-  geom_line(aes(y = Ac), linewidth = 1, color = "#BB5566", linetype = "dashed") +
-  geom_line(aes(y = Aj), linewidth = 1, color = "#004488", linetype = "dashed") +
-  scale_y_continuous(limits = c(-0.1, 50)) +
-  labs(x = expression(bold("Intercellular CO"["2"])),
-       y = expression(bold("Net photosynthesis"))) +
-  theme_bw(base_size = 18) +
-  theme(axis.text = element_blank(),
-        axis.ticks = element_blank(),
-        panel.grid = element_blank(),
-        panel.border = element_rect(linewidth = 2))
-
-aci.elv.limiting <- ggplot(data = subset(photo.merged, type == "elv"),
-                          aes(x = Ci)) +
-  geom_line(aes(y = Anet), linewidth = 3) +
-  geom_line(aes(y = Ac), linewidth = 1, color = "#BB5566", linetype = "dashed") +
-  geom_line(aes(y = Aj), linewidth = 1, color = "#004488", linetype = "dashed") +
-  scale_y_continuous(limits = c(-0.1, 50)) +
-  labs(x = expression(bold("Intercellular CO"["2"])),
-       y = expression(bold("Net photosynthesis"))) +
-  theme_bw(base_size = 18) +
-  theme(axis.text = element_blank(),
-        axis.ticks = element_blank(),
-        panel.grid = element_blank(),
-        panel.border = element_rect(linewidth = 2))
-
-aci.elv.wasteful <- ggplot(data = subset(photo.merged, type == "elv_waste"),
-                           aes(x = Ci)) +
-  geom_line(aes(y = Anet), linewidth = 3) +
-  geom_line(aes(y = Ac), linewidth = 1, color = "#BB5566", linetype = "dashed") +
-  geom_line(aes(y = Aj), linewidth = 1, color = "#004488", linetype = "dashed") +
-  scale_y_continuous(limits = c(-0.1, 50)) +
-  labs(x = expression(bold("Intercellular CO"["2"])),
-       y = expression(bold("Net photosynthesis"))) +
-  theme_bw(base_size = 18) +
-  theme(axis.text = element_blank(),
-        axis.ticks = element_blank(),
-        panel.grid = element_blank(),
-        panel.border = element_rect(linewidth = 2))
 
 png("aci_limiting.png", height = 4, width = 10, units = "in", res = 600)
 ggarrange(aci.amb.limiting, aci.elv.limiting, ncol = 2, align = "hv")
@@ -183,10 +129,10 @@ ggarrange(aci.amb.limiting, aci.elv.wasteful, ncol = 2, align = "hv")
 dev.off()
 
 photo.fig <- ggplot(data = photo.merged, aes(x = Ci)) +
-  geom_line(aes(y = ALEAF, linetype = type), linewidth = 3) +
+  geom_line(aes(y = ALEAF, linetype = type, color = A_limiting), linewidth = 3) +
   #geom_line(aes(y = Ac, color = type), linewidth = 1) +
   #geom_line(aes(y = Aj), linewidth = 1, color = "yellow") +
-  scale_y_continuous(limits = c(-0.1, 50)) +
+  scale_y_continuous(limits = c(-0.1, 30)) +
   #scale_color_manual(values = c("#004488", "#BB5566")) +
   scale_linetype_manual(values = c("dotted", "solid")) +
   labs(x = expression(bold("Intercellular CO"["2"])),
